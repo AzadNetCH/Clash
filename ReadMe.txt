@@ -1,1 +1,1 @@
-Hello world.
+This profiles is for Clash.
