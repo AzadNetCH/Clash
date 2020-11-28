@@ -1,0 +1,500 @@
+port: 1050
+socks-port: 1080
+allow-lan: true
+mode: rule
+log-level: silent
+external-controller: 127.0.0.1:9090
+proxies:
+  - {name: Albania 🇦🇱, server: 31.171.152.197, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Argentina 🇦🇷, server: 91.206.168.19, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Australia 🇦🇺 4, server: 144.48.38.179, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Australia 🇦🇺 3, server: 144.48.39.131, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Australia 🇦🇺 5, server: 45.125.247.45, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Australia 🇦🇺 1, server: 45.248.78.45, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Australia 🇦🇺 2, server: 45.248.79.69, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Austria 🇦🇹, server: 37.120.212.131, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Belgium 🇧🇪, server: 37.120.218.29, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Bosnia & Herzegovina 🇧🇦, server: 185.99.3.205, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Brazil 🇧🇷, server: 191.96.73.226, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Bulgaria 🇧🇬, server: 217.138.202.21, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Canada 🇨🇦 1, server: 172.98.82.229, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Canada 🇨🇦 2, server: 66.115.147.82, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Canada 🇨🇦 3, server: 66.115.147.94, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Chile 🇨🇱, server: 31.169.121.5, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: China 🇭🇰, server: 103.16.27.47, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: 64AcWuuFtsAVVHpA}
+  - {name: Colombia 🇨🇴, server: 45.129.32.27, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Costa Rica 🇨🇷, server: 176.227.241.24, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Croatia 🇭🇷, server: 89.164.99.111, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Cyprus 🇨🇾, server: 195.47.194.42, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Czech Republic 🇨🇿, server: 185.152.64.151, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Denmark 🇩🇰, server: 37.120.194.125, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Estonia 🇪🇪, server: 165.231.163.19, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Finland 🇫🇮, server: 196.244.191.35, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: France 🇫🇷, server: 178.170.40.134, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: France 🇫🇷 2, server: 178.170.42.128, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: France 🇫🇷 3, server: 178.170.42.145, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: France 🇫🇷 4, server: 178.170.42.160, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: France 🇫🇷 5, server: 178.170.42.87, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: France 🇫🇷 6, server: 178.170.42.88, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: France 🇫🇷 3 2, server: 185.108.106.142, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: France 🇫🇷 1, server: 185.166.84.3, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: France 🇫🇷 7, server: 217.138.207.74, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: France 🇫🇷 2 2, server: 84.17.43.178, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Germany 🇩🇪 2, server: 178.238.231.51, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Germany 🇩🇪 4, server: 185.158.135.38, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Germany 🇩🇪 3, server: 37.120.217.147, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Germany 🇩🇪, server: 37.157.254.12, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: Germany 🇩🇪 5, server: 45.128.153.77, port: 9019, type: ss, cipher: aes-256-cfb, password: GA9KzeEgvfxNrgmM}
+  - {name: Germany 🇩🇪 6, server: 45.128.153.78, port: 9006, type: ss, cipher: aes-256-cfb, password: FAdUvMJUq5vDgKEq}
+  - {name: Germany 🇩🇪 1, server: 62.171.151.180, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Germany 🇩🇪 7, server: 91.238.82.56, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: Greece 🇬🇷, server: 194.150.167.42, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Hong Kong 🇭🇰, server: 84.17.37.156, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Hungary 🇭🇺, server: 37.120.144.215, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Iceland 🇮🇸, server: 82.221.128.166, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: India 🇮🇳 2, server: 103.156.50.95, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: India 🇮🇳 3, server: 103.94.27.229, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: India 🇮🇳 1, server: 137.59.52.109, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Indonesia 🇮🇩, server: 103.120.66.214, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Ireland 🇮🇪, server: 185.108.128.183, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Israel 🇮🇱, server: 87.239.255.111, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Italy 🇮🇹 1, server: 37.120.207.5, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Italy 🇮🇹 2, server: 84.17.58.150, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Italy 🇮🇹, server: 95.141.32.119, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: Kazakhstan 🇰🇿, server: 95.57.207.202, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Latvia 🇱🇻, server: 188.92.78.140, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Libya 🇱🇾, server: 41.208.72.157, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Luxembourg 🇱🇺, server: 185.153.151.104, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Macedonia 🇲🇰, server: 185.225.28.91, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Malaysia 🇲🇾, server: 42.0.30.211, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Mexico 🇲🇽, server: 194.41.112.5, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Moldova 🇲🇩, server: 178.175.128.235, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Netherlands 🇳🇱, server: 185.246.155.173, port: 9018, type: ss, cipher: aes-256-cfb, password: fG2artUmHfNT2cX7}
+  - {name: Netherlands 🇳🇱 2, server: 185.246.155.239, port: 9037, type: ss, cipher: aes-256-cfb, password: TN2YqghxeFDKZfLU}
+  - {name: Netherlands 🇳🇱 3, server: 185.246.155.247, port: 9042, type: ss, cipher: aes-256-cfb, password: S7KwUu7yBy58S3Ga}
+  - {name: Netherlands 🇳🇱 4, server: 185.246.155.249, port: 9042, type: ss, cipher: aes-256-cfb, password: S7KwUu7yBy58S3Ga}
+  - {name: Netherlands 🇳🇱 5, server: 81.19.209.100, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: New Zealand 🇳🇿, server: 180.149.231.117, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Nigeria 🇳🇬, server: 102.165.23.4, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Norway 🇳🇴, server: 84.247.50.29, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Paraguay 🇵🇾, server: 181.40.18.47, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Philippines 🇵🇭, server: 43.243.127.132, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: Philippines 🇵🇭 2, server: 45.134.224.5, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Poland 🇵🇱 1, server: 185.246.208.182, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Poland 🇵🇱 2, server: 5.187.49.187, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Portugal 🇵🇹 3, server: 194.39.127.240, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Portugal 🇵🇹 1, server: 5.154.174.75, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Portugal 🇵🇹 2, server: 5.154.174.77, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Romania 🇷🇴, server: 62.216.72.147, port: 9006, type: ss, cipher: aes-256-cfb, password: FAdUvMJUq5vDgKEq}
+  - {name: Romania 🇷🇴 2, server: 62.216.74.50, port: 9008, type: ss, cipher: aes-256-cfb, password: y9VURyNzJWNRYEGQ}
+  - {name: Romania 🇷🇴 3, server: 86.106.137.147, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Russia 🇷🇺 2, server: 188.92.78.208, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Russia 🇷🇺 1, server: 213.183.56.160, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Russia 🇷🇺, server: 92.38.139.165, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: Serbia 🇷🇸, server: 152.89.160.211, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Singapore 🇸🇬, server: 103.114.163.13, port: 9020, type: ss, cipher: aes-256-cfb, password: BNmAXXxAHYpTRdzu}
+  - {name: Singapore 🇸🇬 2, server: 103.114.163.4, port: 9014, type: ss, cipher: aes-256-cfb, password: KnJGad3FqTvjqbaX}
+  - {name: Singapore 🇸🇬 3, server: 89.187.163.200, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Slovakia 🇸🇰, server: 37.120.221.3, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Slovenia 🇸🇮, server: 195.158.249.42, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: South Africa 🇿🇦, server: 154.127.49.228, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: South Korea 🇰🇷, server: 61.14.210.237, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Spain 🇪🇸 1, server: 37.120.142.181, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Spain 🇪🇸 3, server: 87.239.254.20, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Spain 🇪🇸 2, server: 89.37.95.19, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Sweden 🇸🇪, server: 185.76.9.44, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Switzerland 🇨🇭, server: 84.17.53.210, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Taiwan 🇹🇼, server: 103.98.75.71, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Thailand 🇹🇭, server: 103.253.74.3, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Turkey 🇹🇷 1, server: 107.150.95.163, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Turkey 🇹🇷 2, server: 185.195.79.3, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Ukraine 🇺🇦, server: 45.9.238.47, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Ukraine 🇺🇦 2, server: 51.195.62.218, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: Ukraine 🇺🇦 3, server: 51.195.62.219, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: Ukraine 🇺🇦 4, server: 51.195.62.220, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: Ukraine 🇺🇦 5, server: 51.195.62.222, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: United Arab Emirates 🇦🇪, server: 45.9.250.103, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: United Kingdom 🇬🇧 1, server: 5.226.139.65, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: United Kingdom 🇬🇧 2, server: 185.108.105.18, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: United Kingdom 🇬🇧 3, server: 185.108.105.57, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: United Kingdom 🇬🇧, server: 212.84.169.78, port: 8099, type: ss, cipher: aes-256-cfb, password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D}
+  - {name: United States 🇺🇸 3, server: 107.175.104.82, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: United States 🇺🇲, server: 109.169.15.106, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: United States 🇺🇸 1, server: 154.16.169.3, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: United States 🇺🇸 2, server: 173.237.207.21, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: United States 🇺🇲 2, server: 178.239.172.16, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: United States 🇺🇲 3, server: 178.239.172.17, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: United States 🇺🇲 4, server: 178.239.172.25, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: United States 🇺🇸 22, server: 184.170.243.197, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: United States 🇺🇸 24, server: 185.124.240.157, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: United States 🇺🇲 5, server: 185.44.78.49, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: United States 🇺🇸 7, server: 192.154.255.54, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: United States 🇺🇲 6, server: 192.240.123.26, port: 8099, type: ss, cipher: aes-256-cfb, password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D}
+  - {name: United States 🇺🇸 18, server: 198.147.22.133, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: United States 🇺🇸 14, server: 198.147.22.211, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: United States 🇺🇸 23, server: 199.10.64.69, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: United States 🇺🇸 11, server: 207.244.67.147, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: United States 🇺🇸 17, server: 212.102.40.81, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: United States 🇺🇸 13, server: 212.102.44.98, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: United States 🇺🇲 7, server: 213.59.119.7, port: 9050, type: ss, cipher: aes-256-cfb, password: FG5ddLsMPbV5CutE}
+  - {name: United States 🇺🇸 19, server: 45.43.14.83, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: United States 🇺🇸 9, server: 45.43.14.95, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: United States 🇺🇲 8, server: 45.82.255.176, port: 9019, type: ss, cipher: aes-256-cfb, password: GA9KzeEgvfxNrgmM}
+  - {name: United States 🇺🇲 9, server: 45.82.255.178, port: 9019, type: ss, cipher: aes-256-cfb, password: GA9KzeEgvfxNrgmM}
+  - {name: United States 🇺🇸 21, server: 45.89.173.203, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: United States 🇺🇲 10, server: 50.7.12.147, port: 8099, type: ss, cipher: aes-256-cfb, password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D}
+  - {name: United States 🇺🇲 11, server: 51.195.62.219, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: United States 🇺🇲 12, server: 51.195.62.223, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: United States 🇺🇸 10, server: 63.141.248.179, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: United States 🇺🇸 12, server: 63.141.248.181, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: United States 🇺🇸 20, server: 66.115.154.133, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: United States 🇺🇸 15, server: 66.115.175.37, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: United States 🇺🇸 16, server: 66.115.177.156, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: United States 🇺🇲 13, server: 66.42.49.112, port: 2019, type: ss, cipher: aes-256-cfb, password: Life!sAwesome}
+  - {name: United States 🇺🇲 14, server: 69.30.201.82, port: 8097, type: ss, cipher: aes-256-cfb, password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D}
+  - {name: United States 🇺🇸 8, server: 74.119.146.117, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: United States 🇺🇸 6, server: 74.119.146.119, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: United States 🇺🇸 5, server: 84.17.41.73, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: United States 🇺🇲 15, server: 97.64.83.205, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: Sw0QHi5z8CQ9}
+  - {name: United States 🇺🇸 4, server: 98.142.220.35, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: Vietnam 🇻🇳, server: 202.143.111.213, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+proxy-groups:
+  - name: 🔰 Select
+    type: select
+    proxies:
+      - 🔥 Auto
+      - ✅ Direct
+      - Albania 🇦🇱
+      - Argentina 🇦🇷
+      - Australia 🇦🇺 4
+      - Australia 🇦🇺 3
+      - Australia 🇦🇺 5
+      - Australia 🇦🇺 1
+      - Australia 🇦🇺 2
+      - Austria 🇦🇹
+      - Belgium 🇧🇪
+      - Bosnia & Herzegovina 🇧🇦
+      - Brazil 🇧🇷
+      - Bulgaria 🇧🇬
+      - Canada 🇨🇦 1
+      - Canada 🇨🇦 2
+      - Canada 🇨🇦 3
+      - Chile 🇨🇱
+      - China 🇭🇰
+      - Colombia 🇨🇴
+      - Costa Rica 🇨🇷
+      - Croatia 🇭🇷
+      - Cyprus 🇨🇾
+      - Czech Republic 🇨🇿
+      - Denmark 🇩🇰
+      - Estonia 🇪🇪
+      - Finland 🇫🇮
+      - France 🇫🇷
+      - France 🇫🇷 2
+      - France 🇫🇷 3
+      - France 🇫🇷 4
+      - France 🇫🇷 5
+      - France 🇫🇷 6
+      - France 🇫🇷 3 2
+      - France 🇫🇷 1
+      - France 🇫🇷 7
+      - France 🇫🇷 2 2
+      - Germany 🇩🇪 2
+      - Germany 🇩🇪 4
+      - Germany 🇩🇪 3
+      - Germany 🇩🇪
+      - Germany 🇩🇪 5
+      - Germany 🇩🇪 6
+      - Germany 🇩🇪 1
+      - Germany 🇩🇪 7
+      - Greece 🇬🇷
+      - Hong Kong 🇭🇰
+      - Hungary 🇭🇺
+      - Iceland 🇮🇸
+      - India 🇮🇳 2
+      - India 🇮🇳 3
+      - India 🇮🇳 1
+      - Indonesia 🇮🇩
+      - Ireland 🇮🇪
+      - Israel 🇮🇱
+      - Italy 🇮🇹 1
+      - Italy 🇮🇹 2
+      - Italy 🇮🇹
+      - Kazakhstan 🇰🇿
+      - Latvia 🇱🇻
+      - Libya 🇱🇾
+      - Luxembourg 🇱🇺
+      - Macedonia 🇲🇰
+      - Malaysia 🇲🇾
+      - Mexico 🇲🇽
+      - Moldova 🇲🇩
+      - Netherlands 🇳🇱
+      - Netherlands 🇳🇱 2
+      - Netherlands 🇳🇱 3
+      - Netherlands 🇳🇱 4
+      - Netherlands 🇳🇱 5
+      - New Zealand 🇳🇿
+      - Nigeria 🇳🇬
+      - Norway 🇳🇴
+      - Paraguay 🇵🇾
+      - Philippines 🇵🇭
+      - Philippines 🇵🇭 2
+      - Poland 🇵🇱 1
+      - Poland 🇵🇱 2
+      - Portugal 🇵🇹 3
+      - Portugal 🇵🇹 1
+      - Portugal 🇵🇹 2
+      - Romania 🇷🇴
+      - Romania 🇷🇴 2
+      - Romania 🇷🇴 3
+      - Russia 🇷🇺 2
+      - Russia 🇷🇺 1
+      - Russia 🇷🇺
+      - Serbia 🇷🇸
+      - Singapore 🇸🇬
+      - Singapore 🇸🇬 2
+      - Singapore 🇸🇬 3
+      - Slovakia 🇸🇰
+      - Slovenia 🇸🇮
+      - South Africa 🇿🇦
+      - South Korea 🇰🇷
+      - Spain 🇪🇸 1
+      - Spain 🇪🇸 3
+      - Spain 🇪🇸 2
+      - Sweden 🇸🇪
+      - Switzerland 🇨🇭
+      - Taiwan 🇹🇼
+      - Thailand 🇹🇭
+      - Turkey 🇹🇷 1
+      - Turkey 🇹🇷 2
+      - Ukraine 🇺🇦
+      - Ukraine 🇺🇦 2
+      - Ukraine 🇺🇦 3
+      - Ukraine 🇺🇦 4
+      - Ukraine 🇺🇦 5
+      - United Arab Emirates 🇦🇪
+      - United Kingdom 🇬🇧 1
+      - United Kingdom 🇬🇧 2
+      - United Kingdom 🇬🇧 3
+      - United Kingdom 🇬🇧
+      - United States 🇺🇸 3
+      - United States 🇺🇲
+      - United States 🇺🇸 1
+      - United States 🇺🇸 2
+      - United States 🇺🇲 2
+      - United States 🇺🇲 3
+      - United States 🇺🇲 4
+      - United States 🇺🇸 22
+      - United States 🇺🇸 24
+      - United States 🇺🇲 5
+      - United States 🇺🇸 7
+      - United States 🇺🇲 6
+      - United States 🇺🇸 18
+      - United States 🇺🇸 14
+      - United States 🇺🇸 23
+      - United States 🇺🇸 11
+      - United States 🇺🇸 17
+      - United States 🇺🇸 13
+      - United States 🇺🇲 7
+      - United States 🇺🇸 19
+      - United States 🇺🇸 9
+      - United States 🇺🇲 8
+      - United States 🇺🇲 9
+      - United States 🇺🇸 21
+      - United States 🇺🇲 10
+      - United States 🇺🇲 11
+      - United States 🇺🇲 12
+      - United States 🇺🇸 10
+      - United States 🇺🇸 12
+      - United States 🇺🇸 20
+      - United States 🇺🇸 15
+      - United States 🇺🇸 16
+      - United States 🇺🇲 13
+      - United States 🇺🇲 14
+      - United States 🇺🇸 8
+      - United States 🇺🇸 6
+      - United States 🇺🇸 5
+      - United States 🇺🇲 15
+      - United States 🇺🇸 4
+      - Vietnam 🇻🇳
+    
+  - name: ✅ Direct
+    type: select
+    proxies:
+      - DIRECT
+
+  - name: 🚫 Intercept
+    type: select
+    proxies:
+      - REJECT
+      - DIRECT
+
+  - name: 🔥 Auto
+    type: url-test
+    proxies:
+      - Albania 🇦🇱
+      - Argentina 🇦🇷
+      - Australia 🇦🇺 4
+      - Australia 🇦🇺 3
+      - Australia 🇦🇺 5
+      - Australia 🇦🇺 1
+      - Australia 🇦🇺 2
+      - Austria 🇦🇹
+      - Belgium 🇧🇪
+      - Bosnia & Herzegovina 🇧🇦
+      - Brazil 🇧🇷
+      - Bulgaria 🇧🇬
+      - Canada 🇨🇦 1
+      - Canada 🇨🇦 2
+      - Canada 🇨🇦 3
+      - Chile 🇨🇱
+      - China 🇭🇰
+      - Colombia 🇨🇴
+      - Costa Rica 🇨🇷
+      - Croatia 🇭🇷
+      - Cyprus 🇨🇾
+      - Czech Republic 🇨🇿
+      - Denmark 🇩🇰
+      - Estonia 🇪🇪
+      - Finland 🇫🇮
+      - France 🇫🇷
+      - France 🇫🇷 2
+      - France 🇫🇷 3
+      - France 🇫🇷 4
+      - France 🇫🇷 5
+      - France 🇫🇷 6
+      - France 🇫🇷 3 2
+      - France 🇫🇷 1
+      - France 🇫🇷 7
+      - France 🇫🇷 2 2
+      - Germany 🇩🇪 2
+      - Germany 🇩🇪 4
+      - Germany 🇩🇪 3
+      - Germany 🇩🇪
+      - Germany 🇩🇪 5
+      - Germany 🇩🇪 6
+      - Germany 🇩🇪 1
+      - Germany 🇩🇪 7
+      - Greece 🇬🇷
+      - Hong Kong 🇭🇰
+      - Hungary 🇭🇺
+      - Iceland 🇮🇸
+      - India 🇮🇳 2
+      - India 🇮🇳 3
+      - India 🇮🇳 1
+      - Indonesia 🇮🇩
+      - Ireland 🇮🇪
+      - Israel 🇮🇱
+      - Italy 🇮🇹 1
+      - Italy 🇮🇹 2
+      - Italy 🇮🇹
+      - Kazakhstan 🇰🇿
+      - Latvia 🇱🇻
+      - Libya 🇱🇾
+      - Luxembourg 🇱🇺
+      - Macedonia 🇲🇰
+      - Malaysia 🇲🇾
+      - Mexico 🇲🇽
+      - Moldova 🇲🇩
+      - Netherlands 🇳🇱
+      - Netherlands 🇳🇱 2
+      - Netherlands 🇳🇱 3
+      - Netherlands 🇳🇱 4
+      - Netherlands 🇳🇱 5
+      - New Zealand 🇳🇿
+      - Nigeria 🇳🇬
+      - Norway 🇳🇴
+      - Paraguay 🇵🇾
+      - Philippines 🇵🇭
+      - Philippines 🇵🇭 2
+      - Poland 🇵🇱 1
+      - Poland 🇵🇱 2
+      - Portugal 🇵🇹 3
+      - Portugal 🇵🇹 1
+      - Portugal 🇵🇹 2
+      - Romania 🇷🇴
+      - Romania 🇷🇴 2
+      - Romania 🇷🇴 3
+      - Russia 🇷🇺 2
+      - Russia 🇷🇺 1
+      - Russia 🇷🇺
+      - Serbia 🇷🇸
+      - Singapore 🇸🇬
+      - Singapore 🇸🇬 2
+      - Singapore 🇸🇬 3
+      - Slovakia 🇸🇰
+      - Slovenia 🇸🇮
+      - South Africa 🇿🇦
+      - South Korea 🇰🇷
+      - Spain 🇪🇸 1
+      - Spain 🇪🇸 3
+      - Spain 🇪🇸 2
+      - Sweden 🇸🇪
+      - Switzerland 🇨🇭
+      - Taiwan 🇹🇼
+      - Thailand 🇹🇭
+      - Turkey 🇹🇷 1
+      - Turkey 🇹🇷 2
+      - Ukraine 🇺🇦
+      - Ukraine 🇺🇦 2
+      - Ukraine 🇺🇦 3
+      - Ukraine 🇺🇦 4
+      - Ukraine 🇺🇦 5
+      - United Arab Emirates 🇦🇪
+      - United Kingdom 🇬🇧 1
+      - United Kingdom 🇬🇧 2
+      - United Kingdom 🇬🇧 3
+      - United Kingdom 🇬🇧
+      - United States 🇺🇸 3
+      - United States 🇺🇲
+      - United States 🇺🇸 1
+      - United States 🇺🇸 2
+      - United States 🇺🇲 2
+      - United States 🇺🇲 3
+      - United States 🇺🇲 4
+      - United States 🇺🇸 22
+      - United States 🇺🇸 24
+      - United States 🇺🇲 5
+      - United States 🇺🇸 7
+      - United States 🇺🇲 6
+      - United States 🇺🇸 18
+      - United States 🇺🇸 14
+      - United States 🇺🇸 23
+      - United States 🇺🇸 11
+      - United States 🇺🇸 17
+      - United States 🇺🇸 13
+      - United States 🇺🇲 7
+      - United States 🇺🇸 19
+      - United States 🇺🇸 9
+      - United States 🇺🇲 8
+      - United States 🇺🇲 9
+      - United States 🇺🇸 21
+      - United States 🇺🇲 10
+      - United States 🇺🇲 11
+      - United States 🇺🇲 12
+      - United States 🇺🇸 10
+      - United States 🇺🇸 12
+      - United States 🇺🇸 20
+      - United States 🇺🇸 15
+      - United States 🇺🇸 16
+      - United States 🇺🇲 13
+      - United States 🇺🇲 14
+      - United States 🇺🇸 8
+      - United States 🇺🇸 6
+      - United States 🇺🇸 5
+      - United States 🇺🇲 15
+      - United States 🇺🇸 4
+      - Vietnam 🇻🇳
+    url: 'http://www.gstatic.com/generate_204'
+    interval: 300
+
+
+rules:
+  - DOMAIN-SUFFIX,google.com,🔰 Select
+  - DOMAIN-KEYWORD,google,🔰 Select
+  - DOMAIN,google.com,🔰 Select
+  - DOMAIN-SUFFIX,ad.com,🚫 Intercept
+  - SRC-IP-CIDR,192.168.1.201/32,✅ Direct
+  - IP-CIDR,127.0.0.0/8,✅ Direct
+  - GEOIP,IR,✅ Direct
+  - MATCH,,🔰 Select,dns-failed

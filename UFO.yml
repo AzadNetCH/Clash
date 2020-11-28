@@ -1,0 +1,932 @@
+port: 1050
+socks-port: 1080
+allow-lan: true
+mode: rule
+log-level: silent
+external-controller: 127.0.0.1:9090
+proxies:
+  - {name: AUS 🇦🇺 1, server: 45.114.116.62, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: AUS 🇦🇺 2, server: 103.1.212.3, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: AUS 🇦🇺 3, server: 103.1.212.4, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: AUS 🇦🇺 4, server: 103.1.212.5, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: AUS 🇦🇺 5, server: 185.167.116.52, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: AUS 🇦🇺 6, server: 45.114.116.62, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: AUS 🇦🇺 7, server: 103.1.212.3, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: AUS 🇦🇺 8, server: 103.1.212.4, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: AUS 🇦🇺 9, server: 103.1.212.5, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: AUS 🇦🇺 10, server: 185.167.116.52, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: BEL 🇦🇧🇪 1, server: 193.9.114.34, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: BEL 🇦🇧🇪 2, server: 193.9.114.34, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: BEL 🇦🇧🇪 3, server: 193.9.114.34, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: BEL 🇦🇧🇪 4, server: 193.9.114.34, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: BEL 🇦🇧🇪 5, server: 193.9.114.34, port: 804, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: BRA 🇧🇷 1, server: 189.1.173.26, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: BRA 🇧🇷 2, server: 189.1.173.26, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: BRA 🇧🇷 3, server: 189.1.173.26, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: BRA 🇧🇷 4, server: 189.1.173.26, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: BRA 🇧🇷 5, server: 189.1.173.26, port: 804, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: CAN 🇨🇦 1, server: 51.161.118.38, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: CAN 🇨🇦 2, server: 72.140.224.195, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: CAN 🇨🇦 3, server: 217.138.213.6, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: CAN 🇨🇦 4, server: 72.140.224.195, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: CAN 🇨🇦 5, server: 72.140.224.197, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: CAN 🇨🇦 6, server: 51.161.118.38, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: CAN 🇨🇦 7, server: 72.140.224.195, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: CAN 🇨🇦 8, server: 217.138.213.6, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: CAN 🇨🇦 9, server: 72.140.224.195, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: CAN 🇨🇦 10, server: 72.140.224.197, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: FRA 🇫🇷🇩 1, server: 35.180.44.215, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: FRA 🇫🇷🇩 2, server: 35.180.91.240, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: FRA 🇫🇷🇩 3, server: 51.15.184.125, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: FRA 🇫🇷🇩 4, server: 51.159.30.61, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: FRA 🇫🇷🇩 5, server: 109.238.14.148, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: FRA 🇫🇷🇩 6, server: 163.172.110.147, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: FRA 🇫🇷🇩 7, server: 163.172.110.53, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: FRA 🇫🇷🇩 8, server: 178.170.40.134, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: FRA 🇫🇷🇩 9, server: 178.170.42.87, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: FRA 🇫🇷🇩 10, server: 178.170.42.88, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: FRA 🇫🇷🇩 11, server: 178.170.42.128, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: FRA 🇫🇷🇩 12, server: 178.170.42.145, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: FRA 🇫🇷🇩 13, server: 178.170.42.160, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: FRA 🇫🇷🇩 14, server: 185.128.25.150, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: FRA 🇫🇷🇩 15, server: 195.154.28.252, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: FRA 🇫🇷🇩 16, server: 217.138.207.74, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: FRA 🇫🇷🇩 17, server: 35.180.44.215, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: FRA 🇫🇷🇩 18, server: 35.180.91.240, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: FRA 🇫🇷🇩 19, server: 51.15.184.125, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: FRA 🇫🇷🇩 20, server: 51.159.30.61, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: FRA 🇫🇷🇩 21, server: 109.238.14.148, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: FRA 🇫🇷🇩 22, server: 163.172.110.147, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: FRA 🇫🇷🇩 23, server: 163.172.110.53, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: FRA 🇫🇷🇩 24, server: 178.170.40.134, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: FRA 🇫🇷🇩 25, server: 178.170.42.87, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: FRA 🇫🇷🇩 26, server: 178.170.42.88, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: FRA 🇫🇷🇩 27, server: 178.170.42.128, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: FRA 🇫🇷🇩 28, server: 178.170.42.145, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: FRA 🇫🇷🇩 29, server: 178.170.42.160, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: FRA 🇫🇷🇩 30, server: 185.128.25.150, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: FRA 🇫🇷🇩 31, server: 195.154.28.252, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: FRA 🇫🇷🇩 32, server: 217.138.207.74, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: FIN 🇫🇮 1, server: 185.117.118.224, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: FIN 🇫🇮 2, server: 185.212.149.8, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: FIN 🇫🇮 3, server: 185.117.118.224, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: FIN 🇫🇮 4, server: 185.212.149.8, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: FIN 🇫🇮 5, server: 185.117.118.224, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: FIN 🇫🇮 6, server: 185.212.149.8, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: FIN 🇫🇮 7, server: 185.117.118.224, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: FIN 🇫🇮 8, server: 185.212.149.8, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: FIN 🇫🇮 9, server: 185.117.118.224, port: 804, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: FIN 🇫🇮 10, server: 185.212.149.8, port: 804, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: DEU 🇩🇪 1, server: 3.121.162.83, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: DEU 🇩🇪 2, server: 37.157.254.12, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: DEU 🇩🇪 3, server: 51.89.43.196, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: DEU 🇩🇪 4, server: 51.89.99.52, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: DEU 🇩🇪 5, server: 51.89.21.81, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: DEU 🇩🇪 6, server: 51.89.21.82, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: DEU 🇩🇪 7, server: 52.57.197.104, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: DEU 🇩🇪 8, server: 91.199.118.50, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: DEU 🇩🇪 9, server: 91.199.118.54, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: DEU 🇩🇪 10, server: 91.238.82.55, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: DEU 🇩🇪 11, server: 91.238.82.56, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: DEU 🇩🇪 12, server: 91.199.118.57, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: DEU 🇩🇪 13, server: 91.199.118.58, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: DEU 🇩🇪 14, server: 91.199.118.168, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: DEU 🇩🇪 15, server: 193.108.118.12, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: DEU 🇩🇪 16, server: 193.108.118.27, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: DEU 🇩🇪 17, server: 193.108.118.111, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: DEU 🇩🇪 18, server: 193.108.118.126, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: DEU 🇩🇪 19, server: 193.108.118.175, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: DEU 🇩🇪 20, server: 193.108.118.188, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: DEU 🇩🇪 21, server: 193.176.86.190, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: DEU 🇩🇪 22, server: 193.108.118.199, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: DEU 🇩🇪 23, server: 193.108.118.221, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: DEU 🇩🇪 24, server: 193.108.118.235, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: DEU 🇩🇪 25, server: 193.108.118.240, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: DEU 🇩🇪 26, server: 193.108.118.245, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: DEU 🇩🇪 27, server: 207.180.225.18, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: DEU 🇩🇪 28, server: 207.180.211.206, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: DEU 🇩🇪 29, server: 207.180.228.168, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: DEU 🇩🇪 30, server: 217.138.194.246, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: HKG 🇭🇰 1, server: 148.66.56.99, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: HKG 🇭🇰 2, server: 148.66.56.99, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: HKG 🇭🇰 3, server: 148.66.56.99, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: HKG 🇭🇰 4, server: 148.66.56.99, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: HKG 🇭🇰 5, server: 148.66.56.99, port: 804, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: IND 🇭🇮🇳🇮 1, server: 15.207.85.105, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: IND 🇭🇮🇳🇮 2, server: 35.154.18.246, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: IND 🇭🇮🇳🇮 3, server: 134.209.155.247, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: IND 🇭🇮🇳🇮 4, server: 15.207.85.105, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: IND 🇭🇮🇳🇮 5, server: 35.154.18.246, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: IND 🇭🇮🇳🇮 6, server: 134.209.155.247, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: IND 🇭🇮🇳🇮 7, server: 15.207.85.105, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: IND 🇭🇮🇳🇮 8, server: 35.154.18.246, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: IND 🇭🇮🇳🇮 9, server: 134.209.155.247, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: IRL 🇮🇪 1, server: ec2-34-243-75-229.eu-west-1.compute.amazonaws.com, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: IRL 🇮🇪 2, server: 34.255.181.144, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: IRL 🇮🇪 3, server: 34.243.75.229, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: IRL 🇮🇪 4, server: ec2-34-243-75-229.eu-west-1.compute.amazonaws.com, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: IRL 🇮🇪 5, server: 34.255.181.144, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: IRL 🇮🇪 6, server: 34.243.75.229, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: IRL 🇮🇪 7, server: ec2-34-243-75-229.eu-west-1.compute.amazonaws.com, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: IRL 🇮🇪 8, server: 34.255.181.144, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: IRL 🇮🇪 9, server: 34.243.75.229, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: ISR 🇮🇱 1, server: 185.241.7.173, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: ISR 🇮🇱 2, server: 185.241.7.173, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: ISR 🇮🇱 3, server: 185.241.7.173, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: ISR 🇮🇱 4, server: 185.241.7.173, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: ISR 🇮🇱 5, server: 185.241.7.173, port: 804, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: ITA 🇮🇹 1, server: 92.223.93.213, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: ITA 🇮🇹 2, server: 92.223.93.216, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: ITA 🇮🇹 3, server: 95.141.32.119, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: ITA 🇮🇹 4, server: 158.58.172.16, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: ITA 🇮🇹 5, server: 92.223.93.213, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: ITA 🇮🇹 6, server: 92.223.93.216, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: ITA 🇮🇹 7, server: 95.141.32.119, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: ITA 🇮🇹 8, server: 158.58.172.16, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: ITA 🇮🇹 9, server: 92.223.93.213, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: ITA 🇮🇹 10, server: 92.223.93.216, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: ITA 🇮🇹 11, server: 95.141.32.119, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: ITA 🇮🇹 12, server: 158.58.172.16, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: ITA 🇮🇹 13, server: 92.223.93.213, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: ITA 🇮🇹 14, server: 92.223.93.216, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: ITA 🇮🇹 15, server: 95.141.32.119, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: ITA 🇮🇹 16, server: 158.58.172.16, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: ITA 🇮🇹 17, server: 92.223.93.216, port: 804, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: ITA 🇮🇹 18, server: 95.141.32.119, port: 804, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: ITA 🇮🇹 19, server: 158.58.172.16, port: 804, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: JPN 🇯🇵 1, server: 89.31.126.155, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: JPN 🇯🇵 2, server: 45.67.53.154, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: JPN 🇯🇵 3, server: 45.85.3.142, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: JPN 🇯🇵 4, server: 45.85.3.149, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: JPN 🇯🇵 5, server: 185.160.24.168, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: JPN 🇯🇵 6, server: 37.120.210.198, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: JPN 🇯🇵 7, server: 89.31.126.155, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: JPN 🇯🇵 8, server: 45.67.53.154, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: JPN 🇯🇵 9, server: 45.85.3.142, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: JPN 🇯🇵 10, server: 45.85.3.149, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: JPN 🇯🇵 11, server: 185.160.24.168, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: JPN 🇯🇵 12, server: 37.120.210.198, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: NLD 🇳🇱 1, server: 37.120.192.158, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: NLD 🇳🇱 2, server: 89.238.177.242, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: NLD 🇳🇱 3, server: 37.120.192.158, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: NLD 🇳🇱 4, server: 89.238.177.242, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: NLD 🇳🇱 5, server: 37.120.192.158, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: NLD 🇳🇱 6, server: 89.238.177.242, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: NLD 🇳🇱 7, server: 37.120.192.158, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: NLD 🇳🇱 8, server: 89.238.177.242, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: NLD 🇳🇱 9, server: 37.120.192.158, port: 804, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: NLD 🇳🇱 10, server: 89.238.177.242, port: 804, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: NZL 🇳🇿 1, server: 103.62.49.141, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: NZL 🇳🇿 2, server: 103.62.49.141, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: NZL 🇳🇿 3, server: 103.62.49.141, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: NZL 🇳🇿 4, server: 103.62.49.141, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: NZL 🇳🇿 5, server: 103.62.49.141, port: 804, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: PHL 🇵🇭 1, server: 43.243.127.132, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: PHL 🇵🇭 2, server: 116.93.120.17, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: PHL 🇵🇭 3, server: 43.243.127.132, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: PHL 🇵🇭 4, server: 116.93.120.17, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: PHL 🇵🇭 5, server: 43.243.127.132, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: PHL 🇵🇭 6, server: 116.93.120.17, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: PHL 🇵🇭 7, server: 43.243.127.132, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: PHL 🇵🇭 8, server: 116.93.120.17, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: PHL 🇵🇭 9, server: 43.243.127.132, port: 804, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: PHL 🇵🇭 10, server: 116.93.120.17, port: 804, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: RUS 🇷🇺🇸 1, server: 92.38.139.165, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: RUS 🇷🇺🇸 2, server: 92.38.139.165, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: RUS 🇷🇺🇸 3, server: 92.38.139.165, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: RUS 🇷🇺🇸 4, server: 92.38.139.165, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: RUS 🇷🇺🇸 5, server: 92.38.139.165, port: 804, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: SGP 🇸🇬 1, server: 37.120.151.14, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: SGP 🇸🇬 2, server: 51.79.176.11, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: SGP 🇸🇬 3, server: 81.90.189.152, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: SGP 🇸🇬 4, server: 139.99.123.171, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: SGP 🇸🇬 5, server: 185.128.24.34, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: SGP 🇸🇬 6, server: 217.197.160.109, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: SGP 🇸🇬 7, server: 217.197.160.110, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: SGP 🇸🇬 8, server: 37.120.151.14, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: SGP 🇸🇬 9, server: 51.79.176.11, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: SGP 🇸🇬 10, server: 81.90.189.152, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: SGP 🇸🇬 11, server: 139.99.123.171, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: SGP 🇸🇬 12, server: 185.128.24.34, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: SGP 🇸🇬 13, server: 217.197.160.109, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: SGP 🇸🇬 14, server: 217.197.160.110, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: KOR 🇰🇷 1, server: 123.215.16.234, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: KOR 🇰🇷 2, server: 123.215.16.234, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: KOR 🇰🇷 3, server: 123.215.16.234, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: KOR 🇰🇷 4, server: 123.215.16.234, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: KOR 🇰🇷 5, server: 123.215.16.234, port: 804, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: CHE 🇨🇭 1, server: 45.12.206.152, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: CHE 🇨🇭 2, server: 45.12.206.158, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: CHE 🇨🇭 3, server: 45.12.206.152, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: CHE 🇨🇭 4, server: 45.12.206.158, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: CHE 🇨🇭 5, server: 45.12.206.152, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: CHE 🇨🇭 6, server: 45.12.206.158, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: CHE 🇨🇭 7, server: 45.12.206.152, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: CHE 🇨🇭 8, server: 45.12.206.158, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: CHE 🇨🇭 9, server: 45.12.206.152, port: 804, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: CHE 🇨🇭 10, server: 45.12.206.158, port: 804, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: TWN 🇹🇼 1, server: 220.136.49.105, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: TWN 🇹🇼 2, server: 220.136.49.105, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: TWN 🇹🇼 3, server: 220.136.49.105, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: TWN 🇹🇼 4, server: 220.136.49.105, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: TWN 🇹🇼 5, server: 220.136.49.105, port: 804, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: TUR 🇹🇷 1, server: 45.123.119.56, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: TUR 🇹🇷 2, server: 45.123.119.56, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: TUR 🇹🇷 3, server: 45.123.119.56, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: TUR 🇹🇷 4, server: 45.123.119.56, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: TUR 🇹🇷 5, server: 45.123.119.56, port: 804, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: UAE 🇦🇪 1, server: 109.169.72.60, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: UAE 🇦🇪 2, server: 109.169.72.239, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: UAE 🇦🇪 3, server: 109.169.72.249, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: UAE 🇦🇪 4, server: 217.138.193.6, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: UAE 🇦🇪 5, server: 217.138.193.10, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: UAE 🇦🇪 6, server: 109.169.72.60, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: UAE 🇦🇪 7, server: 109.169.72.239, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: UAE 🇦🇪 8, server: 109.169.72.249, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: UAE 🇦🇪 9, server: 217.138.193.6, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: UAE 🇦🇪 10, server: 217.138.193.10, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 1, server: 3.8.115.25, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 2, server: 3.10.169.185, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 3, server: 5.188.213.21, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 4, server: 5.188.213.37, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 5, server: 37.120.198.98, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 6, server: 51.89.43.195, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 7, server: 51.195.62.219, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 8, server: 51.195.62.223, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 9, server: 51.195.63.225, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 10, server: 51.195.63.227, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 11, server: 51.195.63.228, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 12, server: 51.195.79.71, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 13, server: 51.195.79.75, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 14, server: 51.195.79.119, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 15, server: 77.68.83.145, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 16, server: 87.117.204.37, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 17, server: 87.117.204.39, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 18, server: 87.117.204.40, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 19, server: 88.150.240.246, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 20, server: 88.150.241.7, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 21, server: 89.238.128.58, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 22, server: 109.169.15.106, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 23, server: 178.239.172.11, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 24, server: 178.239.172.16, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 25, server: 178.239.172.17, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 26, server: 178.239.172.25, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 27, server: 185.44.78.49, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao} 
+  - {name: UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 28, server: 185.198.189.93, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 29, server: 195.12.49.82, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: USA 🇺🇸 1, server: 5.188.0.126, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: USA 🇺🇸 2, server: 5.188.0.127, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: USA 🇺🇸 3, server: 37.120.147.230, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: USA 🇺🇸 4, server: 37.120.150.18, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: USA 🇺🇸 5, server: 38.39.232.211, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: USA 🇺🇸 6, server: 38.68.134.163, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: USA 🇺🇸 7, server: 38.68.134.196, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: USA 🇺🇸 8, server: 38.91.107.225, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: USA 🇺🇸 9, server: 38.121.43.243, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: USA 🇺🇸 10, server: 38.132.103.70, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: USA 🇺🇸 11, server: 38.143.66.12, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: USA 🇺🇸 12, server: 45.15.131.163, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: USA 🇺🇸 13, server: 45.83.140.155, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: USA 🇺🇸 14, server: 45.144.240.212, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: USA 🇺🇸 15, server: 66.42.64.207, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: USA 🇺🇸 16, server: 66.55.148.42, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: USA 🇺🇸 17, server: 92.38.149.98, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: USA 🇺🇸 18, server: 92.38.176.82, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: USA 🇺🇸 19, server: 162.251.61.47, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: USA 🇺🇸 20, server: 162.251.61.221, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: USA 🇺🇸 21, server: 167.88.61.2, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: USA 🇺🇸 22, server: 172.245.218.162, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: USA 🇺🇸 23, server: 185.106.96.191, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: USA 🇺🇸 24, server: 193.37.252.210, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: USA 🇺🇸 25, server: 194.36.111.102, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: USA 🇺🇸 26, server: 195.206.104.174, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: USA 🇺🇸 27, server: 198.147.26.66, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: USA 🇺🇸 28, server: 198.147.28.34, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+proxy-groups:
+  - name: 🔰 Select
+    type: select
+    proxies:
+      - 🔥 Auto
+      - ✅ Direct
+      - AUS 🇦🇺 1
+      - AUS 🇦🇺 2
+      - AUS 🇦🇺 3
+      - AUS 🇦🇺 4
+      - AUS 🇦🇺 5
+      - AUS 🇦🇺 6
+      - AUS 🇦🇺 7
+      - AUS 🇦🇺 8
+      - AUS 🇦🇺 9
+      - AUS 🇦🇺 10
+      - BEL 🇦🇧🇪 1
+      - BEL 🇦🇧🇪 2
+      - BEL 🇦🇧🇪 3
+      - BEL 🇦🇧🇪 4
+      - BEL 🇦🇧🇪 5
+      - BRA 🇧🇷 1
+      - BRA 🇧🇷 2
+      - BRA 🇧🇷 3
+      - BRA 🇧🇷 4
+      - BRA 🇧🇷 5
+      - CAN 🇨🇦 1
+      - CAN 🇨🇦 2
+      - CAN 🇨🇦 3
+      - CAN 🇨🇦 4
+      - CAN 🇨🇦 5
+      - CAN 🇨🇦 6
+      - CAN 🇨🇦 7
+      - CAN 🇨🇦 8
+      - CAN 🇨🇦 9
+      - CAN 🇨🇦 10
+      - FRA 🇫🇷🇩 1
+      - FRA 🇫🇷🇩 2
+      - FRA 🇫🇷🇩 3
+      - FRA 🇫🇷🇩 4
+      - FRA 🇫🇷🇩 5
+      - FRA 🇫🇷🇩 6
+      - FRA 🇫🇷🇩 7
+      - FRA 🇫🇷🇩 8
+      - FRA 🇫🇷🇩 9
+      - FRA 🇫🇷🇩 10
+      - FRA 🇫🇷🇩 11
+      - FRA 🇫🇷🇩 12
+      - FRA 🇫🇷🇩 13
+      - FRA 🇫🇷🇩 14
+      - FRA 🇫🇷🇩 15
+      - FRA 🇫🇷🇩 16
+      - FRA 🇫🇷🇩 17
+      - FRA 🇫🇷🇩 18
+      - FRA 🇫🇷🇩 19
+      - FRA 🇫🇷🇩 20
+      - FRA 🇫🇷🇩 21
+      - FRA 🇫🇷🇩 22
+      - FRA 🇫🇷🇩 23
+      - FRA 🇫🇷🇩 24
+      - FRA 🇫🇷🇩 25
+      - FRA 🇫🇷🇩 26
+      - FRA 🇫🇷🇩 27
+      - FRA 🇫🇷🇩 28
+      - FRA 🇫🇷🇩 29
+      - FRA 🇫🇷🇩 30
+      - FRA 🇫🇷🇩 31
+      - FRA 🇫🇷🇩 32
+      - FIN 🇫🇮 1
+      - FIN 🇫🇮 2
+      - FIN 🇫🇮 3
+      - FIN 🇫🇮 4
+      - FIN 🇫🇮 5
+      - FIN 🇫🇮 6
+      - FIN 🇫🇮 7
+      - FIN 🇫🇮 8
+      - FIN 🇫🇮 9
+      - FIN 🇫🇮 10
+      - DEU 🇩🇪 1
+      - DEU 🇩🇪 2
+      - DEU 🇩🇪 3
+      - DEU 🇩🇪 4
+      - DEU 🇩🇪 5
+      - DEU 🇩🇪 6
+      - DEU 🇩🇪 7
+      - DEU 🇩🇪 8
+      - DEU 🇩🇪 9
+      - DEU 🇩🇪 10
+      - DEU 🇩🇪 11
+      - DEU 🇩🇪 12
+      - DEU 🇩🇪 13
+      - DEU 🇩🇪 14
+      - DEU 🇩🇪 15
+      - DEU 🇩🇪 16
+      - DEU 🇩🇪 17
+      - DEU 🇩🇪 18
+      - DEU 🇩🇪 19
+      - DEU 🇩🇪 20
+      - DEU 🇩🇪 21
+      - DEU 🇩🇪 22
+      - DEU 🇩🇪 23
+      - DEU 🇩🇪 24
+      - DEU 🇩🇪 25
+      - DEU 🇩🇪 26
+      - DEU 🇩🇪 27
+      - DEU 🇩🇪 28
+      - DEU 🇩🇪 29
+      - DEU 🇩🇪 30
+      - HKG 🇭🇰 1
+      - HKG 🇭🇰 2
+      - HKG 🇭🇰 3
+      - HKG 🇭🇰 4
+      - HKG 🇭🇰 5
+      - IND 🇭🇮🇳🇮 1
+      - IND 🇭🇮🇳🇮 2
+      - IND 🇭🇮🇳🇮 3
+      - IND 🇭🇮🇳🇮 4
+      - IND 🇭🇮🇳🇮 5
+      - IND 🇭🇮🇳🇮 6
+      - IND 🇭🇮🇳🇮 7
+      - IND 🇭🇮🇳🇮 8
+      - IND 🇭🇮🇳🇮 9
+      - IRL 🇮🇪 1
+      - IRL 🇮🇪 2
+      - IRL 🇮🇪 3
+      - IRL 🇮🇪 4
+      - IRL 🇮🇪 5
+      - IRL 🇮🇪 6
+      - IRL 🇮🇪 7
+      - IRL 🇮🇪 8
+      - IRL 🇮🇪 9
+      - ISR 🇮🇱 1
+      - ISR 🇮🇱 2
+      - ISR 🇮🇱 3
+      - ISR 🇮🇱 4
+      - ISR 🇮🇱 5
+      - ITA 🇮🇹 1
+      - ITA 🇮🇹 2
+      - ITA 🇮🇹 3
+      - ITA 🇮🇹 4
+      - ITA 🇮🇹 5
+      - ITA 🇮🇹 6
+      - ITA 🇮🇹 7
+      - ITA 🇮🇹 8
+      - ITA 🇮🇹 9
+      - ITA 🇮🇹 10
+      - ITA 🇮🇹 11
+      - ITA 🇮🇹 12
+      - ITA 🇮🇹 13
+      - ITA 🇮🇹 14
+      - ITA 🇮🇹 15
+      - ITA 🇮🇹 16
+      - ITA 🇮🇹 17
+      - ITA 🇮🇹 18
+      - ITA 🇮🇹 19
+      - JPN 🇯🇵 1
+      - JPN 🇯🇵 2
+      - JPN 🇯🇵 3
+      - JPN 🇯🇵 4
+      - JPN 🇯🇵 5
+      - JPN 🇯🇵 6
+      - JPN 🇯🇵 7
+      - JPN 🇯🇵 8
+      - JPN 🇯🇵 9
+      - JPN 🇯🇵 10
+      - JPN 🇯🇵 11
+      - JPN 🇯🇵 12
+      - NLD 🇳🇱 1
+      - NLD 🇳🇱 2
+      - NLD 🇳🇱 3
+      - NLD 🇳🇱 4
+      - NLD 🇳🇱 5
+      - NLD 🇳🇱 6
+      - NLD 🇳🇱 7
+      - NLD 🇳🇱 8
+      - NLD 🇳🇱 9
+      - NLD 🇳🇱 10
+      - NZL 🇳🇿 1
+      - NZL 🇳🇿 2
+      - NZL 🇳🇿 3
+      - NZL 🇳🇿 4
+      - NZL 🇳🇿 5
+      - PHL 🇵🇭 1
+      - PHL 🇵🇭 2
+      - PHL 🇵🇭 3
+      - PHL 🇵🇭 4
+      - PHL 🇵🇭 5
+      - PHL 🇵🇭 6
+      - PHL 🇵🇭 7
+      - PHL 🇵🇭 8
+      - PHL 🇵🇭 9
+      - PHL 🇵🇭 10
+      - RUS 🇷🇺🇸 1
+      - RUS 🇷🇺🇸 2
+      - RUS 🇷🇺🇸 3
+      - RUS 🇷🇺🇸 4
+      - RUS 🇷🇺🇸 5
+      - SGP 🇸🇬 1
+      - SGP 🇸🇬 2
+      - SGP 🇸🇬 3
+      - SGP 🇸🇬 4
+      - SGP 🇸🇬 5
+      - SGP 🇸🇬 6
+      - SGP 🇸🇬 7
+      - SGP 🇸🇬 8
+      - SGP 🇸🇬 9
+      - SGP 🇸🇬 10
+      - SGP 🇸🇬 11
+      - SGP 🇸🇬 12
+      - SGP 🇸🇬 13
+      - SGP 🇸🇬 14
+      - KOR 🇰🇷 1
+      - KOR 🇰🇷 2
+      - KOR 🇰🇷 3
+      - KOR 🇰🇷 4
+      - KOR 🇰🇷 5
+      - CHE 🇨🇭 1
+      - CHE 🇨🇭 2
+      - CHE 🇨🇭 3
+      - CHE 🇨🇭 4
+      - CHE 🇨🇭 5
+      - CHE 🇨🇭 6
+      - CHE 🇨🇭 7
+      - CHE 🇨🇭 8
+      - CHE 🇨🇭 9
+      - CHE 🇨🇭 10
+      - TWN 🇹🇼 1
+      - TWN 🇹🇼 2
+      - TWN 🇹🇼 3
+      - TWN 🇹🇼 4
+      - TWN 🇹🇼 5
+      - TUR 🇹🇷 1
+      - TUR 🇹🇷 2
+      - TUR 🇹🇷 3
+      - TUR 🇹🇷 4
+      - TUR 🇹🇷 5
+      - UAE 🇦🇪 1
+      - UAE 🇦🇪 2
+      - UAE 🇦🇪 3
+      - UAE 🇦🇪 4
+      - UAE 🇦🇪 5
+      - UAE 🇦🇪 6
+      - UAE 🇦🇪 7
+      - UAE 🇦🇪 8
+      - UAE 🇦🇪 9
+      - UAE 🇦🇪 10
+      - UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 1
+      - UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 2
+      - UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 3
+      - UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 4
+      - UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 5
+      - UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 6
+      - UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 7
+      - UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 8
+      - UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 9
+      - UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 10
+      - UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 11
+      - UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 12
+      - UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 13
+      - UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 14
+      - UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 15
+      - UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 16
+      - UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 17
+      - UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 18
+      - UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 19
+      - UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 20
+      - UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 21
+      - UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 22
+      - UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 23
+      - UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 24
+      - UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 25
+      - UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 26
+      - UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 27
+      - UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 28
+      - UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 29
+      - USA 🇺🇸 1
+      - USA 🇺🇸 2
+      - USA 🇺🇸 3
+      - USA 🇺🇸 4
+      - USA 🇺🇸 5
+      - USA 🇺🇸 6
+      - USA 🇺🇸 7
+      - USA 🇺🇸 8
+      - USA 🇺🇸 9
+      - USA 🇺🇸 10
+      - USA 🇺🇸 11
+      - USA 🇺🇸 12
+      - USA 🇺🇸 13
+      - USA 🇺🇸 14
+      - USA 🇺🇸 15
+      - USA 🇺🇸 16
+      - USA 🇺🇸 17
+      - USA 🇺🇸 18
+      - USA 🇺🇸 19
+      - USA 🇺🇸 20
+      - USA 🇺🇸 21
+      - USA 🇺🇸 22
+      - USA 🇺🇸 23
+      - USA 🇺🇸 24
+      - USA 🇺🇸 25
+      - USA 🇺🇸 26
+      - USA 🇺🇸 27
+      - USA 🇺🇸 28
+    
+  - name: ✅ Direct
+    type: select
+    proxies:
+      - DIRECT
+
+  - name: 🚫 Intercept
+    type: select
+    proxies:
+      - REJECT
+      - DIRECT
+
+  - name: 🔥 Auto
+    type: url-test
+    proxies:
+      - AUS 🇦🇺 1
+      - AUS 🇦🇺 2
+      - AUS 🇦🇺 3
+      - AUS 🇦🇺 4
+      - AUS 🇦🇺 5
+      - AUS 🇦🇺 6
+      - AUS 🇦🇺 7
+      - AUS 🇦🇺 8
+      - AUS 🇦🇺 9
+      - AUS 🇦🇺 10
+      - BEL 🇦🇧🇪 1
+      - BEL 🇦🇧🇪 2
+      - BEL 🇦🇧🇪 3
+      - BEL 🇦🇧🇪 4
+      - BEL 🇦🇧🇪 5
+      - BRA 🇧🇷 1
+      - BRA 🇧🇷 2
+      - BRA 🇧🇷 3
+      - BRA 🇧🇷 4
+      - BRA 🇧🇷 5
+      - CAN 🇨🇦 1
+      - CAN 🇨🇦 2
+      - CAN 🇨🇦 3
+      - CAN 🇨🇦 4
+      - CAN 🇨🇦 5
+      - CAN 🇨🇦 6
+      - CAN 🇨🇦 7
+      - CAN 🇨🇦 8
+      - CAN 🇨🇦 9
+      - CAN 🇨🇦 10
+      - FRA 🇫🇷🇩 1
+      - FRA 🇫🇷🇩 2
+      - FRA 🇫🇷🇩 3
+      - FRA 🇫🇷🇩 4
+      - FRA 🇫🇷🇩 5
+      - FRA 🇫🇷🇩 6
+      - FRA 🇫🇷🇩 7
+      - FRA 🇫🇷🇩 8
+      - FRA 🇫🇷🇩 9
+      - FRA 🇫🇷🇩 10
+      - FRA 🇫🇷🇩 11
+      - FRA 🇫🇷🇩 12
+      - FRA 🇫🇷🇩 13
+      - FRA 🇫🇷🇩 14
+      - FRA 🇫🇷🇩 15
+      - FRA 🇫🇷🇩 16
+      - FRA 🇫🇷🇩 17
+      - FRA 🇫🇷🇩 18
+      - FRA 🇫🇷🇩 19
+      - FRA 🇫🇷🇩 20
+      - FRA 🇫🇷🇩 21
+      - FRA 🇫🇷🇩 22
+      - FRA 🇫🇷🇩 23
+      - FRA 🇫🇷🇩 24
+      - FRA 🇫🇷🇩 25
+      - FRA 🇫🇷🇩 26
+      - FRA 🇫🇷🇩 27
+      - FRA 🇫🇷🇩 28
+      - FRA 🇫🇷🇩 29
+      - FRA 🇫🇷🇩 30
+      - FRA 🇫🇷🇩 31
+      - FRA 🇫🇷🇩 32
+      - FIN 🇫🇮 1
+      - FIN 🇫🇮 2
+      - FIN 🇫🇮 3
+      - FIN 🇫🇮 4
+      - FIN 🇫🇮 5
+      - FIN 🇫🇮 6
+      - FIN 🇫🇮 7
+      - FIN 🇫🇮 8
+      - FIN 🇫🇮 9
+      - FIN 🇫🇮 10
+      - DEU 🇩🇪 1
+      - DEU 🇩🇪 2
+      - DEU 🇩🇪 3
+      - DEU 🇩🇪 4
+      - DEU 🇩🇪 5
+      - DEU 🇩🇪 6
+      - DEU 🇩🇪 7
+      - DEU 🇩🇪 8
+      - DEU 🇩🇪 9
+      - DEU 🇩🇪 10
+      - DEU 🇩🇪 11
+      - DEU 🇩🇪 12
+      - DEU 🇩🇪 13
+      - DEU 🇩🇪 14
+      - DEU 🇩🇪 15
+      - DEU 🇩🇪 16
+      - DEU 🇩🇪 17
+      - DEU 🇩🇪 18
+      - DEU 🇩🇪 19
+      - DEU 🇩🇪 20
+      - DEU 🇩🇪 21
+      - DEU 🇩🇪 22
+      - DEU 🇩🇪 23
+      - DEU 🇩🇪 24
+      - DEU 🇩🇪 25
+      - DEU 🇩🇪 26
+      - DEU 🇩🇪 27
+      - DEU 🇩🇪 28
+      - DEU 🇩🇪 29
+      - DEU 🇩🇪 30
+      - HKG 🇭🇰 1
+      - HKG 🇭🇰 2
+      - HKG 🇭🇰 3
+      - HKG 🇭🇰 4
+      - HKG 🇭🇰 5
+      - IND 🇭🇮🇳🇮 1
+      - IND 🇭🇮🇳🇮 2
+      - IND 🇭🇮🇳🇮 3
+      - IND 🇭🇮🇳🇮 4
+      - IND 🇭🇮🇳🇮 5
+      - IND 🇭🇮🇳🇮 6
+      - IND 🇭🇮🇳🇮 7
+      - IND 🇭🇮🇳🇮 8
+      - IND 🇭🇮🇳🇮 9
+      - IRL 🇮🇪 1
+      - IRL 🇮🇪 2
+      - IRL 🇮🇪 3
+      - IRL 🇮🇪 4
+      - IRL 🇮🇪 5
+      - IRL 🇮🇪 6
+      - IRL 🇮🇪 7
+      - IRL 🇮🇪 8
+      - IRL 🇮🇪 9
+      - ISR 🇮🇱 1
+      - ISR 🇮🇱 2
+      - ISR 🇮🇱 3
+      - ISR 🇮🇱 4
+      - ISR 🇮🇱 5
+      - ITA 🇮🇹 1
+      - ITA 🇮🇹 2
+      - ITA 🇮🇹 3
+      - ITA 🇮🇹 4
+      - ITA 🇮🇹 5
+      - ITA 🇮🇹 6
+      - ITA 🇮🇹 7
+      - ITA 🇮🇹 8
+      - ITA 🇮🇹 9
+      - ITA 🇮🇹 10
+      - ITA 🇮🇹 11
+      - ITA 🇮🇹 12
+      - ITA 🇮🇹 13
+      - ITA 🇮🇹 14
+      - ITA 🇮🇹 15
+      - ITA 🇮🇹 16
+      - ITA 🇮🇹 17
+      - ITA 🇮🇹 18
+      - ITA 🇮🇹 19
+      - JPN 🇯🇵 1
+      - JPN 🇯🇵 2
+      - JPN 🇯🇵 3
+      - JPN 🇯🇵 4
+      - JPN 🇯🇵 5
+      - JPN 🇯🇵 6
+      - JPN 🇯🇵 7
+      - JPN 🇯🇵 8
+      - JPN 🇯🇵 9
+      - JPN 🇯🇵 10
+      - JPN 🇯🇵 11
+      - JPN 🇯🇵 12
+      - NLD 🇳🇱 1
+      - NLD 🇳🇱 2
+      - NLD 🇳🇱 3
+      - NLD 🇳🇱 4
+      - NLD 🇳🇱 5
+      - NLD 🇳🇱 6
+      - NLD 🇳🇱 7
+      - NLD 🇳🇱 8
+      - NLD 🇳🇱 9
+      - NLD 🇳🇱 10
+      - NZL 🇳🇿 1
+      - NZL 🇳🇿 2
+      - NZL 🇳🇿 3
+      - NZL 🇳🇿 4
+      - NZL 🇳🇿 5
+      - PHL 🇵🇭 1
+      - PHL 🇵🇭 2
+      - PHL 🇵🇭 3
+      - PHL 🇵🇭 4
+      - PHL 🇵🇭 5
+      - PHL 🇵🇭 6
+      - PHL 🇵🇭 7
+      - PHL 🇵🇭 8
+      - PHL 🇵🇭 9
+      - PHL 🇵🇭 10
+      - RUS 🇷🇺🇸 1
+      - RUS 🇷🇺🇸 2
+      - RUS 🇷🇺🇸 3
+      - RUS 🇷🇺🇸 4
+      - RUS 🇷🇺🇸 5
+      - SGP 🇸🇬 1
+      - SGP 🇸🇬 2
+      - SGP 🇸🇬 3
+      - SGP 🇸🇬 4
+      - SGP 🇸🇬 5
+      - SGP 🇸🇬 6
+      - SGP 🇸🇬 7
+      - SGP 🇸🇬 8
+      - SGP 🇸🇬 9
+      - SGP 🇸🇬 10
+      - SGP 🇸🇬 11
+      - SGP 🇸🇬 12
+      - SGP 🇸🇬 13
+      - SGP 🇸🇬 14
+      - KOR 🇰🇷 1
+      - KOR 🇰🇷 2
+      - KOR 🇰🇷 3
+      - KOR 🇰🇷 4
+      - KOR 🇰🇷 5
+      - CHE 🇨🇭 1
+      - CHE 🇨🇭 2
+      - CHE 🇨🇭 3
+      - CHE 🇨🇭 4
+      - CHE 🇨🇭 5
+      - CHE 🇨🇭 6
+      - CHE 🇨🇭 7
+      - CHE 🇨🇭 8
+      - CHE 🇨🇭 9
+      - CHE 🇨🇭 10
+      - TWN 🇹🇼 1
+      - TWN 🇹🇼 2
+      - TWN 🇹🇼 3
+      - TWN 🇹🇼 4
+      - TWN 🇹🇼 5
+      - TUR 🇹🇷 1
+      - TUR 🇹🇷 2
+      - TUR 🇹🇷 3
+      - TUR 🇹🇷 4
+      - TUR 🇹🇷 5
+      - UAE 🇦🇪 1
+      - UAE 🇦🇪 2
+      - UAE 🇦🇪 3
+      - UAE 🇦🇪 4
+      - UAE 🇦🇪 5
+      - UAE 🇦🇪 6
+      - UAE 🇦🇪 7
+      - UAE 🇦🇪 8
+      - UAE 🇦🇪 9
+      - UAE 🇦🇪 10
+      - UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 1
+      - UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 2
+      - UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 3
+      - UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 4
+      - UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 5
+      - UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 6
+      - UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 7
+      - UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 8
+      - UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 9
+      - UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 10
+      - UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 11
+      - UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 12
+      - UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 13
+      - UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 14
+      - UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 15
+      - UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 16
+      - UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 17
+      - UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 18
+      - UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 19
+      - UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 20
+      - UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 21
+      - UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 22
+      - UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 23
+      - UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 24
+      - UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 25
+      - UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 26
+      - UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 27
+      - UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 28
+      - UK 🇬🏴󠁧󠁢󠁥󠁮󠁧󠁿 29
+      - USA 🇺🇸 1
+      - USA 🇺🇸 2
+      - USA 🇺🇸 3
+      - USA 🇺🇸 4
+      - USA 🇺🇸 5
+      - USA 🇺🇸 6
+      - USA 🇺🇸 7
+      - USA 🇺🇸 8
+      - USA 🇺🇸 9
+      - USA 🇺🇸 10
+      - USA 🇺🇸 11
+      - USA 🇺🇸 12
+      - USA 🇺🇸 13
+      - USA 🇺🇸 14
+      - USA 🇺🇸 15
+      - USA 🇺🇸 16
+      - USA 🇺🇸 17
+      - USA 🇺🇸 18
+      - USA 🇺🇸 19
+      - USA 🇺🇸 20
+      - USA 🇺🇸 21
+      - USA 🇺🇸 22
+      - USA 🇺🇸 23
+      - USA 🇺🇸 24
+      - USA 🇺🇸 25
+      - USA 🇺🇸 26
+      - USA 🇺🇸 27
+      - USA 🇺🇸 28
+    url: 'http://www.gstatic.com/generate_204'
+    interval: 300
+
+
+rules:
+  - DOMAIN-SUFFIX,google.com,🔰 Select
+  - DOMAIN-KEYWORD,google,🔰 Select
+  - DOMAIN,google.com,🔰 Select
+  - DOMAIN-SUFFIX,ad.com,🚫 Intercept
+  - SRC-IP-CIDR,192.168.1.201/32,✅ Direct
+  - IP-CIDR,127.0.0.0/8,✅ Direct
+  - GEOIP,IR,✅ Direct
+  - MATCH,,🔰 Select,dns-failed
