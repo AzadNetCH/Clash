@@ -84,17 +84,17 @@ proxies:
   - {name: CROA 🇭🇷 Zagreb, server: 176.222.34.113, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: CYP 🇨🇾 Nicosia, server: 195.47.194.40, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: CZE 🇨🇿 Prague, server: 217.138.220.131, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: DNK 🇩🇰 Copenhagen, server: 45.12.221.163, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: DNK 🇩🇰 Copenhagen, server: 193.29.107.115, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: EST 🇪🇪 Tallinn, server: 185.174.159.59, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: FIN 🇫🇮 Helsinki, server: 196.244.191.43, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: FRA 🇫🇷 Bordeaux, server: 185.108.106.160, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: FIN 🇫🇮 Helsinki, server: 185.174.159.59, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: FRA 🇫🇷 Bordeaux, server: 185.108.106.150, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: FRA 🇫🇷 Marseille, server: 185.166.84.19, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: FRA 🇫🇷 Paris, server: 45.89.174.91, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: FRA 🇫🇷 Paris, server: 143.244.57.68, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: FRA 🇫🇷 Roubaix, server: 51.210.113.68, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
   - {name: FRA 🇫🇷 Roubaix 2, server: 51.178.133.154, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
   - {name: FRA 🇫🇷 Roubaix 3, server: 51.210.113.68, port: 807, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
   - {name: FRA 🇫🇷 Roubaix 4, server: 51.178.133.154, port: 807, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: GER 🇩🇪 Berlin, server: 193.29.106.211, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: GER 🇩🇪 Berlin, server: 193.29.106.51, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: GER 🇩🇪 Frankfurt, server: 185.102.219.48, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: GER 🇩🇪 Frankfurt 2, server: 195.181.174.226, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: GER 🇩🇪 Frankfurt 3, server: 195.181.174.228, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
@@ -108,11 +108,11 @@ proxies:
   - {name: GER 🇩🇪 Frankfurt 10, server: 185.137.138.26, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
   - {name: GER 🇩🇪 Frankfurt 11, server: 185.137.138.26, port: 807, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
   - {name: GER 🇩🇪 Munich, server: 178.238.231.53, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: GER 🇩🇪 Nuremberg, server: 62.171.151.182, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: GER 🇩🇪 Nuremberg, server: 95.111.253.63, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: GRC 🇬🇷 Athens, server: 194.150.167.30, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: HKG 🇭🇰 Hong Kong, server: 103.98.75.71, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: HKG 🇭🇰 Hong Kong, server: 84.17.37.160, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: HUN 🇭🇺 Budapest, server: 37.120.144.211, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: ICL 🇮🇸 Reykjavík, server: 82.221.143.69, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: ICL 🇮🇸 Reykjavík, server: 45.133.193.107, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: IDN 🇮🇩 Jakarta, server: 103.120.66.229, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: IND 🇮🇳 Chennai, server: 103.94.27.181, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: IND 🇮🇳 Mumbai, server: 103.156.50.119, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
