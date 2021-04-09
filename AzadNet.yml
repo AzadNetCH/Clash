@@ -164,7 +164,7 @@ proxies:
   - {name: UAE 🇦🇪 Dubai, server: 45.9.249.246, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: UAE 🇦🇪 Dubai 2, server: 176.125.231.3, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: UAE 🇦🇪 Dubai 3, server: 176.125.231.21, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: UK 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Glasgow, server: 185.108.105.170, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: UK 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Glasgow, server: 185.108.105.57, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: UK 🏴󠁧󠁢󠁥󠁮󠁧󠁿 London, server: 185.141.206.194, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: UK 🏴󠁧󠁢󠁥󠁮󠁧󠁿 London 2, server: 89.34.96.59, port: 805, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
   - {name: UK 🏴󠁧󠁢󠁥󠁮󠁧󠁿 London 3, server: 82.102.8.73, port: 443, type: ssr, cipher: aes-128-ctr, password: yvXQt%2qf0tb*l1W, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: "", obfs-param: ""}
