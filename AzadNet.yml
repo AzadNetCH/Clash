@@ -57,11 +57,18 @@ dns:
     - tls://116.202.176.26:853
 proxies:
   - {name: ALB 🇦🇱 Tirana, server: 31.171.153.133, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
+  - {name: ALB 🇦🇱 Tirana 2, server: 31.171.154.165, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: ALB 🇦🇱 Tirana 3, server: 31.171.155.35, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: ARG 🇦🇷 Buenos Aires, server: 91.206.168.19, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: ARG 🇦🇷 Buenos Aires 2, server: 91.206.168.3, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: AUS 🇦🇺 Melbourne, server: 144.48.38.179, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
+  - {name: AUS 🇦🇺 Melbourne 2, server: 144.48.38.139, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: AUS 🇦🇺 Brisbane, server: 144.48.39.131, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: AUS 🇦🇺 Brisbane 2, server: 144.48.39.109, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: AUS 🇦🇺 Perth, server: 124.150.139.29, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
+  - {name: AUS 🇦🇺 Perth 2, server: 45.248.78.43, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: AUS 🇦🇺 Sydney, server: 180.149.228.27, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
+  - {name: AUS 🇦🇺 Sydney 2, server: 180.149.228.117, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: AZR 🇦🇺 Baku, server: 62.212.239.67, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp, udp: true}
   - {name: AZR 🇦🇺 Baku 2, server: 62.212.239.43, port: 50471, type: ss, cipher: aes-256-gcm, password: MaFHZRH8ewCr4vTaxym5QYw8}
   - {name: BiH 🇧🇦 Sarajevo, server: 185.99.3.207, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
@@ -70,12 +77,15 @@ proxies:
   - {name: BEL 🇧🇪 Brussels 3, server: 91.90.123.155, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
   - {name: BEL 🇧🇪 Brussels 4, server: 91.90.123.163, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
   - {name: BRA 🇧🇷 Sao Paulo, server: 191.96.13.212, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: BRA 🇧🇷 Sao Paulo 2, server: 45.231.207.72, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: CYP 🇨🇾 Nicosia, server: 195.47.194.42, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
   - {name: CAN 🇨🇦 Toronto, server: 68.71.244.208, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
   - {name: CAN 🇨🇦 Vancouver, server: 172.83.40.147, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: CAN 🇨🇦 Vancouver 2, server: 208.78.41.198, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: CAN 🇨🇦 Montreal, server: 91.245.254.67, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
   - {name: COST 🇨🇷 San Jose, server: 176.222.34.115, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
   - {name: COL 🇨🇴 Bogota, server: 45.129.32.34, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: COL 🇨🇴 Bogota 2, server: 45.129.32.5, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: CROA 🇭🇷 Zagreb, server: 176.222.34.113, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: CROA 🇭🇷 Zagreb 2, server: 176.222.34.121, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
   - {name: CZE 🇨🇿 Prague, server: 185.180.14.149, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
@@ -83,9 +93,14 @@ proxies:
   - {name: FRA 🇫🇷 Paris 1, server: 143.244.57.103, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
   - {name: FRA 🇫🇷 Paris 2, server: 143.244.57.68, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
   - {name: FRA 🇫🇷 Paris 3, server: 143.244.57.117, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: FRA 🇫🇷 Paris 4, server: 84.17.43.180, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: FRA 🇫🇷 Bordeaux 1, server: 185.108.106.180, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
-  - {name: FRA 🇫🇷 Marseille 4, server: 185.166.84.55, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
-  - {name: GER 🇩🇪 Frankfurt am Main 1, server: 156.146.33.67, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: FRA 🇫🇷 Marseille, server: 185.166.84.55, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: FRA 🇫🇷 Roubaix, server: 51.210.113.68, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: FRA 🇫🇷 Roubaix 2, server: 51.178.133.154, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: FRA 🇫🇷 Roubaix 3, server: 51.210.113.68, port: 807, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: FRA 🇫🇷 Roubaix 4, server: 51.178.133.154, port: 807, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: GER 🇩🇪 Frankfurt, server: 156.146.33.67, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
   - {name: GER 🇩🇪 Berlin 1, server: 193.29.106.51, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
   - {name: GER 🇩🇪 Berlin 2, server: 193.29.106.117, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
   - {name: GER 🇩🇪 Berlin 3, server: 193.29.106.85, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
@@ -97,10 +112,12 @@ proxies:
   - {name: GB 🇬🇧 Glasgow 2, server: 185.108.105.186, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
   - {name: GB 🇬🇧 Glasgow 3, server: 185.108.105.55, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
   - {name: GB 🇬🇧 London 1, server: 185.141.206.250, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: GB 🏴󠁧󠁢󠁥󠁮󠁧  Manchester, server: 91.90.121.187, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: GB 🇬🇧 Manchester 2, server: 194.37.98.37, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
   - {name: GB 🇬🇧 London 3, server: 195.206.169.203, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
   - {name: GB 🇬🇧 London 4, server: 89.34.99.83, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
   - {name: ISL 🇮🇸 Reykjavik, server: 45.133.193.221, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: ISL 🇮🇸 Reykjavik 2, server: 45.133.193.107, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: ITA 🇮🇹 Milan 1, server: 212.102.54.150, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
   - {name: ITA 🇮🇹 Milan 2, server: 212.102.55.68, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
   - {name: ITA 🇮🇹 Milan 3, server: 212.102.55.68, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
@@ -138,6 +155,7 @@ proxies:
   - {name: SVK 🇸🇰 Bratislava, server: 185.76.8.215, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: SWIT 🇨🇭 Zurich, server: 156.146.62.46, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: UKR 🇺🇦 Kyiv, server: 45.9.238.47, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
+  - {name: UKR 🇺🇦 Kyiv 2, server: 45.9.238.38, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: UAE 🇦🇪 Dubai 1, server: 45.9.249.246, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: UAE 🇦🇪 Dubai 2, server: 176.125.231.3, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: UAE 🇦🇪 Dubai 3, server: 176.125.231.13, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
@@ -262,11 +280,18 @@ proxy-groups:
       - 🔥 Auto(Best ping)
       - ↪️ use (for china) group
       - ALB 🇦🇱 Tirana
+      - ALB 🇦🇱 Tirana 2
+      - ALB 🇦🇱 Tirana 3
       - ARG 🇦🇷 Buenos Aires
+      - ARG 🇦🇷 Buenos Aires 2
       - AUS 🇦🇺 Melbourne
+      - AUS 🇦🇺 Melbourne 2
       - AUS 🇦🇺 Brisbane
+      - AUS 🇦🇺 Brisbane 2
       - AUS 🇦🇺 Perth
+      - AUS 🇦🇺 Perth 2
       - AUS 🇦🇺 Sydney
+      - AUS 🇦🇺 Sydney 2
       - AZR 🇦🇺 Baku
       - AZR 🇦🇺 Baku 2
       - BiH 🇧🇦 Sarajevo
@@ -275,12 +300,15 @@ proxy-groups:
       - BEL 🇧🇪 Brussels 3
       - BEL 🇧🇪 Brussels 4
       - BRA 🇧🇷 Sao Paulo
+      - BRA 🇧🇷 Sao Paulo 2
       - CYP 🇨🇾 Nicosia
       - CAN 🇨🇦 Toronto
       - CAN 🇨🇦 Vancouver
+      - CAN 🇨🇦 Vancouver 2
       - CAN 🇨🇦 Montreal
       - COST 🇨🇷 San Jose
       - COL 🇨🇴 Bogota
+      - COL 🇨🇴 Bogota 2
       - CROA 🇭🇷 Zagreb
       - CROA 🇭🇷 Zagreb 2
       - CZE 🇨🇿 Prague
@@ -288,9 +316,14 @@ proxy-groups:
       - FRA 🇫🇷 Paris 1
       - FRA 🇫🇷 Paris 2
       - FRA 🇫🇷 Paris 3
+      - FRA 🇫🇷 Paris 4
       - FRA 🇫🇷 Bordeaux 1
-      - FRA 🇫🇷 Marseille 4
-      - GER 🇩🇪 Frankfurt am Main 1
+      - FRA 🇫🇷 Marseille
+      - FRA 🇫🇷 Roubaix
+      - FRA 🇫🇷 Roubaix 2
+      - FRA 🇫🇷 Roubaix 3
+      - FRA 🇫🇷 Roubaix 4
+      - GER 🇩🇪 Frankfurt 
       - GER 🇩🇪 Berlin 1
       - GER 🇩🇪 Berlin 2
       - GER 🇩🇪 Berlin 3
@@ -302,10 +335,12 @@ proxy-groups:
       - GB 🇬🇧 Glasgow 2
       - GB 🇬🇧 Glasgow 3
       - GB 🇬🇧 London 1
+      - GB 🏴󠁧󠁢󠁥󠁮󠁧  Manchester
       - GB 🇬🇧 Manchester 2
       - GB 🇬🇧 London 3
       - GB 🇬🇧 London 4
       - ISL 🇮🇸 Reykjavik
+      - ISL 🇮🇸 Reykjavik 2
       - ITA 🇮🇹 Milan 1
       - ITA 🇮🇹 Milan 2
       - ITA 🇮🇹 Milan 3
@@ -343,6 +378,7 @@ proxy-groups:
       - SVK 🇸🇰 Bratislava
       - SWIT 🇨🇭 Zurich
       - UKR 🇺🇦 Kyiv
+      - UKR 🇺🇦 Kyiv 2
       - UAE 🇦🇪 Dubai 1
       - UAE 🇦🇪 Dubai 2
       - UAE 🇦🇪 Dubai 3
@@ -473,11 +509,18 @@ proxy-groups:
     interval: 900
     proxies:
       - ALB 🇦🇱 Tirana
+      - ALB 🇦🇱 Tirana 2
+      - ALB 🇦🇱 Tirana 3
       - ARG 🇦🇷 Buenos Aires
+      - ARG 🇦🇷 Buenos Aires 2
       - AUS 🇦🇺 Melbourne
+      - AUS 🇦🇺 Melbourne 2
       - AUS 🇦🇺 Brisbane
+      - AUS 🇦🇺 Brisbane 2
       - AUS 🇦🇺 Perth
+      - AUS 🇦🇺 Perth 2
       - AUS 🇦🇺 Sydney
+      - AUS 🇦🇺 Sydney 2
       - AZR 🇦🇺 Baku
       - AZR 🇦🇺 Baku 2
       - BiH 🇧🇦 Sarajevo
@@ -486,12 +529,15 @@ proxy-groups:
       - BEL 🇧🇪 Brussels 3
       - BEL 🇧🇪 Brussels 4
       - BRA 🇧🇷 Sao Paulo
+      - BRA 🇧🇷 Sao Paulo 2
       - CYP 🇨🇾 Nicosia
       - CAN 🇨🇦 Toronto
       - CAN 🇨🇦 Vancouver
+      - CAN 🇨🇦 Vancouver 2
       - CAN 🇨🇦 Montreal
       - COST 🇨🇷 San Jose
       - COL 🇨🇴 Bogota
+      - COL 🇨🇴 Bogota 2
       - CROA 🇭🇷 Zagreb
       - CROA 🇭🇷 Zagreb 2
       - CZE 🇨🇿 Prague
@@ -499,9 +545,14 @@ proxy-groups:
       - FRA 🇫🇷 Paris 1
       - FRA 🇫🇷 Paris 2
       - FRA 🇫🇷 Paris 3
+      - FRA 🇫🇷 Paris 4
       - FRA 🇫🇷 Bordeaux 1
-      - FRA 🇫🇷 Marseille 4
-      - GER 🇩🇪 Frankfurt am Main 1
+      - FRA 🇫🇷 Marseille 
+      - FRA 🇫🇷 Roubaix
+      - FRA 🇫🇷 Roubaix 2
+      - FRA 🇫🇷 Roubaix 3
+      - FRA 🇫🇷 Roubaix 4
+      - GER 🇩🇪 Frankfurt 
       - GER 🇩🇪 Berlin 1
       - GER 🇩🇪 Berlin 2
       - GER 🇩🇪 Berlin 3
@@ -513,10 +564,12 @@ proxy-groups:
       - GB 🇬🇧 Glasgow 2
       - GB 🇬🇧 Glasgow 3
       - GB 🇬🇧 London 1
+      - GB 🏴󠁧󠁢󠁥󠁮󠁧  Manchester
       - GB 🇬🇧 Manchester 2
       - GB 🇬🇧 London 3
       - GB 🇬🇧 London 4
       - ISL 🇮🇸 Reykjavik
+      - ISL 🇮🇸 Reykjavik 2
       - ITA 🇮🇹 Milan 1
       - ITA 🇮🇹 Milan 2
       - ITA 🇮🇹 Milan 3
@@ -554,6 +607,7 @@ proxy-groups:
       - SVK 🇸🇰 Bratislava
       - SWIT 🇨🇭 Zurich
       - UKR 🇺🇦 Kyiv
+      - UKR 🇺🇦 Kyiv 2
       - UAE 🇦🇪 Dubai 1
       - UAE 🇦🇪 Dubai 2
       - UAE 🇦🇪 Dubai 3
