@@ -83,11 +83,11 @@ proxies:
   - {name: CAN 🇨🇦 Vancouver, server: 172.83.40.147, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
   - {name: CAN 🇨🇦 Vancouver 2, server: 208.78.41.198, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: CAN 🇨🇦 Montreal, server: 91.245.254.67, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
-  - {name: COST 🇨🇷 San Jose, server: 176.222.34.115, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
   - {name: COL 🇨🇴 Bogota, server: 45.129.32.34, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
   - {name: COL 🇨🇴 Bogota 2, server: 45.129.32.5, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: CROA 🇭🇷 Zagreb, server: 176.222.34.113, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: CROA 🇭🇷 Zagreb 2, server: 176.222.34.121, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: CROA 🇭🇷 Zagreb 3, server: 176.222.34.115, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
   - {name: CZE 🇨🇿 Prague, server: 185.180.14.149, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
   - {name: DNK 🇩🇰 Copenhagen, server: 193.29.107.115, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: DNK 🇩🇰 Copenhagen 2, server: 193.29.107.187, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
@@ -306,11 +306,11 @@ proxy-groups:
       - CAN 🇨🇦 Vancouver
       - CAN 🇨🇦 Vancouver 2
       - CAN 🇨🇦 Montreal
-      - COST 🇨🇷 San Jose
       - COL 🇨🇴 Bogota
       - COL 🇨🇴 Bogota 2
       - CROA 🇭🇷 Zagreb
       - CROA 🇭🇷 Zagreb 2
+      - CROA 🇭🇷 Zagreb 3
       - CZE 🇨🇿 Prague
       - DNK 🇩🇰 Copenhagen
       - DNK 🇩🇰 Copenhagen 2
@@ -535,11 +535,11 @@ proxy-groups:
       - CAN 🇨🇦 Vancouver
       - CAN 🇨🇦 Vancouver 2
       - CAN 🇨🇦 Montreal
-      - COST 🇨🇷 San Jose
       - COL 🇨🇴 Bogota
       - COL 🇨🇴 Bogota 2
       - CROA 🇭🇷 Zagreb
       - CROA 🇭🇷 Zagreb 2
+      - CROA 🇭🇷 Zagreb 3
       - CZE 🇨🇿 Prague
       - DNK 🇩🇰 Copenhagen
       - DNK 🇩🇰 Copenhagen 2
