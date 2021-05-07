@@ -107,14 +107,6 @@ proxies:
   - {name: GER 🇩🇪 Berlin 3, server: 193.29.106.85, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
   - {name: GER 🇩🇪 Berlin 4, server: 193.29.106.195, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
   - {name: GRC 🇬🇷 Athens, server: 194.150.167.30, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: GB 🇬🇧 Glasgow 1, server: 185.108.105.147, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
-  - {name: GB 🇬🇧 Glasgow 2, server: 185.108.105.186, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
-  - {name: GB 🇬🇧 Glasgow 3, server: 185.108.105.55, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
-  - {name: GB 🇬🇧 London 1, server: 185.141.206.250, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
-  - {name: GB 🏴󠁧󠁢󠁥󠁮󠁧  Manchester, server: 91.90.121.187, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: GB 🇬🇧 Manchester 2, server: 194.37.98.37, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
-  - {name: GB 🇬🇧 London 3, server: 195.206.169.203, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
-  - {name: GB 🇬🇧 London 4, server: 89.34.99.83, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
   - {name: ISL 🇮🇸 Reykjavik, server: 45.133.193.221, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
   - {name: ISL 🇮🇸 Reykjavik 2, server: 45.133.193.107, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: ITA 🇮🇹 Milan 1, server: 212.102.54.150, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
@@ -159,6 +151,14 @@ proxies:
   - {name: UAE 🇦🇪 Dubai 1, server: 45.9.249.246, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: UAE 🇦🇪 Dubai 2, server: 176.125.231.3, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: UAE 🇦🇪 Dubai 3, server: 176.125.231.13, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: UK 🇬🇧 Glasgow 1, server: 185.108.105.147, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
+  - {name: UK 🇬🇧 Glasgow 2, server: 185.108.105.186, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
+  - {name: UK 🇬🇧 Glasgow 3, server: 185.108.105.55, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
+  - {name: UK 🇬🇧 London 1, server: 185.141.206.250, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: UK 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Manchester, server: 91.90.121.187, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: UK 🇬🇧 Manchester 2, server: 194.37.98.37, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: UK 🇬🇧 London 3, server: 195.206.169.203, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: UK 🇬🇧 London 4, server: 89.34.99.83, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
   - {name: USA 🇺🇸 Houston 1, server: 104.148.30.53, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
   - {name: USA 🇺🇸 Houston 2, server: 104.148.30.85, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
   - {name: USA 🇺🇸 Houston 3, server: 199.10.64.101, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
@@ -330,14 +330,6 @@ proxy-groups:
       - GER 🇩🇪 Berlin 3
       - GER 🇩🇪 Berlin 4
       - GRC 🇬🇷 Athens
-      - GB 🇬🇧 Glasgow 1
-      - GB 🇬🇧 Glasgow 2
-      - GB 🇬🇧 Glasgow 3
-      - GB 🇬🇧 London 1
-      - GB 🏴󠁧󠁢󠁥󠁮󠁧  Manchester
-      - GB 🇬🇧 Manchester 2
-      - GB 🇬🇧 London 3
-      - GB 🇬🇧 London 4
       - ISL 🇮🇸 Reykjavik
       - ISL 🇮🇸 Reykjavik 2
       - ITA 🇮🇹 Milan 1
@@ -382,6 +374,14 @@ proxy-groups:
       - UAE 🇦🇪 Dubai 1
       - UAE 🇦🇪 Dubai 2
       - UAE 🇦🇪 Dubai 3
+      - UK 🇬🇧 Glasgow 1
+      - UK 🇬🇧 Glasgow 2
+      - UK 🇬🇧 Glasgow 3
+      - UK 🇬🇧 London 1
+      - UK 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Manchester
+      - UK 🇬🇧 Manchester 2
+      - UK 🇬🇧 London 3
+      - UK 🇬🇧 London 4
       - USA 🇺🇸 Houston 1
       - USA 🇺🇸 Houston 2
       - USA 🇺🇸 Houston 3
@@ -559,14 +559,6 @@ proxy-groups:
       - GER 🇩🇪 Berlin 3
       - GER 🇩🇪 Berlin 4
       - GRC 🇬🇷 Athens
-      - GB 🇬🇧 Glasgow 1
-      - GB 🇬🇧 Glasgow 2
-      - GB 🇬🇧 Glasgow 3
-      - GB 🇬🇧 London 1
-      - GB 🏴󠁧󠁢󠁥󠁮󠁧  Manchester
-      - GB 🇬🇧 Manchester 2
-      - GB 🇬🇧 London 3
-      - GB 🇬🇧 London 4
       - ISL 🇮🇸 Reykjavik
       - ISL 🇮🇸 Reykjavik 2
       - ITA 🇮🇹 Milan 1
@@ -611,6 +603,14 @@ proxy-groups:
       - UAE 🇦🇪 Dubai 1
       - UAE 🇦🇪 Dubai 2
       - UAE 🇦🇪 Dubai 3
+      - UK 🇬🇧 Glasgow 1
+      - UK 🇬🇧 Glasgow 2
+      - UK 🇬🇧 Glasgow 3
+      - UK 🇬🇧 London 1
+      - UK 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Manchester
+      - UK 🇬🇧 Manchester 2
+      - UK 🇬🇧 London 3
+      - UK 🇬🇧 London 4
       - USA 🇺🇸 Houston 1
       - USA 🇺🇸 Houston 2
       - USA 🇺🇸 Houston 3
