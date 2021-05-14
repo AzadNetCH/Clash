@@ -299,7 +299,7 @@ proxies:
 proxy-groups:
   - name: 🔰 for iran {@AzadNet & @xbiscuit}
     type: select
-   proxies:
+    proxies:
       - 🔥 Auto(Best ping)
       - ↪️ use (for china) group
       - ALB 🇦🇱 Tirana
@@ -465,9 +465,10 @@ proxy-groups:
       - USA 🇺🇸 Las Vegas 2
       - USA 🇺🇸 Las Vegas 3
       - VNM 🇻🇳 Ho Chi Minh City
-
-
-  proxies:
+  
+  - name: 🔰 for china
+    type: select
+    proxies:
       - ↪️ use (for iran) group
       - 🔥 Auto2(Best ping)       
       - HKG 🇭🇰 Hong Kong
