@@ -71,6 +71,7 @@ proxies:
   - {name: AUS 🇦🇺 Sydney 2, server: 180.149.228.117, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: AZR 🇦🇿 Baku, server: 62.212.239.67, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp, udp: true}
   - {name: AZR 🇦🇿 Baku 2, server: 62.212.239.53, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: BHR 🇧🇭 Dar Kulayb, server: MrLinux.Ga, port: 14474, type: vmess, uuid: fd0239b1-9d67-4867-fb7e-e14946b120af, alterId: 64, cipher: auto, tls: false}
   - {name: BiH 🇧🇦 Sarajevo, server: 185.99.3.207, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
   - {name: BEL 🇧🇪 Brussels 1, server: 194.110.115.85, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
   - {name: BEL 🇧🇪 Brussels 2, server: 194.110.115.93, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
@@ -219,6 +220,24 @@ proxies:
   - {name: USA 🇺🇸 Las Vegas 3, server: 79.110.54.91, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
   - {name: VNM 🇻🇳 Ho Chi Minh City, server: 202.143.110.32, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
   - {name: HKG 🇭🇰 Hong Kong, server: 212.102.42.199, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: HKG 🇭🇰 Hong Kong 2, server: ntemp10.boom.party, port: 20000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 60816:vergil, obfs-param: download.windowsupdate.com}
+  - {name: HKG 🇭🇰 Hong Kong 3, server: n28.boom.party, port: 13000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 60816:vergil, obfs-param: download.windowsupdate.com}
+  - {name: HKG 🇭🇰 Hong Kong 4, server: n57.boom.party, port: 25000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 60816:vergil, obfs-param: download.windowsupdate.com}
+  - {name: HKG 🇭🇰 Hong Kong 5, server: ntemp04.boom.party, port: 13000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 60816:vergil, obfs-param: download.windowsupdate.com}
+  - {name: PRC 🇨🇳 China 3, server: ntemp16.boom.party, port: 21000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 60816:vergil, obfs-param: download.windowsupdate.com}
+  - {name: PRC 🇨🇳 China 4, server: ntemp17.boom.party, port: 22000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 60816:vergil, obfs-param: download.windowsupdate.com}
+  - {name: PRC 🇨🇳 China 5, server: ntemp18.boom.party, port: 23000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 60816:vergil, obfs-param: download.windowsupdate.com}
+  - {name: PRC 🇨🇳 China 6, server: ntemp19.boom.party, port: 24000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 60816:vergil, obfs-param: download.windowsupdate.com}
+  - {name: PRC 🇨🇳 China 7, server: ntemp20.boom.party, port: 25000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 60816:vergil, obfs-param: download.windowsupdate.com}
+  - {name: PRC 🇨🇳 China 8, server: ntemp12.boom.party, port: 26000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 60816:vergil, obfs-param: download.windowsupdate.com}
+  - {name: PRC 🇨🇳 China 9, server: n21.boom.party, port: 15000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 60816:vergil, obfs-param: download.windowsupdate.com}
+  - {name: PRC 🇨🇳 China 10, server: n23.boom.party, port: 11000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 60816:vergil, obfs-param: download.windowsupdate.com}
+  - {name: PRC 🇨🇳 China 11, server: n32.boom.party, port: 16000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 60816:vergil, obfs-param: download.windowsupdate.com}
+  - {name: PRC 🇨🇳 China 12, server: nf1.boom.party, port: 11000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 60816:vergil, obfs-param: download.windowsupdate.com}
+  - {name: PRC 🇨🇳 China 13, server: nf2.boom.party, port: 12000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 60816:vergil, obfs-param: download.windowsupdate.com}
+  - {name: PRC 🇨🇳 China 14, server: nf3.boom.party, port: 13000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 60816:vergil, obfs-param: download.windowsupdate.com}
+  - {name: PRC 🇨🇳 China 15, server: nf4.boom.party, port: 14000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 60816:vergil, obfs-param: download.windowsupdate.com}
+  - {name: PRC 🇨🇳 China 16, server: nf5.boom.party, port: 15000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 60816:vergil, obfs-param: download.windowsupdate.com}
   - {name: ID 🇮🇩 Jakarta, server: 103.120.66.219, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
   - {name: ID 🇮🇩 Jakarta 2, server: 103.120.66.219, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
   - {name: JPN 🇯🇵 Tokyo, server: 138.199.22.145, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
@@ -229,6 +248,8 @@ proxies:
   - {name: JPN 🇯🇵 Tokyo 6, server: 45.87.213.83, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
   - {name: JPN 🇯🇵 Tokyo 7, server: 45.87.213.83, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
   - {name: JPN 🇯🇵 Tokyo 8, server: 45.87.213.105, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: JPN 🇯🇵 Tokyo 9, server: ntemp12.boom.party, port: 26000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 60816:vergil, obfs-param: download.windowsupdate.com}
+  - {name: JPN 🇯🇵 Tokyo 10, server: n43.boom.party, port: 24000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 60816:vergil, obfs-param: download.windowsupdate.com}
   - {name: KOR 🇰🇷 Seoul, server: 61.14.210.244, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: KOR 🇰🇷 Seoul 2, server: 61.14.210.234, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: KOR 🇰🇷 Seoul 3, server: 27.255.77.195, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
@@ -246,10 +267,12 @@ proxies:
   - {name: SGP 🇸🇬 Singapore, server: 89.187.163.197, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: SNG 🇸🇬 Singapore, server: 89.187.163.200, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: SNG 🇸🇬 Singapore 2, server: 156.146.56.137, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: SNG 🇸🇬 Singapore 3, server: ntemp15.boom.party, port: 19000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 60816:vergil, obfs-param: download.windowsupdate.com} 
   - {name: TWN 🇹🇼 Taichung, server: 2.58.241.43, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: TWN 🇹🇼 Taichung 2, server: 2.58.242.155, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: TWN 🇹🇼 New Taipei, server: 2.58.242.157, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: TWN 🇹🇼 New Taipei 2, server: 2.58.242.43, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: TWN 🇹🇼 New Taipei 3, server: n04.boom.party, port: 18000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 60816:vergil, obfs-param: download.windowsupdate.com}
   - {name: TWN 🇹🇼 Taichung City, server: 103.152.151.85, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
   - {name: TWN 🇹🇼 Taichung City 2, server: 103.152.151.85, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
   - {name: TW 🇹🇼 Taichung, server: 2.58.242.45, port: 38033, type: ss, cipher: aes-256-gcm, password: xpQwyV4W5FdA6NMANJJx73US}
@@ -258,7 +281,7 @@ proxies:
   - {name: TW 🇹🇼 Taichung 4, server: 103.152.151.69, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
   - {name: TW 🇹🇼 Taichung 5, server: 2.58.241.45, port: 38033, type: ss, cipher: aes-256-gcm, password: xpQwyV4W5FdA6NMANJJx73US}
   - {name: TW 🇹🇼 Taichung 6, server: 2.58.241.29, port: 38033, type: ss, cipher: aes-256-gcm, password: xpQwyV4W5FdA6NMANJJx73US}
-  - {name: TW 🇹🇼 Taichung 7, server: 2.58.241.45, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: TW 🇹🇼 Taichung 7, server: 2.58.242.43, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: TW 🇹🇼 Taichung 8, server: 2.58.241.3, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
   - {name: TW 🇹🇼 Taichung 9, server: 2.58.241.27, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: TW 🇹🇼 Taichung 10, server: 2.58.241.5, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
@@ -266,7 +289,7 @@ proxies:
   - {name: TW 🇹🇼 Taichung 12, server: 2.58.241.27, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
   - {name: TW 🇹🇼 Taichung 13, server: 2.58.241.3, port: 38033, type: ss, cipher: aes-256-gcm, password: xpQwyV4W5FdA6NMANJJx73US}
   - {name: TW 🇹🇼 Taichung 14, server: 2.58.241.45, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: TW 🇹🇼 Taichung 15, server: 2.58.242.45, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: TW 🇹🇼 Taichung 15, server: 2.58.242.43, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
   - {name: TW 🇹🇼 Taichung 16, server: 2.58.241.3, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
   - {name: TW 🇹🇼 Taichung 17, server: 103.152.151.85, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
   - {name: TW 🇹🇼 Taichung 18, server: 2.58.241.3, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
@@ -276,7 +299,7 @@ proxies:
 proxy-groups:
   - name: 🔰 for iran {@AzadNet & @xbiscuit}
     type: select
-    proxies:
+   proxies:
       - 🔥 Auto(Best ping)
       - ↪️ use (for china) group
       - ALB 🇦🇱 Tirana
@@ -294,6 +317,7 @@ proxy-groups:
       - AUS 🇦🇺 Sydney 2
       - AZR 🇦🇿 Baku
       - AZR 🇦🇿 Baku 2
+      - BHR 🇧🇭 Dar Kulayb
       - BiH 🇧🇦 Sarajevo
       - BEL 🇧🇪 Brussels 1
       - BEL 🇧🇪 Brussels 2
@@ -442,12 +466,29 @@ proxy-groups:
       - USA 🇺🇸 Las Vegas 3
       - VNM 🇻🇳 Ho Chi Minh City
 
-  - name: 🔰 for china
-    type: select
-    proxies:
-      - ↪️ use (for iran) group 
+
+  proxies:
+      - ↪️ use (for iran) group
       - 🔥 Auto2(Best ping)       
       - HKG 🇭🇰 Hong Kong
+      - HKG 🇭🇰 Hong Kong 2
+      - HKG 🇭🇰 Hong Kong 3
+      - HKG 🇭🇰 Hong Kong 4
+      - HKG 🇭🇰 Hong Kong 5
+      - PRC 🇨🇳 China 3
+      - PRC 🇨🇳 China 4
+      - PRC 🇨🇳 China 5
+      - PRC 🇨🇳 China 6
+      - PRC 🇨🇳 China 7
+      - PRC 🇨🇳 China 8
+      - PRC 🇨🇳 China 9
+      - PRC 🇨🇳 China 10
+      - PRC 🇨🇳 China 11
+      - PRC 🇨🇳 China 12
+      - PRC 🇨🇳 China 13
+      - PRC 🇨🇳 China 14
+      - PRC 🇨🇳 China 15
+      - PRC 🇨🇳 China 16
       - ID 🇮🇩 Jakarta
       - ID 🇮🇩 Jakarta 2
       - JPN 🇯🇵 Tokyo
@@ -458,6 +499,8 @@ proxy-groups:
       - JPN 🇯🇵 Tokyo 6
       - JPN 🇯🇵 Tokyo 7
       - JPN 🇯🇵 Tokyo 8
+      - JPN 🇯🇵 Tokyo 9
+      - JPN 🇯🇵 Tokyo 10
       - KOR 🇰🇷 Seoul
       - KOR 🇰🇷 Seoul 2
       - KOR 🇰🇷 Seoul 3
@@ -475,10 +518,12 @@ proxy-groups:
       - SGP 🇸🇬 Singapore
       - SNG 🇸🇬 Singapore
       - SNG 🇸🇬 Singapore 2
+      - SNG 🇸🇬 Singapore 3
       - TWN 🇹🇼 Taichung
       - TWN 🇹🇼 Taichung 2
       - TWN 🇹🇼 New Taipei
       - TWN 🇹🇼 New Taipei 2
+      - TWN 🇹🇼 New Taipei 3
       - TWN 🇹🇼 Taichung City
       - TWN 🇹🇼 Taichung City 2
       - TW 🇹🇼 Taichung
@@ -523,6 +568,7 @@ proxy-groups:
       - AUS 🇦🇺 Sydney 2
       - AZR 🇦🇿 Baku
       - AZR 🇦🇿 Baku 2
+      - BHR 🇧🇭 Dar Kulayb
       - BiH 🇧🇦 Sarajevo
       - BEL 🇧🇪 Brussels 1
       - BEL 🇧🇪 Brussels 2
@@ -676,7 +722,26 @@ proxy-groups:
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 900
-    proxies:  
+    proxies:
+      - HKG 🇭🇰 Hong Kong
+      - HKG 🇭🇰 Hong Kong 2 
+      - HKG 🇭🇰 Hong Kong 3
+      - HKG 🇭🇰 Hong Kong 4
+      - HKG 🇭🇰 Hong Kong 5
+      - PRC 🇨🇳 China 3
+      - PRC 🇨🇳 China 4
+      - PRC 🇨🇳 China 5
+      - PRC 🇨🇳 China 6
+      - PRC 🇨🇳 China 7
+      - PRC 🇨🇳 China 8
+      - PRC 🇨🇳 China 9
+      - PRC 🇨🇳 China 10
+      - PRC 🇨🇳 China 11
+      - PRC 🇨🇳 China 12
+      - PRC 🇨🇳 China 13
+      - PRC 🇨🇳 China 14
+      - PRC 🇨🇳 China 15
+      - PRC 🇨🇳 China 16
       - ID 🇮🇩 Jakarta
       - ID 🇮🇩 Jakarta 2
       - JPN 🇯🇵 Tokyo
@@ -687,6 +752,8 @@ proxy-groups:
       - JPN 🇯🇵 Tokyo 6
       - JPN 🇯🇵 Tokyo 7
       - JPN 🇯🇵 Tokyo 8
+      - JPN 🇯🇵 Tokyo 9
+      - JPN 🇯🇵 Tokyo 10
       - KOR 🇰🇷 Seoul
       - KOR 🇰🇷 Seoul 2
       - KOR 🇰🇷 Seoul 3
@@ -704,10 +771,12 @@ proxy-groups:
       - SGP 🇸🇬 Singapore
       - SNG 🇸🇬 Singapore
       - SNG 🇸🇬 Singapore 2
+      - SNG 🇸🇬 Singapore 3
       - TWN 🇹🇼 Taichung
       - TWN 🇹🇼 Taichung 2
       - TWN 🇹🇼 New Taipei
       - TWN 🇹🇼 New Taipei 2
+      - TWN 🇹🇼 New Taipei 3
       - TWN 🇹🇼 Taichung City
       - TWN 🇹🇼 Taichung City 2
       - TW 🇹🇼 Taichung
@@ -731,6 +800,7 @@ proxy-groups:
       - TW 🇹🇼 Taichung 19
       - TH 🇹🇭 Bangkok
       - VNM 🇻🇳 Ho Chi Minh City 2
+
 
   - name: ↪️ use (for china) group      
     type: select
