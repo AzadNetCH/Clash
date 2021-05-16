@@ -102,6 +102,10 @@ proxies:
   - {name: FRA 🇫🇷 Roubaix 3, server: 51.210.113.68, port: 807, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
   - {name: FRA 🇫🇷 Roubaix 4, server: 51.178.133.154, port: 807, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
   - {name: GER 🇩🇪 Frankfurt, server: 156.146.33.67, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: GER 🇩🇪 Frankfurt 2, server: 18.185.63.41, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: GER 🇩🇪 Frankfurt 3, server: 18.185.94.137, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: GER 🇩🇪 Frankfurt 4, server: 89.43.107.130, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: GER 🇩🇪 Frankfurt 5, server: 185.104.184.78, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
   - {name: GER 🇩🇪 Melsungen, server: 136.243.191.86, port: 443, type: ssr, cipher: aes-128-ctr, password: sEscPBiAD9K$&@79, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: "", obfs-param: ""}
   - {name: GER 🇩🇪 Melsungen 2, server: 136.243.191.85, port: 443, type: ssr, cipher: aes-128-ctr, password: sEscPBiAD9K$&@79, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: "", obfs-param: ""}
   - {name: GER 🇩🇪 Melsungen 3, server: 136.243.191.84, port: 443, type: ssr, cipher: aes-128-ctr, password: sEscPBiAD9K$&@79, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: "", obfs-param: ""}
@@ -348,7 +352,11 @@ proxy-groups:
       - FRA 🇫🇷 Roubaix 2
       - FRA 🇫🇷 Roubaix 3
       - FRA 🇫🇷 Roubaix 4
-      - GER 🇩🇪 Frankfurt 
+      - GER 🇩🇪 Frankfurt
+      - GER 🇩🇪 Frankfurt 2
+      - GER 🇩🇪 Frankfurt 3
+      - GER 🇩🇪 Frankfurt 4
+      - GER 🇩🇪 Frankfurt 5
       - GER 🇩🇪 Melsungen
       - GER 🇩🇪 Melsungen 2
       - GER 🇩🇪 Melsungen 3
@@ -602,6 +610,10 @@ proxy-groups:
       - FRA 🇫🇷 Roubaix 3
       - FRA 🇫🇷 Roubaix 4
       - GER 🇩🇪 Frankfurt 
+      - GER 🇩🇪 Frankfurt 2
+      - GER 🇩🇪 Frankfurt 3
+      - GER 🇩🇪 Frankfurt 4
+      - GER 🇩🇪 Frankfurt 5
       - GER 🇩🇪 Melsungen
       - GER 🇩🇪 Melsungen 2
       - GER 🇩🇪 Melsungen 3
