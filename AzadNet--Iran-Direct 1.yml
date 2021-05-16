@@ -69,7 +69,7 @@ proxies:
   - {name: AUS 🇦🇺 Perth 2, server: 45.248.78.43, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: AUS 🇦🇺 Sydney, server: 180.149.228.27, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
   - {name: AUS 🇦🇺 Sydney 2, server: 180.149.228.117, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: AZR 🇦🇿 Baku, server: 62.212.239.67, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp, udp: true}
+  - {name: AZR 🇦🇿 Baku, server: 62.212.239.43, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
   - {name: AZR 🇦🇿 Baku 2, server: 62.212.239.53, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
   - {name: BHR 🇧🇭 Dar Kulayb, server: MrLinux.Ga, port: 14474, type: vmess, uuid: fd0239b1-9d67-4867-fb7e-e14946b120af, alterId: 64, cipher: auto, tls: false}
   - {name: BiH 🇧🇦 Sarajevo, server: 185.99.3.207, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
@@ -84,12 +84,13 @@ proxies:
   - {name: CAN 🇨🇦 Vancouver, server: 172.83.40.147, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna, udp: true}
   - {name: CAN 🇨🇦 Vancouver 2, server: 208.78.41.198, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: CAN 🇨🇦 Montreal, server: 91.245.254.67, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
-  - {name: CROA 🇭🇷 Zagreb, server: 176.222.34.113, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: CROA 🇭🇷 Zagreb 2, server: 176.222.34.121, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: CROA 🇭🇷 Zagreb, server: 85.10.56.192, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp, udp: true}
+  - {name: CROA 🇭🇷 Zagreb 2, server: 89.164.99.109, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp, udp: true}
   - {name: CROA 🇭🇷 Zagreb 3, server: 176.222.34.115, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
   - {name: CZE 🇨🇿 Prague, server: 185.180.14.149, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
-  - {name: DNK 🇩🇰 Copenhagen, server: 193.29.107.115, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: DNK 🇩🇰 Copenhagen, server: 89.45.7.53, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp,}
   - {name: DNK 🇩🇰 Copenhagen 2, server: 193.29.107.187, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: EST 🇪🇪 Tallinn, server: 185.174.159.136, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
   - {name: FRA 🇫🇷 Paris 1, server: 143.244.57.108, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna, udp: true}
   - {name: FRA 🇫🇷 Paris 2, server: 143.244.57.117, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna, udp: true}
   - {name: FRA 🇫🇷 Paris 3, server: 143.244.57.75, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna, udp: true}
@@ -138,7 +139,7 @@ proxies:
   - {name: PRY 🇵🇾 Asunción 2, server: 181.40.18.59, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: PRT 🇵🇹 Porto, server: 194.39.127.36, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
   - {name: RUS 🇷🇺 St. Petersburg, server: 188.92.78.203, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
-  - {name: RUS 🇷🇺 Moscow, server: 188.92.78.190, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: RUS 🇷🇺 Moscow, server: 92.38.138.112, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
   - {name: SOAF 🇿🇦 Johannesburg, server: 154.127.50.130, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: SPN 🇪🇸 Barcelona, server: 185.188.61.25, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
   - {name: SPN 🇪🇸 Madrid, server: 84.17.62.165, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
@@ -335,6 +336,7 @@ proxy-groups:
       - CZE 🇨🇿 Prague
       - DNK 🇩🇰 Copenhagen
       - DNK 🇩🇰 Copenhagen 2
+      - EST 🇪🇪 Tallinn
       - FRA 🇫🇷 Paris 1
       - FRA 🇫🇷 Paris 2
       - FRA 🇫🇷 Paris 3
@@ -586,6 +588,7 @@ proxy-groups:
       - CZE 🇨🇿 Prague
       - DNK 🇩🇰 Copenhagen
       - DNK 🇩🇰 Copenhagen 2
+      - EST 🇪🇪 Tallinn
       - FRA 🇫🇷 Paris 1
       - FRA 🇫🇷 Paris 2
       - FRA 🇫🇷 Paris 3
