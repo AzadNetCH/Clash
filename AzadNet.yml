@@ -70,7 +70,7 @@ proxies:
   - {name: AUS 🇦🇺 Sydney, server: 180.149.228.27, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
   - {name: AUS 🇦🇺 Sydney 2, server: 180.149.228.117, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: AZR 🇦🇿 Baku, server: 62.212.239.43, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: AZR 🇦🇿 Baku 2, server: 62.212.239.53, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: AZR 🇦🇿 Baku 2, server: 62.212.239.51, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
   - {name: BHR 🇧🇭 Dar Kulayb, server: MrLinux.Ga, port: 14474, type: vmess, uuid: fd0239b1-9d67-4867-fb7e-e14946b120af, alterId: 64, cipher: auto, tls: false}
   - {name: BiH 🇧🇦 Sarajevo, server: 185.99.3.207, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
   - {name: BEL 🇧🇪 Brussels 1, server: 194.110.115.85, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
@@ -103,7 +103,7 @@ proxies:
   - {name: FRA 🇫🇷 Roubaix 4, server: 51.178.133.154, port: 807, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
   - {name: GER 🇩🇪 Frankfurt, server: 156.146.33.67, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
   - {name: GER 🇩🇪 Frankfurt 2, server: 18.185.63.41, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: GER 🇩🇪 Frankfurt 3, server: 18.185.94.137, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: GER 🇩🇪 Frankfurt 3, server: 185.137.138.28, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
   - {name: GER 🇩🇪 Frankfurt 4, server: 89.43.107.130, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
   - {name: GER 🇩🇪 Frankfurt 5, server: 185.104.184.78, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
   - {name: GER 🇩🇪 Melsungen, server: 136.243.191.86, port: 443, type: ssr, cipher: aes-128-ctr, password: sEscPBiAD9K$&@79, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: "", obfs-param: ""}
@@ -507,7 +507,7 @@ proxy-groups:
 
   - name: 🔥 Auto(Best ping)
     type: url-test
-    url: http://www.gstatic.com/generate_204
+    url: https://www.google.com
     interval: 900
     proxies:
       - ALB 🇦🇱 Tirana
@@ -690,7 +690,7 @@ proxy-groups:
   
   - name: 🔥 Auto2(Best ping)
     type: url-test
-    url: http://www.gstatic.com/generate_204
+    url: https://www.google.com
     interval: 900
     proxies:
       - CAN 🇨🇦 CAN
