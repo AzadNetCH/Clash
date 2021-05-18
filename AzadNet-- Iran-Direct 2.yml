@@ -16,40 +16,34 @@ dns:
     - 1.1.1.1
     - 8.8.8.8
 proxies:
-  - {name: ALB 🇦🇱 Tirana, server: 31.171.153.133, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
-  - {name: ALB 🇦🇱 Tirana 2, server: 31.171.154.165, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: ALB 🇦🇱 Tirana, server: 31.171.155.21, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: ALB 🇦🇱 Tirana 2, server: 31.171.153.115, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp, udp: true}
   - {name: ALB 🇦🇱 Tirana 3, server: 31.171.155.35, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: ARG 🇦🇷 Buenos Aires, server: 91.206.168.19, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
   - {name: ARG 🇦🇷 Buenos Aires 2, server: 91.206.168.3, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: AUS 🇦🇺 Melbourne, server: 144.48.38.179, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
-  - {name: AUS 🇦🇺 Melbourne 2, server: 144.48.38.139, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: AUS 🇦🇺 Melbourne, server: 144.48.38.139, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: AUS 🇦🇺 Brisbane, server: 144.48.39.131, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
-  - {name: AUS 🇦🇺 Brisbane 2, server: 144.48.39.109, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: AUS 🇦🇺 Perth, server: 124.150.139.29, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
-  - {name: AUS 🇦🇺 Perth 2, server: 45.248.78.43, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: AUS 🇦🇺 Sydney, server: 180.149.228.27, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
-  - {name: AUS 🇦🇺 Sydney 2, server: 180.149.228.117, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: AZR 🇦🇿 Baku, server: 62.212.239.43, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: AZR 🇦🇿 Baku,  server: 62.212.239.53, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
   - {name: AZR 🇦🇿 Baku 2, server: 62.212.239.51, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: BHR 🇧🇭 Dar Kulayb, server: MrLinux.Ga, port: 14474, type: vmess, uuid: fd0239b1-9d67-4867-fb7e-e14946b120af, alterId: 64, cipher: auto, tls: false}
   - {name: BiH 🇧🇦 Sarajevo, server: 185.99.3.207, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
   - {name: BEL 🇧🇪 Brussels 1, server: 194.110.115.85, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
-  - {name: BEL 🇧🇪 Brussels 2, server: 194.110.115.93, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
-  - {name: BEL 🇧🇪 Brussels 3, server: 91.90.123.155, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
+  - {name: BEL 🇧🇪 Brussels 2, server: 194.110.115.69,  port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp, udp: true}
+  - {name: BEL 🇧🇪 Brussels 3, server: 194.110.115.91,  port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp, udp: true}
   - {name: BEL 🇧🇪 Brussels 4, server: 91.90.123.163, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
   - {name: BRA 🇧🇷 Sao Paulo, server: 191.96.13.212, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
   - {name: BRA 🇧🇷 Sao Paulo 2, server: 45.231.207.72, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: CYP 🇨🇾 Nicosia, server: 195.47.194.79, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna, udp: true}
   - {name: CAN 🇨🇦 Toronto, server: 68.71.244.208, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
-  - {name: CAN 🇨🇦 Vancouver, server: 172.83.40.147, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna, udp: true}
-  - {name: CAN 🇨🇦 Vancouver 2, server: 208.78.41.198, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: CAN 🇨🇦 Vancouver, server: 208.78.41.198, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: CAN 🇨🇦 Montreal, server: 91.245.254.67, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
   - {name: CROA 🇭🇷 Zagreb, server: 85.10.56.192, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp, udp: true}
-  - {name: CROA 🇭🇷 Zagreb 2, server: 89.164.99.109, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp, udp: true}
-  - {name: CROA 🇭🇷 Zagreb 3, server: 176.222.34.115, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
+  - {name: CROA 🇭🇷 Zagreb 2, server: 85.10.50.164, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp, udp: true}
+  - {name: CROA 🇭🇷 Zagreb 3, server: 176.222.34.121, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
   - {name: CZE 🇨🇿 Prague, server: 185.180.14.149, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
   - {name: DNK 🇩🇰 Copenhagen, server: 89.45.7.53, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp,}
-  - {name: DNK 🇩🇰 Copenhagen 2, server: 193.29.107.187, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: DNK 🇩🇰 Copenhagen 2, server: 89.45.7.51, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp, udp: true}
   - {name: EST 🇪🇪 Tallinn, server: 185.174.159.136, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
   - {name: FRA 🇫🇷 Paris 1, server: 143.244.57.108, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna, udp: true}
   - {name: FRA 🇫🇷 Paris 2, server: 143.244.57.117, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna, udp: true}
@@ -85,23 +79,24 @@ proxies:
   - {name: IND 🇮🇳 Indore, server: 137.59.52.109, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
   - {name: IND 🇮🇳 Chennai, server: 103.94.27.229, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
   - {name: IND 🇮🇳 Chennai 2, server: 103.94.27.229, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
-  - {name: LUX 🇱🇺 Luxembourg, server: 185.153.151.96, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: LUX 🇱🇺 Luxembourg, server: 185.153.151.118, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp, udp: true}
   - {name: LIT 🇱🇹 Vilnius, server: 188.92.78.150, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: LVA 🇱🇻 Riga, server: 188.92.78.150, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: MYS 🇲🇾 Kuala Lumpur, server: 42.0.30.164, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
   - {name: MDA 🇲🇩 Chișinău, server: 178.175.128.235, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: MKD 🇲🇰 Skopje, server: 185.225.28.85, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
   - {name: MEX 🇲🇽 Mexico City, server: 194.41.112.9, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
   - {name: NGA 🇳🇬 Lagos, server: 102.165.23.4, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
   - {name: NGA 🇳🇬 Lagos 2, server: 102.165.23.40, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
   - {name: NZL 🇳🇿 Auckland, server: 180.149.231.43, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
-  - {name: NLD 🇳🇱 Amsterdam 1, server: 212.102.35.214, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: NLD 🇳🇱 Amsterdam 1, server: 143.244.42.84, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp, udp: true}
   - {name: NLD 🇳🇱 Amsterdam 2, server: 185.59.222.92, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna, udp: true}
   - {name: NLD 🇳🇱 Amsterdam 3, server: 185.59.222.94, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna, udp: true}
   - {name: NOR 🇳🇴 Oslo, server: 91.219.215.21, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
   - {name: POL 🇵🇱 Gdansk, server: 178.255.44.69, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
   - {name: PRY 🇵🇾 Asunción, server: 181.40.18.47, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
   - {name: PRY 🇵🇾 Asunción 2, server: 181.40.18.59, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: PRT 🇵🇹 Porto, server: 194.39.127.36, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
+  - {name: PRT 🇵🇹 Porto, server: 194.39.127.242, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp, udp: true}
   - {name: PRC 🇨🇳 China 1, server: ntemp16.boom.party, port: 21000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 60816:vergil, obfs-param: download.windowsupdate.com}
   - {name: PRC 🇨🇳 China 2, server: ntemp17.boom.party, port: 22000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 60816:vergil, obfs-param: download.windowsupdate.com}
   - {name: PRC 🇨🇳 China 3, server: n21.boom.party, port: 15000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 60816:vergil, obfs-param: download.windowsupdate.com}
@@ -109,9 +104,9 @@ proxies:
   - {name: RUS 🇷🇺 Moscow, server: 92.38.138.112, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
   - {name: SOAF 🇿🇦 Johannesburg, server: 154.127.50.130, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: SPN 🇪🇸 Barcelona, server: 185.188.61.25, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
-  - {name: SPN 🇪🇸 Madrid, server: 84.17.62.165, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: SPN 🇪🇸 Madrid, server: 89.37.95.11, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp, udp: true}
   - {name: SPN 🇪🇸 Valencia, server: 185.153.150.50, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
-  - {name: SVK 🇸🇰 Bratislava, server: 185.76.8.215, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: SVK 🇸🇰 Bratislava, server: 185.76.8.217, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp, udp: true}
   - {name: SWIT 🇨🇭 Zurich, server: 156.146.62.34, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp, udp: true}
   - {name: TUR 🇹🇷  Istanbul, server: 107.150.94.43, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
   - {name: UKR 🇺🇦 Kyiv, server: 45.9.238.47, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
@@ -191,14 +186,14 @@ proxies:
   
   - {name: JPN 🇯🇵 Tokyo, server: 89.187.161.241, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
   - {name: JPN 🇯🇵 Tokyo 2, server: 89.187.161.239, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: JPN 🇯🇵 Tokyo 3, server: 45.87.213.213, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: JPN 🇯🇵 Tokyo 3, server: n43.boom.party, port: 24000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 60816:vergil, obfs-param: download.windowsupdate.com}
   - {name: SNG 🇸🇬 Singapore, server: 156.146.56.137, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna, udp: true}
-  - {name: SNG 🇸🇬 Singapore 2, server: 89.187.163.197, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: TWN 🇹🇼 Taichung, server: 2.58.241.43, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: TWN 🇹🇼 Taichung 2, server: 103.152.151.85, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
   - {name: TWN 🇹🇼 Taichung 3, server: 103.152.151.69, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
   - {name: TH 🇹🇭 Bangkok, server: 27.131.138.176, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
   
+  - {name: BHR 🇧🇭 Dar Kulayb, server: MrLinux.Ga, port: 14474, type: vmess, uuid: fd0239b1-9d67-4867-fb7e-e14946b120af, alterId: 64, cipher: auto, tls: false}
   - {name: CAN 🇨🇦 CAN, server: t9.ssrsub.one, port: 8443, type: trojan, password: 4krgbBXY, sni: t9.ssrsub.one}
   - {name: CAN 🇨🇦 CAN 2, server: t5.ssrsub.one, port: 443, type: trojan, password: R5DNgT2E, sni: t5.ssrsub.one}
   - {name: CAN 🇨🇦 CAN 3, server: t3.ssrsub.one, port: 443, type: trojan, password: a0Ndyox5, sni: t3.ssrsub.one}
@@ -217,6 +212,7 @@ proxies:
   - {name: GER 🇩🇪 GER 3, server: 104.18.7.138, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
   - {name: GER 🇩🇪 GER 4, server: 172.67.154.85, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
   - {name: GER 🇩🇪 GER 5, server: cdnde.irteyz.today, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
+  - {name: HKG 🇭🇰 Central, server: 42.2.143.119, port: 443, type: vmess, uuid: b707c9e6-3a61-4f0b-8844-9a398cfadfb7, alterId: 2, cipher: auto, tls: true, network: ws, ws-path: /add76314/, ws-headers: {Host: centos.fuchau.xyz}}
   - {name: JPN 🇯🇵 JPN, server: 3.112.230.214, port: 8000, type: vmess, uuid: a326bf45-1c53-4243-e03e-18c39faa330a, alterId: 64, cipher: auto, tls: false}
   - {name: KOR 🇰🇷 Incheon, server: 52.79.228.10, port: 32546, type: vmess, uuid: 25b4eb9e-647c-4440-98b3-d21958e24577, alterId: 0, cipher: auto, tls: false}
   - {name: POL 🇵🇱 POL, server: 95.214.55.120, port: 13256, type: vmess, uuid: 828aacdf-8c06-4bd9-d501-8f4eb506734c, alterId: 64, cipher: auto, tls: false}
@@ -235,8 +231,6 @@ proxies:
   - {name: USA 🇺🇸 Los Angeles 9, server: 107.150.5.206, port: 34462, type: vmess, uuid: 31aaf7bc-a4be-4577-a82c-2ab2afbf4a7b, alterId: 64, cipher: auto, tls: false}
   - {name: USA 🇺🇸 New York, server: 84.17.35.86, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
   - {name: USA 🇺🇸 USA, server: 23.224.31.210, port: 443, type: vmess, uuid: 4aa50ee1-1a3c-4ab5-8f4a-998f8ccedd06, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/270119141029, ws-headers: {Host: www.53933374.xyz}}
-  
-  - {name: HKG 🇭🇰 Central, server: 42.2.143.119, port: 443, type: vmess, uuid: b707c9e6-3a61-4f0b-8844-9a398cfadfb7, alterId: 2, cipher: auto, tls: true, network: ws, ws-path: /add76314/, ws-headers: {Host: centos.fuchau.xyz}}
   - {name: SOAF 🇿🇦 Cape Town, server: 13.245.16.126, port: 20404, type: vmess, uuid: 559636c7-b5a2-450c-9b5e-0dc8fc14f4f5, alterId: 64, cipher: auto, tls: false}
   - {name: SOAF 🇿🇦 Cape Town 2, server: 13.245.13.47, port: 45623, type: vmess, uuid: a443853f-ce89-4b7c-e6f5-a5ad018085bf, alterId: 64, cipher: auto, tls: false}
 
@@ -252,16 +246,11 @@ proxy-groups:
       - ARG 🇦🇷 Buenos Aires
       - ARG 🇦🇷 Buenos Aires 2
       - AUS 🇦🇺 Melbourne
-      - AUS 🇦🇺 Melbourne 2
       - AUS 🇦🇺 Brisbane
-      - AUS 🇦🇺 Brisbane 2
       - AUS 🇦🇺 Perth
-      - AUS 🇦🇺 Perth 2
       - AUS 🇦🇺 Sydney
-      - AUS 🇦🇺 Sydney 2
       - AZR 🇦🇿 Baku
       - AZR 🇦🇿 Baku 2
-      - BHR 🇧🇭 Dar Kulayb
       - BiH 🇧🇦 Sarajevo
       - BEL 🇧🇪 Brussels 1
       - BEL 🇧🇪 Brussels 2
@@ -272,7 +261,6 @@ proxy-groups:
       - CYP 🇨🇾 Nicosia
       - CAN 🇨🇦 Toronto
       - CAN 🇨🇦 Vancouver
-      - CAN 🇨🇦 Vancouver 2
       - CAN 🇨🇦 Montreal
       - CROA 🇭🇷 Zagreb
       - CROA 🇭🇷 Zagreb 2
@@ -321,6 +309,7 @@ proxy-groups:
       - LUX 🇱🇺 Luxembourg
       - LIT 🇱🇹 Vilnius
       - LVA 🇱🇻 Riga
+      - MYS 🇲🇾 Kuala Lumpur
       - MDA 🇲🇩 Chișinău
       - MKD 🇲🇰 Skopje
       - MEX 🇲🇽 Mexico City
@@ -341,7 +330,6 @@ proxy-groups:
       - RUS 🇷🇺 St. Petersburg
       - RUS 🇷🇺 Moscow
       - SNG 🇸🇬 Singapore
-      - SNG 🇸🇬 Singapore 2
       - SOAF 🇿🇦 Johannesburg
       - SPN 🇪🇸 Barcelona
       - SPN 🇪🇸 Madrid
@@ -374,12 +362,10 @@ proxy-groups:
       - USA 🇺🇸 Detroit 2
       - USA 🇺🇸 Detroit 3
       - USA 🇺🇸 Detroit 4
-      - USA 🇺🇸 New York 1
       - USA 🇺🇸 Chicago 1
       - USA 🇺🇸 Chicago 2
       - USA 🇺🇸 Chicago 3
       - USA 🇺🇸 Chicago 4
-      - USA 🇺🇸 St. Louis 1
       - USA 🇺🇸 St. Louis 2
       - USA 🇺🇸 Bend 1
       - USA 🇺🇸 Bend 2
@@ -388,20 +374,12 @@ proxy-groups:
       - USA 🇺🇸 New York 2
       - USA 🇺🇸 Kansas City 1
       - USA 🇺🇸 Boston 1
-      - USA 🇺🇸 Boston 2
-      - USA 🇺🇸 Boston 3
       - USA 🇺🇸 Charlotte
-      - USA 🇺🇸 Phoenix
-      - USA 🇺🇸 Chicago
       - USA 🇺🇸 San Francisco
-      - USA 🇺🇸 Phoenix 1
-      - USA 🇺🇸 Phoenix 2
       - USA 🇺🇸 Tampa 1
       - USA 🇺🇸 Tampa 2
       - USA 🇺🇸 Tampa 3
       - USA 🇺🇸 Tampa 4
-      - USA 🇺🇸 Seattle 4
-      - USA 🇺🇸 Los Angeles 1
       - USA 🇺🇸 Los Angeles 2
       - USA 🇺🇸 Los Angeles 3
       - USA 🇺🇸 Manassas 1
@@ -417,7 +395,6 @@ proxy-groups:
       - USA 🇺🇸 Miami
       - USA 🇺🇸 Kansas City 1 2
       - USA 🇺🇸 Kansas City 2
-      - USA 🇺🇸 Buffalo
       - USA 🇺🇸 Atlanta
       - USA 🇺🇸 Orlando 1
       - USA 🇺🇸 Orlando 2
@@ -433,6 +410,7 @@ proxy-groups:
     proxies:
       - ↪️ use (SS & SSR) group
       - 🔥 Auto2(Best ping)       
+      - BHR 🇧🇭 Dar Kulayb
       - CAN 🇨🇦 CAN
       - CAN 🇨🇦 CAN 2
       - CAN 🇨🇦 CAN 3
@@ -484,16 +462,11 @@ proxy-groups:
       - ARG 🇦🇷 Buenos Aires
       - ARG 🇦🇷 Buenos Aires 2
       - AUS 🇦🇺 Melbourne
-      - AUS 🇦🇺 Melbourne 2
       - AUS 🇦🇺 Brisbane
-      - AUS 🇦🇺 Brisbane 2
       - AUS 🇦🇺 Perth
-      - AUS 🇦🇺 Perth 2
       - AUS 🇦🇺 Sydney
-      - AUS 🇦🇺 Sydney 2
       - AZR 🇦🇿 Baku
       - AZR 🇦🇿 Baku 2
-      - BHR 🇧🇭 Dar Kulayb
       - BiH 🇧🇦 Sarajevo
       - BEL 🇧🇪 Brussels 1
       - BEL 🇧🇪 Brussels 2
@@ -504,7 +477,6 @@ proxy-groups:
       - CYP 🇨🇾 Nicosia
       - CAN 🇨🇦 Toronto
       - CAN 🇨🇦 Vancouver
-      - CAN 🇨🇦 Vancouver 2
       - CAN 🇨🇦 Montreal
       - CROA 🇭🇷 Zagreb
       - CROA 🇭🇷 Zagreb 2
@@ -553,6 +525,7 @@ proxy-groups:
       - LUX 🇱🇺 Luxembourg
       - LIT 🇱🇹 Vilnius
       - LVA 🇱🇻 Riga
+      - MYS 🇲🇾 Kuala Lumpur
       - MDA 🇲🇩 Chișinău
       - MKD 🇲🇰 Skopje
       - MEX 🇲🇽 Mexico City
@@ -661,6 +634,7 @@ proxy-groups:
     url: https://www.google.com
     interval: 900
     proxies:
+      - BHR 🇧🇭 Dar Kulayb
       - CAN 🇨🇦 CAN
       - CAN 🇨🇦 CAN 2
       - CAN 🇨🇦 CAN 3
