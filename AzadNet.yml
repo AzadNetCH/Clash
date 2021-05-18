@@ -104,7 +104,7 @@ proxies:
   - {name: GER 🇩🇪 Melsungen 2, server: 136.243.191.85, port: 443, type: ssr, cipher: aes-128-ctr, password: sEscPBiAD9K$&@79, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: "", obfs-param: ""}
   - {name: GER 🇩🇪 Melsungen 3, server: 136.243.191.84, port: 443, type: ssr, cipher: aes-128-ctr, password: sEscPBiAD9K$&@79, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: "", obfs-param: ""}
   - {name: GER 🇩🇪 Melsungen 4, server: 136.243.191.88, port: 443, type: ssr, cipher: aes-128-ctr, password: sEscPBiAD9K$&@79, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: "", obfs-param: ""}
-  - {name: GRC 🇬🇷 Athens, server: 194.150.167.30, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: GRC 🇬🇷 Athens, server: 194.150.167.52, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: ISL 🇮🇸 Reykjavik, server: 45.133.193.221, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
   - {name: ISL 🇮🇸 Reykjavik 2, server: 45.133.193.107, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: ITA 🇮🇹 Milan 1, server: 212.102.54.150, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
@@ -123,7 +123,7 @@ proxies:
   - {name: LIT 🇱🇹 Vilnius, server: 188.92.78.150, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: LVA 🇱🇻 Riga, server: 188.92.78.150, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: MYS 🇲🇾 Kuala Lumpur, server: 42.0.30.164, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
-  - {name: MDA 🇲🇩 Chișinău, server: 178.175.128.235, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: MDA 🇲🇩 Chișinău, server: 194.33.40.112, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: MKD 🇲🇰 Skopje, server: 185.225.28.85, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
   - {name: MEX 🇲🇽 Mexico City, server: 194.41.112.9, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
   - {name: NGA 🇳🇬 Lagos, server: 102.165.23.4, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
@@ -227,7 +227,7 @@ proxies:
   - {name: JPN 🇯🇵 Tokyo, server: 89.187.161.241, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
   - {name: JPN 🇯🇵 Tokyo 2, server: 89.187.161.239, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: JPN 🇯🇵 Tokyo 3, server: n43.boom.party, port: 24000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 60816:vergil, obfs-param: download.windowsupdate.com}
-  - {name: SNG 🇸🇬 Singapore, server: 156.146.56.137, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna, udp: true}
+  - {name: SNG 🇸🇬 Singapore, server: 89.187.163.132, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna, udp: true}
   - {name: TWN 🇹🇼 Taichung, server: 2.58.241.43, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: TWN 🇹🇼 Taichung 2, server: 103.152.151.85, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
   - {name: TWN 🇹🇼 Taichung 3, server: 103.152.151.69, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
