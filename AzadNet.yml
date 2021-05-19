@@ -285,36 +285,36 @@ proxy-groups:
       - ALB 🇦🇱 Tirana 3
       - ARG 🇦🇷 Buenos Aires
       - ARG 🇦🇷 Buenos Aires 2
-      - AUS 🇦🇺 Melbourne
       - AUS 🇦🇺 Brisbane
+      - AUS 🇦🇺 Melbourne
       - AUS 🇦🇺 Perth
       - AUS 🇦🇺 Sydney
       - AZR 🇦🇿 Baku
       - AZR 🇦🇿 Baku 2
-      - BiH 🇧🇦 Sarajevo
       - BEL 🇧🇪 Brussels 1
       - BEL 🇧🇪 Brussels 2
       - BEL 🇧🇪 Brussels 3
       - BEL 🇧🇪 Brussels 4
+      - BiH 🇧🇦 Sarajevo
       - BRA 🇧🇷 Sao Paulo
       - BRA 🇧🇷 Sao Paulo 2
-      - CYP 🇨🇾 Nicosia
+      - CAN 🇨🇦 Montreal
       - CAN 🇨🇦 Toronto
       - CAN 🇨🇦 Vancouver
-      - CAN 🇨🇦 Montreal
       - CROA 🇭🇷 Zagreb
       - CROA 🇭🇷 Zagreb 2
       - CROA 🇭🇷 Zagreb 3
+      - CYP 🇨🇾 Nicosia
       - CZE 🇨🇿 Prague
       - DNK 🇩🇰 Copenhagen
       - DNK 🇩🇰 Copenhagen 2
       - EST 🇪🇪 Tallinn
+      - FRA 🇫🇷 Bordeaux
+      - FRA 🇫🇷 Marseille
       - FRA 🇫🇷 Paris 1
       - FRA 🇫🇷 Paris 2
       - FRA 🇫🇷 Paris 3
       - FRA 🇫🇷 Paris 4
-      - FRA 🇫🇷 Bordeaux
-      - FRA 🇫🇷 Marseille
       - FRA 🇫🇷 Roubaix
       - FRA 🇫🇷 Roubaix 2
       - FRA 🇫🇷 Roubaix 3
@@ -329,46 +329,46 @@ proxy-groups:
       - GER 🇩🇪 Melsungen 3
       - GER 🇩🇪 Melsungen 4
       - GRC 🇬🇷 Athens
+      - IND 🇮🇳 Chennai
+      - IND 🇮🇳 Chennai 2
+      - IND 🇮🇳 Indore
+      - IRL 🇮🇪 Dublin
+      - IRL 🇮🇪 Dublin 2
+      - IRL 🇮🇪 Dublin 3
       - ISL 🇮🇸 Reykjavik
       - ISL 🇮🇸 Reykjavik 2
+      - ISR 🇮🇱 Tel Aviv
       - ITA 🇮🇹 Milan 1
       - ITA 🇮🇹 Milan 2
       - ITA 🇮🇹 Milan 3
       - ITA 🇮🇹 Milan 4
       - ITA 🇮🇹 Rome
-      - IRL 🇮🇪 Dublin
-      - IRL 🇮🇪 Dublin 2
-      - IRL 🇮🇪 Dublin 3
-      - ISR 🇮🇱 Tel Aviv
-      - IND 🇮🇳 Indore
-      - IND 🇮🇳 Chennai
-      - IND 🇮🇳 Chennai 2
       - JPN 🇯🇵 Tokyo
       - JPN 🇯🇵 Tokyo 2
       - JPN 🇯🇵 Tokyo 3
-      - LUX 🇱🇺 Luxembourg
       - LIT 🇱🇹 Vilnius
+      - LUX 🇱🇺 Luxembourg
       - LVA 🇱🇻 Riga
-      - MYS 🇲🇾 Kuala Lumpur
       - MDA 🇲🇩 Chișinău
-      - MKD 🇲🇰 Skopje
       - MEX 🇲🇽 Mexico City
+      - MKD 🇲🇰 Skopje
+      - MYS 🇲🇾 Kuala Lumpur
       - NGA 🇳🇬 Lagos
       - NGA 🇳🇬 Lagos 2
-      - NZL 🇳🇿 Auckland
       - NLD 🇳🇱 Amsterdam 1
       - NLD 🇳🇱 Amsterdam 2
       - NLD 🇳🇱 Amsterdam 3
       - NOR 🇳🇴 Oslo
+      - NZL 🇳🇿 Auckland
       - POL 🇵🇱 Gdansk
-      - PRY 🇵🇾 Asunción
-      - PRY 🇵🇾 Asunción 2
-      - PRT 🇵🇹 Porto
       - PRC 🇨🇳 China 1
       - PRC 🇨🇳 China 2
       - PRC 🇨🇳 China 3
-      - RUS 🇷🇺 St. Petersburg
+      - PRT 🇵🇹 Porto
+      - PRY 🇵🇾 Asunción
+      - PRY 🇵🇾 Asunción 2
       - RUS 🇷🇺 Moscow
+      - RUS 🇷🇺 St. Petersburg
       - SNG 🇸🇬 Singapore
       - SOAF 🇿🇦 Johannesburg
       - SPN 🇪🇸 Barcelona
@@ -377,12 +377,10 @@ proxy-groups:
       - SVK 🇸🇰 Bratislava
       - SWIT 🇨🇭 Zurich
       - TH 🇹🇭 Bangkok
+      - TUR 🇹🇷  Istanbul
       - TWN 🇹🇼 Taichung
       - TWN 🇹🇼 Taichung 2
       - TWN 🇹🇼 Taichung 3
-      - TUR 🇹🇷  Istanbul
-      - UKR 🇺🇦 Kyiv
-      - UKR 🇺🇦 Kyiv 2
       - UAE 🇦🇪 Dubai 1
       - UAE 🇦🇪 Dubai 2
       - UAE 🇦🇪 Dubai 3
@@ -390,60 +388,63 @@ proxy-groups:
       - UK 🇬🇧 Glasgow 2
       - UK 🇬🇧 Glasgow 3
       - UK 🇬🇧 London 1
-      - UK 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Manchester
-      - UK 🇬🇧 Manchester 2
       - UK 🇬🇧 London 3
       - UK 🇬🇧 London 4
-      - USA 🇺🇸 Houston 1
-      - USA 🇺🇸 Houston 2
-      - USA 🇺🇸 Houston 3
-      - USA 🇺🇸 Houston 4
-      - USA 🇺🇸 Detroit 1
-      - USA 🇺🇸 Detroit 2
-      - USA 🇺🇸 Detroit 3
-      - USA 🇺🇸 Detroit 4
+      - UK 🇬🇧 Manchester 2
+      - UK 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Manchester
+      - UKR 🇺🇦 Kyiv
+      - UKR 🇺🇦 Kyiv 2
+      - USA 🇺🇸 Atlanta
+      - USA 🇺🇸 Bend 1
+      - USA 🇺🇸 Bend 1 2
+      - USA 🇺🇸 Bend 2
+      - USA 🇺🇸 Bend 2 2
+      - USA 🇺🇸 Boston 1
+      - USA 🇺🇸 Charlotte
+      - USA 🇺🇸 Charlotte 1
+      - USA 🇺🇸 Charlotte 2
       - USA 🇺🇸 Chicago 1
       - USA 🇺🇸 Chicago 2
       - USA 🇺🇸 Chicago 3
       - USA 🇺🇸 Chicago 4
-      - USA 🇺🇸 St. Louis 2
-      - USA 🇺🇸 Bend 1
-      - USA 🇺🇸 Bend 2
-      - USA 🇺🇸 Charlotte 1
-      - USA 🇺🇸 Charlotte 2
-      - USA 🇺🇸 New York 2
+      - USA 🇺🇸 Detroit 1
+      - USA 🇺🇸 Detroit 2
+      - USA 🇺🇸 Detroit 3
+      - USA 🇺🇸 Detroit 4
+      - USA 🇺🇸 Houston 1
+      - USA 🇺🇸 Houston 2
+      - USA 🇺🇸 Houston 3
+      - USA 🇺🇸 Houston 4
+      - USA 🇺🇸 Kansas City
       - USA 🇺🇸 Kansas City 1
-      - USA 🇺🇸 Boston 1
-      - USA 🇺🇸 Charlotte
-      - USA 🇺🇸 San Francisco
-      - USA 🇺🇸 Tampa 1
-      - USA 🇺🇸 Tampa 2
-      - USA 🇺🇸 Tampa 3
-      - USA 🇺🇸 Tampa 4
+      - USA 🇺🇸 Kansas City 1 2
+      - USA 🇺🇸 Kansas City 2
+      - USA 🇺🇸 Las Vegas 1
+      - USA 🇺🇸 Las Vegas 2
+      - USA 🇺🇸 Las Vegas 3
+      - USA 🇺🇸 Latham 1
+      - USA 🇺🇸 Latham 2
+      - USA 🇺🇸 Latham 3
       - USA 🇺🇸 Los Angeles 2
       - USA 🇺🇸 Los Angeles 3
       - USA 🇺🇸 Manassas 1
       - USA 🇺🇸 Manassas 2
       - USA 🇺🇸 Manassas 3
-      - USA 🇺🇸 Phoenix 1 2
-      - USA 🇺🇸 Phoenix 2 2
-      - USA 🇺🇸 Bend 1 2
-      - USA 🇺🇸 Bend 2 2
-      - USA 🇺🇸 Latham 1
-      - USA 🇺🇸 Latham 2
-      - USA 🇺🇸 Latham 3
       - USA 🇺🇸 Miami
-      - USA 🇺🇸 Kansas City 1 2
-      - USA 🇺🇸 Kansas City 2
-      - USA 🇺🇸 Atlanta
+      - USA 🇺🇸 New York 2
       - USA 🇺🇸 Orlando 1
       - USA 🇺🇸 Orlando 2
-      - USA 🇺🇸 Kansas City
-      - USA 🇺🇸 Las Vegas 1
-      - USA 🇺🇸 Las Vegas 2
-      - USA 🇺🇸 Las Vegas 3
+      - USA 🇺🇸 Phoenix 1 2
+      - USA 🇺🇸 Phoenix 2 2
+      - USA 🇺🇸 San Francisco
+      - USA 🇺🇸 St. Louis 2
+      - USA 🇺🇸 Tampa 1
+      - USA 🇺🇸 Tampa 2
+      - USA 🇺🇸 Tampa 3
+      - USA 🇺🇸 Tampa 4
       - VNM 🇻🇳 Ho Chi Minh City
       - VNM 🇻🇳 Ho Chi Minh City 2
+
   
   - name: 🔰 vmess & trojan
     type: select
