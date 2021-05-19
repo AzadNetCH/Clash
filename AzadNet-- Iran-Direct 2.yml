@@ -207,30 +207,32 @@ proxies:
   - {name: CAN 🇨🇦 CAN 11, server: t4.ssrsub.one, port: 443, type: trojan, password: fFHV52LP, sni: t4.ssrsub.one}
   - {name: CAN 🇨🇦 CAN 12, server: t4.ssrsub.one, port: 8443, type: trojan, password: 8l5DUdeb, sni: t4.ssrsub.one}
   - {name: CAN 🇨🇦 CAN 13, server: t1.ssrsub.one, port: 8443, type: trojan, password: Od80tcru, sni: t1.ssrsub.one}
+  - {name: FIN 🇫🇮 Helsinki, server: 172.67.154.85, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
+  - {name: FIN 🇫🇮 Helsinki 2, server: 104.18.6.138, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
+  - {name: FIN 🇫🇮 Helsinki 3, server: 104.21.48.161, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
+  - {name: FIN 🇫🇮 Helsinki 4, server: cdnde.irteyz.today, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
   - {name: GER 🇩🇪 GER, server: 104.21.48.161, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
   - {name: GER 🇩🇪 GER 2, server: 104.18.6.138, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
   - {name: GER 🇩🇪 GER 3, server: 104.18.7.138, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
   - {name: GER 🇩🇪 GER 4, server: 172.67.154.85, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
   - {name: GER 🇩🇪 GER 5, server: cdnde.irteyz.today, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
   - {name: HKG 🇭🇰 Central, server: 42.2.143.119, port: 443, type: vmess, uuid: b707c9e6-3a61-4f0b-8844-9a398cfadfb7, alterId: 2, cipher: auto, tls: true, network: ws, ws-path: /add76314/, ws-headers: {Host: centos.fuchau.xyz}}
+  - {name: HKG 🇭🇰 Hong Kong, server: hk04-n7.xiaoxiaofeng.xyz, port: 20407, type: vmess, uuid: 5e01da15-f6bf-355a-8005-e5d2ebfabe28, alterId: 2, cipher: auto, tls: false}
   - {name: JPN 🇯🇵 JPN, server: 3.112.230.214, port: 8000, type: vmess, uuid: a326bf45-1c53-4243-e03e-18c39faa330a, alterId: 64, cipher: auto, tls: false}
+  - {name: JPN 🇯🇵 Tokyo 4, server: jp06-n29.xiaoxiaofeng.xyz, port: 20629, type: vmess, uuid: 5e01da15-f6bf-355a-8005-e5d2ebfabe28, alterId: 2, cipher: auto, tls: false}
+  - {name: JPN 🇯🇵 Tokyo 5, server: gmegme.ga, port: 443, type: vmess, uuid: 160ce2c0-89d2-11eb-aef3-560003425baf, alterId: 12, cipher: auto, tls: true, network: ws, ws-path: /zwWptVxh/, ws-headers: {Host: gmegme.ga}}
   - {name: KOR 🇰🇷 Incheon, server: 52.79.228.10, port: 32546, type: vmess, uuid: 25b4eb9e-647c-4440-98b3-d21958e24577, alterId: 0, cipher: auto, tls: false}
   - {name: POL 🇵🇱 POL, server: 95.214.55.120, port: 13256, type: vmess, uuid: 828aacdf-8c06-4bd9-d501-8f4eb506734c, alterId: 64, cipher: auto, tls: false}
-  - {name: POL 🇵🇱 POL 2, server: 95.214.55.118, port: 41505, type: vmess, uuid: ab2a10e8-50a1-4d20-e973-b211ea6457f4, alterId: 64, cipher: auto, tls: false}
   - {name: RUS 🇷🇺 RUS, server: t6.ssrsub.one, port: 8443, type: trojan, password: qN7AKCF3, sni: t6.ssrsub.one}
   - {name: RUS 🇷🇺 RUS 2, server: t6.ssrsub.one, port: 443, type: trojan, password: QWKM5g6D, sni: t6.ssrsub.one}
   - {name: RUS 🇷🇺 RUS 3, server: zhongzhuangazhk2.xiaobaiyun.me, port: 800, type: vmess, uuid: 6d04dd65-c0b0-38b0-8d3a-be30a68cb55d, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /hls, ws-headers: {Host: els.xiaobaiyun.me}}
   - {name: RUS 🇷🇺 RUS 4, server: free-russian01-cdn.xiaohouzi.club, port: 80, type: vmess, uuid: 3d31728e-064d-42b8-b945-f79c008f73fc, alterId: 233, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: free-russian01-cdn.xiaohouzi.club}}
+  - {name: RUS 🇷🇺 RUS 5, server: abc.2589974338.tk, port: 443, type: vmess, uuid: e287b3c6-1cbc-43c7-85ea-65ffe2c80878, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /296b584da/, ws-headers: {Host: abc.2589974338.tk}}
   - {name: SGP 🇸🇬 Singapore, server: sg1.vless.co, port: 443, type: trojan, password: fastssh.com, sni: sg1.vless.co}
-  - {name: UK 🇬🇧 London, server: 185.38.150.124, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
-  - {name: USA 🇺🇸 Los Angeles 4, server: 45.12.110.8, port: 45458, type: vmess, uuid: c169c268-7e51-4564-bcf5-271b8e49e141, alterId: 0, cipher: auto, tls: false}
   - {name: USA 🇺🇸 Los Angeles 5, server: t10.ssrsub.one, port: 443, type: trojan, password: XHgvdhp7, sni: t10.ssrsub.one}
-  - {name: USA 🇺🇸 Los Angeles 6, server: 45.88.179.35, port: 35497, type: vmess, uuid: 085e6815-e476-411a-a9a6-4e5306a1b875, alterId: 0, cipher: auto, tls: false}
-  - {name: USA 🇺🇸 Los Angeles 7, server: 43.226.26.113, port: 31627, type: vmess, uuid: b4d92783-2348-46e6-cf7a-dd45e870a1d2, alterId: 64, cipher: auto, tls: false}
-  - {name: USA 🇺🇸 Los Angeles 8, server: 204.44.68.71, port: 36777, type: vmess, uuid: d70cc1b3-e7e8-4b88-a24e-c91f001fd69e, alterId: 64, cipher: auto, tls: false}
-  - {name: USA 🇺🇸 Los Angeles 9, server: 107.150.5.206, port: 34462, type: vmess, uuid: 31aaf7bc-a4be-4577-a82c-2ab2afbf4a7b, alterId: 64, cipher: auto, tls: false}
   - {name: USA 🇺🇸 New York, server: 84.17.35.86, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
   - {name: USA 🇺🇸 USA, server: 23.224.31.210, port: 443, type: vmess, uuid: 4aa50ee1-1a3c-4ab5-8f4a-998f8ccedd06, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/270119141029, ws-headers: {Host: www.53933374.xyz}}
+  - {name: USA 🇺🇸 Virginia, server: 54.234.47.199, port: 80, type: vmess, uuid: 539824e3-b66c-4157-dedf-aff4631b9201, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /Downloads/tg-sharecentre.exe, ws-headers: {Host: download.microsoft.com}}
   - {name: SOAF 🇿🇦 Cape Town, server: 13.245.16.126, port: 20404, type: vmess, uuid: 559636c7-b5a2-450c-9b5e-0dc8fc14f4f5, alterId: 64, cipher: auto, tls: false}
   - {name: SOAF 🇿🇦 Cape Town 2, server: 13.245.13.47, port: 45623, type: vmess, uuid: a443853f-ce89-4b7c-e6f5-a5ad018085bf, alterId: 64, cipher: auto, tls: false}
 
@@ -245,36 +247,36 @@ proxy-groups:
       - ALB 🇦🇱 Tirana 3
       - ARG 🇦🇷 Buenos Aires
       - ARG 🇦🇷 Buenos Aires 2
-      - AUS 🇦🇺 Melbourne
       - AUS 🇦🇺 Brisbane
+      - AUS 🇦🇺 Melbourne
       - AUS 🇦🇺 Perth
       - AUS 🇦🇺 Sydney
       - AZR 🇦🇿 Baku
       - AZR 🇦🇿 Baku 2
-      - BiH 🇧🇦 Sarajevo
       - BEL 🇧🇪 Brussels 1
       - BEL 🇧🇪 Brussels 2
       - BEL 🇧🇪 Brussels 3
       - BEL 🇧🇪 Brussels 4
+      - BiH 🇧🇦 Sarajevo
       - BRA 🇧🇷 Sao Paulo
       - BRA 🇧🇷 Sao Paulo 2
-      - CYP 🇨🇾 Nicosia
+      - CAN 🇨🇦 Montreal
       - CAN 🇨🇦 Toronto
       - CAN 🇨🇦 Vancouver
-      - CAN 🇨🇦 Montreal
       - CROA 🇭🇷 Zagreb
       - CROA 🇭🇷 Zagreb 2
       - CROA 🇭🇷 Zagreb 3
+      - CYP 🇨🇾 Nicosia
       - CZE 🇨🇿 Prague
       - DNK 🇩🇰 Copenhagen
       - DNK 🇩🇰 Copenhagen 2
       - EST 🇪🇪 Tallinn
+      - FRA 🇫🇷 Bordeaux
+      - FRA 🇫🇷 Marseille
       - FRA 🇫🇷 Paris 1
       - FRA 🇫🇷 Paris 2
       - FRA 🇫🇷 Paris 3
       - FRA 🇫🇷 Paris 4
-      - FRA 🇫🇷 Bordeaux
-      - FRA 🇫🇷 Marseille
       - FRA 🇫🇷 Roubaix
       - FRA 🇫🇷 Roubaix 2
       - FRA 🇫🇷 Roubaix 3
@@ -289,46 +291,46 @@ proxy-groups:
       - GER 🇩🇪 Melsungen 3
       - GER 🇩🇪 Melsungen 4
       - GRC 🇬🇷 Athens
+      - IND 🇮🇳 Chennai
+      - IND 🇮🇳 Chennai 2
+      - IND 🇮🇳 Indore
+      - IRL 🇮🇪 Dublin
+      - IRL 🇮🇪 Dublin 2
+      - IRL 🇮🇪 Dublin 3
       - ISL 🇮🇸 Reykjavik
       - ISL 🇮🇸 Reykjavik 2
+      - ISR 🇮🇱 Tel Aviv
       - ITA 🇮🇹 Milan 1
       - ITA 🇮🇹 Milan 2
       - ITA 🇮🇹 Milan 3
       - ITA 🇮🇹 Milan 4
       - ITA 🇮🇹 Rome
-      - IRL 🇮🇪 Dublin
-      - IRL 🇮🇪 Dublin 2
-      - IRL 🇮🇪 Dublin 3
-      - ISR 🇮🇱 Tel Aviv
-      - IND 🇮🇳 Indore
-      - IND 🇮🇳 Chennai
-      - IND 🇮🇳 Chennai 2
       - JPN 🇯🇵 Tokyo
       - JPN 🇯🇵 Tokyo 2
       - JPN 🇯🇵 Tokyo 3
-      - LUX 🇱🇺 Luxembourg
       - LIT 🇱🇹 Vilnius
+      - LUX 🇱🇺 Luxembourg
       - LVA 🇱🇻 Riga
-      - MYS 🇲🇾 Kuala Lumpur
       - MDA 🇲🇩 Chișinău
-      - MKD 🇲🇰 Skopje
       - MEX 🇲🇽 Mexico City
+      - MKD 🇲🇰 Skopje
+      - MYS 🇲🇾 Kuala Lumpur
       - NGA 🇳🇬 Lagos
       - NGA 🇳🇬 Lagos 2
-      - NZL 🇳🇿 Auckland
       - NLD 🇳🇱 Amsterdam 1
       - NLD 🇳🇱 Amsterdam 2
       - NLD 🇳🇱 Amsterdam 3
       - NOR 🇳🇴 Oslo
+      - NZL 🇳🇿 Auckland
       - POL 🇵🇱 Gdansk
-      - PRY 🇵🇾 Asunción
-      - PRY 🇵🇾 Asunción 2
-      - PRT 🇵🇹 Porto
       - PRC 🇨🇳 China 1
       - PRC 🇨🇳 China 2
       - PRC 🇨🇳 China 3
-      - RUS 🇷🇺 St. Petersburg
+      - PRT 🇵🇹 Porto
+      - PRY 🇵🇾 Asunción
+      - PRY 🇵🇾 Asunción 2
       - RUS 🇷🇺 Moscow
+      - RUS 🇷🇺 St. Petersburg
       - SNG 🇸🇬 Singapore
       - SOAF 🇿🇦 Johannesburg
       - SPN 🇪🇸 Barcelona
@@ -337,12 +339,10 @@ proxy-groups:
       - SVK 🇸🇰 Bratislava
       - SWIT 🇨🇭 Zurich
       - TH 🇹🇭 Bangkok
+      - TUR 🇹🇷  Istanbul
       - TWN 🇹🇼 Taichung
       - TWN 🇹🇼 Taichung 2
       - TWN 🇹🇼 Taichung 3
-      - TUR 🇹🇷  Istanbul
-      - UKR 🇺🇦 Kyiv
-      - UKR 🇺🇦 Kyiv 2
       - UAE 🇦🇪 Dubai 1
       - UAE 🇦🇪 Dubai 2
       - UAE 🇦🇪 Dubai 3
@@ -350,60 +350,63 @@ proxy-groups:
       - UK 🇬🇧 Glasgow 2
       - UK 🇬🇧 Glasgow 3
       - UK 🇬🇧 London 1
-      - UK 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Manchester
-      - UK 🇬🇧 Manchester 2
       - UK 🇬🇧 London 3
       - UK 🇬🇧 London 4
-      - USA 🇺🇸 Houston 1
-      - USA 🇺🇸 Houston 2
-      - USA 🇺🇸 Houston 3
-      - USA 🇺🇸 Houston 4
-      - USA 🇺🇸 Detroit 1
-      - USA 🇺🇸 Detroit 2
-      - USA 🇺🇸 Detroit 3
-      - USA 🇺🇸 Detroit 4
+      - UK 🇬🇧 Manchester 2
+      - UK 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Manchester
+      - UKR 🇺🇦 Kyiv
+      - UKR 🇺🇦 Kyiv 2
+      - USA 🇺🇸 Atlanta
+      - USA 🇺🇸 Bend 1
+      - USA 🇺🇸 Bend 1 2
+      - USA 🇺🇸 Bend 2
+      - USA 🇺🇸 Bend 2 2
+      - USA 🇺🇸 Boston 1
+      - USA 🇺🇸 Charlotte
+      - USA 🇺🇸 Charlotte 1
+      - USA 🇺🇸 Charlotte 2
       - USA 🇺🇸 Chicago 1
       - USA 🇺🇸 Chicago 2
       - USA 🇺🇸 Chicago 3
       - USA 🇺🇸 Chicago 4
-      - USA 🇺🇸 St. Louis 2
-      - USA 🇺🇸 Bend 1
-      - USA 🇺🇸 Bend 2
-      - USA 🇺🇸 Charlotte 1
-      - USA 🇺🇸 Charlotte 2
-      - USA 🇺🇸 New York 2
+      - USA 🇺🇸 Detroit 1
+      - USA 🇺🇸 Detroit 2
+      - USA 🇺🇸 Detroit 3
+      - USA 🇺🇸 Detroit 4
+      - USA 🇺🇸 Houston 1
+      - USA 🇺🇸 Houston 2
+      - USA 🇺🇸 Houston 3
+      - USA 🇺🇸 Houston 4
+      - USA 🇺🇸 Kansas City
       - USA 🇺🇸 Kansas City 1
-      - USA 🇺🇸 Boston 1
-      - USA 🇺🇸 Charlotte
-      - USA 🇺🇸 San Francisco
-      - USA 🇺🇸 Tampa 1
-      - USA 🇺🇸 Tampa 2
-      - USA 🇺🇸 Tampa 3
-      - USA 🇺🇸 Tampa 4
+      - USA 🇺🇸 Kansas City 1 2
+      - USA 🇺🇸 Kansas City 2
+      - USA 🇺🇸 Las Vegas 1
+      - USA 🇺🇸 Las Vegas 2
+      - USA 🇺🇸 Las Vegas 3
+      - USA 🇺🇸 Latham 1
+      - USA 🇺🇸 Latham 2
+      - USA 🇺🇸 Latham 3
       - USA 🇺🇸 Los Angeles 2
       - USA 🇺🇸 Los Angeles 3
       - USA 🇺🇸 Manassas 1
       - USA 🇺🇸 Manassas 2
       - USA 🇺🇸 Manassas 3
-      - USA 🇺🇸 Phoenix 1 2
-      - USA 🇺🇸 Phoenix 2 2
-      - USA 🇺🇸 Bend 1 2
-      - USA 🇺🇸 Bend 2 2
-      - USA 🇺🇸 Latham 1
-      - USA 🇺🇸 Latham 2
-      - USA 🇺🇸 Latham 3
       - USA 🇺🇸 Miami
-      - USA 🇺🇸 Kansas City 1 2
-      - USA 🇺🇸 Kansas City 2
-      - USA 🇺🇸 Atlanta
+      - USA 🇺🇸 New York 2
       - USA 🇺🇸 Orlando 1
       - USA 🇺🇸 Orlando 2
-      - USA 🇺🇸 Kansas City
-      - USA 🇺🇸 Las Vegas 1
-      - USA 🇺🇸 Las Vegas 2
-      - USA 🇺🇸 Las Vegas 3
+      - USA 🇺🇸 Phoenix 1 2
+      - USA 🇺🇸 Phoenix 2 2
+      - USA 🇺🇸 San Francisco
+      - USA 🇺🇸 St. Louis 2
+      - USA 🇺🇸 Tampa 1
+      - USA 🇺🇸 Tampa 2
+      - USA 🇺🇸 Tampa 3
+      - USA 🇺🇸 Tampa 4
       - VNM 🇻🇳 Ho Chi Minh City
       - VNM 🇻🇳 Ho Chi Minh City 2
+
   
   - name: 🔰 vmess & trojan
     type: select
@@ -424,30 +427,32 @@ proxy-groups:
       - CAN 🇨🇦 CAN 11
       - CAN 🇨🇦 CAN 12
       - CAN 🇨🇦 CAN 13
+      - FIN 🇫🇮 Helsinki
+      - FIN 🇫🇮 Helsinki 2
+      - FIN 🇫🇮 Helsinki 3
+      - FIN 🇫🇮 Helsinki 4
       - GER 🇩🇪 GER
       - GER 🇩🇪 GER 2
       - GER 🇩🇪 GER 3
       - GER 🇩🇪 GER 4
       - GER 🇩🇪 GER 5
       - HKG 🇭🇰 Central
+      - HKG 🇭🇰 Hong Kong
       - JPN 🇯🇵 JPN
+      - JPN 🇯🇵 Tokyo 4
+      - JPN 🇯🇵 Tokyo 5
       - KOR 🇰🇷 Incheon
       - POL 🇵🇱 POL
-      - POL 🇵🇱 POL 2
       - RUS 🇷🇺 RUS
       - RUS 🇷🇺 RUS 2
       - RUS 🇷🇺 RUS 3
       - RUS 🇷🇺 RUS 4
+      - RUS 🇷🇺 RUS 5
       - SGP 🇸🇬 Singapore
-      - UK 🇬🇧 London 
-      - USA 🇺🇸 Los Angeles 4
       - USA 🇺🇸 Los Angeles 5
-      - USA 🇺🇸 Los Angeles 6
-      - USA 🇺🇸 Los Angeles 7
-      - USA 🇺🇸 Los Angeles 8
-      - USA 🇺🇸 Los Angeles 9
       - USA 🇺🇸 New York
       - USA 🇺🇸 USA
+      - USA 🇺🇸 Virginia
       - SOAF 🇿🇦 Cape Town 
       - SOAF 🇿🇦 Cape Town 2
 
@@ -648,30 +653,32 @@ proxy-groups:
       - CAN 🇨🇦 CAN 11
       - CAN 🇨🇦 CAN 12
       - CAN 🇨🇦 CAN 13
+      - FIN 🇫🇮 Helsinki
+      - FIN 🇫🇮 Helsinki 2
+      - FIN 🇫🇮 Helsinki 3
+      - FIN 🇫🇮 Helsinki 4
       - GER 🇩🇪 GER
       - GER 🇩🇪 GER 2
       - GER 🇩🇪 GER 3
       - GER 🇩🇪 GER 4
       - GER 🇩🇪 GER 5
       - HKG 🇭🇰 Central
+      - HKG 🇭🇰 Hong Kong
       - JPN 🇯🇵 JPN
+      - JPN 🇯🇵 Tokyo 4
+      - JPN 🇯🇵 Tokyo 5
       - KOR 🇰🇷 Incheon
       - POL 🇵🇱 POL
-      - POL 🇵🇱 POL 2
       - RUS 🇷🇺 RUS
       - RUS 🇷🇺 RUS 2
       - RUS 🇷🇺 RUS 3
       - RUS 🇷🇺 RUS 4
+      - RUS 🇷🇺 RUS 5
       - SGP 🇸🇬 Singapore
-      - UK 🇬🇧 London 
-      - USA 🇺🇸 Los Angeles 4
       - USA 🇺🇸 Los Angeles 5
-      - USA 🇺🇸 Los Angeles 6
-      - USA 🇺🇸 Los Angeles 7
-      - USA 🇺🇸 Los Angeles 8
-      - USA 🇺🇸 Los Angeles 9
       - USA 🇺🇸 New York
       - USA 🇺🇸 USA
+      - USA 🇺🇸 Virginia
       - SOAF 🇿🇦 Cape Town 
       - SOAF 🇿🇦 Cape Town 2
 
