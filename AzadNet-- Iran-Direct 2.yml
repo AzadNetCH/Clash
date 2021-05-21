@@ -217,15 +217,20 @@ proxies:
   - {name: GER 🇩🇪 GER 4, server: 172.67.154.85, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
   - {name: GER 🇩🇪 GER 5, server: cdnde.irteyz.today, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
   - {name: HKG 🇭🇰 Central, server: 42.2.143.119, port: 443, type: vmess, uuid: b707c9e6-3a61-4f0b-8844-9a398cfadfb7, alterId: 2, cipher: auto, tls: true, network: ws, ws-path: /add76314/, ws-headers: {Host: centos.fuchau.xyz}}
-  - {name: HKG 🇭🇰 Hong Kong, server: hk04-n7.xiaoxiaofeng.xyz, port: 20407, type: vmess, uuid: 5e01da15-f6bf-355a-8005-e5d2ebfabe28, alterId: 2, cipher: auto, tls: false}
+  - {name: HKG 🇭🇰 Hong Kong, server: 139.226.50.32, port: 10005, type: vmess, uuid: 2b162f57-f45f-46d0-a4d0-085fc2c9721a, alterId: 1, cipher: auto, tls: false}
   - {name: JPN 🇯🇵 JPN, server: 3.112.230.214, port: 8000, type: vmess, uuid: a326bf45-1c53-4243-e03e-18c39faa330a, alterId: 64, cipher: auto, tls: false}
-  - {name: JPN 🇯🇵 Tokyo 4, server: jp06-n29.xiaoxiaofeng.xyz, port: 20629, type: vmess, uuid: 5e01da15-f6bf-355a-8005-e5d2ebfabe28, alterId: 2, cipher: auto, tls: false}
+  - {name: JPN 🇯🇵 Tokyo 4, server: 139.226.50.32, port: 10001, type: vmess, uuid: 2b162f57-f45f-46d0-a4d0-085fc2c9721a, alterId: 1, cipher: auto, tls: false}
   - {name: JPN 🇯🇵 Tokyo 5, server: gmegme.ga, port: 443, type: vmess, uuid: 160ce2c0-89d2-11eb-aef3-560003425baf, alterId: 12, cipher: auto, tls: true, network: ws, ws-path: /zwWptVxh/, ws-headers: {Host: gmegme.ga}}
-  - {name: KOR 🇰🇷 Incheon, server: 52.79.228.10, port: 32546, type: vmess, uuid: 25b4eb9e-647c-4440-98b3-d21958e24577, alterId: 0, cipher: auto, tls: false}
+  - {name: KOR 🇰🇷 Incheon, server: 139.226.50.32, port: 10002, type: vmess, uuid: 2b162f57-f45f-46d0-a4d0-085fc2c9721a, alterId: 1, cipher: auto, tls: false}
+  - {name: NLD 🇳🇱 NLD, server: 154.84.1.31, port: 443, type: vmess, uuid: 82e9f17c-cac2-45da-9c07-2967980a32a6, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/310910211916, ws-headers: {Host: www.00225384.xyz}}
+  - {name: NLD 🇳🇱 NLD 2, server: 154.84.1.238, port: 443, type: vmess, uuid: 5599a700-4f47-4673-b2c8-a4d9460ab0be, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/310910211916, ws-headers: {Host: www.84849018.xyz}}
+  - {name: NLD 🇳🇱 NLD 3, server: 154.84.1.35, port: 443, type: vmess, uuid: 0415746c-4d6b-49fb-9a8a-e74ad6172d3d, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/310910211916, ws-headers: {Host: www.00722542.xyz}}
   - {name: POL 🇵🇱 POL, server: 95.214.55.120, port: 13256, type: vmess, uuid: 828aacdf-8c06-4bd9-d501-8f4eb506734c, alterId: 64, cipher: auto, tls: false}
+  - {name: PRC 🇨🇳 China 4 , server: 23.224.69.3, port: 443, type: vmess, uuid: 538d3b28-f335-4a0a-bda8-b5065fb1bfb7, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/310910211916, ws-headers: {Host: www.39930935.xyz}}
+  - {name: PRC 🇨🇳 China 5, server: 45.58.145.209, port: 443, type: vmess, uuid: 5f3d2caf-55b6-4af2-9183-329602a3fee0, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/310910211916, ws-headers: {Host: www.12387703.xyz}}
   - {name: RUS 🇷🇺 RUS, server: t6.ssrsub.one, port: 8443, type: trojan, password: qN7AKCF3, sni: t6.ssrsub.one}
   - {name: RUS 🇷🇺 RUS 2, server: t6.ssrsub.one, port: 443, type: trojan, password: QWKM5g6D, sni: t6.ssrsub.one}
-  - {name: RUS 🇷🇺 RUS 3, server: zhongzhuangazhk2.xiaobaiyun.me, port: 800, type: vmess, uuid: 6d04dd65-c0b0-38b0-8d3a-be30a68cb55d, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /hls, ws-headers: {Host: els.xiaobaiyun.me}}
+  - {name: RUS 🇷🇺 RUS 3, server: 185.195.26.193, port: 22526, type: vmess, uuid: 99ab7ff1-147d-341f-b422-010392b589a6, alterId: 16, cipher: auto, tls: false}
   - {name: RUS 🇷🇺 RUS 4, server: free-russian01-cdn.xiaohouzi.club, port: 80, type: vmess, uuid: 3d31728e-064d-42b8-b945-f79c008f73fc, alterId: 233, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: free-russian01-cdn.xiaohouzi.club}}
   - {name: RUS 🇷🇺 RUS 5, server: abc.2589974338.tk, port: 443, type: vmess, uuid: e287b3c6-1cbc-43c7-85ea-65ffe2c80878, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /296b584da/, ws-headers: {Host: abc.2589974338.tk}}
   - {name: SGP 🇸🇬 Singapore, server: sg1.vless.co, port: 443, type: trojan, password: fastssh.com, sni: sg1.vless.co}
@@ -442,6 +447,11 @@ proxy-groups:
       - JPN 🇯🇵 Tokyo 4
       - JPN 🇯🇵 Tokyo 5
       - KOR 🇰🇷 Incheon
+      - NLD 🇳🇱 NLD
+      - NLD 🇳🇱 NLD 2
+      - NLD 🇳🇱 NLD 3
+      - PRC 🇨🇳 China 4
+      - PRC 🇨🇳 China 5
       - POL 🇵🇱 POL
       - RUS 🇷🇺 RUS
       - RUS 🇷🇺 RUS 2
@@ -668,7 +678,12 @@ proxy-groups:
       - JPN 🇯🇵 Tokyo 4
       - JPN 🇯🇵 Tokyo 5
       - KOR 🇰🇷 Incheon
+      - NLD 🇳🇱 NLD
+      - NLD 🇳🇱 NLD 2
+      - NLD 🇳🇱 NLD 3
       - POL 🇵🇱 POL
+      - PRC 🇨🇳 China 4
+      - PRC 🇨🇳 China 5
       - RUS 🇷🇺 RUS
       - RUS 🇷🇺 RUS 2
       - RUS 🇷🇺 RUS 3
@@ -681,7 +696,6 @@ proxy-groups:
       - USA 🇺🇸 Virginia
       - SOAF 🇿🇦 Cape Town 
       - SOAF 🇿🇦 Cape Town 2
-
   - name: ↪️ use (vmess & trojan) group      
     type: select
     proxies:
