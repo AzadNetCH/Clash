@@ -104,7 +104,7 @@ proxies:
   - {name: GER 🇩🇪 Melsungen 2, server: 136.243.191.85, port: 443, type: ssr, cipher: aes-128-ctr, password: sEscPBiAD9K$&@79, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: "", obfs-param: ""}
   - {name: GER 🇩🇪 Melsungen 3, server: 136.243.191.84, port: 443, type: ssr, cipher: aes-128-ctr, password: sEscPBiAD9K$&@79, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: "", obfs-param: ""}
   - {name: GER 🇩🇪 Melsungen 4, server: 136.243.191.88, port: 443, type: ssr, cipher: aes-128-ctr, password: sEscPBiAD9K$&@79, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: "", obfs-param: ""}
-  - {name: GRC 🇬🇷 Athens, server: 194.150.167.52, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: GRC 🇬🇷 Athens, server: 194.150.167.50, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp, udp: true}
   - {name: ISL 🇮🇸 Reykjavik, server: 45.133.193.221, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
   - {name: ISL 🇮🇸 Reykjavik 2, server: 45.133.193.107, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: ITA 🇮🇹 Milan 1, server: 212.102.54.150, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
@@ -274,10 +274,12 @@ proxies:
   - {name: RUS 🇷🇺 RUS 4, server: free-russian01-cdn.xiaohouzi.club, port: 80, type: vmess, uuid: 3d31728e-064d-42b8-b945-f79c008f73fc, alterId: 233, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: free-russian01-cdn.xiaohouzi.club}}
   - {name: RUS 🇷🇺 RUS 5, server: abc.2589974338.tk, port: 443, type: vmess, uuid: e287b3c6-1cbc-43c7-85ea-65ffe2c80878, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /296b584da/, ws-headers: {Host: abc.2589974338.tk}}
   - {name: SGP 🇸🇬 Singapore, server: sg1.vless.co, port: 443, type: trojan, password: fastssh.com, sni: sg1.vless.co}
+  - {name: TWN 🇹🇼 New Taipei, server: 139.226.50.32, port: 10004, type: vmess, uuid: 2b162f57-f45f-46d0-a4d0-085fc2c9721a, alterId: 1, cipher: auto, tls: false}
+  - {name: TWN 🇹🇼 New Taipei 2, server: 183.236.57.52, port: 10003, type: vmess, uuid: 2b162f57-f45f-46d0-a4d0-085fc2c9721a, alterId: 1, cipher: auto, tls: false}
   - {name: USA 🇺🇸 Los Angeles 5, server: t10.ssrsub.one, port: 443, type: trojan, password: XHgvdhp7, sni: t10.ssrsub.one}
   - {name: USA 🇺🇸 New York, server: 84.17.35.86, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
   - {name: USA 🇺🇸 USA, server: 23.224.31.210, port: 443, type: vmess, uuid: 4aa50ee1-1a3c-4ab5-8f4a-998f8ccedd06, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/270119141029, ws-headers: {Host: www.53933374.xyz}}
-  - {name: USA 🇺🇸 Virginia, server: 54.234.47.199, port: 80, type: vmess, uuid: 539824e3-b66c-4157-dedf-aff4631b9201, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /Downloads/tg-sharecentre.exe, ws-headers: {Host: download.microsoft.com}}
+  - {name: USA 🇺🇸 Portland, server: 23.225.57.203, port: 443, type: vmess, uuid: 811782d9-6cdb-45dd-9448-1ec4c47ad564, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/310910211916, ws-headers: {Host: www.34428394.xyz}}
   - {name: SOAF 🇿🇦 Cape Town, server: 13.245.16.126, port: 20404, type: vmess, uuid: 559636c7-b5a2-450c-9b5e-0dc8fc14f4f5, alterId: 64, cipher: auto, tls: false}
   - {name: SOAF 🇿🇦 Cape Town 2, server: 13.245.13.47, port: 45623, type: vmess, uuid: a443853f-ce89-4b7c-e6f5-a5ad018085bf, alterId: 64, cipher: auto, tls: false}
 
@@ -499,10 +501,12 @@ proxy-groups:
       - RUS 🇷🇺 RUS 4
       - RUS 🇷🇺 RUS 5
       - SGP 🇸🇬 Singapore
+      - TWN 🇹🇼 New Taipei
+      - TWN 🇹🇼 New Taipei 2
       - USA 🇺🇸 Los Angeles 5
       - USA 🇺🇸 New York
       - USA 🇺🇸 USA
-      - USA 🇺🇸 Virginia
+      - USA 🇺🇸 Portland
       - SOAF 🇿🇦 Cape Town 
       - SOAF 🇿🇦 Cape Town 2
 
@@ -730,10 +734,12 @@ proxy-groups:
       - RUS 🇷🇺 RUS 4
       - RUS 🇷🇺 RUS 5
       - SGP 🇸🇬 Singapore
+      - TWN 🇹🇼 New Taipei
+      - TWN 🇹🇼 New Taipei 2
       - USA 🇺🇸 Los Angeles 5
       - USA 🇺🇸 New York
       - USA 🇺🇸 USA
-      - USA 🇺🇸 Virginia
+      - USA 🇺🇸 Portland
       - SOAF 🇿🇦 Cape Town 
       - SOAF 🇿🇦 Cape Town 2
 
