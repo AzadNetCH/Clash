@@ -104,14 +104,14 @@ proxies:
   - {name: GER 🇩🇪 Melsungen 2, server: 136.243.191.85, port: 443, type: ssr, cipher: aes-128-ctr, password: sEscPBiAD9K$&@79, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: "", obfs-param: ""}
   - {name: GER 🇩🇪 Melsungen 3, server: 136.243.191.84, port: 443, type: ssr, cipher: aes-128-ctr, password: sEscPBiAD9K$&@79, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: "", obfs-param: ""}
   - {name: GER 🇩🇪 Melsungen 4, server: 136.243.191.88, port: 443, type: ssr, cipher: aes-128-ctr, password: sEscPBiAD9K$&@79, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: "", obfs-param: ""}
-  - {name: GRC 🇬🇷 Athens, server: 194.150.167.52, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: GRC 🇬🇷 Athens, server: 194.150.167.50, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp, udp: true}
   - {name: ISL 🇮🇸 Reykjavik, server: 45.133.193.221, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
   - {name: ISL 🇮🇸 Reykjavik 2, server: 45.133.193.107, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: ITA 🇮🇹 Milan 1, server: 212.102.54.150, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
   - {name: ITA 🇮🇹 Milan 2, server: 212.102.55.68, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
   - {name: ITA 🇮🇹 Milan 3, server: 212.102.55.68, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
   - {name: ITA 🇮🇹 Milan 4, server: 84.17.58.148, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
-  - {name: ITA 🇮🇹 Rome, server: 82.102.26.53, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: ITA 🇮🇹 Rome, server: 82.102.26.93, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
   - {name: IRL 🇮🇪 Dublin, server: 23.92.127.91, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
   - {name: IRL 🇮🇪 Dublin 2, server: 5.157.13.101, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: IRL 🇮🇪 Dublin 3, server: 23.92.127.91, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
@@ -120,8 +120,8 @@ proxies:
   - {name: IND 🇮🇳 Chennai, server: 103.94.27.229, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
   - {name: IND 🇮🇳 Chennai 2, server: 103.94.27.229, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
   - {name: LUX 🇱🇺 Luxembourg, server: 185.153.151.118, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp, udp: true}
-  - {name: LIT 🇱🇹 Vilnius, server: 188.92.78.150, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: LVA 🇱🇻 Riga, server: 188.92.78.150, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: LIT 🇱🇹 Vilnius, server: 188.92.78.137, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp, udp: true}
+  - {name: LVA 🇱🇻 Riga, server: 91.203.69.176, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
   - {name: MYS 🇲🇾 Kuala Lumpur, server: 42.0.30.164, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
   - {name: MDA 🇲🇩 Chișinău, server: 194.33.40.112, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: MKD 🇲🇰 Skopje, server: 185.225.28.85, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
@@ -228,25 +228,25 @@ proxies:
   - {name: JPN 🇯🇵 Tokyo 2, server: 89.187.161.239, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: JPN 🇯🇵 Tokyo 3, server: n43.boom.party, port: 24000, type: ssr, cipher: aes-256-cfb, password: Uk92CS, protocol: auth_aes128_sha1, obfs: http_simple, protocol-param: 60816:vergil, obfs-param: download.windowsupdate.com}
   - {name: SNG 🇸🇬 Singapore, server: 89.187.163.132, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna, udp: true}
-  - {name: TWN 🇹🇼 Taichung, server: 2.58.241.43, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: TWN 🇹🇼 Taichung, server: 188.92.78.137, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp, udp: true}
   - {name: TWN 🇹🇼 Taichung 2, server: 103.152.151.85, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
   - {name: TWN 🇹🇼 Taichung 3, server: 103.152.151.69, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
   - {name: TH 🇹🇭 Bangkok, server: 27.131.138.176, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
   
   - {name: BHR 🇧🇭 Dar Kulayb, server: MrLinux.Ga, port: 14474, type: vmess, uuid: fd0239b1-9d67-4867-fb7e-e14946b120af, alterId: 64, cipher: auto, tls: false}
-  - {name: CAN 🇨🇦 CAN, server: t9.ssrsub.one, port: 8443, type: trojan, password: 4krgbBXY, sni: t9.ssrsub.one}
-  - {name: CAN 🇨🇦 CAN 2, server: t5.ssrsub.one, port: 443, type: trojan, password: R5DNgT2E, sni: t5.ssrsub.one}
-  - {name: CAN 🇨🇦 CAN 3, server: t3.ssrsub.one, port: 443, type: trojan, password: a0Ndyox5, sni: t3.ssrsub.one}
-  - {name: CAN 🇨🇦 CAN 4, server: t9.ssrsub.one, port: 443, type: trojan, password: eNPxHq1V, sni: t9.ssrsub.one}
-  - {name: CAN 🇨🇦 CAN 5, server: t5.ssrsub.one, port: 8443, type: trojan, password: BzSTIgwh, sni: t5.ssrsub.one}
-  - {name: CAN 🇨🇦 CAN 6, server: t1.ssrsub.one, port: 443, type: trojan, password: oniTKdGW, sni: t1.ssrsub.one}
-  - {name: CAN 🇨🇦 CAN 7, server: t2.ssrsub.one, port: 8443, type: trojan, password: N8l9RGMa, sni: t2.ssrsub.one}
-  - {name: CAN 🇨🇦 CAN 8, server: t3.ssrsub.one, port: 8443, type: trojan, password: KWEeV3fI, sni: t3.ssrsub.one}
-  - {name: CAN 🇨🇦 CAN 9, server: t2.ssrsub.one, port: 443, type: trojan, password: 7LKeQVSq, sni: t2.ssrsub.one}
-  - {name: CAN 🇨🇦 CAN 10, server: t10.ssrsub.one, port: 8443, type: trojan, password: AQ4K3wJZ, sni: t10.ssrsub.one}
-  - {name: CAN 🇨🇦 CAN 11, server: t4.ssrsub.one, port: 443, type: trojan, password: fFHV52LP, sni: t4.ssrsub.one}
-  - {name: CAN 🇨🇦 CAN 12, server: t4.ssrsub.one, port: 8443, type: trojan, password: 8l5DUdeb, sni: t4.ssrsub.one}
-  - {name: CAN 🇨🇦 CAN 13, server: t1.ssrsub.one, port: 8443, type: trojan, password: Od80tcru, sni: t1.ssrsub.one}
+  - {name: CAN 🇨🇦 CAN, server: t1.ssrsub.one, port: 443, type: trojan, password: ErcILMD9, sni: t1.ssrsub.one}
+  - {name: CAN 🇨🇦 CAN 2, server: t2.ssrsub.one, port: 443, type: trojan, password: iz3Ndcw8, sni: t2.ssrsub.one}
+  - {name: CAN 🇨🇦 CAN 3, server: t3.ssrsub.one, port: 443, type: trojan, password: OphX58kC, sni: t3.ssrsub.one}
+  - {name: CAN 🇨🇦 CAN 4, server: t4.ssrsub.one, port: 443, type: trojan, password: H5i0RJMt, sni: t4.ssrsub.one}
+  - {name: CAN 🇨🇦 CAN 5, server: t5.ssrsub.one, port: 443, type: trojan, password: arfAuXgC, sni: t5.ssrsub.one}
+  - {name: CAN 🇨🇦 CAN 6, server: t9.ssrsub.one, port: 443, type: trojan, password: nbIdUA3l, sni: t9.ssrsub.one}
+  - {name: CAN 🇨🇦 CAN 7, server: t1.ssrsub.one, port: 8443, type: trojan, password: tgJX9TkN, sni: t1.ssrsub.one}
+  - {name: CAN 🇨🇦 CAN 8, server: t2.ssrsub.one, port: 8443, type: trojan, password: kpbSFNC1, sni: t2.ssrsub.one}
+  - {name: CAN 🇨🇦 CAN 9, server: t3.ssrsub.one, port: 8443, type: trojan, password: 1PVhDs6Z, sni: t3.ssrsub.one}
+  - {name: CAN 🇨🇦 CAN 10, server: t4.ssrsub.one, port: 8443, type: trojan, password: G3NqPEnb, sni: t4.ssrsub.one}
+  - {name: CAN 🇨🇦 CAN 11, server: t5.ssrsub.one, port: 8443, type: trojan, password: Ze0QhSoV, sni: t5.ssrsub.one}
+  - {name: CAN 🇨🇦 CAN 12, server: t9.ssrsub.one, port: 8443, type: trojan, password: IHcoDtOG, sni: t9.ssrsub.one}
+  - {name: CAN 🇨🇦 CAN 13, server: ssr1.ssrsub.one, port: 57479, type: ss, cipher: aes-256-cfb, password: https://dlj.tf/ssrsub}
   - {name: FIN 🇫🇮 Helsinki, server: 172.67.154.85, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
   - {name: FIN 🇫🇮 Helsinki 2, server: 104.18.6.138, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
   - {name: FIN 🇫🇮 Helsinki 3, server: 104.21.48.161, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
@@ -261,23 +261,25 @@ proxies:
   - {name: JPN 🇯🇵 JPN, server: 3.112.230.214, port: 8000, type: vmess, uuid: a326bf45-1c53-4243-e03e-18c39faa330a, alterId: 64, cipher: auto, tls: false}
   - {name: JPN 🇯🇵 Tokyo 4, server: 139.226.50.32, port: 10001, type: vmess, uuid: 2b162f57-f45f-46d0-a4d0-085fc2c9721a, alterId: 1, cipher: auto, tls: false}
   - {name: JPN 🇯🇵 Tokyo 5, server: gmegme.ga, port: 443, type: vmess, uuid: 160ce2c0-89d2-11eb-aef3-560003425baf, alterId: 12, cipher: auto, tls: true, network: ws, ws-path: /zwWptVxh/, ws-headers: {Host: gmegme.ga}}
-  - {name: KOR 🇰🇷 Incheon, server: 139.226.50.32, port: 10002, type: vmess, uuid: 2b162f57-f45f-46d0-a4d0-085fc2c9721a, alterId: 1, cipher: auto, tls: false}
+  - {name: KOR 🇰🇷 Incheon, server: cjzz.lygvpn.xyz, port: 31080, type: vmess, uuid: 99ab7ff1-147d-341f-b422-010392b589a6, alterId: 16, cipher: auto, tls: false}
   - {name: NLD 🇳🇱 NLD, server: 154.84.1.31, port: 443, type: vmess, uuid: 82e9f17c-cac2-45da-9c07-2967980a32a6, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/310910211916, ws-headers: {Host: www.00225384.xyz}}
   - {name: NLD 🇳🇱 NLD 2, server: 154.84.1.238, port: 443, type: vmess, uuid: 5599a700-4f47-4673-b2c8-a4d9460ab0be, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/310910211916, ws-headers: {Host: www.84849018.xyz}}
   - {name: NLD 🇳🇱 NLD 3, server: 154.84.1.35, port: 443, type: vmess, uuid: 0415746c-4d6b-49fb-9a8a-e74ad6172d3d, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/310910211916, ws-headers: {Host: www.00722542.xyz}}
   - {name: POL 🇵🇱 POL, server: 95.214.55.120, port: 13256, type: vmess, uuid: 828aacdf-8c06-4bd9-d501-8f4eb506734c, alterId: 64, cipher: auto, tls: false}
   - {name: PRC 🇨🇳 China 4 , server: 23.224.69.3, port: 443, type: vmess, uuid: 538d3b28-f335-4a0a-bda8-b5065fb1bfb7, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/310910211916, ws-headers: {Host: www.39930935.xyz}}
   - {name: PRC 🇨🇳 China 5, server: 45.58.145.209, port: 443, type: vmess, uuid: 5f3d2caf-55b6-4af2-9183-329602a3fee0, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/310910211916, ws-headers: {Host: www.12387703.xyz}}
-  - {name: RUS 🇷🇺 RUS, server: t6.ssrsub.one, port: 8443, type: trojan, password: qN7AKCF3, sni: t6.ssrsub.one}
-  - {name: RUS 🇷🇺 RUS 2, server: t6.ssrsub.one, port: 443, type: trojan, password: QWKM5g6D, sni: t6.ssrsub.one}
+  - {name: RUS 🇷🇺 RUS, server: t6.ssrsub.one, port: 8443, type: trojan, password: FQNrGvR1, sni: t6.ssrsub.one}
+  - {name: RUS 🇷🇺 RUS 2, server: t6.ssrsub.one, port: 443, type: trojan, password: 5N2zEIuC, sni: t6.ssrsub.one}
   - {name: RUS 🇷🇺 RUS 3, server: 185.195.26.193, port: 22526, type: vmess, uuid: 99ab7ff1-147d-341f-b422-010392b589a6, alterId: 16, cipher: auto, tls: false}
   - {name: RUS 🇷🇺 RUS 4, server: free-russian01-cdn.xiaohouzi.club, port: 80, type: vmess, uuid: 3d31728e-064d-42b8-b945-f79c008f73fc, alterId: 233, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: free-russian01-cdn.xiaohouzi.club}}
   - {name: RUS 🇷🇺 RUS 5, server: abc.2589974338.tk, port: 443, type: vmess, uuid: e287b3c6-1cbc-43c7-85ea-65ffe2c80878, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /296b584da/, ws-headers: {Host: abc.2589974338.tk}}
   - {name: SGP 🇸🇬 Singapore, server: sg1.vless.co, port: 443, type: trojan, password: fastssh.com, sni: sg1.vless.co}
-  - {name: USA 🇺🇸 Los Angeles 5, server: t10.ssrsub.one, port: 443, type: trojan, password: XHgvdhp7, sni: t10.ssrsub.one}
+  - {name: TWN 🇹🇼 New Taipei, server: 139.226.50.32, port: 10004, type: vmess, uuid: 2b162f57-f45f-46d0-a4d0-085fc2c9721a, alterId: 1, cipher: auto, tls: false}
+  - {name: TWN 🇹🇼 New Taipei 2, server: 183.236.57.52, port: 10003, type: vmess, uuid: 2b162f57-f45f-46d0-a4d0-085fc2c9721a, alterId: 1, cipher: auto, tls: false}
+  - {name: USA 🇺🇸 Los Angeles 5, server: t10.ssrsub.one, port: 443, type: trojan, password: xKbpjiVz, sni: t10.ssrsub.one}
   - {name: USA 🇺🇸 New York, server: 84.17.35.86, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
   - {name: USA 🇺🇸 USA, server: 23.224.31.210, port: 443, type: vmess, uuid: 4aa50ee1-1a3c-4ab5-8f4a-998f8ccedd06, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/270119141029, ws-headers: {Host: www.53933374.xyz}}
-  - {name: USA 🇺🇸 Virginia, server: 54.234.47.199, port: 80, type: vmess, uuid: 539824e3-b66c-4157-dedf-aff4631b9201, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /Downloads/tg-sharecentre.exe, ws-headers: {Host: download.microsoft.com}}
+  - {name: USA 🇺🇸 Portland, server: 23.225.57.203, port: 443, type: vmess, uuid: 811782d9-6cdb-45dd-9448-1ec4c47ad564, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/310910211916, ws-headers: {Host: www.34428394.xyz}}
   - {name: SOAF 🇿🇦 Cape Town, server: 13.245.16.126, port: 20404, type: vmess, uuid: 559636c7-b5a2-450c-9b5e-0dc8fc14f4f5, alterId: 64, cipher: auto, tls: false}
   - {name: SOAF 🇿🇦 Cape Town 2, server: 13.245.13.47, port: 45623, type: vmess, uuid: a443853f-ce89-4b7c-e6f5-a5ad018085bf, alterId: 64, cipher: auto, tls: false}
 
@@ -499,10 +501,12 @@ proxy-groups:
       - RUS 🇷🇺 RUS 4
       - RUS 🇷🇺 RUS 5
       - SGP 🇸🇬 Singapore
+      - TWN 🇹🇼 New Taipei
+      - TWN 🇹🇼 New Taipei 2
       - USA 🇺🇸 Los Angeles 5
       - USA 🇺🇸 New York
       - USA 🇺🇸 USA
-      - USA 🇺🇸 Virginia
+      - USA 🇺🇸 Portland
       - SOAF 🇿🇦 Cape Town 
       - SOAF 🇿🇦 Cape Town 2
 
@@ -730,10 +734,12 @@ proxy-groups:
       - RUS 🇷🇺 RUS 4
       - RUS 🇷🇺 RUS 5
       - SGP 🇸🇬 Singapore
+      - TWN 🇹🇼 New Taipei
+      - TWN 🇹🇼 New Taipei 2
       - USA 🇺🇸 Los Angeles 5
       - USA 🇺🇸 New York
       - USA 🇺🇸 USA
-      - USA 🇺🇸 Virginia
+      - USA 🇺🇸 Portland
       - SOAF 🇿🇦 Cape Town 
       - SOAF 🇿🇦 Cape Town 2
   - name: ↪️ use (vmess & trojan) group      
