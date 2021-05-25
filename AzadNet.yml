@@ -246,7 +246,7 @@ proxies:
   - {name: CAN 🇨🇦 CAN 10, server: t4.ssrsub.one, port: 8443, type: trojan, password: G3NqPEnb, sni: t4.ssrsub.one}
   - {name: CAN 🇨🇦 CAN 11, server: t5.ssrsub.one, port: 8443, type: trojan, password: Ze0QhSoV, sni: t5.ssrsub.one}
   - {name: CAN 🇨🇦 CAN 12, server: t9.ssrsub.one, port: 8443, type: trojan, password: IHcoDtOG, sni: t9.ssrsub.one}
-  - {name: CAN 🇨🇦 CAN 13, server: ssr1.ssrsub.one, port: 57479, type: ss, cipher: aes-256-cfb, password: https://dlj.tf/ssrsub}
+  - {name: CAN 🇨🇦 CAN 13, server: t5.ssrsub.one, port: 8443, type: trojan, password: Ze0QhSoV, sni: t5.ssrsub.one}
   - {name: FIN 🇫🇮 Helsinki, server: 172.67.154.85, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
   - {name: FIN 🇫🇮 Helsinki 2, server: 104.18.6.138, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
   - {name: FIN 🇫🇮 Helsinki 3, server: 104.21.48.161, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
@@ -261,7 +261,7 @@ proxies:
   - {name: JPN 🇯🇵 JPN, server: 3.112.230.214, port: 8000, type: vmess, uuid: a326bf45-1c53-4243-e03e-18c39faa330a, alterId: 64, cipher: auto, tls: false}
   - {name: JPN 🇯🇵 Tokyo 4, server: 139.226.50.32, port: 10001, type: vmess, uuid: 2b162f57-f45f-46d0-a4d0-085fc2c9721a, alterId: 1, cipher: auto, tls: false}
   - {name: JPN 🇯🇵 Tokyo 5, server: gmegme.ga, port: 443, type: vmess, uuid: 160ce2c0-89d2-11eb-aef3-560003425baf, alterId: 12, cipher: auto, tls: true, network: ws, ws-path: /zwWptVxh/, ws-headers: {Host: gmegme.ga}}
-  - {name: KOR 🇰🇷 Incheon, server: cjzz.lygvpn.xyz, port: 31080, type: vmess, uuid: 99ab7ff1-147d-341f-b422-010392b589a6, alterId: 16, cipher: auto, tls: false}
+  - {name: KOR 🇰🇷 Incheon, server: 3.35.175.255, port: 52025, type: vmess, uuid: 7acbe87b-a979-444c-bf14-9e866473f883, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 3.35.175.255}}
   - {name: NLD 🇳🇱 NLD, server: 154.84.1.31, port: 443, type: vmess, uuid: 82e9f17c-cac2-45da-9c07-2967980a32a6, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/310910211916, ws-headers: {Host: www.00225384.xyz}}
   - {name: NLD 🇳🇱 NLD 2, server: 154.84.1.238, port: 443, type: vmess, uuid: 5599a700-4f47-4673-b2c8-a4d9460ab0be, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/310910211916, ws-headers: {Host: www.84849018.xyz}}
   - {name: NLD 🇳🇱 NLD 3, server: 154.84.1.35, port: 443, type: vmess, uuid: 0415746c-4d6b-49fb-9a8a-e74ad6172d3d, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/310910211916, ws-headers: {Host: www.00722542.xyz}}
@@ -277,7 +277,7 @@ proxies:
   - {name: TWN 🇹🇼 New Taipei, server: 139.226.50.32, port: 10004, type: vmess, uuid: 2b162f57-f45f-46d0-a4d0-085fc2c9721a, alterId: 1, cipher: auto, tls: false}
   - {name: TWN 🇹🇼 New Taipei 2, server: 183.236.57.52, port: 10003, type: vmess, uuid: 2b162f57-f45f-46d0-a4d0-085fc2c9721a, alterId: 1, cipher: auto, tls: false}
   - {name: USA 🇺🇸 Los Angeles 5, server: t10.ssrsub.one, port: 443, type: trojan, password: xKbpjiVz, sni: t10.ssrsub.one}
-  - {name: USA 🇺🇸 New York, server: 84.17.35.86, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: USA 🇺🇸 Los Angeles 6, server: 23.224.8.82, port: 443, type: vmess, uuid: 74e4c336-aaa3-4c41-9a0d-bea94e71833b, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/310910211916, ws-headers: {Host: www.78651322.xyz}}
   - {name: USA 🇺🇸 USA, server: 23.224.31.210, port: 443, type: vmess, uuid: 4aa50ee1-1a3c-4ab5-8f4a-998f8ccedd06, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/270119141029, ws-headers: {Host: www.53933374.xyz}}
   - {name: USA 🇺🇸 Portland, server: 23.225.57.203, port: 443, type: vmess, uuid: 811782d9-6cdb-45dd-9448-1ec4c47ad564, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/310910211916, ws-headers: {Host: www.34428394.xyz}}
   - {name: SOAF 🇿🇦 Cape Town, server: 13.245.16.126, port: 20404, type: vmess, uuid: 559636c7-b5a2-450c-9b5e-0dc8fc14f4f5, alterId: 64, cipher: auto, tls: false}
@@ -504,7 +504,7 @@ proxy-groups:
       - TWN 🇹🇼 New Taipei
       - TWN 🇹🇼 New Taipei 2
       - USA 🇺🇸 Los Angeles 5
-      - USA 🇺🇸 New York
+      - USA 🇺🇸 Los Angeles 6
       - USA 🇺🇸 USA
       - USA 🇺🇸 Portland
       - SOAF 🇿🇦 Cape Town 
@@ -737,7 +737,7 @@ proxy-groups:
       - TWN 🇹🇼 New Taipei
       - TWN 🇹🇼 New Taipei 2
       - USA 🇺🇸 Los Angeles 5
-      - USA 🇺🇸 New York
+      - USA 🇺🇸 Los Angeles 6
       - USA 🇺🇸 USA
       - USA 🇺🇸 Portland
       - SOAF 🇿🇦 Cape Town 
