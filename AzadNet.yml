@@ -70,7 +70,7 @@ proxies:
   - {name: BiH 🇧🇦 Sarajevo, server: 185.99.3.207, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
   - {name: BEL 🇧🇪 Brussels 1, server: 194.110.115.85, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
   - {name: BEL 🇧🇪 Brussels 2, server: 194.110.115.69,  port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp, udp: true}
-  - {name: BEL 🇧🇪 Brussels 3, server: 194.110.115.91,  port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp, udp: true}
+  - {name: BEL 🇧🇪 Brussels 3, server: 194.110.115.93,  port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp, udp: true}
   - {name: BEL 🇧🇪 Brussels 4, server: 91.90.123.163, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
   - {name: BRA 🇧🇷 Sao Paulo, server: 191.96.13.212, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
   - {name: BRA 🇧🇷 Sao Paulo 2, server: 45.231.207.72, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
@@ -154,10 +154,8 @@ proxies:
   - {name: UAE 🇦🇪 Dubai 1, server: 45.9.249.246, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: UAE 🇦🇪 Dubai 2, server: 176.125.231.3, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: UAE 🇦🇪 Dubai 3, server: 176.125.231.13, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
-  - {name: UK 🇬🇧 Glasgow 1, server: 185.108.105.186, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna, udp: true}
-  - {name: UK 🇬🇧 Glasgow 2, server: 185.108.105.243, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna, udp: true}
-  - {name: UK 🇬🇧 Glasgow 3, server: 185.108.105.235, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna, udp: true}
-  - {name: UK 🇬🇧 London 1, server: 185.44.76.104, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna, udp: true}
+  - {name: UK 🇬🇧 Glasgow, server: 185.108.105.186, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna, udp: true}
+  - {name: UK 🇬🇧 London 1, server: 195.206.169.203, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna, udp: true}
   - {name: UK 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Manchester, server: 91.90.121.187, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: UK 🇬🇧 Manchester 2, server: 89.238.135.35, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna, udp: true}
   - {name: UK 🇬🇧 London 3, server: 195.206.169.203, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
@@ -393,9 +391,7 @@ proxy-groups:
       - UAE 🇦🇪 Dubai 1
       - UAE 🇦🇪 Dubai 2
       - UAE 🇦🇪 Dubai 3
-      - UK 🇬🇧 Glasgow 1
-      - UK 🇬🇧 Glasgow 2
-      - UK 🇬🇧 Glasgow 3
+      - UK 🇬🇧 Glasgow
       - UK 🇬🇧 London 1
       - UK 🇬🇧 London 3
       - UK 🇬🇧 London 4
@@ -615,9 +611,7 @@ proxy-groups:
       - UAE 🇦🇪 Dubai 1
       - UAE 🇦🇪 Dubai 2
       - UAE 🇦🇪 Dubai 3
-      - UK 🇬🇧 Glasgow 1
-      - UK 🇬🇧 Glasgow 2
-      - UK 🇬🇧 Glasgow 3
+      - UK 🇬🇧 Glasgow
       - UK 🇬🇧 London 1
       - UK 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Manchester
       - UK 🇬🇧 Manchester 2
