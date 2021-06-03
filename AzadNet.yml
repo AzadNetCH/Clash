@@ -83,7 +83,7 @@ proxies:
   - {name: CZE 🇨🇿 Prague, server: 185.180.14.149, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
   - {name: DNK 🇩🇰 Copenhagen, server: 193.29.107.237, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp,}
   - {name: DNK 🇩🇰 Copenhagen 2, server: 89.45.7.51, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp, udp: true}
-  - {name: EST 🇪🇪 Tallinn, server: 185.174.159.136, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: EST 🇪🇪 Tallinn, server: 185.174.159.133, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
   - {name: FRA 🇫🇷 Paris 1, server: 84.17.43.180, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna, udp: true}
   - {name: FRA 🇫🇷 Bordeaux 2, server: 185.108.106.106, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna, udp: true}
   - {name: FRA 🇫🇷 Paris 2, server: 143.244.57.103, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna, udp: true}
