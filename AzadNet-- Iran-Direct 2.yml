@@ -26,7 +26,7 @@ proxies:
   - {name: AUS 🇦🇺 Perth, server: 124.150.139.29, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
   - {name: AUS 🇦🇺 Sydney, server: 45.125.247.109, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
   - {name: AZR 🇦🇿 Baku,  server: 62.212.239.69, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: AZR 🇦🇿 Baku 2, server: 62.212.239.51, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: AZR 🇦🇿 Baku 2, server: 62.212.239.43, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
   - {name: BiH 🇧🇦 Sarajevo, server: 185.99.3.100, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
   - {name: BEL 🇧🇪 Brussels 1, server: 91.90.123.197, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
   - {name: BEL 🇧🇪 Brussels 2, server: 194.110.115.69,  port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp, udp: true}
@@ -188,19 +188,19 @@ proxies:
   - {name: TH 🇹🇭 Bangkok, server: 2.58.241.163, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
   
   - {name: BHR 🇧🇭 Dar Kulayb, server: MrLinux.Ga, port: 14474, type: vmess, uuid: fd0239b1-9d67-4867-fb7e-e14946b120af, alterId: 64, cipher: auto, tls: false}
-  - {name: CAN 🇨🇦 CAN, server: t1.ssrsub.one, port: 8443, type: trojan, password: vnsD7WKXpO, sni: t1.ssrsub.one}
-  - {name: CAN 🇨🇦 CAN 2, server: t2.ssrsub.one, port: 8443, type: trojan, password: vnsD7WKXpO, sni: t2.ssrsub.one}
-  - {name: CAN 🇨🇦 CAN 3, server: 142.47.219.13, port: 443, type: vmess, uuid: 56a8c421-0d29-4b6b-c916-46e6f35ef98c, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /ssrsub, ws-headers: {Host: t4.ssrsub.one}}
-  - {name: CAN 🇨🇦 CAN 4, server: t4.ssrsub.one, port: 8443, type: trojan, password: vnsD7WKXpO, sni: t4.ssrsub.one}
-  - {name: CAN 🇨🇦 CAN 5, server: t5.ssrsub.one, port: 8443, type: trojan, password: vnsD7WKXpO, sni: t5.ssrsub.one}
-  - {name: CAN 🇨🇦 CAN 6, server: 45.62.229.13, port: 443, type: vmess, uuid: 56a8c421-0d29-4b6b-c916-46e6f35ef98c, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /ssrsub, ws-headers: {Host: t5.ssrsub.one}}
-  - {name: CAN 🇨🇦 CAN 7, server: t1.ssrsub.one, port: 8443, type: trojan, password: vnsD7WKXpO, sni: t1.ssrsub.one}
-  - {name: CAN 🇨🇦 CAN 8, server: t2.ssrsub.one, port: 8443, type: trojan, password: vnsD7WKXpO, sni: t2.ssrsub.one}
-  - {name: CAN 🇨🇦 CAN 9, server: 45.62.233.34, port: 443, type: vmess, uuid: 56a8c421-0d29-4b6b-c916-46e6f35ef98c, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /ssrsub, ws-headers: {Host: t2.ssrsub.one}}
-  - {name: CAN 🇨🇦 CAN 10, server: t4.ssrsub.one, port: 8443, type: trojan, password: vnsD7WKXpO, sni: t4.ssrsub.one}
-  - {name: CAN 🇨🇦 CAN 11, server: t5.ssrsub.one, port: 8443, type: trojan, password: vnsD7WKXpO, sni: t5.ssrsub.one}
-  - {name: CAN 🇨🇦 CAN 12, server: t9.ssrsub.one, port: 8443, type: trojan, password: vnsD7WKXpO, sni: t9.ssrsub.one}
-  - {name: CAN 🇨🇦 CAN 13, server: t5.ssrsub.one, port: 8443, type: trojan, password: vnsD7WKXpO, sni: t5.ssrsub.one}
+  - {name: CAN 🇨🇦 CAN, server: t1.ssrsub.one, port: 8443, type: trojan, password: upfdQ5t4, sni: t1.ssrsub.one}
+  - {name: CAN 🇨🇦 CAN 2, server: t2.ssrsub.one, port: 8443, type: trojan, password: CNd95TWH, sni: t2.ssrsub.one}
+  - {name: CAN 🇨🇦 CAN 3, server: t3.ssrsub.one, port: 8443, type: trojan, password: rvAjK7R2, sni: t3.ssrsub.one}
+  - {name: CAN 🇨🇦 CAN 4, server: t4.ssrsub.one, port: 8443, type: trojan, password: KTxHfpze, sni: t4.ssrsub.one}
+  - {name: CAN 🇨🇦 CAN 5, server: t5.ssrsub.one, port: 8443, type: trojan, password: JIwQySqZ, sni: t5.ssrsub.one}
+  - {name: CAN 🇨🇦 CAN 6, server: 45.62.245.20, port: 2096, type: vmess, uuid: a106688c-c1e1-11eb-b58f-0050569b799a, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /2fMz3Seh/, ws-headers: {Host: a1.ssrsub.one}}
+  - {name: CAN 🇨🇦 CAN 7, server: 45.62.233.34, port: 2096, type: vmess, uuid: b6b44b86-c1e1-11eb-85a3-0050569b8c57, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /IfRHiCow/, ws-headers: {Host: a2.ssrsub.one}}
+  - {name: CAN 🇨🇦 CAN 8, server: 45.62.233.142, port: 2096, type: vmess, uuid: bf53c406-c1e1-11eb-a686-0050569bb8c9, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /hBozMgCA/, ws-headers: {Host: a3.ssrsub.one}}
+  - {name: CAN 🇨🇦 CAN 9, server: 142.47.219.13, port: 2096, type: vmess, uuid: bce319a6-c1e1-11eb-8936-0050569b2f15, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /OW1k0fXV/, ws-headers: {Host: a4.ssrsub.one}}
+  - {name: CAN 🇨🇦 CAN 10, server: 45.62.233.124, port: 2096, type: vmess, uuid: 2fa32b4c-c526-11eb-a8de-0050569b1c48, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /rLwU3z5p/, ws-headers: {Host: a5.ssrsub.one}}
+  - {name: CAN 🇨🇦 CAN 11, server: b2.ssrsub.one, port: 2083, type: vmess, uuid: 83d941a6-c526-11eb-9988-0050569b8c57, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /3RrwIfy5/, ws-headers: {Host: b2.ssrsub.one}}
+  - {name: CAN 🇨🇦 CAN 12, server: b3.ssrsub.one, port: 2083, type: vmess, uuid: 84758fb6-c526-11eb-b2c2-0050569bb8c9, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /9GXHAucm/, ws-headers: {Host: b3.ssrsub.one}}
+  - {name: CAN 🇨🇦 CAN 13, server: b4.ssrsub.one, port: 2083, type: vmess, uuid: 86231798-c526-11eb-9fd1-0050569b2f15, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /wkdgWCuL/, ws-headers: {Host: b4.ssrsub.one}}
   - {name: FIN 🇫🇮 Helsinki, server: 172.67.154.85, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
   - {name: FIN 🇫🇮 Helsinki 2, server: 104.18.6.138, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
   - {name: FIN 🇫🇮 Helsinki 3, server: 104.21.48.161, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
@@ -224,17 +224,17 @@ proxies:
   - {name: PRC 🇨🇳 China 4 , server: 137.175.20.29, port: 443, type: vmess, uuid: ed2d308b-10f3-4881-aada-f6d08917dfbd, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/292026011205, ws-headers: {Host: www.07188351.xyz}}
   - {name: PRC 🇨🇳 China 5, server: 23.224.158.170, port: 443, type: vmess, uuid: aa6449c1-9557-415e-9681-08701767d56e, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/292026011205, ws-headers: {Host: www.58245542.xyz}}
   - {name: RUS 🇷🇺 RUS, server: 91.245.227.135, port: 38166, type: vmess, uuid: 9551d4fd-610e-4bf3-9f93-1df5452c3654, alterId: 32, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 91.245.227.135}}
-  - {name: RUS 🇷🇺 RUS 2, server: t6.ssrsub.one, port: 8443, type: trojan, password: vnsD7WKXpO, sni: t6.ssrsub.one}
-  - {name: RUS 🇷🇺 RUS 3, server: www.gov.hk, port: 443, type: vmess, uuid: 56a8c421-0d29-4b6b-c916-46e6f35ef98c, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /ssrsub, ws-headers: {Host: t6.ssrsub.one}}
-  - {name: RUS 🇷🇺 RUS 4, server: free-russian01-cdn.xiaohouzi.club, port: 80, type: vmess, uuid: 3d31728e-064d-42b8-b945-f79c008f73fc, alterId: 233, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: free-russian01-cdn.xiaohouzi.club}}
+  - {name: RUS 🇷🇺 RUS 2, server: t6.ssrsub.one, port: 8443, type: trojan, password: GUulsP45, sni: t6.ssrsub.one}
+  - {name: RUS 🇷🇺 RUS 3, server: 194.5.79.73, port: 2096, type: vmess, uuid: d29451de-c1e1-11eb-bd4a-f628f75307c0, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /HPyTpQEG/, ws-headers: {Host: a6.ssrsub.one}}
+  - {name: RUS 🇷🇺 RUS 4, server: c6.ssrsub.one, port: 2083, type: vmess, uuid: 7e162f2c-c526-11eb-b04e-f628f75307c0, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /NFaEKH5t/, ws-headers: {Host: c6.ssrsub.one}}
   - {name: RUS 🇷🇺 RUS 5, server: 194.5.79.73, port: 443, type: vmess, uuid: 56a8c421-0d29-4b6b-c916-46e6f35ef98c, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /ssrsub, ws-headers: {Host: t6.ssrsub.one}}
   - {name: SGP 🇸🇬 Singapore, server: sg1.vless.co, port: 443, type: trojan, password: fastssh.com, sni: sg1.vless.co}
   - {name: TWN 🇹🇼 New Taipei, server: 139.226.50.32, port: 10004, type: vmess, uuid: d534be6b-0793-42d1-be19-e5bc4abe7a72, alterId: 1, cipher: auto, tls: false}
   - {name: TWN 🇹🇼 New Taipei 2, server: 183.236.57.52, port: 10003, type: vmess, uuid: 2b162f57-f45f-46d0-a4d0-085fc2c9721a, alterId: 1, cipher: auto, tls: false}
   - {name: UKR 🇺🇦 Ukraine, server: 45.147.201.94, port: 21799, type: vmess, uuid: 77a8f6bb-ace4-4283-a865-b8feabf5312d, alterId: 0, cipher: auto, tls: false}
-  - {name: USA 🇺🇸 Las Vegas 4, server: 104.19.64.83, port: 443, type: vmess, uuid: e1934f6e-ae2c-41e7-8877-844152137c1e, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /xrayvws, ws-headers: {Host: buy.1808.cf}}
+  - {name: USA 🇺🇸 Las Vegas 4, server: t7.ssrsub.one, port: 8443, type: trojan, password: ynPDaGEx, sni: t7.ssrsub.one}
   - {name: USA 🇺🇸 USA, server: 23.224.69.18, port: 443, type: vmess, uuid: fb7a6094-a99b-4b91-a70d-25244f5f6ac8, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.76126449.xyz}}
-  - {name: USA 🇺🇸 USA 2, server: 23.224.164.100, port: 443, type: vmess, uuid: 4fa614c3-a180-4e46-bb8f-1cd17f2efac9, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/292026011205, ws-headers: {Host: www.09025120.xyz}}
+  - {name: USA 🇺🇸 USA 2, server: 205.185.122.222, port: 2096, type: vmess, uuid: ddbdb168-c1e1-11eb-bed0-001683f0971e, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /ST1RspvZ/, ws-headers: {Host: a7.ssrsub.one}}
   - {name: USA 🇺🇸 Los Angeles 6, server: 23.225.165.242, port: 443, type: vmess, uuid: 116dbc8a-ec13-49a5-b954-d49f65630ba4, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/292026011205, ws-headers: {Host: www.10925848.xyz}}
   - {name: SOAF 🇿🇦 Cape Town, server: 13.245.16.126, port: 20404, type: vmess, uuid: 559636c7-b5a2-450c-9b5e-0dc8fc14f4f5, alterId: 64, cipher: auto, tls: false}
   - {name: SOAF 🇿🇦 Cape Town 2, server: 13.245.13.47, port: 45623, type: vmess, uuid: a443853f-ce89-4b7c-e6f5-a5ad018085bf, alterId: 64, cipher: auto, tls: false}
@@ -413,15 +413,23 @@ proxy-groups:
       - BHR 🇧🇭 Dar Kulayb
       - CAN 🇨🇦 CAN
       - CAN 🇨🇦 CAN 2
+      - CAN 🇨🇦 CAN 3
+      - CAN 🇨🇦 CAN 4
+      - CAN 🇨🇦 CAN 5
+      - CAN 🇨🇦 CAN 6
+      - CAN 🇨🇦 CAN 7
+      - CAN 🇨🇦 CAN 8
+      - CAN 🇨🇦 CAN 9
+      - CAN 🇨🇦 CAN 10
+      - CAN 🇨🇦 CAN 11
+      - CAN 🇨🇦 CAN 12
+      - CAN 🇨🇦 CAN 13
       - FIN 🇫🇮 Helsinki
       - FIN 🇫🇮 Helsinki 2
       - FIN 🇫🇮 Helsinki 3
       - FIN 🇫🇮 Helsinki 4
       - GER 🇩🇪 GER
       - GER 🇩🇪 GER 2
-      - GER 🇩🇪 GER 3
-      - GER 🇩🇪 GER 4
-      - GER 🇩🇪 GER 5
       - HKG 🇭🇰 Central
       - HKG 🇭🇰 Hong Kong
       - IRL 🇮🇪 Dublin 4
