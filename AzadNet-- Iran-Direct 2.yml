@@ -25,8 +25,8 @@ proxies:
   - {name: AUS 🇦🇺 Brisbane, server: 144.48.39.109, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
   - {name: AUS 🇦🇺 Perth, server: 124.150.139.29, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
   - {name: AUS 🇦🇺 Sydney, server: 45.125.247.109, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
-  - {name: AZR 🇦🇿 Baku,  server: 62.212.239.69, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: AZR 🇦🇿 Baku 2, server: 62.212.239.43, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: AZR 🇦🇿 Baku,  server: 62.212.239.69, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: AZR 🇦🇿 Baku 2, server: 62.212.239.43, port: 43923, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
   - {name: BiH 🇧🇦 Sarajevo, server: 185.99.3.100, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
   - {name: BEL 🇧🇪 Brussels 1, server: 91.90.123.197, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
   - {name: BEL 🇧🇪 Brussels 2, server: 194.110.115.69,  port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp, udp: true}
@@ -229,6 +229,8 @@ proxies:
   - {name: RUS 🇷🇺 RUS 4, server: c6.ssrsub.one, port: 2083, type: vmess, uuid: 7e162f2c-c526-11eb-b04e-f628f75307c0, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /NFaEKH5t/, ws-headers: {Host: c6.ssrsub.one}}
   - {name: RUS 🇷🇺 RUS 5, server: 194.5.79.73, port: 443, type: vmess, uuid: 56a8c421-0d29-4b6b-c916-46e6f35ef98c, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /ssrsub, ws-headers: {Host: t6.ssrsub.one}}
   - {name: SGP 🇸🇬 Singapore, server: sg1.vless.co, port: 443, type: trojan, password: fastssh.com, sni: sg1.vless.co}
+  - {name: TUR 🇹🇷 Istanbul, server: 193.31.116.230, port: 48003, type: vmess, uuid: 4d274187-109a-44df-bb55-b2c84eb03ba7, alterId: 64, cipher: auto, tls: false}
+  - {name: TUR 🇹🇷 Bursa, server: 185.247.138.25, port: 15079, type: vmess, uuid: a1d846ec-9bef-4ffd-e34a-43bb06323ac3, alterId: 64, cipher: auto, tls: false}
   - {name: TWN 🇹🇼 New Taipei, server: 139.226.50.32, port: 10004, type: vmess, uuid: d534be6b-0793-42d1-be19-e5bc4abe7a72, alterId: 1, cipher: auto, tls: false}
   - {name: TWN 🇹🇼 New Taipei 2, server: 183.236.57.52, port: 10003, type: vmess, uuid: 2b162f57-f45f-46d0-a4d0-085fc2c9721a, alterId: 1, cipher: auto, tls: false}
   - {name: UKR 🇺🇦 Ukraine, server: 45.147.201.94, port: 21799, type: vmess, uuid: 77a8f6bb-ace4-4283-a865-b8feabf5312d, alterId: 0, cipher: auto, tls: false}
@@ -449,6 +451,8 @@ proxy-groups:
       - RUS 🇷🇺 RUS 4
       - RUS 🇷🇺 RUS 5
       - SGP 🇸🇬 Singapore
+      - TUR 🇹🇷 Istanbul
+      - TUR 🇹🇷 Bursa
       - TWN 🇹🇼 New Taipei
       - TWN 🇹🇼 New Taipei 2
       - UKR 🇺🇦 Ukraine
@@ -681,6 +685,8 @@ proxy-groups:
       - RUS 🇷🇺 RUS 4
       - RUS 🇷🇺 RUS 5
       - SGP 🇸🇬 Singapore
+      - TUR 🇹🇷 Istanbul
+      - TUR 🇹🇷 Bursa
       - TWN 🇹🇼 New Taipei
       - TWN 🇹🇼 New Taipei 2
       - UKR 🇺🇦 Ukraine
