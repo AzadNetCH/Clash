@@ -71,9 +71,8 @@ proxies:
   - {name: AZR 🇦🇿 Baku 4, server: 62.212.239.45, port: 47644, type: ss, cipher: aes-256-gcm, password: LxzfAVfKbPqQx4SDCat7EJyE}
   - {name: AZR 🇦🇿 Baku 5, server: 62.212.239.53, port: 47644, type: ss, cipher: aes-256-gcm, password: LxzfAVfKbPqQx4SDCat7EJyE}
   - {name: BiH 🇧🇦 Sarajevo, server: 185.99.3.100, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
-  - {name: BEL 🇧🇪 Brussels 1, server: 91.90.123.197, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
-  - {name: BEL 🇧🇪 Brussels 2, server: 194.110.115.69,  port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp, udp: true}
-  - {name: BEL 🇧🇪 Brussels 3, server: 91.90.123.211,  port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp, udp: true}
+  - {name: BEL 🇧🇪 Belgium, server: 91.90.123.157,  port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp, udp: true}
+  - {name: BEL 🇧🇪 Belgium 2, server: 91.90.123.171,  port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp, udp: true}
   - {name: BRA 🇧🇷 Sao Paulo, server: 191.96.13.212, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
   - {name: BRA 🇧🇷 Sao Paulo 2, server: 45.231.207.72, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: CYP 🇨🇾 Nicosia, server: 195.47.194.79, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna, udp: true}
@@ -320,9 +319,8 @@ proxy-groups:
       - AZR 🇦🇿 Baku 3
       - AZR 🇦🇿 Baku 4
       - AZR 🇦🇿 Baku 5
-      - BEL 🇧🇪 Brussels 1
-      - BEL 🇧🇪 Brussels 2
-      - BEL 🇧🇪 Brussels 3
+      - BEL 🇧🇪 Belgium
+      - BEL 🇧🇪 Belgium 2
       - BiH 🇧🇦 Sarajevo
       - BRA 🇧🇷 Sao Paulo
       - BRA 🇧🇷 Sao Paulo 2
@@ -352,10 +350,7 @@ proxy-groups:
       - GER 🇩🇪 Frankfurt 3
       - GER 🇩🇪 Frankfurt 4
       - GER 🇩🇪 Frankfurt 5
-      - GER 🇩🇪 Melsungen
       - GER 🇩🇪 Melsungen 2
-      - GER 🇩🇪 Melsungen 3
-      - GER 🇩🇪 Melsungen 4
       - GRC 🇬🇷 Athens
       - IND 🇮🇳 Chennai
       - IND 🇮🇳 Chennai 2
@@ -548,9 +543,8 @@ proxy-groups:
       - AZR 🇦🇿 Baku 4
       - AZR 🇦🇿 Baku 5
       - BiH 🇧🇦 Sarajevo
-      - BEL 🇧🇪 Brussels 1
-      - BEL 🇧🇪 Brussels 2
-      - BEL 🇧🇪 Brussels 3
+      - BEL 🇧🇪 Belgium
+      - BEL 🇧🇪 Belgium 2
       - BRA 🇧🇷 Sao Paulo
       - BRA 🇧🇷 Sao Paulo 2
       - CYP 🇨🇾 Nicosia
