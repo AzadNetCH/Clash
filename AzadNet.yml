@@ -252,7 +252,8 @@ proxies:
   - {name: GER 🇩🇪 GER 2, server: 104.18.6.138, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
   - {name: GER 🇩🇪 GER 3, server: 104.18.7.138, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
   - {name: GER 🇩🇪 GER 4, server: 172.67.154.85, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
-  - {name: GER 🇩🇪 GER 5, server: cdnde.irteyz.today, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
+  - {name: GER 🇩🇪 GER 5, server: 158.101.167.181, port: 58838, type: vmess, uuid: ac3fc74c-e5dd-48fc-9403-da0ff4da50b4, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
+  - {name: GER 🇩🇪 GER 6, server: cdnde.irteyz.today, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
   - {name: HKG 🇭🇰 Hong Kong, server: 18.162.96.154, port: 80, type: vmess, uuid: 119f999c-2cf9-36cd-bf7b-08fdf66dbd45, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /hk, ws-headers: {Host: 18.162.96.154}}
   - {name: HKG 🇭🇰 Hong Kong 2, server: hk06.xqkj.cloud, port: 5045, type: vmess, uuid: 91ff9fa0-2578-48a4-bdd7-fe0fcb24e61f, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: hk06.xqkj.cloud}}
   - {name: HKG 🇭🇰 Hong Kong 3, server: hk07.xqkj.cloud, port: 5046, type: vmess, uuid: 91ff9fa0-2578-48a4-bdd7-fe0fcb24e61f, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: hk07.xqkj.cloud}}
@@ -504,6 +505,7 @@ proxy-groups:
       - GER 🇩🇪 GER 3
       - GER 🇩🇪 GER 4
       - GER 🇩🇪 GER 5
+      - GER 🇩🇪 GER 6
       - HKG 🇭🇰 Hong Kong
       - HKG 🇭🇰 Hong Kong 7
       - IND 🇮🇳 Bengaluru
@@ -749,6 +751,7 @@ proxy-groups:
       - GER 🇩🇪 GER 3
       - GER 🇩🇪 GER 4
       - GER 🇩🇪 GER 5
+      - GER 🇩🇪 GER 6
       - HKG 🇭🇰 Hong Kong
       - HKG 🇭🇰 Hong Kong 2
       - HKG 🇭🇰 Hong Kong 3
