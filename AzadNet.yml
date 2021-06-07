@@ -261,6 +261,7 @@ proxies:
   - {name: HKG 🇭🇰 Hong Kong 5, server: hk09.xqkj.cloud, port: 5048, type: vmess, uuid: 91ff9fa0-2578-48a4-bdd7-fe0fcb24e61f, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: hk09.xqkj.cloud}}
   - {name: HKG 🇭🇰 Hong Kong 6, server: hk10.xqkj.cloud, port: 5049, type: vmess, uuid: 91ff9fa0-2578-48a4-bdd7-fe0fcb24e61f, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: hk10.xqkj.cloud}}
   - {name: HKG 🇭🇰 Hong Kong 7, server: 13.70.28.145, port: 34323, type: vmess, uuid: 5a2056b9-61c5-4737-b153-b2775ec8bad9, alterId: 64, cipher: auto, tls: false}
+  - {name: HUN 🇭🇺 Budapest, server: 185.225.69.134, port: 45081, type: vmess, uuid: 3c3bfd75-dc30-4e76-8940-47e1137e21f9, alterId: 64, cipher: auto, tls: false}
   - {name: IND 🇮🇳 Bengaluru, server: ind01.xqkj.cloud, port: 5061, type: vmess, uuid: 91ff9fa0-2578-48a4-bdd7-fe0fcb24e61f, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: ind01.xqkj.cloud}}
   - {name: IND 🇮🇳 Bengaluru 2, server: ind02.xqkj.cloud, port: 5062, type: vmess, uuid: 91ff9fa0-2578-48a4-bdd7-fe0fcb24e61f, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: ind02.xqkj.cloud}}
   - {name: IND 🇮🇳 Bengaluru 3, server: ind03.xqkj.cloud, port: 5063, type: vmess, uuid: 91ff9fa0-2578-48a4-bdd7-fe0fcb24e61f, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: ind03.xqkj.cloud}}
@@ -278,6 +279,7 @@ proxies:
   - {name: NLD 🇳🇱 NLD 3, server: 154.84.1.116, port: 443, type: vmess, uuid: b349f65b-4b19-4255-9ee2-b679990540e7, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.25936911.xyz}}
   - {name: NLD 🇳🇱 NLD 4, server: 154.84.1.199, port: 443, type: vmess, uuid: 3268727a-7556-4211-8a49-2cf5c5096da4, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.79570456.xyz}}
   - {name: NLD 🇳🇱 NLD 5, server: 46.182.107.3, port: 443, type: vmess, uuid: b2aa7a8a-ab88-4c0f-a310-0b9456c69420, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.33960870.xyz}}
+  - {name: POL 🇵🇱 Warsaw, server: 95.214.55.119, port: 16408, type: vmess, uuid: 4e49e7c6-b7cd-4c74-c022-2add80a19556, alterId: 64, cipher: auto, tls: false}
   - {name: PRC 🇨🇳 China 4 , server: 137.175.20.29, port: 443, type: vmess, uuid: ed2d308b-10f3-4881-aada-f6d08917dfbd, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/292026011205, ws-headers: {Host: www.07188351.xyz}}
   - {name: PRC 🇨🇳 China 5, server: 23.224.158.170, port: 443, type: vmess, uuid: aa6449c1-9557-415e-9681-08701767d56e, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/292026011205, ws-headers: {Host: www.58245542.xyz}}
   - {name: RUS 🇷🇺 RUS, server: 91.245.227.135, port: 38166, type: vmess, uuid: 9551d4fd-610e-4bf3-9f93-1df5452c3654, alterId: 32, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 91.245.227.135}}
@@ -508,6 +510,7 @@ proxy-groups:
       - GER 🇩🇪 GER 6
       - HKG 🇭🇰 Hong Kong
       - HKG 🇭🇰 Hong Kong 7
+      - HUN 🇭🇺 Budapest
       - IND 🇮🇳 Bengaluru
       - IRL 🇮🇪 Dublin 4
       - JPN 🇯🇵 JPN
@@ -517,6 +520,7 @@ proxy-groups:
       - NLD 🇳🇱 NLD 3
       - NLD 🇳🇱 NLD 4
       - NLD 🇳🇱 NLD 5
+      - POL 🇵🇱 Warsaw
       - PRC 🇨🇳 China 4
       - PRC 🇨🇳 China 5
       - RUS 🇷🇺 RUS
@@ -759,6 +763,7 @@ proxy-groups:
       - HKG 🇭🇰 Hong Kong 5
       - HKG 🇭🇰 Hong Kong 6
       - HKG 🇭🇰 Hong Kong 7
+      - HUN 🇭🇺 Budapest
       - IND 🇮🇳 Bengaluru
       - IND 🇮🇳 Bengaluru 2
       - IND 🇮🇳 Bengaluru 3
@@ -776,6 +781,7 @@ proxy-groups:
       - NLD 🇳🇱 NLD 3
       - NLD 🇳🇱 NLD 4
       - NLD 🇳🇱 NLD 5
+      - POL 🇵🇱 Warsaw
       - PRC 🇨🇳 China 4
       - PRC 🇨🇳 China 5
       - RUS 🇷🇺 RUS
