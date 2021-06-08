@@ -245,6 +245,8 @@ proxies:
   - {name: RUS 🇷🇺 RUS 4, server: c6.ssrsub.one, port: 2083, type: vmess, uuid: 7e162f2c-c526-11eb-b04e-f628f75307c0, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /NFaEKH5t/, ws-headers: {Host: c6.ssrsub.one}}
   - {name: RUS 🇷🇺 RUS 5, server: 194.5.79.73, port: 443, type: vmess, uuid: 56a8c421-0d29-4b6b-c916-46e6f35ef98c, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /ssrsub, ws-headers: {Host: t6.ssrsub.one}}
   - {name: SGP 🇸🇬 Singapore, server: v1-aws-sg-02.tudog.me, port: 80, type: vmess, uuid: 81337f1c-d27b-39c7-8605-3909cf13b5e2, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /tudog, ws-headers: {Host: v1-aws-sg-02.tudog.me}}
+  - {name: SGP 🇸🇬 Singapore 2, server: 45.88.42.22, port: 54068, type: vmess, uuid: 83f7d4a0-a787-4cff-fb37-fa9e556b24d4, alterId: 64, cipher: auto, tls: false}
+  - {name: SGP 🇸🇬 Singapore 3, server: 54.169.101.136, port: 48623, type: vmess, uuid: 404b831b-ff94-4793-b433-34c5b48dc73e, alterId: 64, cipher: auto, tls: false}
   - {name: SNG 🇸🇬 Queenstown Estate, server: 45.88.42.22, port: 54068, type: vmess, uuid: 83f7d4a0-a787-4cff-fb37-fa9e556b24d4, alterId: 64, cipher: auto, tls: false}
   - {name: SPN 🇪🇸 Madrid 3, server: 5.183.103.196, port: 57801, type: vmess, uuid: 337ae850-ba0b-4647-e9b7-a222dc09b0dc, alterId: 64, cipher: auto, tls: false}
   - {name: SPN 🇪🇸 Madrid 4, server: 5.183.103.196, port: 57801, type: vmess, uuid: 337ae850-ba0b-4647-e9b7-a222dc09b0dc, alterId: 64, cipher: auto, tls: false}
@@ -472,6 +474,8 @@ proxy-groups:
       - RUS 🇷🇺 RUS
       - RUS 🇷🇺 RUS 2
       - SGP 🇸🇬 Singapore
+      - SGP 🇸🇬 Singapore 2
+      - SGP 🇸🇬 Singapore 3
       - SNG 🇸🇬 Queenstown Estate
       - SPN 🇪🇸 Madrid 3
       - SPN 🇪🇸 Madrid 4
@@ -735,6 +739,8 @@ proxy-groups:
       - RUS 🇷🇺 RUS 4
       - RUS 🇷🇺 RUS 5
       - SGP 🇸🇬 Singapore
+      - SGP 🇸🇬 Singapore 2
+      - SGP 🇸🇬 Singapore 3
       - SNG 🇸🇬 Queenstown Estate
       - SPN 🇪🇸 Madrid 3
       - SPN 🇪🇸 Madrid 4
