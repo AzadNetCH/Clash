@@ -238,15 +238,17 @@ proxies:
   - {name: NLD 🇳🇱 NLD 3, server: 154.84.1.116, port: 443, type: vmess, uuid: b349f65b-4b19-4255-9ee2-b679990540e7, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.25936911.xyz}}
   - {name: NLD 🇳🇱 NLD 4, server: 154.84.1.199, port: 443, type: vmess, uuid: 3268727a-7556-4211-8a49-2cf5c5096da4, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.79570456.xyz}}
   - {name: NLD 🇳🇱 NLD 5, server: 46.182.107.3, port: 443, type: vmess, uuid: b2aa7a8a-ab88-4c0f-a310-0b9456c69420, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.33960870.xyz}}
+  - {name: NLD 🇳🇱 NLD 6, server: 45.76.32.239, port: 80, type: vmess, uuid: fa5733e7-c332-47c4-eaa3-8c6920fcb043, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 45.76.32.239}}
   - {name: POL 🇵🇱 Warsaw, server: 95.214.55.119, port: 16408, type: vmess, uuid: 4e49e7c6-b7cd-4c74-c022-2add80a19556, alterId: 64, cipher: auto, tls: false}
+  - {name: POL 🇵🇱 Warsaw 2, server: 95.214.55.120, port: 42280, type: vmess, uuid: ac56c78b-bc3e-45ce-bd20-254339688d17, alterId: 64, cipher: auto, tls: false}
   - {name: PRC 🇨🇳 China 4 , server: 137.175.20.29, port: 443, type: vmess, uuid: ed2d308b-10f3-4881-aada-f6d08917dfbd, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/292026011205, ws-headers: {Host: www.07188351.xyz}}
   - {name: PRC 🇨🇳 China 5, server: 23.224.158.170, port: 443, type: vmess, uuid: aa6449c1-9557-415e-9681-08701767d56e, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/292026011205, ws-headers: {Host: www.58245542.xyz}}
   - {name: RUS 🇷🇺 RUS, server: 91.245.227.135, port: 38166, type: vmess, uuid: 9551d4fd-610e-4bf3-9f93-1df5452c3654, alterId: 32, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 91.245.227.135}}
   - {name: RUS 🇷🇺 RUS 2, server: 91.245.227.135, port: 38166, type: vmess, uuid: 9551d4fd-610e-4bf3-9f93-1df5452c3654, alterId: 32, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 91.245.227.135}}
-  - {name: RUS 🇷🇺 RUS 3, server: 194.5.79.73, port: 2096, type: vmess, uuid: d29451de-c1e1-11eb-bd4a-f628f75307c0, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /HPyTpQEG/, ws-headers: {Host: a6.ssrsub.one}}
+  - {name: RUS 🇷🇺 RUS 3, server: 45.156.26.25, port: 80, type: vmess, uuid: 59547dec-7c3c-4047-b3fb-ddf889f9181e, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /sshocean, ws-headers: {Host: 45.156.26.25}}
   - {name: RUS 🇷🇺 RUS 4, server: c6.ssrsub.one, port: 2083, type: vmess, uuid: 7e162f2c-c526-11eb-b04e-f628f75307c0, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /NFaEKH5t/, ws-headers: {Host: c6.ssrsub.one}}
   - {name: RUS 🇷🇺 RUS 5, server: 194.5.79.73, port: 443, type: vmess, uuid: 56a8c421-0d29-4b6b-c916-46e6f35ef98c, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /ssrsub, ws-headers: {Host: t6.ssrsub.one}}
-  - {name: SGP 🇸🇬 Singapore, server: 65.52.164.219, port: 10008, type: vmess, uuid: e9a058c8-4960-4b05-8699-0c526058d345, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /ws, ws-headers: {Host: 65.52.164.219}}
+  - {name: SGP 🇸🇬 Singapore, server: 139.180.213.160, port: 80, type: vmess, uuid: c9dfd5b4-7479-4662-af64-6e16de84bd2c, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 139.180.213.160}}
   - {name: SGP 🇸🇬 Singapore 2, server: 45.88.42.22, port: 54068, type: vmess, uuid: 83f7d4a0-a787-4cff-fb37-fa9e556b24d4, alterId: 64, cipher: auto, tls: false}
   - {name: SGP 🇸🇬 Singapore 3, server: 207.148.66.58, port: 80, type: vmess, uuid: 420e69e7-bf7b-4a2e-d156-f135a9d1cc44, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 207.148.66.58}}
   - {name: SNG 🇸🇬 Queenstown Estate, server: 45.88.42.22, port: 54068, type: vmess, uuid: 83f7d4a0-a787-4cff-fb37-fa9e556b24d4, alterId: 64, cipher: auto, tls: false}
@@ -266,7 +268,7 @@ proxies:
   - {name: USA 🇺🇸 USA 2, server: 23.224.8.91, port: 443, type: vmess, uuid: 116dbc8a-ec13-49a5-b954-d49f65630ba4, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.10925848.xyz}}
   - {name: USA 🇺🇸 USA 3, server: 23.224.69.18, port: 443, type: vmess, uuid: fb7a6094-a99b-4b91-a70d-25244f5f6ac8, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.76126449.xyz}}
   - {name: USA 🇺🇸 USA 4, server: ac2088.herokuapp.com, port: 443, type: vmess, uuid: d1babe08-f8ac-490b-b66f-9be27467f3cc, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /d1babe08-f8ac-490b-b66f-9be27467f3cc-vmess, ws-headers: {Host: ac2088.herokuapp.com}}
-  - {name: USA 🇺🇸 USA 5, server: 52.53.154.161, port: 13275, type: vmess, uuid: efbe7912-be81-44e3-870f-222c5fb053e4, alterId: 64, cipher: auto, tls: false}
+  - {name: USA 🇺🇸 USA 5, server: 45.77.186.169, port: 80, type: vmess, uuid: b164d01c-1711-4cf3-8e2c-2bcd1288bbed, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 45.77.186.169}}
   - {name: USA 🇺🇸 USA 6, server: 205.185.122.222, port: 2096, type: vmess, uuid: ddbdb168-c1e1-11eb-bed0-001683f0971e, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /ST1RspvZ/, ws-headers: {Host: a7.ssrsub.one}}
   - {name: USA 🇺🇸 California, server: 52.53.154.161, port: 13275, type: vmess, uuid: efbe7912-be81-44e3-870f-222c5fb053e4, alterId: 64, cipher: auto, tls: false}
   - {name: USA 🇺🇸 California 2, server: 193.42.96.98, port: 30104, type: vmess, uuid: c7d03e59-8fff-463e-9589-9f8099d3e366, alterId: 64, cipher: auto, tls: false}
@@ -452,9 +454,6 @@ proxy-groups:
       - CAN 🇨🇦 CAN
       - FRA 🇫🇷 France
       - FIN 🇫🇮 Helsinki
-      - FIN 🇫🇮 Helsinki 2
-      - FIN 🇫🇮 Helsinki 3
-      - FIN 🇫🇮 Helsinki 4
       - GER 🇩🇪 GER
       - GER 🇩🇪 GER 2
       - HKG 🇭🇰 Hong Kong
@@ -474,11 +473,14 @@ proxy-groups:
       - NLD 🇳🇱 NLD 3
       - NLD 🇳🇱 NLD 4
       - NLD 🇳🇱 NLD 5
+      - NLD 🇳🇱 NLD 6
       - POL 🇵🇱 Warsaw
+      - POL 🇵🇱 Warsaw 2
       - PRC 🇨🇳 China 4
       - PRC 🇨🇳 China 5
       - RUS 🇷🇺 RUS
       - RUS 🇷🇺 RUS 2
+      - RUS 🇷🇺 RUS 3
       - SGP 🇸🇬 Singapore
       - SGP 🇸🇬 Singapore 2
       - SGP 🇸🇬 Singapore 3
@@ -738,7 +740,9 @@ proxy-groups:
       - NLD 🇳🇱 NLD 3
       - NLD 🇳🇱 NLD 4
       - NLD 🇳🇱 NLD 5
+      - NLD 🇳🇱 NLD 6
       - POL 🇵🇱 Warsaw
+      - POL 🇵🇱 Warsaw 2
       - PRC 🇨🇳 China 4
       - PRC 🇨🇳 China 5
       - RUS 🇷🇺 RUS
