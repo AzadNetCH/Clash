@@ -9,7 +9,7 @@ dns:
   ipv6: false
   enhanced-mode: fake-ip
   fake-ip-range: 198.18.0.1/16
- nameserver:
+  nameserver:
     - tls://dns.google:853
     - https://dns.google/dns-query
     - https://cloudflare-dns.com/dns-query
@@ -787,7 +787,6 @@ proxy-groups:
       - USA 🇺🇲 Virginia
       - SOAF 🇿🇦 Cape Town 
       - SOAF 🇿🇦 Cape Town 2
-
   - name: ↪️ use (vmess & trojan) group      
     type: select
     proxies:
