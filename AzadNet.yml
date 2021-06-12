@@ -9,52 +9,18 @@ dns:
   ipv6: false
   enhanced-mode: fake-ip
   fake-ip-range: 198.18.0.1/16
-  nameserver:
-    - https://dns.aa.net.uk/dns-query
-    - https://dns.arapurayil.com/dns-query
-    - https://dns1.ryan-palmer.com/dns-query
-    - https://doh-2.seby.io:443/dns-query
-    - https://dns.nextdns.io/dnscrypt-proxy
-    - https://doh.libredns.gr/dns-query
-    - https://dnsforge.de/dns-query
-    - https://dns.alidns.com/dns-query
+ nameserver:
+    - https://dns.google/dns-query
     - https://cloudflare-dns.com/dns-query
-    - https://dns.dnshome.de/dns-query
-    - https://doh.pi-dns.com/dns-query
+    - https://dns.adguard.com/dns-query
+    - https://dnsforge.de/dns-quer
     - https://dns.quad9.net/dns-query
-    - https://dnses.alekberg.net/dns-query
-    - tls://dns.quad9.net:853
-    - tls://cloudflare-dns.com:853
-    - tls://dns.google:853
-    - tls://dot.xfinity.com:853
-    - tls://dns.aa.net.uk:853
-    - tls://dns.quad9.net:853
-    - tls://dot.libredns.gr:853
-    - tls://185.253.154.66:4343
-    - tls://116.202.176.26:853
   fallback:
-    - https://dns.aa.net.uk/dns-query
-    - https://dns.arapurayil.com/dns-query
-    - https://dns1.ryan-palmer.com/dns-query
-    - https://doh-2.seby.io:443/dns-query
-    - https://dns.nextdns.io/dnscrypt-proxy
-    - https://doh.libredns.gr/dns-query
-    - https://dnsforge.de/dns-query
-    - https://dns.alidns.com/dns-query
+    - https://dns.google/dns-query
     - https://cloudflare-dns.com/dns-query
-    - https://dns.dnshome.de/dns-query
-    - https://doh.pi-dns.com/dns-query
+    - https://dns.adguard.com/dns-query
+    - https://dnsforge.de/dns-quer
     - https://dns.quad9.net/dns-query
-    - https://dnses.alekberg.net/dns-query
-    - tls://dns.quad9.net:853
-    - tls://cloudflare-dns.com:853
-    - tls://dns.google:853
-    - tls://dot.xfinity.com:853
-    - tls://dns.aa.net.uk:853
-    - tls://dns.quad9.net:853
-    - tls://dot.libredns.gr:853
-    - tls://185.253.154.66:4343
-    - tls://116.202.176.26:853
 proxies:
   - {name: ALB 🇦🇱 Tirana, server: 31.171.155.21, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
   - {name: ALB 🇦🇱 Tirana 2, server: 31.171.153.101, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp, udp: true}
