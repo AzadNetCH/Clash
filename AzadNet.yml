@@ -797,5 +797,10 @@ proxy-groups:
     proxies:
       - 🔰 SS & SSR
 
+  - name: ⛔Direct
+    type: select
+    proxies:
+      - DIRECT
+
 rules:
  - MATCH,🔰 SS & SSR,🔰 vmess & trojan 
