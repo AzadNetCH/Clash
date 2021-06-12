@@ -10,12 +10,14 @@ dns:
   enhanced-mode: fake-ip
   fake-ip-range: 198.18.0.1/16
   nameserver:
+    - tls://dns.google:853
     - https://dns.google/dns-query
     - https://cloudflare-dns.com/dns-query
     - https://dns.adguard.com/dns-query
     - https://dnsforge.de/dns-quer
     - https://dns.quad9.net/dns-query
   fallback:
+    - tls://dns.google:853
     - https://dns.google/dns-query
     - https://cloudflare-dns.com/dns-query
     - https://dns.adguard.com/dns-query
