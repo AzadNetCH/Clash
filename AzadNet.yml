@@ -247,6 +247,7 @@ proxies:
   - {name: NLD 🇳🇱 Amsterdam, server: 51.15.113.164, port: 80, type: vmess, uuid: 7512e0f4-05b3-4b97-8972-d3fea44cf452, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /sshocean, ws-headers: {Host: 51.15.113.164}}
   - {name: POL 🇵🇱 Warsaw, server: 95.214.55.119, port: 16408, type: vmess, uuid: 4e49e7c6-b7cd-4c74-c022-2add80a19556, alterId: 64, cipher: auto, tls: false}
   - {name: POL 🇵🇱 Warsaw 2, server: 95.214.55.120, port: 42280, type: vmess, uuid: ac56c78b-bc3e-45ce-bd20-254339688d17, alterId: 64, cipher: auto, tls: false}
+  - {name: POL 🇵🇱 Warsaw 3, server: 95.214.55.118, port: 50825, type: vmess, uuid: 0cfb1063-051e-4a56-ccac-27947710ea0e, alterId: 64, cipher: auto, tls: false}
   - {name: PRC 🇨🇳 China 4 , server: 137.175.20.29, port: 443, type: vmess, uuid: ed2d308b-10f3-4881-aada-f6d08917dfbd, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/292026011205, ws-headers: {Host: www.07188351.xyz}}
   - {name: PRC 🇨🇳 China 5, server: 23.224.158.170, port: 443, type: vmess, uuid: aa6449c1-9557-415e-9681-08701767d56e, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/292026011205, ws-headers: {Host: www.58245542.xyz}}
   - {name: ROM 🇷🇴 Romania, server: 5.183.101.204, port: 59857, type: vmess, uuid: 4c35d374-dbf2-4e5f-c731-dfa49191825a, alterId: 64, cipher: auto, tls: false}
@@ -495,6 +496,7 @@ proxy-groups:
       - NLD 🇳🇱 Amsterdam
       - POL 🇵🇱 Warsaw
       - POL 🇵🇱 Warsaw 2
+      - POL 🇵🇱 Warsaw 3
       - ROM 🇷🇴 Romania
       - RUS 🇷🇺 RUS
       - RUS 🇷🇺 RUS 2
@@ -760,6 +762,7 @@ proxy-groups:
       - NLD 🇳🇱 Amsterdam
       - POL 🇵🇱 Warsaw
       - POL 🇵🇱 Warsaw 2
+      - POL 🇵🇱 Warsaw 3
       - PRC 🇨🇳 China 4
       - PRC 🇨🇳 China 5
       - ROM 🇷🇴 Romania
