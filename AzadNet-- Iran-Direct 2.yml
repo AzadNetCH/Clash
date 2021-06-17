@@ -195,15 +195,6 @@ proxies:
   - {name: CAN 🇨🇦 CAN 2, server: t1.ssrsub.one, port: 2096, type: trojan, password: upfdQ5t4, sni: t1.ssrsub.one}
   - {name: CAN 🇨🇦 CAN 3, server: t3.ssrsub.one, port: 8443, type: trojan, password: rvAjK7R2, sni: t3.ssrsub.one}
   - {name: CAN 🇨🇦 CAN 4, server: t4.ssrsub.one, port: 8443, type: trojan, password: KTxHfpze, sni: t4.ssrsub.one}
-  - {name: CAN 🇨🇦 CAN 5, server: t5.ssrsub.one, port: 8443, type: trojan, password: JIwQySqZ, sni: t5.ssrsub.one}
-  - {name: CAN 🇨🇦 CAN 6, server: 45.62.245.20, port: 2096, type: vmess, uuid: a106688c-c1e1-11eb-b58f-0050569b799a, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /2fMz3Seh/, ws-headers: {Host: a1.ssrsub.one}}
-  - {name: CAN 🇨🇦 CAN 7, server: 45.62.233.34, port: 2096, type: vmess, uuid: b6b44b86-c1e1-11eb-85a3-0050569b8c57, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /IfRHiCow/, ws-headers: {Host: a2.ssrsub.one}}
-  - {name: CAN 🇨🇦 CAN 8, server: 45.62.233.142, port: 2096, type: vmess, uuid: bf53c406-c1e1-11eb-a686-0050569bb8c9, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /hBozMgCA/, ws-headers: {Host: a3.ssrsub.one}}
-  - {name: CAN 🇨🇦 CAN 9, server: 142.47.219.13, port: 2096, type: vmess, uuid: bce319a6-c1e1-11eb-8936-0050569b2f15, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /OW1k0fXV/, ws-headers: {Host: a4.ssrsub.one}}
-  - {name: CAN 🇨🇦 CAN 10, server: 45.62.233.124, port: 2096, type: vmess, uuid: 2fa32b4c-c526-11eb-a8de-0050569b1c48, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /rLwU3z5p/, ws-headers: {Host: a5.ssrsub.one}}
-  - {name: CAN 🇨🇦 CAN 11, server: b2.ssrsub.one, port: 2083, type: vmess, uuid: 83d941a6-c526-11eb-9988-0050569b8c57, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /3RrwIfy5/, ws-headers: {Host: b2.ssrsub.one}}
-  - {name: CAN 🇨🇦 CAN 12, server: b3.ssrsub.one, port: 2083, type: vmess, uuid: 84758fb6-c526-11eb-b2c2-0050569bb8c9, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /9GXHAucm/, ws-headers: {Host: b3.ssrsub.one}}
-  - {name: CAN 🇨🇦 CAN 13, server: b4.ssrsub.one, port: 2083, type: vmess, uuid: 86231798-c526-11eb-9fd1-0050569b2f15, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /wkdgWCuL/, ws-headers: {Host: b4.ssrsub.one}}
   - {name: FRA 🇫🇷 France, server: 199.247.9.1, port: 80, type: vmess, uuid: f6c2f1a9-0ad2-46e6-e372-534e6a1e539b, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 199.247.9.1}}
   - {name: FRA 🇫🇷 Carpentras, server: 51.15.229.29, port: 80, type: vmess, uuid: 9f4adaba-1213-49cd-aad2-2507ab59ca3c, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /sshocean, ws-headers: {Host: 51.15.229.29}}
   - {name: FRA 🇫🇷 Longjumeau, server: 54.37.18.98, port: 80, type: vmess, uuid: c4c24503-a357-40d1-b9bd-0dc4264d65e3, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /sshocean, ws-headers: {Host: 54.37.18.98}}
@@ -215,9 +206,9 @@ proxies:
   - {name: GER 🇩🇪 GER, server: 18.193.122.123, port: 25275, type: vmess, uuid: eebfe76a-c71f-49e4-f983-983384d5dadf, alterId: 64, cipher: auto, tls: false}
   - {name: GER 🇩🇪 GER 2, server: 138.201.150.52, port: 33957, type: vmess, uuid: 89cee221-b06c-46c5-f0d7-4fd3f4740b97, alterId: 64, cipher: auto, tls: false}
   - {name: GER 🇩🇪 GER 3, server: 3.66.228.40, port: 23709, type: vmess, uuid: a6939089-278e-4f48-a841-187a67ab9ab9, alterId: 64, cipher: auto, tls: false}
-  - {name: GER 🇩🇪 GER 4, server: 172.67.154.85, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
-  - {name: GER 🇩🇪 GER 5, server: 158.101.167.181, port: 58838, type: vmess, uuid: ac3fc74c-e5dd-48fc-9403-da0ff4da50b4, alterId: 64, cipher: auto, tls: false}
-  - {name: GER 🇩🇪 GER 6, server: cdnde.irteyz.today, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
+  - {name: GER 🇩🇪 GER 4, server: euserv5p.ezddns.tk, port: 80, type: vmess, uuid: 60b738e2-3aa4-4cde-c270-20f8cc1ab16a, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /audio.wav, ws-headers: {Host: euserv5p.ezddns.tk}}
+  - {name: GER 🇩🇪 GER 5, server: euserv6p.ezddns.tk, port: 80, type: vmess, uuid: 499737a4-9f18-4e1f-fb38-437e1855fc04, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /video, ws-headers: {Host: euserv6p.ezddns.tk}}
+  - {name: GER 🇩🇪 GER 6, server: euserv8p.ezddns.tk, port: 80, type: vmess, uuid: 24d6dc76-f0a0-4809-8a70-6ad2dce20022, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /video, ws-headers: {Host: euserv8p.ezddns.tk}}
   - {name: GER 🇩🇪 Hesse, server: 135.125.207.34, port: 80, type: vmess, uuid: e2816152-6326-4cf9-aa95-34b0f9a8c666, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /sshocean, ws-headers: {Host: 135.125.207.34}}
   - {name: HKG 🇭🇰 Hong Kong, server: hkt2.welsonal.xyz, port: 443, type: trojan, password: 4df3DRWVEefugStR, sni: hkt2.welsonal.xyz}
   - {name: HKG 🇭🇰 Hong Kong 2, server: hkt3.welsonal.xyz, port: 443, type: trojan, password: B1vXvRHAtGIcPE5l, sni: hkt3.welsonal.xyz}
@@ -245,12 +236,6 @@ proxies:
   - {name: NLD 🇳🇱 NLD 2, server: 154.84.1.106, port: 443, type: vmess, uuid: a8089885-9602-4052-b1a3-1c9e02df635d, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.63681459.xyz}}
   - {name: NLD 🇳🇱 NLD 3, server: 154.84.1.116, port: 443, type: vmess, uuid: b349f65b-4b19-4255-9ee2-b679990540e7, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.25936911.xyz}}
   - {name: NLD 🇳🇱 NLD 4, server: 154.84.1.199, port: 443, type: vmess, uuid: 3268727a-7556-4211-8a49-2cf5c5096da4, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.79570456.xyz}}
-  - {name: NLD 🇳🇱 NLD 5, server: 46.182.107.3, port: 443, type: vmess, uuid: b2aa7a8a-ab88-4c0f-a310-0b9456c69420, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.33960870.xyz}}
-  - {name: NLD 🇳🇱 NLD 6, server: 45.76.32.239, port: 80, type: vmess, uuid: fa5733e7-c332-47c4-eaa3-8c6920fcb043, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 45.76.32.239}}
-  - {name: NLD 🇳🇱 NLD 7, server: 46.182.107.44, port: 443, type: vmess, uuid: 33b1f366-4537-437f-b3f6-20b0e0046828, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.27430248.xyz}}
-  - {name: NLD 🇳🇱 NLD 8, server: 154.84.1.214, port: 443, type: vmess, uuid: 756f5f10-6bda-4dd0-bf07-5c4d61773611, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.61020861.xyz}}
-  - {name: NLD 🇳🇱 NLD 9, server: 46.182.107.147, port: 443, type: vmess, uuid: 77a48930-1e67-4a72-96be-3e584858ea4f, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.73207635.xyz}}
-  - {name: NLD 🇳🇱 NLD 10, server: 154.84.1.146, port: 443, type: vmess, uuid: 3268727a-7556-4211-8a49-2cf5c5096da4, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.79570456.xyz}}
   - {name: NLD 🇳🇱 Amsterdam, server: 51.15.113.164, port: 80, type: vmess, uuid: 7512e0f4-05b3-4b97-8972-d3fea44cf452, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /sshocean, ws-headers: {Host: 51.15.113.164}}
   - {name: POL 🇵🇱 Warsaw, server: 95.214.55.119, port: 16408, type: vmess, uuid: 4e49e7c6-b7cd-4c74-c022-2add80a19556, alterId: 64, cipher: auto, tls: false}
   - {name: POL 🇵🇱 Warsaw 2, server: 95.214.55.120, port: 42280, type: vmess, uuid: ac56c78b-bc3e-45ce-bd20-254339688d17, alterId: 64, cipher: auto, tls: false}
@@ -281,11 +266,11 @@ proxies:
   - {name: UKR 🇺🇦 Ukraine, server: 45.147.201.94, port: 21799, type: vmess, uuid: 77a8f6bb-ace4-4283-a865-b8feabf5312d, alterId: 0, cipher: auto, tls: false}
   - {name: USA 🇺🇸 USA, server: ac2088.herokuapp.com, port: 443, type: vmess, uuid: d1babe08-f8ac-490b-b66f-9be27467f3cc, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /d1babe08-f8ac-490b-b66f-9be27467f3cc-vmess, ws-headers: {Host: ac2088.herokuapp.com}}
   - {name: USA 🇺🇸 USA 2, server: 1.1.1.1, port: 80, type: vmess, uuid: a20ffefe-e575-4ca8-d0d9-608df76552e5, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /stream, ws-headers: {Host: streampipe2.us-west2.cphxte9xxqgdrn3z.tk}}
-  - {name: USA 🇺🇸 USA 3, server: 23.224.69.18, port: 443, type: vmess, uuid: fb7a6094-a99b-4b91-a70d-25244f5f6ac8, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.76126449.xyz}}
+  - {name: USA 🇺🇸 USA 3, server: cfcn.9sep.org, port: 80, type: vmess, uuid: f22a80af-a9c9-3360-841e-25610688f353, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /w421x2bx2za, ws-headers: {Host: nj.sb-cloud.cf}}
   - {name: USA 🇺🇸 USA 4, server: ac2088.herokuapp.com, port: 443, type: vmess, uuid: d1babe08-f8ac-490b-b66f-9be27467f3cc, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /d1babe08-f8ac-490b-b66f-9be27467f3cc-vmess, ws-headers: {Host: ac2088.herokuapp.com}}
   - {name: USA 🇺🇸 USA 5, server: 45.77.186.169, port: 80, type: vmess, uuid: b164d01c-1711-4cf3-8e2c-2bcd1288bbed, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 45.77.186.169}}
   - {name: USA 🇺🇸 USA 6, server: 205.185.122.222, port: 2096, type: vmess, uuid: ddbdb168-c1e1-11eb-bed0-001683f0971e, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /ST1RspvZ/, ws-headers: {Host: a7.ssrsub.one}}
-  - {name: USA 🇺🇸 California, server: t8.ssrsub.one, port: 2096, type: trojan, password: 8fYXtJON, sni: t8.ssrsub.one}
+  - {name: USA 🇺🇸 California, server: euserv4p.ezddns.tk, port: 443, type: vmess, uuid: d2da3dcb-b08a-4561-83de-b73e7b8c0288, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /stream, ws-headers: {Host: euserv4p.ezddns.tk}}
   - {name: USA 🇺🇸 California 2, server: 193.42.96.98, port: 30104, type: vmess, uuid: c7d03e59-8fff-463e-9589-9f8099d3e366, alterId: 64, cipher: auto, tls: false}
   - {name: USA 🇺🇸 California 3, server: 45.88.179.35, port: 44657, type: vmess, uuid: 085e6815-e476-411a-a9a6-4e5306a1b875, alterId: 0, cipher: auto, tls: false}
   - {name: USA 🇺🇸 California 4, server: us7.xxl123.fun, port: 18889, type: vmess, uuid: e9a058c8-4960-4b05-8699-0c526058d345, alterId: 2, cipher: auto, tls: true, network: ws, ws-path: /index, ws-headers: {Host: us7.xxl123.fun}}
@@ -468,7 +453,6 @@ proxy-groups:
       - BAH 🇧🇭 Dar Kulayb 2
       - CAN 🇨🇦 CAN
       - CAN 🇨🇦 CAN 2
-      - FRA 🇫🇷 France
       - FRA 🇫🇷 Carpentras
       - FRA 🇫🇷 Longjumeau
       - FRA 🇫🇷 Paris 3
@@ -477,6 +461,8 @@ proxy-groups:
       - GER 🇩🇪 GER 2
       - GER 🇩🇪 GER 3
       - GER 🇩🇪 GER 4
+      - GER 🇩🇪 GER 5
+      - GER 🇩🇪 GER 6
       - GER 🇩🇪 Hesse
       - HKG 🇭🇰 Hong Kong
       - HKG 🇭🇰 Hong Kong 2
@@ -722,15 +708,6 @@ proxy-groups:
       - CAN 🇨🇦 CAN 2
       - CAN 🇨🇦 CAN 3
       - CAN 🇨🇦 CAN 4
-      - CAN 🇨🇦 CAN 5
-      - CAN 🇨🇦 CAN 6
-      - CAN 🇨🇦 CAN 7
-      - CAN 🇨🇦 CAN 8
-      - CAN 🇨🇦 CAN 9
-      - CAN 🇨🇦 CAN 10
-      - CAN 🇨🇦 CAN 11
-      - CAN 🇨🇦 CAN 12
-      - CAN 🇨🇦 CAN 13
       - FRA 🇫🇷 France
       - FRA 🇫🇷 Carpentras
       - FRA 🇫🇷 Longjumeau
@@ -772,12 +749,6 @@ proxy-groups:
       - NLD 🇳🇱 NLD 2
       - NLD 🇳🇱 NLD 3
       - NLD 🇳🇱 NLD 4
-      - NLD 🇳🇱 NLD 5
-      - NLD 🇳🇱 NLD 6
-      - NLD 🇳🇱 NLD 7
-      - NLD 🇳🇱 NLD 8
-      - NLD 🇳🇱 NLD 9
-      - NLD 🇳🇱 NLD 10
       - NLD 🇳🇱 Amsterdam
       - POL 🇵🇱 Warsaw
       - POL 🇵🇱 Warsaw 2
