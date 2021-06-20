@@ -215,7 +215,7 @@ proxies:
   - {name: GER 🇩🇪 Nuremberg @VPNFolder, server: 213.136.80.36, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
   - {name: HKG 🇭🇰 Central @VPNFolder, server: 203.23.128.94, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
   - {name: HUN 🇭🇺 Budapest @VPNFolder, server: 194.71.130.160, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: ICL 🇮🇸 Hafnarfjordur @VPNFolder, server: 37.235.49.48, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: ISL 🇮🇸 Hafnarfjordur @VPNFolder, server: 37.235.49.48, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
   - {name: IND 🇮🇳 Bengaluru @VPNFolder, server: 139.59.30.221, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
   - {name: IRL 🇮🇪 Tallaght 2 @VPNFolder, server: 185.108.129.158, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
   - {name: IRL 🇮🇪 Tallaght @VPNFolder, server: 185.108.129.159, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
@@ -436,7 +436,6 @@ proxy-groups:
       - GRC 🇬🇷 Athens
       - HKG 🇭🇰 Central @VPNFolder
       - HUN 🇭🇺 Budapest @VPNFolder
-      - ICL 🇮🇸 Hafnarfjordur @VPNFolder
       - IND 🇮🇳 Bengaluru @VPNFolder
       - IND 🇮🇳 Chennai
       - IND 🇮🇳 Chennai 2
@@ -446,6 +445,7 @@ proxy-groups:
       - IRL 🇮🇪 Dublin 3
       - IRL 🇮🇪 Tallaght @VPNFolder
       - IRL 🇮🇪 Tallaght 2 @VPNFolder
+      - ISL 🇮🇸 Hafnarfjordur @VPNFolder
       - ISL 🇮🇸 Reykjavik
       - ISL 🇮🇸 Reykjavik 2
       - ISR 🇮🇱 Tel Aviv
@@ -596,6 +596,7 @@ proxy-groups:
       - BAH 🇧🇭 Dar Kulayb 2
       - CAN 🇨🇦 CAN
       - CAN 🇨🇦 CAN 2
+      - FRA 🇫🇷 France
       - FRA 🇫🇷 Carpentras
       - FRA 🇫🇷 Longjumeau
       - FRA 🇫🇷 Paris 3
@@ -746,7 +747,6 @@ proxy-groups:
       - GRC 🇬🇷 Athens
       - HKG 🇭🇰 Central @VPNFolder
       - HUN 🇭🇺 Budapest @VPNFolder
-      - ICL 🇮🇸 Hafnarfjordur @VPNFolder
       - IND 🇮🇳 Bengaluru @VPNFolder
       - IND 🇮🇳 Chennai
       - IND 🇮🇳 Chennai 2
@@ -756,6 +756,7 @@ proxy-groups:
       - IRL 🇮🇪 Dublin 3
       - IRL 🇮🇪 Tallaght @VPNFolder
       - IRL 🇮🇪 Tallaght 2 @VPNFolder
+      - ISL 🇮🇸 Hafnarfjordur @VPNFolder
       - ISL 🇮🇸 Reykjavik
       - ISL 🇮🇸 Reykjavik 2
       - ISR 🇮🇱 Tel Aviv
