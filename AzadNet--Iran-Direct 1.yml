@@ -65,14 +65,14 @@ proxies:
   - {name: FRA 🇫🇷 Roubaix 3, server: 51.210.113.68, port: 807, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
   - {name: FRA 🇫🇷 Roubaix 4, server: 51.178.133.154, port: 807, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
   - {name: GER 🇩🇪 Frankfurt, server: 185.102.219.48, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
-  - {name: GER 🇩🇪 Frankfurt 2, server: 156.146.33.67, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: GER 🇩🇪 Frankfurt 2, server: 138.199.19.177, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
   - {name: GER 🇩🇪 Frankfurt 3, server: 156.146.33.83, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
   - {name: GER 🇩🇪 Frankfurt 4, server: 18.185.63.41, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
   - {name: GER 🇩🇪 Frankfurt 5, server: 185.104.184.78, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: GER 🇩🇪 Melsungen, server: 136.243.191.86, port: 443, type: ssr, cipher: aes-128-ctr, password: sEscPBiAD9K$&@79, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: "", obfs-param: ""}
-  - {name: GER 🇩🇪 Melsungen 2, server: 136.243.191.85, port: 443, type: ssr, cipher: aes-128-ctr, password: sEscPBiAD9K$&@79, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: "", obfs-param: ""}
-  - {name: GER 🇩🇪 Melsungen 3, server: 136.243.191.84, port: 443, type: ssr, cipher: aes-128-ctr, password: sEscPBiAD9K$&@79, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: "", obfs-param: ""}
-  - {name: GER 🇩🇪 Melsungen 4, server: 136.243.191.88, port: 443, type: ssr, cipher: aes-128-ctr, password: sEscPBiAD9K$&@79, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: "", obfs-param: ""}
+  - {name: GER 🇩🇪 Berlin 1, server: 193.29.106.13, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
+  - {name: GER 🇩🇪 Berlin 2, server: 193.29.106.165, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
+  - {name: GER 🇩🇪 Berlin 3, server: 193.29.106.53, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
+  - {name: GER 🇩🇪 Berlin 4, server: 193.29.106.155, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
   - {name: GRC 🇬🇷 Athens, server: 194.150.167.40, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp, udp: true}
   - {name: ISL 🇮🇸 Reykjavik, server: 45.133.193.107, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
   - {name: ISL 🇮🇸 Reykjavik 2, server: 45.133.193.195, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
@@ -106,8 +106,8 @@ proxies:
   - {name: PRY 🇵🇾 Asunción, server: 181.40.18.47, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
   - {name: PRY 🇵🇾 Asunción 2, server: 181.40.18.47, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: PRT 🇵🇹 Porto, server: 91.205.230.140, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp, udp: true}
-  - {name: RUS 🇷🇺 St. Petersburg, server: 92.38.138.135, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
-  - {name: RUS 🇷🇺 Moscow, server: 92.38.138.111, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: RUS 🇷🇺 Moscow, server: 85.192.32.3, port: 228, type: ss, cipher: chacha20-ietf, password: asic}
+  - {name: RUS 🇷🇺 Moscow 2, server: 92.38.138.111, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
   - {name: SOAF 🇿🇦 Johannesburg, server: 154.127.50.130, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: SPN 🇪🇸 Barcelona, server: 82.102.26.237, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
   - {name: SPN 🇪🇸 Madrid, server: 89.37.95.27, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp, udp: true}
@@ -215,7 +215,7 @@ proxies:
   - {name: GER 🇩🇪 Nuremberg @VPNFolder, server: 213.136.80.36, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
   - {name: HKG 🇭🇰 Central @VPNFolder, server: 203.23.128.94, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
   - {name: HUN 🇭🇺 Budapest @VPNFolder, server: 194.71.130.160, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: ICL 🇮🇸 Hafnarfjordur @VPNFolder, server: 37.235.49.48, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: ISL 🇮🇸 Hafnarfjordur @VPNFolder, server: 37.235.49.48, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
   - {name: IND 🇮🇳 Bengaluru @VPNFolder, server: 139.59.30.221, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
   - {name: IRL 🇮🇪 Tallaght 2 @VPNFolder, server: 185.108.129.158, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
   - {name: IRL 🇮🇪 Tallaght @VPNFolder, server: 185.108.129.159, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
@@ -299,7 +299,7 @@ proxies:
   - {name: JPN 🇯🇵 JPN, server: jp.rapeamazon.ml, port: 443, type: vmess, uuid: 7a2592e8-28d9-4972-8788-4601e09f27c4, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /ewfd, ws-headers: {Host: jp.rapeamazon.ml}}
   - {name: JPN 🇯🇵 Tokyo 4, server: 172.67.186.204, port: 443, type: vmess, uuid: f299184b-19e0-41a4-9b4b-65fa8f0e691c, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /jj, ws-headers: {Host: c-jp1.ooxc.cc}}
   - {name: JPN 🇯🇵 Tokyo 5, server: jp1.bingbinghouse.com, port: 443, type: trojan, password: b6nAWUk8cmqRRjxs, sni: jp1.bingbinghouse.com}
-  - {name: JPN 🇯🇵 Tokyo 6, server: 18.177.140.83, port: 28483, type: vmess, uuid: 1add6694-b56f-4162-b7da-d899612b0608, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 18.177.140.83}}
+  - {name: JPN 🇯🇵 Tokyo 6, server: 104.19.1.168, port: 443, type: vmess, uuid: f299184b-19e0-41a4-9b4b-65fa8f0e691c, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /jj, ws-headers: {Host: c-jp1.ooxc.cc}}
   - {name: JPN 🇯🇵 Tokyo 7, server: jp.noic.ml, port: 2309, type: vmess, uuid: d58a968f-1163-4d5e-d22f-b6683300b64f, alterId: 32, cipher: auto, tls: true}
   - {name: JPN 🇯🇵 Tokyo 8, server: 104.18.207.61, port: 443, type: vmess, uuid: 356ed062-4f58-49c3-bd44-c0b6db1c94ee, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /stream, ws-headers: {Host: euserv3p.ezddns.tk}}
   - {name: JPN 🇯🇵 Tokyo 9, server: jp2.noic.ml, port: 2310, type: vmess, uuid: 65ad710b-e7e3-49ff-f394-a5b842f6e93e, alterId: 32, cipher: auto, tls: true}
@@ -309,8 +309,8 @@ proxies:
   - {name: NLD 🇳🇱 NLD, server: 154.84.1.116, port: 443, type: vmess, uuid: 20b30916-e203-412e-8ec0-900f3acd3588, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.25936911.xyz}}
   - {name: NLD 🇳🇱 NLD 2, server: 46.182.107.147, port: 443, type: vmess, uuid: 1d474f0b-e78d-4af9-bc4a-a539467bc7a7, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.73207635.xyz}}
   - {name: NLD 🇳🇱 NLD 3, server: 46.182.107.98, port: 443, type: vmess, uuid: 6e79eea4-5f72-4683-ad0e-5339f077621b, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.08538470.xyz}}
-  - {name: NLD 🇳🇱 NLD 4, server: 51.15.113.164, port: 80, type: vmess, uuid: 7512e0f4-05b3-4b97-8972-d3fea44cf452, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /sshocean, ws-headers: {Host: 51.15.113.164}}
-  - {name: NLD 🇳🇱 Amsterdam, server: 51.15.113.164, port: 80, type: vmess, uuid: 7512e0f4-05b3-4b97-8972-d3fea44cf452, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /sshocean, ws-headers: {Host: 51.15.113.164}}
+  - {name: NLD 🇳🇱 NLD 4, server: 154.84.1.14, port: 443, type: vmess, uuid: 21155efd-8e29-43d2-95bc-fe3190ecb1c6, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/310910211916, ws-headers: {Host: www.51334583.xyz}}
+  - {name: NLD 🇳🇱 Amsterdam, server: 154.84.1.15, port: 443, type: vmess, uuid: 21155efd-8e29-43d2-95bc-fe3190ecb1c6, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/310910211916, ws-headers: {Host: www.51334583.xyz}}
   - {name: POL 🇵🇱 Warsaw, server: 95.214.55.119, port: 16408, type: vmess, uuid: 4e49e7c6-b7cd-4c74-c022-2add80a19556, alterId: 64, cipher: auto, tls: false}
   - {name: POL 🇵🇱 Warsaw 2, server: 95.214.55.120, port: 42280, type: vmess, uuid: ac56c78b-bc3e-45ce-bd20-254339688d17, alterId: 64, cipher: auto, tls: false}
   - {name: POL 🇵🇱 Warsaw 3, server: 95.214.55.118, port: 50825, type: vmess, uuid: 0cfb1063-051e-4a56-ccac-27947710ea0e, alterId: 64, cipher: auto, tls: false}
@@ -327,8 +327,8 @@ proxies:
   - {name: RUS 🇷🇺 RUS 5, server: 80.85.156.31, port: 40331, type: vmess, uuid: f3dc16e3-715c-4839-abd3-8e0c6df46064, alterId: 0, cipher: auto, tls: false}
   - {name: SGP 🇸🇬 Singapore, server: 165.154.234.111, port: 41182, type: vmess, uuid: 610a5731-123c-4e8d-8f82-2d96459e42f5, alterId: 64, cipher: auto, tls: false}
   - {name: SGP 🇸🇬 Singapore 2, server: sg.rapeamazon.ml, port: 443, type: vmess, uuid: 78405ab3-fe5a-4743-978a-078034b3790a, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /bdff, ws-headers: {Host: sg.rapeamazon.ml}}
-  - {name: SGP 🇸🇬 Singapore 3, server: 207.148.66.58, port: 80, type: vmess, uuid: 420e69e7-bf7b-4a2e-d156-f135a9d1cc44, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 207.148.66.58}}
-  - {name: SNG 🇸🇬 Queenstown Estate, server: 45.88.42.22, port: 54068, type: vmess, uuid: 83f7d4a0-a787-4cff-fb37-fa9e556b24d4, alterId: 64, cipher: auto, tls: false}
+  - {name: SGP 🇸🇬 Singapore 3, server: 13.212.76.43, port: 15068, type: vmess, uuid: 7a006e11-72df-4497-947a-54b4ef9cd229, alterId: 64, cipher: auto, tls: false}
+  - {name: SGP 🇸🇬 Singapore 4, server: 54.254.167.44, port: 58955, type: vmess, uuid: b71c9c07-09b5-4af4-ea44-2ece8145b912, alterId: 64, cipher: auto, tls: false}
   - {name: SWE 🇸🇪 Stockholm, server: 13.51.207.45, port: 24226, type: vmess, uuid: e9824a8c-ae12-4a33-909b-a87459a7c8dd, alterId: 64, cipher: auto, tls: false}
   - {name: SPN 🇪🇸 Madrid 3, server: 5.183.103.196, port: 57801, type: vmess, uuid: 337ae850-ba0b-4647-e9b7-a222dc09b0dc, alterId: 64, cipher: auto, tls: false}
   - {name: SPN 🇪🇸 Madrid 4, server: 5.183.103.196, port: 57801, type: vmess, uuid: 337ae850-ba0b-4647-e9b7-a222dc09b0dc, alterId: 64, cipher: auto, tls: false}
@@ -348,11 +348,12 @@ proxies:
   - {name: USA 🇺🇸 USA 4, server: ac2088.herokuapp.com, port: 443, type: vmess, uuid: d1babe08-f8ac-490b-b66f-9be27467f3cc, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /d1babe08-f8ac-490b-b66f-9be27467f3cc-vmess, ws-headers: {Host: ac2088.herokuapp.com}}
   - {name: USA 🇺🇸 USA 5, server: a7.ssrsub.one, port: 8443, type: trojan, password: kBFMVjsv, sni: a7.ssrsub.one}
   - {name: USA 🇺🇸 USA 6, server: 198.2.200.217, port: 443, type: vmess, uuid: 2a23dbd5-09cf-4aa8-a835-3230728c4973, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/290516321830, ws-headers: {Host: www.48168443.xyz}}
+  - {name: USA 🇺🇸 USA 7, server: 23.224.30.70, port: 443, type: vmess, uuid: 688f4b5d-ce9a-4729-abe5-b66ca96b2ee9, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.36773818.xyz}}
   - {name: USA 🇺🇸 California, server: euserv4p.ezddns.tk, port: 443, type: vmess, uuid: d2da3dcb-b08a-4561-83de-b73e7b8c0288, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /stream, ws-headers: {Host: euserv4p.ezddns.tk}}
   - {name: USA 🇺🇸 California 2, server: t8.ssrsub.one, port: 443, type: trojan, password: QiFPnHKv, sni: t8.ssrsub.one}
   - {name: USA 🇺🇸 California 3, server: a8.ssrsub.one, port: 8443, type: trojan, password: YOR8hMHi, sni: a8.ssrsub.one}
   - {name: USA 🇺🇸 California 4, server: 152.67.225.114, port: 23456, type: vmess, uuid: 86e46276-7b5a-445e-8a66-1f3ec592fc8f, alterId: 32, cipher: auto, tls: false, network: ws, ws-path: /cs, ws-headers: {Host: 152.67.225.114}}
-  - {name: USA 🇺🇲 Virginia, server: 135.148.27.127, port: 80, type: vmess, uuid: 3d302b66-5896-41c1-8826-29b8af68df2f, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /sshocean, ws-headers: {Host: 135.148.27.127}}
+  - {name: USA 🇺🇸 California 5, server: 23.224.8.92, port: 443, type: vmess, uuid: bef6f470-d961-4419-a0df-d9c2dcafaefa, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.10925848.xyz}}
   - {name: SOAF 🇿🇦 Cape Town, server: 13.245.16.126, port: 20404, type: vmess, uuid: 559636c7-b5a2-450c-9b5e-0dc8fc14f4f5, alterId: 64, cipher: auto, tls: false}
   - {name: SOAF 🇿🇦 Cape Town 2, server: 13.245.13.47, port: 45623, type: vmess, uuid: a443853f-ce89-4b7c-e6f5-a5ad018085bf, alterId: 64, cipher: auto, tls: false}
  
@@ -431,12 +432,14 @@ proxy-groups:
       - GER 🇩🇪 Frankfurt 3
       - GER 🇩🇪 Frankfurt 4
       - GER 🇩🇪 Frankfurt 5
-      - GER 🇩🇪 Melsungen 2
+      - GER 🇩🇪 Berlin 1
+      - GER 🇩🇪 Berlin 2
+      - GER 🇩🇪 Berlin 3
+      - GER 🇩🇪 Berlin 4
       - GER 🇩🇪 Nuremberg @VPNFolder
       - GRC 🇬🇷 Athens
       - HKG 🇭🇰 Central @VPNFolder
       - HUN 🇭🇺 Budapest @VPNFolder
-      - ICL 🇮🇸 Hafnarfjordur @VPNFolder
       - IND 🇮🇳 Bengaluru @VPNFolder
       - IND 🇮🇳 Chennai
       - IND 🇮🇳 Chennai 2
@@ -446,6 +449,7 @@ proxy-groups:
       - IRL 🇮🇪 Dublin 3
       - IRL 🇮🇪 Tallaght @VPNFolder
       - IRL 🇮🇪 Tallaght 2 @VPNFolder
+      - ISL 🇮🇸 Hafnarfjordur @VPNFolder
       - ISL 🇮🇸 Reykjavik
       - ISL 🇮🇸 Reykjavik 2
       - ISR 🇮🇱 Tel Aviv
@@ -492,7 +496,7 @@ proxy-groups:
       - RUS 🇷🇺 Moscow
       - RUS 🇷🇺 Moscow @VPNFolder
       - RUS 🇷🇺 Moscow 2 @VPNFolder
-      - RUS 🇷🇺 St. Petersburg
+      - RUS 🇷🇺 Moscow 2
       - SNG 🇸🇬 Singapore
       - SNG 🇸🇬 Singapore @VPNFolder
       - SOAF 🇿🇦 Cape Town @VPNFolder
@@ -596,9 +600,6 @@ proxy-groups:
       - BAH 🇧🇭 Dar Kulayb 2
       - CAN 🇨🇦 CAN
       - CAN 🇨🇦 CAN 2
-      - FRA 🇫🇷 Carpentras
-      - FRA 🇫🇷 Longjumeau
-      - FRA 🇫🇷 Paris 3
       - FIN 🇫🇮 Helsinki
       - GER 🇩🇪 GER
       - GER 🇩🇪 GER 2
@@ -617,6 +618,7 @@ proxy-groups:
       - JPN 🇯🇵 JPN
       - JPN 🇯🇵 Tokyo 4
       - JPN 🇯🇵 Tokyo 5
+      - JPN 🇯🇵 Tokyo 6
       - JPN 🇯🇵 Tokyo 8
       - KOR 🇰🇷 Incheon
       - KOR 🇰🇷 Incheon 2 
@@ -640,7 +642,9 @@ proxy-groups:
       - RUS 🇷🇺 RUS 4
       - SGP 🇸🇬 Singapore
       - SGP 🇸🇬 Singapore 2
-      - SNG 🇸🇬 Queenstown Estate
+      - SGP 🇸🇬 Singapore 3
+      - SGP 🇸🇬 Singapore 4
+      - SOAF 🇿🇦 Cape Town
       - SPN 🇪🇸 Madrid 3
       - SPN 🇪🇸 Madrid 4
       - SWE 🇸🇪 Stockholm
@@ -658,12 +662,12 @@ proxy-groups:
       - USA 🇺🇸 USA 4
       - USA 🇺🇸 USA 5
       - USA 🇺🇸 USA 6
+      - USA 🇺🇸 USA 7
       - USA 🇺🇸 California
       - USA 🇺🇸 California 2
       - USA 🇺🇸 California 3
       - USA 🇺🇸 California 4
-      - USA 🇺🇲 Virginia
-      - SOAF 🇿🇦 Cape Town 
+      - USA 🇺🇸 California 5 
       - 🔥 Auto2(Best ping) 
       - ↪️ use (SS & SSR) group
  
@@ -741,12 +745,14 @@ proxy-groups:
       - GER 🇩🇪 Frankfurt 3
       - GER 🇩🇪 Frankfurt 4
       - GER 🇩🇪 Frankfurt 5
-      - GER 🇩🇪 Melsungen 2
+      - GER 🇩🇪 Berlin 1
+      - GER 🇩🇪 Berlin 2
+      - GER 🇩🇪 Berlin 3
+      - GER 🇩🇪 Berlin 4
       - GER 🇩🇪 Nuremberg @VPNFolder
       - GRC 🇬🇷 Athens
       - HKG 🇭🇰 Central @VPNFolder
       - HUN 🇭🇺 Budapest @VPNFolder
-      - ICL 🇮🇸 Hafnarfjordur @VPNFolder
       - IND 🇮🇳 Bengaluru @VPNFolder
       - IND 🇮🇳 Chennai
       - IND 🇮🇳 Chennai 2
@@ -756,6 +762,7 @@ proxy-groups:
       - IRL 🇮🇪 Dublin 3
       - IRL 🇮🇪 Tallaght @VPNFolder
       - IRL 🇮🇪 Tallaght 2 @VPNFolder
+      - ISL 🇮🇸 Hafnarfjordur @VPNFolder
       - ISL 🇮🇸 Reykjavik
       - ISL 🇮🇸 Reykjavik 2
       - ISR 🇮🇱 Tel Aviv
@@ -802,7 +809,7 @@ proxy-groups:
       - RUS 🇷🇺 Moscow
       - RUS 🇷🇺 Moscow @VPNFolder
       - RUS 🇷🇺 Moscow 2 @VPNFolder
-      - RUS 🇷🇺 St. Petersburg
+      - RUS 🇷🇺 Moscow 2
       - SNG 🇸🇬 Singapore
       - SNG 🇸🇬 Singapore @VPNFolder
       - SOAF 🇿🇦 Cape Town @VPNFolder
@@ -965,7 +972,9 @@ proxy-groups:
       - SGP 🇸🇬 Singapore
       - SGP 🇸🇬 Singapore 2
       - SGP 🇸🇬 Singapore 3
-      - SNG 🇸🇬 Queenstown Estate
+      - SGP 🇸🇬 Singapore 4
+      - SOAF 🇿🇦 Cape Town 
+      - SOAF 🇿🇦 Cape Town 2
       - SPN 🇪🇸 Madrid 3
       - SPN 🇪🇸 Madrid 4
       - SWE 🇸🇪 Stockholm
@@ -985,13 +994,12 @@ proxy-groups:
       - USA 🇺🇸 USA 4
       - USA 🇺🇸 USA 5
       - USA 🇺🇸 USA 6
+      - USA 🇺🇸 USA 7
       - USA 🇺🇸 California
       - USA 🇺🇸 California 2
       - USA 🇺🇸 California 3
       - USA 🇺🇸 California 4
-      - USA 🇺🇲 Virginia
-      - SOAF 🇿🇦 Cape Town 
-      - SOAF 🇿🇦 Cape Town 2
+      - USA 🇺🇸 California 5
   - name: ↪️ use (vmess & trojan) group      
     type: select
     proxies:
