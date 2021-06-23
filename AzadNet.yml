@@ -188,71 +188,71 @@ proxies:
   - {name: VNM 🇻🇳 Ho Chi Minh City, server: 202.143.110.32, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
   - {name: VNM 🇻🇳 Ho Chi Minh City 2, server: 202.143.110.36, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   
-  - {name: ARG 🇦🇷 Buenos Aires @VPNFolder, server: 131.255.4.219, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: AUS 🇦🇺 Alexandria @VPNFolder , server: 149.28.186.148, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: AUT 🇦🇹 Graz @VPNFolder, server: 151.236.30.184, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: BGR 🇧🇬 Sofia 2 @VPNFolder, server: 194.68.225.104, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: BGR 🇧🇬 Sofia 3 @VPNFolder, server: 194.68.225.104, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: BGR 🇧🇬 Sofia 4 @VPNFolder, server: 194.68.225.28, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: BGR 🇧🇬 Sofia @VPNFolder, server: 194.68.225.28, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: BEL 🇧🇪 Flanders 2 @VPNFolder, server: 192.71.249.240, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: BEL 🇧🇪 Flanders @VPNFolder, server: 194.71.227.178, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: BRA 🇧🇷 Sao Paulo 2 @VPNFolder, server: 185.192.124.183, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: BRA 🇧🇷 Sao Paulo @VPNFolder, server: 209.14.0.228, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: CAN 🇨🇦 Montreal 2 @VPNFolder, server: 192.71.227.64, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: CAN 🇨🇦 Montreal @VPNFolder, server: 192.71.227.17, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: CHL 🇨🇱 Viña del Mar @VPNFolder, server: 37.235.52.112, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: CYP 🇨🇾 Nicosia 2 @VPNFolder, server: 213.169.137.221, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: CYP 🇨🇾 Nicosia @VPNFolder, server: 213.169.137.214, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: CZE 🇨🇿 Prague @VPNFolder, server: 193.235.207.28, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: DNK 🇩🇰 Copenhagen 2 @VPNFolder, server: 192.36.27.79, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: DNK 🇩🇰 Copenhagen @VPNFolder, server: 192.36.27.59, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: EST 🇪🇪 Tallinn @VPNFolder, server: 37.252.5.234, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: FIN 🇫🇮 Helsinki @VPNFolder, server: 37.143.129.185, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: FRA 🇫🇷 Gravelines @VPNFolder, server: 145.239.75.87, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: FRA 🇫🇷 Strasbourg @VPNFolder, server: 51.77.194.83, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: GER 🇩🇪 Düsseldorf @VPNFolder, server: 161.97.131.160, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: GER 🇩🇪 Nuremberg @VPNFolder, server: 213.136.80.36, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: HKG 🇭🇰 Central @VPNFolder, server: 203.23.128.94, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: HUN 🇭🇺 Budapest @VPNFolder, server: 194.71.130.160, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: ISL 🇮🇸 Hafnarfjordur @VPNFolder, server: 37.235.49.48, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: IND 🇮🇳 Bengaluru @VPNFolder, server: 139.59.30.221, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: IRL 🇮🇪 Tallaght 2 @VPNFolder, server: 185.108.129.158, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: IRL 🇮🇪 Tallaght @VPNFolder, server: 185.108.129.159, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: ITA 🇮🇹 Milan @VPNFolder, server: 95.174.23.218, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: JPN 🇯🇵 Tokyo @VPNFolder, server: 45.114.130.92, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: LUX 🇱🇺 Luxembourg 2 @VPNFolder, server: 172.255.248.39, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: LUX 🇱🇺 Luxembourg @VPNFolder, server: 172.255.248.40, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: MDA 🇲🇩 Chisinau @VPNFolder, server: 192.121.87.89, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: MLT 🇲🇹 Safi @VPNFolder, server: 185.89.238.36, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: MYS 🇲🇾 Kuala Lumpur @VPNFolder, server: 202.59.10.102, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: NLD 🇳🇱 Amsterdam @VPNFolder, server: 88.208.7.204, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: NOR 🇳🇴 Oslo 2 @VPNFolder, server: 194.68.32.29, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: NOR 🇳🇴 Oslo 3 @VPNFolder, server: 194.68.32.22, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: NOR 🇳🇴 Oslo @VPNFolder, server: 194.68.32.22, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: POL 🇵🇱 Wroclaw 2 @VPNFolder, server: 54.37.139.110, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: POL 🇵🇱 Wroclaw @VPNFolder, server: 54.37.136.249, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: PRT 🇵🇹 Lisbon @VPNFolder, server: 185.113.143.189, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: RUS 🇷🇺 Moscow 2 @VPNFolder, server: 83.217.9.76, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: RUS 🇷🇺 Moscow @VPNFolder, server: 31.192.104.206, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: SNG 🇸🇬 Singapore @VPNFolder, server: 194.233.65.67, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: SOAF 🇿🇦 Cape Town 2 @VPNFolder, server: 129.232.222.74, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: SOAF 🇿🇦 Cape Town @VPNFolder, server: 197.189.202.25, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: SPN 🇪🇸 Madrid @VPNFolder, server: 37.143.130.213, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: SVK 🇸🇰 Bratislava @VPNFolder, server: 188.123.123.133, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: SVN 🇸🇮 Ljubljana @VPNFolder, server: 192.71.244.49, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: SWE 🇸🇪 Stockholm @VPNFolder, server: 46.246.93.59, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: SWIT 🇨🇭 Zurich @VPNFolder, server: 212.237.210.158, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: THA 🇹🇭 Bangkok @VPNFolder, server: 43.254.132.220, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: TUR 🇹🇷 Istanbul @VPNFolder, server: 185.227.137.209, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: UK 🇬🇧 London @VPNFolder, server: 176.10.80.6, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: UKR 🇺🇦 Kyiv @VPNFolder, server: 147.78.3.242, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: USA 🇺🇲 Virginia @VPNFolder, server: 213.174.130.129, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: USA 🇺🇲 Virginia 2 @VPNFolder, server: 213.174.130.130, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: USA 🇺🇲 Virginia 3 @VPNFolder, server: 213.174.159.246, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: USA 🇺🇲 Virginia 4 @VPNFolder, server: 213.174.159.247, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: USA 🇺🇲 Virginia 5 @VPNFolder, server: 213.174.158.181, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: USA 🇺🇲 Virginia 6 @VPNFolder, server: 213.174.130.129, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: ARG 🇦🇷 Buenos Aires new, server: 131.255.4.219, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: AUS 🇦🇺 Alexandria new , server: 149.28.186.148, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: AUT 🇦🇹 Graz new, server: 151.236.30.184, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: BGR 🇧🇬 Sofia 2 new, server: 194.68.225.104, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: BGR 🇧🇬 Sofia 3 new, server: 194.68.225.104, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: BGR 🇧🇬 Sofia 4 new, server: 194.68.225.28, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: BGR 🇧🇬 Sofia new, server: 194.68.225.28, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: BEL 🇧🇪 Flanders 2 new, server: 192.71.249.240, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: BEL 🇧🇪 Flanders new, server: 194.71.227.178, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: BRA 🇧🇷 Sao Paulo 2 new, server: 185.192.124.183, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: BRA 🇧🇷 Sao Paulo new, server: 209.14.0.228, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: CAN 🇨🇦 Montreal 2 new, server: 192.71.227.64, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: CAN 🇨🇦 Montreal new, server: 192.71.227.17, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: CHL 🇨🇱 Viña del Mar new, server: 37.235.52.112, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: CYP 🇨🇾 Nicosia 2 new, server: 213.169.137.221, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: CYP 🇨🇾 Nicosia new, server: 213.169.137.214, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: CZE 🇨🇿 Prague new, server: 193.235.207.28, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: DNK 🇩🇰 Copenhagen 2 new, server: 192.36.27.79, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: DNK 🇩🇰 Copenhagen new, server: 192.36.27.59, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: EST 🇪🇪 Tallinn new, server: 37.252.5.234, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: FIN 🇫🇮 Helsinki new, server: 37.143.129.185, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: FRA 🇫🇷 Gravelines new, server: 145.239.75.87, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: FRA 🇫🇷 Strasbourg new, server: 51.77.194.83, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: GER 🇩🇪 Düsseldorf new, server: 161.97.131.160, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: GER 🇩🇪 Nuremberg new, server: 213.136.80.36, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: HKG 🇭🇰 Central new, server: 203.23.128.94, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: HUN 🇭🇺 Budapest new, server: 194.71.130.160, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: ISL 🇮🇸 Hafnarfjordur new, server: 37.235.49.48, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: IND 🇮🇳 Bengaluru new, server: 139.59.30.221, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: IRL 🇮🇪 Tallaght 2 new, server: 185.108.129.158, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: IRL 🇮🇪 Tallaght new, server: 185.108.129.159, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: ITA 🇮🇹 Milan new, server: 95.174.23.218, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: JPN 🇯🇵 Tokyo new, server: 45.114.130.92, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: LUX 🇱🇺 Luxembourg 2 new, server: 172.255.248.39, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: LUX 🇱🇺 Luxembourg new, server: 172.255.248.40, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: MDA 🇲🇩 Chisinau new, server: 192.121.87.89, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: MLT 🇲🇹 Safi new, server: 185.89.238.36, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: MYS 🇲🇾 Kuala Lumpur new, server: 202.59.10.102, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: NLD 🇳🇱 Amsterdam new, server: 88.208.7.204, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: NOR 🇳🇴 Oslo 2 new, server: 194.68.32.29, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: NOR 🇳🇴 Oslo 3 new, server: 194.68.32.22, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: NOR 🇳🇴 Oslo new, server: 194.68.32.22, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: POL 🇵🇱 Wroclaw 2 new, server: 54.37.139.110, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: POL 🇵🇱 Wroclaw new, server: 54.37.136.249, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: PRT 🇵🇹 Lisbon new, server: 185.113.143.189, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: RUS 🇷🇺 Moscow 2 new, server: 83.217.9.76, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: RUS 🇷🇺 Moscow new, server: 31.192.104.206, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: SNG 🇸🇬 Singapore new, server: 194.233.65.67, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: SOAF 🇿🇦 Cape Town 2 new, server: 129.232.222.74, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: SOAF 🇿🇦 Cape Town new, server: 197.189.202.25, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: SPN 🇪🇸 Madrid new, server: 37.143.130.213, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: SVK 🇸🇰 Bratislava new, server: 188.123.123.133, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: SVN 🇸🇮 Ljubljana new, server: 192.71.244.49, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: SWE 🇸🇪 Stockholm new, server: 46.246.93.59, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: SWIT 🇨🇭 Zurich new, server: 212.237.210.158, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: THA 🇹🇭 Bangkok new, server: 43.254.132.220, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: TUR 🇹🇷 Istanbul new, server: 185.227.137.209, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: UK 🇬🇧 London new, server: 176.10.80.6, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: UKR 🇺🇦 Kyiv new, server: 147.78.3.242, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: USA 🇺🇲 Virginia new, server: 213.174.130.129, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: USA 🇺🇲 Virginia 2 new, server: 213.174.130.130, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: USA 🇺🇲 Virginia 3 new, server: 213.174.159.246, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: USA 🇺🇲 Virginia 4 new, server: 213.174.159.247, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: USA 🇺🇲 Virginia 5 new, server: 213.174.158.181, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: USA 🇺🇲 Virginia 6 new, server: 213.174.130.129, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
    
   - {name: JPN 🇯🇵 Tokyo, server: 138.199.22.143, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
   - {name: JPN 🇯🇵 Tokyo 2, server: 45.66.134.215, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
@@ -269,7 +269,7 @@ proxies:
   - {name: CAN 🇨🇦 CAN 2, server: t1.ssrsub.one, port: 2096, type: trojan, password: upfdQ5t4, sni: t1.ssrsub.one}
   - {name: CAN 🇨🇦 CAN 3, server: t3.ssrsub.one, port: 8443, type: trojan, password: rvAjK7R2, sni: t3.ssrsub.one}
   - {name: CAN 🇨🇦 CAN 4, server: t4.ssrsub.one, port: 8443, type: trojan, password: KTxHfpze, sni: t4.ssrsub.one}
-  - {name: FRA 🇫🇷 France, server: 135.125.207.34, port: 80, type: vmess, uuid: e2816152-6326-4cf9-aa95-34b0f9a8c666, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /sshocean, ws-headers: {Host: 135.125.207.34}}
+  - {name: FRA 🇫🇷 France, server: 135.125.190.15, port: 51907, type: vmess, uuid: 336bba89-a018-4ed9-f3a1-add2dca20328, alterId: 64, cipher: auto, tls: false}
   - {name: FRA 🇫🇷 Carpentras, server: 51.15.229.29, port: 80, type: vmess, uuid: 9f4adaba-1213-49cd-aad2-2507ab59ca3c, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /sshocean, ws-headers: {Host: 51.15.229.29}}
   - {name: FRA 🇫🇷 Longjumeau, server: 54.37.18.98, port: 80, type: vmess, uuid: c4c24503-a357-40d1-b9bd-0dc4264d65e3, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /sshocean, ws-headers: {Host: 54.37.18.98}}
   - {name: FRA 🇫🇷 Paris 3, server: 92.222.217.16, port: 80, type: vmess, uuid: 3d02e7f9-35ff-4219-aa2d-d3e41dbf02df, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /sshocean, ws-headers: {Host: 92.222.217.16}}
@@ -310,6 +310,8 @@ proxies:
   - {name: NLD 🇳🇱 NLD 2, server: 46.182.107.147, port: 443, type: vmess, uuid: 1d474f0b-e78d-4af9-bc4a-a539467bc7a7, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.73207635.xyz}}
   - {name: NLD 🇳🇱 NLD 3, server: 46.182.107.98, port: 443, type: vmess, uuid: 6e79eea4-5f72-4683-ad0e-5339f077621b, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.08538470.xyz}}
   - {name: NLD 🇳🇱 NLD 4, server: 154.84.1.14, port: 443, type: vmess, uuid: 21155efd-8e29-43d2-95bc-fe3190ecb1c6, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/310910211916, ws-headers: {Host: www.51334583.xyz}}
+  - {name: NLD 🇳🇱 NLD 5, server: 46.182.107.45, port: 443, type: vmess, uuid: fe5f69e7-e183-439b-950b-8221ef0651f2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.27430248.xyz}}
+  - {name: NLD 🇳🇱 NLD 6, server: 46.182.107.36, port: 443, type: vmess, uuid: 65ea6727-4461-47a7-a5c4-fef2c67f2f68, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.28735975.xyz}}
   - {name: NLD 🇳🇱 Amsterdam, server: 154.84.1.15, port: 443, type: vmess, uuid: 21155efd-8e29-43d2-95bc-fe3190ecb1c6, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/310910211916, ws-headers: {Host: www.51334583.xyz}}
   - {name: POL 🇵🇱 Warsaw, server: 95.214.55.119, port: 16408, type: vmess, uuid: 4e49e7c6-b7cd-4c74-c022-2add80a19556, alterId: 64, cipher: auto, tls: false}
   - {name: POL 🇵🇱 Warsaw 2, server: 95.214.55.120, port: 42280, type: vmess, uuid: ac56c78b-bc3e-45ce-bd20-254339688d17, alterId: 64, cipher: auto, tls: false}
@@ -347,7 +349,7 @@ proxies:
   - {name: USA 🇺🇸 USA 3, server: t7.ssrsub.one, port: 443, type: trojan, password: QgMSj7Zi, sni: t7.ssrsub.one}
   - {name: USA 🇺🇸 USA 4, server: ac2088.herokuapp.com, port: 443, type: vmess, uuid: d1babe08-f8ac-490b-b66f-9be27467f3cc, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /d1babe08-f8ac-490b-b66f-9be27467f3cc-vmess, ws-headers: {Host: ac2088.herokuapp.com}}
   - {name: USA 🇺🇸 USA 5, server: a7.ssrsub.one, port: 8443, type: trojan, password: kBFMVjsv, sni: a7.ssrsub.one}
-  - {name: USA 🇺🇸 USA 6, server: 198.2.200.217, port: 443, type: vmess, uuid: 2a23dbd5-09cf-4aa8-a835-3230728c4973, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/290516321830, ws-headers: {Host: www.48168443.xyz}}
+  - {name: USA 🇺🇸 USA 6, server: 185.159.68.24, port: 35003, type: vmess, uuid: d682be0f-70c6-42db-8959-1ec968af3a9a, alterId: 64, cipher: auto, tls: false}
   - {name: USA 🇺🇸 USA 7, server: 23.224.30.70, port: 443, type: vmess, uuid: 688f4b5d-ce9a-4729-abe5-b66ca96b2ee9, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.36773818.xyz}}
   - {name: USA 🇺🇸 California, server: euserv4p.ezddns.tk, port: 443, type: vmess, uuid: d2da3dcb-b08a-4561-83de-b73e7b8c0288, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /stream, ws-headers: {Host: euserv4p.ezddns.tk}}
   - {name: USA 🇺🇸 California 2, server: t8.ssrsub.one, port: 443, type: trojan, password: QiFPnHKv, sni: t8.ssrsub.one}
@@ -358,7 +360,7 @@ proxies:
   - {name: SOAF 🇿🇦 Cape Town 2, server: 13.245.13.47, port: 45623, type: vmess, uuid: a443853f-ce89-4b7c-e6f5-a5ad018085bf, alterId: 64, cipher: auto, tls: false}
  
 proxy-groups:
-  - name: 🔰 SS & SSR
+  - name: 🔰 SS & SSR با تشکر از:@VPNFolder - @wbnet - @proSSH
     type: select
     proxies:
       - 🔥 Auto(Best ping)
@@ -367,57 +369,57 @@ proxy-groups:
       - ALB 🇦🇱 Tirana 2
       - ALB 🇦🇱 Tirana 3
       - ARG 🇦🇷 Buenos Aires
-      - ARG 🇦🇷 Buenos Aires @VPNFolder
+      - ARG 🇦🇷 Buenos Aires new
       - ARG 🇦🇷 Buenos Aires 2
-      - AUS 🇦🇺 Alexandria @VPNFolder
+      - AUS 🇦🇺 Alexandria new
       - AUS 🇦🇺 Brisbane
       - AUS 🇦🇺 Melbourne
       - AUS 🇦🇺 Perth
       - AUS 🇦🇺 Sydney
-      - AUT 🇦🇹 Graz @VPNFolder
+      - AUT 🇦🇹 Graz new
       - AZR 🇦🇿 Baku
-      - AZR 🇦🇿 Baku 2
-      - AZR 🇦🇿 Baku 3
-      - AZR 🇦🇿 Baku 4
-      - AZR 🇦🇿 Baku 5
+      - AZR 🇦🇿 Baku 2 
+      - AZR 🇦🇿 Baku 3  
+      - AZR 🇦🇿 Baku 4 
+      - AZR 🇦🇿 Baku 5 
       - BEL 🇧🇪 Belgium
       - BEL 🇧🇪 Belgium 2
-      - BEL 🇧🇪 Flanders @VPNFolder
-      - BEL 🇧🇪 Flanders 2 @VPNFolder
-      - BGR 🇧🇬 Sofia @VPNFolder
-      - BGR 🇧🇬 Sofia 2 @VPNFolder
-      - BGR 🇧🇬 Sofia 3 @VPNFolder
-      - BGR 🇧🇬 Sofia 4 @VPNFolder
+      - BEL 🇧🇪 Flanders new
+      - BEL 🇧🇪 Flanders 2 new
+      - BGR 🇧🇬 Sofia new
+      - BGR 🇧🇬 Sofia 2 new
+      - BGR 🇧🇬 Sofia 3 new
+      - BGR 🇧🇬 Sofia 4 new
       - BiH 🇧🇦 Sarajevo
       - BRA 🇧🇷 Sao Paulo
-      - BRA 🇧🇷 Sao Paulo @VPNFolder
+      - BRA 🇧🇷 Sao Paulo new
       - BRA 🇧🇷 Sao Paulo 2
-      - BRA 🇧🇷 Sao Paulo 2 @VPNFolder
+      - BRA 🇧🇷 Sao Paulo 2 new
       - CAN 🇨🇦 Montreal
-      - CAN 🇨🇦 Montreal @VPNFolder
-      - CAN 🇨🇦 Montreal 2 @VPNFolder
+      - CAN 🇨🇦 Montreal new
+      - CAN 🇨🇦 Montreal 2 new
       - CAN 🇨🇦 Toronto
       - CAN 🇨🇦 Vancouver
-      - CHL 🇨🇱 Viña del Mar @VPNFolder
+      - CHL 🇨🇱 Viña del Mar new
       - CROA 🇭🇷 Zagreb
       - CROA 🇭🇷 Zagreb 2
       - CROA 🇭🇷 Zagreb 3
       - CYP 🇨🇾 Nicosia
-      - CYP 🇨🇾 Nicosia @VPNFolder
-      - CYP 🇨🇾 Nicosia 2 @VPNFolder
+      - CYP 🇨🇾 Nicosia new
+      - CYP 🇨🇾 Nicosia 2 new
       - CZE 🇨🇿 Prague
-      - CZE 🇨🇿 Prague @VPNFolder
+      - CZE 🇨🇿 Prague new
       - DNK 🇩🇰 Copenhagen
-      - DNK 🇩🇰 Copenhagen @VPNFolder
+      - DNK 🇩🇰 Copenhagen new
       - DNK 🇩🇰 Copenhagen 2
-      - DNK 🇩🇰 Copenhagen 2 @VPNFolder
+      - DNK 🇩🇰 Copenhagen 2 new
       - EST 🇪🇪 Tallinn
-      - EST 🇪🇪 Tallinn @VPNFolder
-      - FIN 🇫🇮 Helsinki @VPNFolder
+      - EST 🇪🇪 Tallinn new
+      - FIN 🇫🇮 Helsinki new
       - FRA 🇫🇷 Bordeaux
       - FRA 🇫🇷 Bordeaux 2
       - FRA 🇫🇷 Bordeaux 3
-      - FRA 🇫🇷 Gravelines @VPNFolder
+      - FRA 🇫🇷 Gravelines new
       - FRA 🇫🇷 Marseille
       - FRA 🇫🇷 Paris 1
       - FRA 🇫🇷 Paris 2
@@ -425,97 +427,97 @@ proxy-groups:
       - FRA 🇫🇷 Roubaix 2
       - FRA 🇫🇷 Roubaix 3
       - FRA 🇫🇷 Roubaix 4
-      - FRA 🇫🇷 Strasbourg @VPNFolder
-      - GER 🇩🇪 Düsseldorf @VPNFolder
+      - FRA 🇫🇷 Strasbourg new
+      - GER 🇩🇪 Düsseldorf new
       - GER 🇩🇪 Frankfurt
       - GER 🇩🇪 Frankfurt 2
       - GER 🇩🇪 Frankfurt 3
-      - GER 🇩🇪 Frankfurt 4
-      - GER 🇩🇪 Frankfurt 5
+      - GER 🇩🇪 Frankfurt 4 
+      - GER 🇩🇪 Frankfurt 5 
       - GER 🇩🇪 Berlin 1
       - GER 🇩🇪 Berlin 2
       - GER 🇩🇪 Berlin 3
       - GER 🇩🇪 Berlin 4
-      - GER 🇩🇪 Nuremberg @VPNFolder
+      - GER 🇩🇪 Nuremberg new
       - GRC 🇬🇷 Athens
-      - HKG 🇭🇰 Central @VPNFolder
-      - HUN 🇭🇺 Budapest @VPNFolder
-      - IND 🇮🇳 Bengaluru @VPNFolder
+      - HKG 🇭🇰 Central new
+      - HUN 🇭🇺 Budapest new
+      - IND 🇮🇳 Bengaluru new
       - IND 🇮🇳 Chennai
       - IND 🇮🇳 Chennai 2
       - IND 🇮🇳 Indore
       - IRL 🇮🇪 Dublin
       - IRL 🇮🇪 Dublin 2
       - IRL 🇮🇪 Dublin 3
-      - IRL 🇮🇪 Tallaght @VPNFolder
-      - IRL 🇮🇪 Tallaght 2 @VPNFolder
-      - ISL 🇮🇸 Hafnarfjordur @VPNFolder
+      - IRL 🇮🇪 Tallaght new
+      - IRL 🇮🇪 Tallaght 2 new
+      - ISL 🇮🇸 Hafnarfjordur new
       - ISL 🇮🇸 Reykjavik
       - ISL 🇮🇸 Reykjavik 2
       - ISR 🇮🇱 Tel Aviv
-      - ITA 🇮🇹 Milan @VPNFolder
+      - ITA 🇮🇹 Milan new
       - ITA 🇮🇹 Milan 1
       - ITA 🇮🇹 Milan 2
       - ITA 🇮🇹 Milan 3
       - ITA 🇮🇹 Milan 4
       - ITA 🇮🇹 Rome
       - JPN 🇯🇵 Tokyo
-      - JPN 🇯🇵 Tokyo @VPNFolder
+      - JPN 🇯🇵 Tokyo new
       - JPN 🇯🇵 Tokyo 2
       - JPN 🇯🇵 Tokyo 3
       - LIT 🇱🇹 Vilnius
       - LUX 🇱🇺 Luxembourg
-      - LUX 🇱🇺 Luxembourg @VPNFolder
-      - LUX 🇱🇺 Luxembourg 2 @VPNFolder
+      - LUX 🇱🇺 Luxembourg new
+      - LUX 🇱🇺 Luxembourg 2 new
       - LVA 🇱🇻 Riga
       - MDA 🇲🇩 Chișinău
-      - MDA 🇲🇩 Chisinau @VPNFolder
+      - MDA 🇲🇩 Chisinau new
       - MEX 🇲🇽 Mexico City
       - MKD 🇲🇰 Skopje
-      - MLT 🇲🇹 Safi @VPNFolder
+      - MLT 🇲🇹 Safi new
       - MYS 🇲🇾 Kuala Lumpur
-      - MYS 🇲🇾 Kuala Lumpur @VPNFolder
+      - MYS 🇲🇾 Kuala Lumpur new
       - NGA 🇳🇬 Lagos
       - NGA 🇳🇬 Lagos 2
-      - NLD 🇳🇱 Amsterdam @VPNFolder
+      - NLD 🇳🇱 Amsterdam new
       - NLD 🇳🇱 Amsterdam 1
       - NLD 🇳🇱 Amsterdam 2
       - NLD 🇳🇱 Amsterdam 3
       - NOR 🇳🇴 Oslo
-      - NOR 🇳🇴 Oslo @VPNFolder
-      - NOR 🇳🇴 Oslo 2 @VPNFolder
-      - NOR 🇳🇴 Oslo 3 @VPNFolder
+      - NOR 🇳🇴 Oslo new
+      - NOR 🇳🇴 Oslo 2 new
+      - NOR 🇳🇴 Oslo 3 new
       - NZL 🇳🇿 Auckland
       - POL 🇵🇱 Gdansk
-      - POL 🇵🇱 Wroclaw @VPNFolder
-      - POL 🇵🇱 Wroclaw 2 @VPNFolder
-      - PRT 🇵🇹 Lisbon @VPNFolder
+      - POL 🇵🇱 Wroclaw new
+      - POL 🇵🇱 Wroclaw 2 new
+      - PRT 🇵🇹 Lisbon new
       - PRT 🇵🇹 Porto
       - PRY 🇵🇾 Asunción
       - PRY 🇵🇾 Asunción 2
       - RUS 🇷🇺 Moscow
-      - RUS 🇷🇺 Moscow @VPNFolder
-      - RUS 🇷🇺 Moscow 2 @VPNFolder
+      - RUS 🇷🇺 Moscow new
+      - RUS 🇷🇺 Moscow 2 new
       - RUS 🇷🇺 Moscow 2
       - SNG 🇸🇬 Singapore
-      - SNG 🇸🇬 Singapore @VPNFolder
-      - SOAF 🇿🇦 Cape Town @VPNFolder
-      - SOAF 🇿🇦 Cape Town 2 @VPNFolder
+      - SNG 🇸🇬 Singapore new
+      - SOAF 🇿🇦 Cape Town new
+      - SOAF 🇿🇦 Cape Town 2 new
       - SOAF 🇿🇦 Johannesburg
       - SPN 🇪🇸 Barcelona
       - SPN 🇪🇸 Madrid
-      - SPN 🇪🇸 Madrid @VPNFolder
+      - SPN 🇪🇸 Madrid new
       - SPN 🇪🇸 Valencia
       - SVK 🇸🇰 Bratislava
-      - SVK 🇸🇰 Bratislava @VPNFolder
-      - SVN 🇸🇮 Ljubljana @VPNFolder
-      - SWE 🇸🇪 Stockholm @VPNFolder
+      - SVK 🇸🇰 Bratislava new
+      - SVN 🇸🇮 Ljubljana new
+      - SWE 🇸🇪 Stockholm new
       - SWIT 🇨🇭 Zurich
-      - SWIT 🇨🇭 Zurich @VPNFolder
+      - SWIT 🇨🇭 Zurich new
       - TH 🇹🇭 Bangkok
-      - THA 🇹🇭 Bangkok @VPNFolder
+      - THA 🇹🇭 Bangkok new
       - TUR 🇹🇷  Istanbul
-      - TUR 🇹🇷 Istanbul @VPNFolder
+      - TUR 🇹🇷 Istanbul new
       - TWN 🇹🇼 Taichung
       - TWN 🇹🇼 Taichung 2
       - TWN 🇹🇼 Taichung 3
@@ -523,21 +525,21 @@ proxy-groups:
       - UAE 🇦🇪 Dubai 2
       - UAE 🇦🇪 Dubai 3
       - UK 🇬🇧 Glasgow
-      - UK 🇬🇧 London @VPNFolder
+      - UK 🇬🇧 London new
       - UK 🇬🇧 London 1
       - UK 🇬🇧 London 3
       - UK 🇬🇧 London 4
       - UK 🇬🇧 Manchester 2
       - UK 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Manchester
       - UKR 🇺🇦 Kyiv
-      - UKR 🇺🇦 Kyiv @VPNFolder
+      - UKR 🇺🇦 Kyiv new
       - UKR 🇺🇦 Kyiv 2
-      - USA 🇺🇲 Virginia @VPNFolder
-      - USA 🇺🇲 Virginia 2 @VPNFolder
-      - USA 🇺🇲 Virginia 3 @VPNFolder
-      - USA 🇺🇲 Virginia 4 @VPNFolder
-      - USA 🇺🇲 Virginia 5 @VPNFolder
-      - USA 🇺🇲 Virginia 6 @VPNFolder
+      - USA 🇺🇲 Virginia new
+      - USA 🇺🇲 Virginia 2 new
+      - USA 🇺🇲 Virginia 3 new
+      - USA 🇺🇲 Virginia 4 new
+      - USA 🇺🇲 Virginia 5 new
+      - USA 🇺🇲 Virginia 6 new
       - USA 🇺🇸 Atlanta
       - USA 🇺🇸 Bend 1
       - USA 🇺🇸 Bend 1 2
@@ -591,7 +593,7 @@ proxy-groups:
       - 🔥 Auto(Best ping)
       - ↪️ use (vmess & trojan) group
   
-  - name: 🔰 vmess & trojan
+  - name: 🔰 vmess & trojan با تشکر از:@Bn_Chanll - @vpn_proxy66
     type: select
     proxies:
       - ↪️ use (SS & SSR) group
@@ -600,6 +602,7 @@ proxy-groups:
       - BAH 🇧🇭 Dar Kulayb 2
       - CAN 🇨🇦 CAN
       - CAN 🇨🇦 CAN 2
+      - FRA 🇫🇷 France
       - FIN 🇫🇮 Helsinki
       - GER 🇩🇪 GER
       - GER 🇩🇪 GER 2
@@ -628,6 +631,8 @@ proxy-groups:
       - NLD 🇳🇱 NLD 2
       - NLD 🇳🇱 NLD 3
       - NLD 🇳🇱 NLD 4
+      - NLD 🇳🇱 NLD 5
+      - NLD 🇳🇱 NLD 6
       - POL 🇵🇱 Warsaw
       - POL 🇵🇱 Warsaw 2
       - POL 🇵🇱 Warsaw 3
@@ -680,14 +685,14 @@ proxy-groups:
       - ALB 🇦🇱 Tirana 2
       - ALB 🇦🇱 Tirana 3
       - ARG 🇦🇷 Buenos Aires
-      - ARG 🇦🇷 Buenos Aires @VPNFolder
+      - ARG 🇦🇷 Buenos Aires new
       - ARG 🇦🇷 Buenos Aires 2
-      - AUS 🇦🇺 Alexandria @VPNFolder
+      - AUS 🇦🇺 Alexandria new
       - AUS 🇦🇺 Brisbane
       - AUS 🇦🇺 Melbourne
       - AUS 🇦🇺 Perth
       - AUS 🇦🇺 Sydney
-      - AUT 🇦🇹 Graz @VPNFolder
+      - AUT 🇦🇹 Graz new
       - AZR 🇦🇿 Baku
       - AZR 🇦🇿 Baku 2
       - AZR 🇦🇿 Baku 3
@@ -695,42 +700,42 @@ proxy-groups:
       - AZR 🇦🇿 Baku 5
       - BEL 🇧🇪 Belgium
       - BEL 🇧🇪 Belgium 2
-      - BEL 🇧🇪 Flanders @VPNFolder
-      - BEL 🇧🇪 Flanders 2 @VPNFolder
-      - BGR 🇧🇬 Sofia @VPNFolder
-      - BGR 🇧🇬 Sofia 2 @VPNFolder
-      - BGR 🇧🇬 Sofia 3 @VPNFolder
-      - BGR 🇧🇬 Sofia 4 @VPNFolder
+      - BEL 🇧🇪 Flanders new
+      - BEL 🇧🇪 Flanders 2 new
+      - BGR 🇧🇬 Sofia new
+      - BGR 🇧🇬 Sofia 2 new
+      - BGR 🇧🇬 Sofia 3 new
+      - BGR 🇧🇬 Sofia 4 new
       - BiH 🇧🇦 Sarajevo
       - BRA 🇧🇷 Sao Paulo
-      - BRA 🇧🇷 Sao Paulo @VPNFolder
+      - BRA 🇧🇷 Sao Paulo new
       - BRA 🇧🇷 Sao Paulo 2
-      - BRA 🇧🇷 Sao Paulo 2 @VPNFolder
+      - BRA 🇧🇷 Sao Paulo 2 new
       - CAN 🇨🇦 Montreal
-      - CAN 🇨🇦 Montreal @VPNFolder
-      - CAN 🇨🇦 Montreal 2 @VPNFolder
+      - CAN 🇨🇦 Montreal new
+      - CAN 🇨🇦 Montreal 2 new
       - CAN 🇨🇦 Toronto
       - CAN 🇨🇦 Vancouver
-      - CHL 🇨🇱 Viña del Mar @VPNFolder
+      - CHL 🇨🇱 Viña del Mar new
       - CROA 🇭🇷 Zagreb
       - CROA 🇭🇷 Zagreb 2
       - CROA 🇭🇷 Zagreb 3
       - CYP 🇨🇾 Nicosia
-      - CYP 🇨🇾 Nicosia @VPNFolder
-      - CYP 🇨🇾 Nicosia 2 @VPNFolder
+      - CYP 🇨🇾 Nicosia new
+      - CYP 🇨🇾 Nicosia 2 new
       - CZE 🇨🇿 Prague
-      - CZE 🇨🇿 Prague @VPNFolder
+      - CZE 🇨🇿 Prague new
       - DNK 🇩🇰 Copenhagen
-      - DNK 🇩🇰 Copenhagen @VPNFolder
+      - DNK 🇩🇰 Copenhagen new
       - DNK 🇩🇰 Copenhagen 2
-      - DNK 🇩🇰 Copenhagen 2 @VPNFolder
+      - DNK 🇩🇰 Copenhagen 2 new
       - EST 🇪🇪 Tallinn
-      - EST 🇪🇪 Tallinn @VPNFolder
-      - FIN 🇫🇮 Helsinki @VPNFolder
+      - EST 🇪🇪 Tallinn new
+      - FIN 🇫🇮 Helsinki new
       - FRA 🇫🇷 Bordeaux
       - FRA 🇫🇷 Bordeaux 2
       - FRA 🇫🇷 Bordeaux 3
-      - FRA 🇫🇷 Gravelines @VPNFolder
+      - FRA 🇫🇷 Gravelines new
       - FRA 🇫🇷 Marseille
       - FRA 🇫🇷 Paris 1
       - FRA 🇫🇷 Paris 2
@@ -738,8 +743,8 @@ proxy-groups:
       - FRA 🇫🇷 Roubaix 2
       - FRA 🇫🇷 Roubaix 3
       - FRA 🇫🇷 Roubaix 4
-      - FRA 🇫🇷 Strasbourg @VPNFolder
-      - GER 🇩🇪 Düsseldorf @VPNFolder
+      - FRA 🇫🇷 Strasbourg new
+      - GER 🇩🇪 Düsseldorf new
       - GER 🇩🇪 Frankfurt
       - GER 🇩🇪 Frankfurt 2
       - GER 🇩🇪 Frankfurt 3
@@ -749,86 +754,86 @@ proxy-groups:
       - GER 🇩🇪 Berlin 2
       - GER 🇩🇪 Berlin 3
       - GER 🇩🇪 Berlin 4
-      - GER 🇩🇪 Nuremberg @VPNFolder
+      - GER 🇩🇪 Nuremberg new
       - GRC 🇬🇷 Athens
-      - HKG 🇭🇰 Central @VPNFolder
-      - HUN 🇭🇺 Budapest @VPNFolder
-      - IND 🇮🇳 Bengaluru @VPNFolder
+      - HKG 🇭🇰 Central new
+      - HUN 🇭🇺 Budapest new
+      - IND 🇮🇳 Bengaluru new
       - IND 🇮🇳 Chennai
       - IND 🇮🇳 Chennai 2
       - IND 🇮🇳 Indore
       - IRL 🇮🇪 Dublin
       - IRL 🇮🇪 Dublin 2
       - IRL 🇮🇪 Dublin 3
-      - IRL 🇮🇪 Tallaght @VPNFolder
-      - IRL 🇮🇪 Tallaght 2 @VPNFolder
-      - ISL 🇮🇸 Hafnarfjordur @VPNFolder
+      - IRL 🇮🇪 Tallaght new
+      - IRL 🇮🇪 Tallaght 2 new
+      - ISL 🇮🇸 Hafnarfjordur new
       - ISL 🇮🇸 Reykjavik
       - ISL 🇮🇸 Reykjavik 2
       - ISR 🇮🇱 Tel Aviv
-      - ITA 🇮🇹 Milan @VPNFolder
+      - ITA 🇮🇹 Milan new
       - ITA 🇮🇹 Milan 1
       - ITA 🇮🇹 Milan 2
       - ITA 🇮🇹 Milan 3
       - ITA 🇮🇹 Milan 4
       - ITA 🇮🇹 Rome
       - JPN 🇯🇵 Tokyo
-      - JPN 🇯🇵 Tokyo @VPNFolder
+      - JPN 🇯🇵 Tokyo new
       - JPN 🇯🇵 Tokyo 2
       - JPN 🇯🇵 Tokyo 3
       - LIT 🇱🇹 Vilnius
       - LUX 🇱🇺 Luxembourg
-      - LUX 🇱🇺 Luxembourg @VPNFolder
-      - LUX 🇱🇺 Luxembourg 2 @VPNFolder
+      - LUX 🇱🇺 Luxembourg new
+      - LUX 🇱🇺 Luxembourg 2 new
       - LVA 🇱🇻 Riga
       - MDA 🇲🇩 Chișinău
-      - MDA 🇲🇩 Chisinau @VPNFolder
+      - MDA 🇲🇩 Chisinau new
       - MEX 🇲🇽 Mexico City
       - MKD 🇲🇰 Skopje
-      - MLT 🇲🇹 Safi @VPNFolder
+      - MLT 🇲🇹 Safi new
       - MYS 🇲🇾 Kuala Lumpur
-      - MYS 🇲🇾 Kuala Lumpur @VPNFolder
+      - MYS 🇲🇾 Kuala Lumpur new
       - NGA 🇳🇬 Lagos
       - NGA 🇳🇬 Lagos 2
-      - NLD 🇳🇱 Amsterdam @VPNFolder
+      - NLD 🇳🇱 Amsterdam new
       - NLD 🇳🇱 Amsterdam 1
       - NLD 🇳🇱 Amsterdam 2
       - NLD 🇳🇱 Amsterdam 3
       - NOR 🇳🇴 Oslo
-      - NOR 🇳🇴 Oslo @VPNFolder
-      - NOR 🇳🇴 Oslo 2 @VPNFolder
-      - NOR 🇳🇴 Oslo 3 @VPNFolder
+      - NOR 🇳🇴 Oslo new
+      - NOR 🇳🇴 Oslo 2 new
+      - NOR 🇳🇴 Oslo 3 new
       - NZL 🇳🇿 Auckland
       - POL 🇵🇱 Gdansk
-      - POL 🇵🇱 Wroclaw @VPNFolder
-      - POL 🇵🇱 Wroclaw 2 @VPNFolder
-      - PRT 🇵🇹 Lisbon @VPNFolder
+      - POL 🇵🇱 Wroclaw new
+      - POL 🇵🇱 Wroclaw 2 new
+      - PRT 🇵🇹 Lisbon new
       - PRT 🇵🇹 Porto
       - PRY 🇵🇾 Asunción
       - PRY 🇵🇾 Asunción 2
       - RUS 🇷🇺 Moscow
-      - RUS 🇷🇺 Moscow @VPNFolder
-      - RUS 🇷🇺 Moscow 2 @VPNFolder
+      - RUS 🇷🇺 Moscow new
+      - RUS 🇷🇺 Moscow 2 new
       - RUS 🇷🇺 Moscow 2
       - SNG 🇸🇬 Singapore
-      - SNG 🇸🇬 Singapore @VPNFolder
-      - SOAF 🇿🇦 Cape Town @VPNFolder
-      - SOAF 🇿🇦 Cape Town 2 @VPNFolder
+      - SNG 🇸🇬 Singapore new
+      - SOAF 🇿🇦 Cape Town new
+      - SOAF 🇿🇦 Cape Town 2 new
       - SOAF 🇿🇦 Johannesburg
       - SPN 🇪🇸 Barcelona
       - SPN 🇪🇸 Madrid
-      - SPN 🇪🇸 Madrid @VPNFolder
+      - SPN 🇪🇸 Madrid new
       - SPN 🇪🇸 Valencia
       - SVK 🇸🇰 Bratislava
-      - SVK 🇸🇰 Bratislava @VPNFolder
-      - SVN 🇸🇮 Ljubljana @VPNFolder
-      - SWE 🇸🇪 Stockholm @VPNFolder
+      - SVK 🇸🇰 Bratislava new
+      - SVN 🇸🇮 Ljubljana new
+      - SWE 🇸🇪 Stockholm new
       - SWIT 🇨🇭 Zurich
-      - SWIT 🇨🇭 Zurich @VPNFolder
+      - SWIT 🇨🇭 Zurich new
       - TH 🇹🇭 Bangkok
-      - THA 🇹🇭 Bangkok @VPNFolder
+      - THA 🇹🇭 Bangkok new
       - TUR 🇹🇷  Istanbul
-      - TUR 🇹🇷 Istanbul @VPNFolder
+      - TUR 🇹🇷 Istanbul new
       - TWN 🇹🇼 Taichung
       - TWN 🇹🇼 Taichung 2
       - TWN 🇹🇼 Taichung 3
@@ -836,21 +841,21 @@ proxy-groups:
       - UAE 🇦🇪 Dubai 2
       - UAE 🇦🇪 Dubai 3
       - UK 🇬🇧 Glasgow
-      - UK 🇬🇧 London @VPNFolder
+      - UK 🇬🇧 London new
       - UK 🇬🇧 London 1
       - UK 🇬🇧 London 3
       - UK 🇬🇧 London 4
       - UK 🇬🇧 Manchester 2
       - UK 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Manchester
       - UKR 🇺🇦 Kyiv
-      - UKR 🇺🇦 Kyiv @VPNFolder
+      - UKR 🇺🇦 Kyiv new
       - UKR 🇺🇦 Kyiv 2
-      - USA 🇺🇲 Virginia @VPNFolder
-      - USA 🇺🇲 Virginia 2 @VPNFolder
-      - USA 🇺🇲 Virginia 3 @VPNFolder
-      - USA 🇺🇲 Virginia 4 @VPNFolder
-      - USA 🇺🇲 Virginia 5 @VPNFolder
-      - USA 🇺🇲 Virginia 6 @VPNFolder
+      - USA 🇺🇲 Virginia new
+      - USA 🇺🇲 Virginia 2 new
+      - USA 🇺🇲 Virginia 3 new
+      - USA 🇺🇲 Virginia 4 new
+      - USA 🇺🇲 Virginia 5 new
+      - USA 🇺🇲 Virginia 6 new
       - USA 🇺🇸 Atlanta
       - USA 🇺🇸 Bend 1
       - USA 🇺🇸 Bend 1 2
@@ -954,6 +959,8 @@ proxy-groups:
       - NLD 🇳🇱 NLD 2
       - NLD 🇳🇱 NLD 3
       - NLD 🇳🇱 NLD 4
+      - NLD 🇳🇱 NLD 5
+      - NLD 🇳🇱 NLD 6
       - NLD 🇳🇱 Amsterdam
       - POL 🇵🇱 Warsaw
       - POL 🇵🇱 Warsaw 2
@@ -1009,7 +1016,7 @@ proxy-groups:
   - name: ↪️ use (SS & SSR) group      
     type: select
     proxies:
-      - 🔰 SS & SSR
+      - 🔰 SS & SSR با تشکر از:@VPNFolder - @wbnet - @proSSH
 
   - name: ⛔Direct
     type: select
@@ -1017,4 +1024,4 @@ proxy-groups:
       - DIRECT
 
 rules:
- - MATCH,🔰 SS & SSR,🔰 vmess & trojan 
+ - MATCH,🔰 SS & SSR با تشکر از:@VPNFolder - @wbnet - @proSSH,🔰 vmess & trojan با تشکر از:@Bn_Chanll - @vpn_proxy66 
