@@ -261,7 +261,7 @@ proxies:
   - {name: CAN 🇨🇦 CAN 2, server: t1.ssrsub.one, port: 2096, type: trojan, password: upfdQ5t4, sni: t1.ssrsub.one}
   - {name: CAN 🇨🇦 CAN 3, server: t3.ssrsub.one, port: 8443, type: trojan, password: rvAjK7R2, sni: t3.ssrsub.one}
   - {name: CAN 🇨🇦 CAN 4, server: t4.ssrsub.one, port: 8443, type: trojan, password: KTxHfpze, sni: t4.ssrsub.one}
-  - {name: FRA 🇫🇷 France, server: 135.125.190.15, port: 51907, type: vmess, uuid: 336bba89-a018-4ed9-f3a1-add2dca20328, alterId: 64, cipher: auto, tls: false}
+  - {name: FRA 🇫🇷 France, server: 199.60.103.228, port: 80, type: vmess, uuid: b22b990f-b6dd-4b57-a0e1-ee3f829d413f, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /sshkit, ws-headers: {Host: eu-sshkit.v2-ray.cf}}
   - {name: FRA 🇫🇷 Carpentras, server: 51.15.229.29, port: 80, type: vmess, uuid: 9f4adaba-1213-49cd-aad2-2507ab59ca3c, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /sshocean, ws-headers: {Host: 51.15.229.29}}
   - {name: FRA 🇫🇷 Longjumeau, server: 54.37.18.98, port: 80, type: vmess, uuid: c4c24503-a357-40d1-b9bd-0dc4264d65e3, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /sshocean, ws-headers: {Host: 54.37.18.98}}
   - {name: FRA 🇫🇷 Paris 3, server: 92.222.217.16, port: 80, type: vmess, uuid: 3d02e7f9-35ff-4219-aa2d-d3e41dbf02df, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /sshocean, ws-headers: {Host: 92.222.217.16}}
@@ -287,7 +287,7 @@ proxies:
   - {name: IND 🇮🇳 Bengaluru 2, server: ind02.xqkj.cloud, port: 5062, type: vmess, uuid: 91ff9fa0-2578-48a4-bdd7-fe0fcb24e61f, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: ind02.xqkj.cloud}}
   - {name: IRL 🇮🇪 Dublin 4, server: huluwa0528.herokuapp.com, port: 443, type: vmess, uuid: c0fc8428-034f-414b-9dfb-52b5cf7d25bb, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /c0fc8428-034f-414b-9dfb-52b5cf7d25bb-vmess, ws-headers: {Host: huluwa0528.herokuapp.com}}
   - {name: IRL 🇮🇪 Dublin 5, server: lulu0528.herokuapp.com, port: 443, type: vmess, uuid: c0fc8428-034f-414b-9dfb-52b5cf7d25bb, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /c0fc8428-034f-414b-9dfb-52b5cf7d25bb-vmess, ws-headers: {Host: lulu0528.herokuapp.com}}
-  - {name: JPN 🇯🇵 JPN, server: jp.rapeamazon.ml, port: 443, type: vmess, uuid: 7a2592e8-28d9-4972-8788-4601e09f27c4, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /ewfd, ws-headers: {Host: jp.rapeamazon.ml}}
+  - {name: JPN 🇯🇵 JPN, server: 54.199.6.184, port: 12347, type: vmess, uuid: d20d7c24-486d-400c-a8f6-e87bc67bf35c, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 54.199.6.184}}
   - {name: JPN 🇯🇵 Tokyo 4, server: 172.67.186.204, port: 443, type: vmess, uuid: f299184b-19e0-41a4-9b4b-65fa8f0e691c, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /jj, ws-headers: {Host: c-jp1.ooxc.cc}}
   - {name: JPN 🇯🇵 Tokyo 5, server: jp1.bingbinghouse.com, port: 443, type: trojan, password: b6nAWUk8cmqRRjxs, sni: jp1.bingbinghouse.com}
   - {name: JPN 🇯🇵 Tokyo 6, server: 104.19.1.168, port: 443, type: vmess, uuid: f299184b-19e0-41a4-9b4b-65fa8f0e691c, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /jj, ws-headers: {Host: c-jp1.ooxc.cc}}
@@ -296,7 +296,7 @@ proxies:
   - {name: JPN 🇯🇵 Tokyo 9, server: jp2.noic.ml, port: 2310, type: vmess, uuid: 65ad710b-e7e3-49ff-f394-a5b842f6e93e, alterId: 32, cipher: auto, tls: true}
   - {name: KOR 🇰🇷 Incheon, server: 3.35.175.255, port: 52025, type: vmess, uuid: 7acbe87b-a979-444c-bf14-9e866473f883, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 3.35.175.255}}
   - {name: KOR 🇰🇷 Incheon 2, server: 91.245.227.135, port: 38166, type: vmess, uuid: 9551d4fd-610e-4bf3-9f93-1df5452c3654, alterId: 32, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 91.245.227.135}}
-  - {name: KOR 🇰🇷 Seoul, server: kr-3.june628.ml, port: 31172, type: vmess, uuid: b7c7878c-9323-480e-e714-a08b87576900, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /By:June-@CloudLinkGroup, ws-headers: {Host: kr-3.june628.ml}}
+  - {name: KOR 🇰🇷 Seoul, server: 52.79.60.0, port: 44223, type: vmess, uuid: 8b409727-b3e2-4e1f-b237-12b34cfb46e3, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 52.79.60.0}}
   - {name: NLD 🇳🇱 NLD, server: 154.84.1.116, port: 443, type: vmess, uuid: 20b30916-e203-412e-8ec0-900f3acd3588, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.25936911.xyz}}
   - {name: NLD 🇳🇱 NLD 2, server: 46.182.107.147, port: 443, type: vmess, uuid: 1d474f0b-e78d-4af9-bc4a-a539467bc7a7, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.73207635.xyz}}
   - {name: NLD 🇳🇱 NLD 3, server: 46.182.107.98, port: 443, type: vmess, uuid: 6e79eea4-5f72-4683-ad0e-5339f077621b, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.08538470.xyz}}
@@ -319,9 +319,9 @@ proxies:
   - {name: ROM 🇷🇴 Romania, server: 5.183.101.204, port: 59857, type: vmess, uuid: 4c35d374-dbf2-4e5f-c731-dfa49191825a, alterId: 64, cipher: auto, tls: false}
   - {name: RUS 🇷🇺 RUS, server: 91.245.227.135, port: 38166, type: vmess, uuid: 9551d4fd-610e-4bf3-9f93-1df5452c3654, alterId: 32, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 91.245.227.135}}
   - {name: RUS 🇷🇺 RUS 2, server: 91.245.227.135, port: 38166, type: vmess, uuid: 9551d4fd-610e-4bf3-9f93-1df5452c3654, alterId: 32, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 91.245.227.135}}
-  - {name: RUS 🇷🇺 RUS 3, server: t6.ssrsub.one, port: 443, type: trojan, password: hjyJ6qYS, sni: t6.ssrsub.one}
-  - {name: RUS 🇷🇺 RUS 4, server: a6.ssrsub.one, port: 8443, type: trojan, password: 5hE4y8tM, sni: a6.ssrsub.one}
-  - {name: RUS 🇷🇺 RUS 5, server: 80.85.156.31, port: 40331, type: vmess, uuid: f3dc16e3-715c-4839-abd3-8e0c6df46064, alterId: 0, cipher: auto, tls: false}
+  - {name: RUS 🇷🇺 RUS 3, server: t6.ssrsub.one, port: 443, type: trojan, password: MdIckp8G, sni: t6.ssrsub.one}
+  - {name: RUS 🇷🇺 RUS 4, server: t6.ssrsub.one, port: 443, type: trojan, password: MTUtzyq0, sni: t6.ssrsub.one}
+  - {name: RUS 🇷🇺 RUS 5, server: t9.ssrsub.one, port: 443, type: trojan, password: eHmUCdAv, sni: t9.ssrsub.one}
   - {name: SGP 🇸🇬 Singapore, server: 165.154.234.111, port: 41182, type: vmess, uuid: 610a5731-123c-4e8d-8f82-2d96459e42f5, alterId: 64, cipher: auto, tls: false}
   - {name: SGP 🇸🇬 Singapore 2, server: sg.rapeamazon.ml, port: 443, type: vmess, uuid: 78405ab3-fe5a-4743-978a-078034b3790a, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /bdff, ws-headers: {Host: sg.rapeamazon.ml}}
   - {name: SGP 🇸🇬 Singapore 3, server: 13.212.76.43, port: 15068, type: vmess, uuid: 7a006e11-72df-4497-947a-54b4ef9cd229, alterId: 64, cipher: auto, tls: false}
@@ -347,9 +347,9 @@ proxies:
   - {name: USA 🇺🇸 USA 6, server: 185.159.68.24, port: 35003, type: vmess, uuid: d682be0f-70c6-42db-8959-1ec968af3a9a, alterId: 64, cipher: auto, tls: false}
   - {name: USA 🇺🇸 USA 7, server: 23.224.30.70, port: 443, type: vmess, uuid: 688f4b5d-ce9a-4729-abe5-b66ca96b2ee9, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.36773818.xyz}}
   - {name: USA 🇺🇸 California, server: euserv4p.ezddns.tk, port: 443, type: vmess, uuid: d2da3dcb-b08a-4561-83de-b73e7b8c0288, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /stream, ws-headers: {Host: euserv4p.ezddns.tk}}
-  - {name: USA 🇺🇸 California 2, server: t8.ssrsub.one, port: 443, type: trojan, password: QiFPnHKv, sni: t8.ssrsub.one}
-  - {name: USA 🇺🇸 California 3, server: a8.ssrsub.one, port: 8443, type: trojan, password: YOR8hMHi, sni: a8.ssrsub.one}
-  - {name: USA 🇺🇸 California 4, server: 152.67.225.114, port: 23456, type: vmess, uuid: 86e46276-7b5a-445e-8a66-1f3ec592fc8f, alterId: 32, cipher: auto, tls: false, network: ws, ws-path: /cs, ws-headers: {Host: 152.67.225.114}}
+  - {name: USA 🇺🇸 California 2, server: t7.ssrsub.one, port: 443, type: trojan, password: HIZcILLy, sni: t7.ssrsub.one}
+  - {name: USA 🇺🇸 California 3, server: t7.ssrsub.one, port: 443, type: trojan, password: cNDcfWCf, sni: t7.ssrsub.one}
+  - {name: USA 🇺🇸 California 4, server: t8.ssrsub.one, port: 443, type: trojan, password: WbUtzlSJ, sni: t8.ssrsub.one}
   - {name: USA 🇺🇸 California 5, server: 23.224.8.92, port: 443, type: vmess, uuid: bef6f470-d961-4419-a0df-d9c2dcafaefa, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.10925848.xyz}}
   - {name: SOAF 🇿🇦 Cape Town, server: 13.245.16.126, port: 20404, type: vmess, uuid: 559636c7-b5a2-450c-9b5e-0dc8fc14f4f5, alterId: 64, cipher: auto, tls: false}
   - {name: SOAF 🇿🇦 Cape Town 2, server: 13.245.13.47, port: 45623, type: vmess, uuid: a443853f-ce89-4b7c-e6f5-a5ad018085bf, alterId: 64, cipher: auto, tls: false}
@@ -646,6 +646,7 @@ proxy-groups:
       - RUS 🇷🇺 RUS 2
       - RUS 🇷🇺 RUS 3
       - RUS 🇷🇺 RUS 4
+      - RUS 🇷🇺 RUS 5
       - SGP 🇸🇬 Singapore
       - SGP 🇸🇬 Singapore 2
       - SGP 🇸🇬 Singapore 3
