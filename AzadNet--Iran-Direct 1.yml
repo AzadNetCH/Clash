@@ -284,13 +284,13 @@ proxies:
   - {name: GER 🇩🇪 GER 9, server: 104.18.6.138, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
   - {name: GER 🇩🇪 GER 10, server: 104.21.48.161, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
   - {name: GER 🇩🇪 Hesse, server: 135.125.207.34, port: 80, type: vmess, uuid: b42c2cbd-9aa7-42f6-9239-6055906bee3b, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /sshocean, ws-headers: {Host: 135.125.207.34}}
-  - {name: HKG 🇭🇰 Hong Kong, server: hkt2.welsonal.xyz, port: 443, type: trojan, password: 4df3DRWVEefugStR, sni: hkt2.welsonal.xyz}
-  - {name: HKG 🇭🇰 Hong Kong 2, server: hkt3.welsonal.xyz, port: 443, type: trojan, password: B1vXvRHAtGIcPE5l, sni: hkt3.welsonal.xyz}
+  - {name: HKG 🇭🇰 Hong Kong, server: vtwonet-hk-a.qjnodeip.xyz, port: 23333, type: vmess, uuid: 55D1D690-B0C1-58CA-918B-8C4783AE88BD, alterId: 0, cipher: auto, tls: false}
+  - {name: HKG 🇭🇰 Hong Kong 2, server: 13.75.104.10, port: 11255, type: vmess, uuid: 5a653607-21ec-427a-933b-601edd87323e, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 13.75.104.10}}
   - {name: HKG 🇭🇰 Hong Kong 3, server: 20.HKG.ASIA.BIGAIRPORT.NET, port: 80, type: vmess, uuid: bb511347-6ed5-475c-9ffe-ac7268fdf351, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 20.HKG.ASIA.BIGAIRPORT.NET}}
   - {name: HKG 🇭🇰 Hong Kong 4, server: 18.HKG.ASIA.BIGAIRPORT.NET, port: 80, type: vmess, uuid: bb511347-6ed5-475c-9ffe-ac7268fdf351, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 18.HKG.ASIA.BIGAIRPORT.NET}}
   - {name: HKG 🇭🇰 Hong Kong 5, server: game-hk.june628.ml, port: 10163, type: vmess, uuid: 9b9955c9-3562-48b8-a0f7-98ef8258e51f, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /By:June-@CloudLinkGroup, ws-headers: {Host: game-hk.june628.ml}}
   - {name: HKG 🇭🇰 Hong Kong 6, server: 13.75.104.10, port: 11255, type: vmess, uuid: 5a653607-21ec-427a-933b-601edd87323e, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 13.75.104.10}}
-  - {name: HKG 🇭🇰 Hong Kong 7, server: 13.75.104.10, port: 11255, type: vmess, uuid: 5a653607-21ec-427a-933b-601edd87323e, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 13.75.104.10}}
+  - {name: HKG 🇭🇰 Hong Kong 7, server: 13.70.28.145, port: 34323, type: vmess, uuid: 5a2056b9-61c5-4737-b153-b2775ec8bad9, alterId: 64, cipher: auto, tls: false}
   - {name: HUN 🇭🇺 Budapest, server: 185.225.69.134, port: 45081, type: vmess, uuid: 3c3bfd75-dc30-4e76-8940-47e1137e21f9, alterId: 64, cipher: auto, tls: false}
   - {name: IDN 🇮🇩 Bogor, server: 103.227.254.55, port: 80, type: vmess, uuid: 390bebf4-e8d1-4651-9658-22e181ed50b1, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /sshocean, ws-headers: {Host: 103.227.254.55}}
   - {name: IND 🇮🇳 Bengaluru, server: ind01.xqkj.cloud, port: 5061, type: vmess, uuid: 91ff9fa0-2578-48a4-bdd7-fe0fcb24e61f, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: ind01.xqkj.cloud}}
@@ -317,6 +317,9 @@ proxies:
   - {name: NLD 🇳🇱 NLD 8, server: 46.182.107.46, port: 443, type: vmess, uuid: fe5f69e7-e183-439b-950b-8221ef0651f2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.27430248.xyz}}
   - {name: NLD 🇳🇱 NLD 9, server: 46.182.107.39, port: 443, type: vmess, uuid: d3133484-f2bf-4b0c-8d38-f8e645b67947, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.49696760.xyz}}
   - {name: NLD 🇳🇱 NLD 10, server: 46.182.107.146, port: 443, type: vmess, uuid: acedd8e0-e654-4a40-935d-5594c6c114bd, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.61020861.xyz}}
+  - {name: NLD 🇳🇱 NLD 11, server: 154.84.1.207, port: 443, type: vmess, uuid: d3133484-f2bf-4b0c-8d38-f8e645b67947, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.49696760.xyz}}
+  - {name: NLD 🇳🇱 NLD 12, server: 46.182.107.151, port: 443, type: vmess, uuid: f5250c4e-f855-4eff-b73c-a02226d42fe7, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.06321530.xyz}}
+  - {name: NLD 🇳🇱 NLD 13, server: 46.182.107.156, port: 443, type: vmess, uuid: 20b30916-e203-412e-8ec0-900f3acd3588, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.25936911.xyz}}
   - {name: NLD 🇳🇱 Amsterdam, server: 154.84.1.15, port: 443, type: vmess, uuid: 21155efd-8e29-43d2-95bc-fe3190ecb1c6, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/310910211916, ws-headers: {Host: www.51334583.xyz}}
   - {name: POL 🇵🇱 Warsaw, server: 146.59.13.37, port: 80, type: vmess, uuid: b79212e2-b670-4d4b-8c22-eb796921b97a, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /sshocean, ws-headers: {Host: 146.59.13.37}}
   - {name: POL 🇵🇱 Warsaw 2, server: 95.214.55.120, port: 42280, type: vmess, uuid: ac56c78b-bc3e-45ce-bd20-254339688d17, alterId: 64, cipher: auto, tls: false}
@@ -346,25 +349,30 @@ proxies:
   - {name: UAE 🇦🇪 Dubai 4, server: 20.74.176.216, port: 14117, type: vmess, uuid: 5358e0e7-c84b-4191-833c-0c93284d3575, alterId: 64, cipher: auto, tls: false}
   - {name: UAE 🇦🇪 Dubai 5, server: 20.203.6.201, port: 24998, type: vmess, uuid: 36faf8ea-e9f0-48d3-f99f-1a69d3badf43, alterId: 64, cipher: auto, tls: false}
   - {name: UK 🇬🇧 London 5, server: 51.195.217.20, port: 80, type: vmess, uuid: 6c0cb6a9-2389-4b5d-8bec-b14b076f4a4e, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /sshocean, ws-headers: {Host: 51.195.217.20}}
-  - {name: UK 🇬🇧 London 6, server: lod02.xqkj.cloud, port: 5051, type: vmess, uuid: 91ff9fa0-2578-48a4-bdd7-fe0fcb24e61f, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: lod02.xqkj.cloud}}
+  - {name: UK 🇬🇧 London 6, server: 35.178.68.152, port: 47611, type: vmess, uuid: 97a4d167-b361-48b8-b004-8bc45669e334, alterId: 0, cipher: auto, tls: false}
   - {name: UK 🇬🇧 London 7, server: lod03.xqkj.cloud, port: 5052, type: vmess, uuid: 91ff9fa0-2578-48a4-bdd7-fe0fcb24e61f, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: lod03.xqkj.cloud}}
   - {name: UKR 🇺🇦 Ukraine, server: 45.147.201.94, port: 21799, type: vmess, uuid: 77a8f6bb-ace4-4283-a865-b8feabf5312d, alterId: 0, cipher: auto, tls: false}
   - {name: USA 🇺🇸 USA, server: 198.211.3.154, port: 443, type: vmess, uuid: 3bfb43e2-7dfe-4757-86ee-1ce9fb9fd13a, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/310910211916, ws-headers: {Host: www.45218443.xyz}}
   - {name: USA 🇺🇸 USA 2, server: 198.2.200.218, port: 443, type: vmess, uuid: 2a23dbd5-09cf-4aa8-a835-3230728c4973, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/310910211916, ws-headers: {Host: www.48168443.xyz}}
   - {name: USA 🇺🇸 USA 3, server: 23.224.30.69, port: 443, type: vmess, uuid: 688f4b5d-ce9a-4729-abe5-b66ca96b2ee9, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.36773818.xyz}}
-  - {name: USA 🇺🇸 USA 4, server: ac2088.herokuapp.com, port: 443, type: vmess, uuid: d1babe08-f8ac-490b-b66f-9be27467f3cc, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /d1babe08-f8ac-490b-b66f-9be27467f3cc-vmess, ws-headers: {Host: ac2088.herokuapp.com}}
+  - {name: USA 🇺🇸 USA 4, server: 52.255.146.242, port: 28380, type: vmess, uuid: a232e331-bff8-48d4-f9a6-2436cf41aa26, alterId: 64, cipher: auto, tls: false}
   - {name: USA 🇺🇸 USA 5, server: 23.225.28.173, port: 443, type: vmess, uuid: 5ac3d610-1802-491b-ab06-dad9bbd83ff1, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.10855945.xyz}}
-  - {name: USA 🇺🇸 USA 6, server: 185.159.68.24, port: 35003, type: vmess, uuid: d682be0f-70c6-42db-8959-1ec968af3a9a, alterId: 64, cipher: auto, tls: false}
+  - {name: USA 🇺🇸 USA 6, server: 23.225.28.172, port: 443, type: vmess, uuid: 5ac3d610-1802-491b-ab06-dad9bbd83ff1, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.10855945.xyz}}
   - {name: USA 🇺🇸 USA 7, server: 23.224.30.70, port: 443, type: vmess, uuid: 688f4b5d-ce9a-4729-abe5-b66ca96b2ee9, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.36773818.xyz}}
-  - {name: USA 🇺🇸 California, server: euserv4p.ezddns.tk, port: 443, type: vmess, uuid: d2da3dcb-b08a-4561-83de-b73e7b8c0288, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /stream, ws-headers: {Host: euserv4p.ezddns.tk}}
-  - {name: USA 🇺🇸 California 2, server: t7.ssrsub.one, port: 443, type: trojan, password: HIZcILLy, sni: t7.ssrsub.one}
-  - {name: USA 🇺🇸 California 3, server: t7.ssrsub.one, port: 443, type: trojan, password: cNDcfWCf, sni: t7.ssrsub.one}
-  - {name: USA 🇺🇸 California 4, server: t8.ssrsub.one, port: 443, type: trojan, password: WbUtzlSJ, sni: t8.ssrsub.one}
+  - {name: USA 🇺🇸 California, server: egg.mooncloud.top, port: 8080, type: vmess, uuid: 00a356fc-71c7-4837-85ef-66a074a39530, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: egg.mooncloud.top}}
+  - {name: USA 🇺🇸 California 2, server: us1.keaiyun.top, port: 47777, type: vmess, uuid: 640779a5-e7c0-3090-b72a-753dc9e9dd5a, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: www.baidu.com}}
+  - {name: USA 🇺🇸 California 3, server: c39s3.jamjams.net, port: 61535, type: vmess, uuid: eacf6911-b896-42ba-8340-298083d7b2e4, alterId: 8, cipher: auto, tls: false}
+  - {name: USA 🇺🇸 California 4, server: us3.keaiyun.top, port: 49999, type: vmess, uuid: 640779a5-e7c0-3090-b72a-753dc9e9dd5a, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: www.baidu.com}}
   - {name: USA 🇺🇸 California 5, server: 23.224.8.92, port: 443, type: vmess, uuid: bef6f470-d961-4419-a0df-d9c2dcafaefa, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.10925848.xyz}}
+  - {name: USA 🇺🇸 California 6, server: 198.2.200.220, port: 443, type: vmess, uuid: 2a23dbd5-09cf-4aa8-a835-3230728c4973, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/310910211916, ws-headers: {Host: www.48168443.xyz}}
+  - {name: USA 🇺🇸 California 7, server: 144.34.248.51, port: 39002, type: vmess, uuid: 7779c431-9c96-4f2a-af9b-5688626ab6a3, alterId: 128, cipher: auto, tls: false, network: ws, ws-path: /v2, ws-headers: {Host: 144.34.248.51}}
+  - {name: USA 🇺🇸 California 8, server: 96.43.91.59, port: 443, type: vmess, uuid: 3bfb43e2-7dfe-4757-86ee-1ce9fb9fd13a, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/310910211916, ws-headers: {Host: www.45218443.xyz}}
+  - {name: USA 🇺🇸 California 9, server: 198.2.200.217, port: 443, type: vmess, uuid: 2a23dbd5-09cf-4aa8-a835-3230728c4973, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/290516321830, ws-headers: {Host: www.48168443.xyz}}
+  - {name: USA 🇺🇸 California 10, server: 45.12.110.8, port: 46612, type: vmess, uuid: c169c268-7e51-4564-bcf5-271b8e49e141, alterId: 0, cipher: auto, tls: false}
   - {name: USA 🇺🇸 Virginia, server: 51.81.35.193, port: 80, type: vmess, uuid: 2e1addbc-68f8-4fcd-a591-f541de1c2f61, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /sshocean, ws-headers: {Host: 51.81.35.193}}
   - {name: SOAF 🇿🇦 Cape Town, server: 13.245.16.126, port: 20404, type: vmess, uuid: 559636c7-b5a2-450c-9b5e-0dc8fc14f4f5, alterId: 64, cipher: auto, tls: false}
   - {name: SOAF 🇿🇦 Cape Town 2, server: 102.130.122.184, port: 80, type: vmess, uuid: a514a5fe-0fc6-4d30-a5ec-96bff8d9f5d5, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /sshocean, ws-headers: {Host: 102.130.122.184}}
- 
+
 proxy-groups:
   - name: 🔰 SS & SSR با تشکر از:@VPNFolder - @wbnet - @proSSH
     type: select
@@ -606,8 +614,6 @@ proxy-groups:
       - 🔥 Auto2(Best ping)       
       - BHR 🇧🇭 Dar Kulayb
       - BAH 🇧🇭 Dar Kulayb 2
-      - CAN 🇨🇦 CAN
-      - CAN 🇨🇦 CAN 2
       - FRA 🇫🇷 France
       - GER 🇩🇪 GER
       - GER 🇩🇪 GER 2
@@ -626,13 +632,9 @@ proxy-groups:
       - HKG 🇭🇰 Hong Kong 7
       - HUN 🇭🇺 Budapest
       - IDN 🇮🇩 Bogor
-      - IND 🇮🇳 Bengaluru
-      - IRL 🇮🇪 Dublin 4
       - JPN 🇯🇵 JPN
       - JPN 🇯🇵 Tokyo 4
       - JPN 🇯🇵 Tokyo 5
-      - JPN 🇯🇵 Tokyo 6
-      - JPN 🇯🇵 Tokyo 8
       - KOR 🇰🇷 Incheon
       - KOR 🇰🇷 Incheon 2 
       - KOR 🇰🇷 Seoul
@@ -647,6 +649,9 @@ proxy-groups:
       - NLD 🇳🇱 NLD 8
       - NLD 🇳🇱 NLD 9
       - NLD 🇳🇱 NLD 10
+      - NLD 🇳🇱 NLD 11
+      - NLD 🇳🇱 NLD 12
+      - NLD 🇳🇱 NLD 13
       - POL 🇵🇱 Warsaw
       - POL 🇵🇱 Warsaw 2
       - POL 🇵🇱 Warsaw 3
@@ -659,7 +664,6 @@ proxy-groups:
       - RUS 🇷🇺 RUS 2
       - RUS 🇷🇺 RUS 3
       - RUS 🇷🇺 RUS 4
-      - RUS 🇷🇺 RUS 5
       - SGP 🇸🇬 Singapore
       - SGP 🇸🇬 Singapore 2
       - SGP 🇸🇬 Singapore 3
@@ -668,15 +672,10 @@ proxy-groups:
       - SOAF 🇿🇦 Cape Town 2
       - SPN 🇪🇸 Madrid 3
       - SPN 🇪🇸 Madrid 4
-      - SWE 🇸🇪 Stockholm
       - TUR 🇹🇷 Istanbul
       - TUR 🇹🇷 Bursa
-      - TWN 🇹🇼 Chang-hua
-      - TWN 🇹🇼 Chang-hua 2
-      - UAE 🇦🇪 Dubai 4
-      - UAE 🇦🇪 Dubai 5
       - UK 🇬🇧 London 5
-      - UKR 🇺🇦 Ukraine
+      - UK 🇬🇧 London 6
       - USA 🇺🇸 USA
       - USA 🇺🇸 USA 2
       - USA 🇺🇸 USA 3
@@ -689,6 +688,11 @@ proxy-groups:
       - USA 🇺🇸 California 3
       - USA 🇺🇸 California 4
       - USA 🇺🇸 California 5 
+      - USA 🇺🇸 California 6
+      - USA 🇺🇸 California 7
+      - USA 🇺🇸 California 8
+      - USA 🇺🇸 California 9
+      - USA 🇺🇸 California 10 
       - USA 🇺🇸 Virginia
       - 🔥 Auto2(Best ping) 
       - ↪️ use (SS & SSR) group
@@ -983,6 +987,9 @@ proxy-groups:
       - NLD 🇳🇱 NLD 8
       - NLD 🇳🇱 NLD 9
       - NLD 🇳🇱 NLD 10
+      - NLD 🇳🇱 NLD 11
+      - NLD 🇳🇱 NLD 12
+      - NLD 🇳🇱 NLD 13
       - NLD 🇳🇱 Amsterdam
       - POL 🇵🇱 Warsaw
       - POL 🇵🇱 Warsaw 2
@@ -1029,8 +1036,12 @@ proxy-groups:
       - USA 🇺🇸 California 3
       - USA 🇺🇸 California 4
       - USA 🇺🇸 California 5
+      - USA 🇺🇸 California 6
+      - USA 🇺🇸 California 7
+      - USA 🇺🇸 California 8
+      - USA 🇺🇸 California 9
+      - USA 🇺🇸 California 10
       - USA 🇺🇸 Virginia
-
      
   - name: ↪️ use (vmess & trojan) group      
     type: select
