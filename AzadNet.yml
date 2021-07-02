@@ -33,9 +33,9 @@ proxies:
   - {name: AUS 🇦🇺 Brisbane, server: 144.48.39.109, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
   - {name: AUS 🇦🇺 Perth, server: 124.150.139.29, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
   - {name: AUS 🇦🇺 Sydney, server: 45.125.247.109, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
-  - {name: AZR 🇦🇿 Baku,  server: 62.212.239.69, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
-  - {name: AZR 🇦🇿 Baku 2, server: 62.212.239.51, port: 47644, type: ss, cipher: aes-256-gcm, password: LxzfAVfKbPqQx4SDCat7EJyE}
-  - {name: AZR 🇦🇿 Baku 3, server: 62.212.239.43, port: 47644, type: ss, cipher: aes-256-gcm, password: LxzfAVfKbPqQx4SDCat7EJyE}
+  - {name: AZR 🇦🇿 Baku,  server: 94.20.154.83, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: AZR 🇦🇿 Baku 2, server: 62.212.239.69, port: 47644, type: ss, cipher: aes-256-gcm, password: LxzfAVfKbPqQx4SDCat7EJyE}
+  - {name: AZR 🇦🇿 Baku 3, server: 94.20.154.59, port: 47644, type: ss, cipher: aes-256-gcm, password: LxzfAVfKbPqQx4SDCat7EJyE}
   - {name: AZR 🇦🇿 Baku 4, server: 62.212.239.45, port: 47644, type: ss, cipher: aes-256-gcm, password: LxzfAVfKbPqQx4SDCat7EJyE}
   - {name: AZR 🇦🇿 Baku 5, server: 62.212.239.53, port: 47644, type: ss, cipher: aes-256-gcm, password: LxzfAVfKbPqQx4SDCat7EJyE}
   - {name: BiH 🇧🇦 Sarajevo, server: 185.99.3.100, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
