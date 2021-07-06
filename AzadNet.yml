@@ -79,7 +79,7 @@ proxies:
   - {name: ITA 🇮🇹 Milan 1, server: 212.102.54.141, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
   - {name: ITA 🇮🇹 Milan 2, server: 212.102.54.135, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
   - {name: ITA 🇮🇹 Milan 3, server: 84.17.58.166, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
-  - {name: ITA 🇮🇹 Milan 4, server: 212.102.54.130, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: ITA 🇮🇹 Milan 4, server: 84.17.58.197, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
   - {name: ITA 🇮🇹 Rome, server: 82.102.26.93, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
   - {name: IRL 🇮🇪 Dublin, server: 185.252.222.117, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
   - {name: IRL 🇮🇪 Dublin 2, server: 185.108.128.160, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
