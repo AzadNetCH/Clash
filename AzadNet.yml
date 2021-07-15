@@ -102,6 +102,7 @@ proxies:
   - {name: NLD 🇳🇱 Amsterdam 2, server: 212.102.35.211, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna, udp: true}
   - {name: NLD 🇳🇱 Amsterdam 3, server: 143.244.42.81, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
   - {name: NOR 🇳🇴 Oslo, server: 45.12.223.195, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
+  - {name: PNM 🇵🇦 Panama, server: server: 185.244.139.9, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
   - {name: POL 🇵🇱 Gdansk, server: 185.246.208.72, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
   - {name: PRY 🇵🇾 Asunción, server: 181.40.18.47, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
   - {name: PRY 🇵🇾 Asunción 2, server: 181.40.18.47, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
@@ -384,7 +385,7 @@ proxies:
   - {name: SOAF 🇿🇦 Cape Town 2, server: 13.245.13.47, port: 45623, type: vmess, uuid: a443853f-ce89-4b7c-e6f5-a5ad018085bf, alterId: 64, cipher: auto, tls: false}
 
 proxy-groups:
-  - name: 🔰 SS & SSR با تشکر از:@VPNFolder - @wbnet - @proSSH
+  - name: 🔰 SS & SSR
     type: select
     proxies:
       - 🔥 Auto(Best ping)
@@ -512,6 +513,7 @@ proxy-groups:
       - NOR 🇳🇴 Oslo 2 new
       - NOR 🇳🇴 Oslo 3 new
       - NZL 🇳🇿 Auckland
+      - PNM 🇵🇦 Panama
       - POL 🇵🇱 Gdansk
       - POL 🇵🇱 Wroclaw new
       - POL 🇵🇱 Wroclaw 2 new
@@ -617,7 +619,7 @@ proxy-groups:
       - 🔥 Auto(Best ping)
       - ↪️ use (vmess & trojan) group
   
-  - name: 🔰 vmess & trojan با تشکر از:@Bn_Chanll - @vpn_proxy66
+  - name: 🔰 vmess & trojan
     type: select
     proxies:
       - ↪️ use (SS & SSR) group
@@ -819,6 +821,7 @@ proxy-groups:
       - NOR 🇳🇴 Oslo 2 new
       - NOR 🇳🇴 Oslo 3 new
       - NZL 🇳🇿 Auckland
+      - PNM 🇵🇦 Panama
       - POL 🇵🇱 Gdansk
       - POL 🇵🇱 Wroclaw new
       - POL 🇵🇱 Wroclaw 2 new
@@ -1055,7 +1058,7 @@ proxy-groups:
   - name: ↪️ use (SS & SSR) group      
     type: select
     proxies:
-      - 🔰 SS & SSR با تشکر از:@VPNFolder - @wbnet - @proSSH
+      - 🔰 SS & SSR
 
   - name: ⛔Direct
     type: select
@@ -1063,4 +1066,4 @@ proxy-groups:
       - DIRECT
 
 rules:
- - MATCH,🔰 SS & SSR با تشکر از:@VPNFolder - @wbnet - @proSSH,🔰 vmess & trojan با تشکر از:@Bn_Chanll - @vpn_proxy66 
+ - MATCH,🔰 SS & SSR,🔰 vmess & trojan
