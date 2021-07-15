@@ -24,24 +24,25 @@ dns:
     - https://dnsforge.de/dns-quer
     - https://dns.quad9.net/dns-query
 proxies:
-  - {name: ALB 🇦🇱 Tirana, server: 31.171.155.21, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
-  - {name: ALB 🇦🇱 Tirana 2, server: 31.171.155.67, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp, udp: true}
-  - {name: ALB 🇦🇱 Tirana 3, server: 31.171.155.35, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: ARG 🇦🇷 Buenos Aires, server: 91.206.168.19, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
-  - {name: ARG 🇦🇷 Buenos Aires 2, server: 91.206.168.64, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
-  - {name: AUS 🇦🇺 Melbourne, server: 144.48.38.139, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: AUS 🇦🇺 Brisbane, server: 144.48.39.109, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: ALB 🇦🇱 Tirana, server: 31.171.153.131, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: ALB 🇦🇱 Tirana 2, server: 31.171.155.21, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp, udp: true}
+  - {name: ALB 🇦🇱 Tirana 3, server: 31.171.155.101, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: ARG 🇦🇷 Buenos Aires, server: 91.206.168.9, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: ARG 🇦🇷 Buenos Aires 2, server: 91.206.168.19, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: AUS 🇦🇺 Melbourne, server: 103.192.80.219, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: AUS 🇦🇺 Brisbane, server: 45.248.77.235, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
   - {name: AUS 🇦🇺 Perth, server: 124.150.139.29, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
-  - {name: AUS 🇦🇺 Sydney, server: 45.125.247.109, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
+  - {name: AUS 🇦🇺 Sydney, server: 45.125.247.107, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
+  - {name: AUT 🇦🇹 Vienna, server: 89.187.168.56, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: AZR 🇦🇿 Baku,  server: 94.20.154.83, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
   - {name: AZR 🇦🇿 Baku 2, server: 62.212.239.69, port: 47644, type: ss, cipher: aes-256-gcm, password: LxzfAVfKbPqQx4SDCat7EJyE}
   - {name: AZR 🇦🇿 Baku 3, server: 94.20.154.59, port: 47644, type: ss, cipher: aes-256-gcm, password: LxzfAVfKbPqQx4SDCat7EJyE}
   - {name: AZR 🇦🇿 Baku 4, server: 62.212.239.45, port: 47644, type: ss, cipher: aes-256-gcm, password: LxzfAVfKbPqQx4SDCat7EJyE}
   - {name: AZR 🇦🇿 Baku 5, server: 62.212.239.53, port: 47644, type: ss, cipher: aes-256-gcm, password: LxzfAVfKbPqQx4SDCat7EJyE}
-  - {name: BiH 🇧🇦 Sarajevo, server: 185.99.3.100, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
-  - {name: BEL 🇧🇪 Belgium, server: 91.90.123.157,  port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp, udp: true}
-  - {name: BEL 🇧🇪 Belgium 2, server: 91.90.123.171,  port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp, udp: true}
-  - {name: BRA 🇧🇷 Sao Paulo, server: 191.96.13.212, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: BiH 🇧🇦 Sarajevo, server: 185.99.3.66, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
+  - {name: BEL 🇧🇪 Belgium, server: 5.253.205.99,  port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp, udp: true}
+  - {name: BEL 🇧🇪 Belgium 2, server: 91.90.123.147,  port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp, udp: true}
+  - {name: BRA 🇧🇷 Sao Paulo, server: 138.199.58.83, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
   - {name: BRA 🇧🇷 Sao Paulo 2, server: 45.231.207.72, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: CYP 🇨🇾 Nicosia, server: 195.47.194.79, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna, udp: true}
   - {name: CAN 🇨🇦 Toronto, server: 37.19.211.39, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
@@ -53,19 +54,19 @@ proxies:
   - {name: CZE 🇨🇿 Prague, server: 185.180.14.149, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
   - {name: DNK 🇩🇰 Copenhagen, server: 193.29.107.237, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp,}
   - {name: DNK 🇩🇰 Copenhagen 2, server: 89.45.7.51, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp, udp: true}
-  - {name: EST 🇪🇪 Tallinn, server: 185.174.159.133, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
-  - {name: FRA 🇫🇷 Paris 1, server: 84.17.60.235, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna, udp: true}
-  - {name: FRA 🇫🇷 Bordeaux 2, server: 185.108.106.106, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna, udp: true}
-  - {name: FRA 🇫🇷 Paris 2, server: 143.244.57.114, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna, udp: true}
+  - {name: EST 🇪🇪 Tallinn, server: 185.174.159.131, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: FRA 🇫🇷 Paris 1, server: 143.244.57.106, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna, udp: true}
+  - {name: FRA 🇫🇷 Paris 2, server: 143.244.57.112, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna, udp: true}
+  - {name: FRA 🇫🇷 Bordeaux, server: 185.108.106.89, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: FRA 🇫🇷 Bordeaux 2, server: 185.108.106.140, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna, udp: true}
   - {name: FRA 🇫🇷 Bordeaux 3, server: 185.108.106.164, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: FRA 🇫🇷 Bordeaux, server: 185.108.106.186, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
-  - {name: FRA 🇫🇷 Marseille, server: 185.166.84.59, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: FRA 🇫🇷 Marseille, server: 138.199.16.130, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
   - {name: FRA 🇫🇷 Roubaix, server: 51.210.113.68, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
   - {name: FRA 🇫🇷 Roubaix 2, server: 51.178.133.154, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
   - {name: FRA 🇫🇷 Roubaix 3, server: 51.210.113.68, port: 807, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
   - {name: FRA 🇫🇷 Roubaix 4, server: 51.178.133.154, port: 807, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
   - {name: GER 🇩🇪 Frankfurt, server: 185.102.219.48, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
-  - {name: GER 🇩🇪 Frankfurt 2, server: 138.199.19.177, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: GER 🇩🇪 Frankfurt 2, server: 138.199.19.164, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
   - {name: GER 🇩🇪 Frankfurt 3, server: 156.146.33.75, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
   - {name: GER 🇩🇪 Frankfurt 4, server: 18.185.63.41, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
   - {name: GER 🇩🇪 Frankfurt 5, server: 185.104.184.78, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
@@ -404,11 +405,12 @@ proxy-groups:
       - AUS 🇦🇺 Perth
       - AUS 🇦🇺 Sydney
       - AUT 🇦🇹 Graz new
+      - AUT 🇦🇹 Vienna
       - AZR 🇦🇿 Baku
-      - AZR 🇦🇿 Baku 2 
-      - AZR 🇦🇿 Baku 3  
-      - AZR 🇦🇿 Baku 4 
-      - AZR 🇦🇿 Baku 5 
+      - AZR 🇦🇿 Baku 2
+      - AZR 🇦🇿 Baku 3
+      - AZR 🇦🇿 Baku 4
+      - AZR 🇦🇿 Baku 5
       - BEL 🇧🇪 Belgium
       - BEL 🇧🇪 Belgium 2
       - BEL 🇧🇪 Flanders new
