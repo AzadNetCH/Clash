@@ -382,7 +382,6 @@ proxies:
   - {name: USA 🇺🇸 California 8, server: 96.43.91.59, port: 443, type: vmess, uuid: 3bfb43e2-7dfe-4757-86ee-1ce9fb9fd13a, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/310910211916, ws-headers: {Host: www.45218443.xyz}}
   - {name: USA 🇺🇸 California 9, server: 198.211.3.154, port: 443, type: vmess, uuid: 3bfb43e2-7dfe-4757-86ee-1ce9fb9fd13a, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/310910211916, ws-headers: {Host: www.45218443.xyz}}
   - {name: USA 🇺🇸 California 10, server: t7.ssrsub.one, port: 443, type: vmess, uuid: 055db50f-f1d0-4192-8b25-a988d6657e9e, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /v2ray/08b24f7/, ws-headers: {Host: t7.ssrsub.one}}
-  - {name: USA 🇺🇸 Virginia, server: ac2088.herokuapp.com, port: 443, type: vmess, uuid: d1babe08-f8ac-490b-b66f-9be27467f3cc, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /d1babe08-f8ac-490b-b66f-9be27467f3cc-vmess, ws-headers: {Host: ac2088.herokuapp.com}}
   - {name: SOAF 🇿🇦 Cape Town, server: 13.245.16.126, port: 20404, type: vmess, uuid: 559636c7-b5a2-450c-9b5e-0dc8fc14f4f5, alterId: 64, cipher: auto, tls: false}
   - {name: SOAF 🇿🇦 Cape Town 2, server: 13.245.13.47, port: 45623, type: vmess, uuid: a443853f-ce89-4b7c-e6f5-a5ad018085bf, alterId: 64, cipher: auto, tls: false}
 
@@ -692,13 +691,12 @@ proxy-groups:
       - USA 🇺🇸 California 2
       - USA 🇺🇸 California 3
       - USA 🇺🇸 California 4
-      - USA 🇺🇸 California 5 
+      - USA 🇺🇸 California 5
       - USA 🇺🇸 California 6
       - USA 🇺🇸 California 7
       - USA 🇺🇸 California 8
       - USA 🇺🇸 California 9
-      - USA 🇺🇸 California 10 
-      - USA 🇺🇸 Virginia
+      - USA 🇺🇸 California 10
       - 🔥 Auto2(Best ping) 
       - ↪️ use (SS & SSR) group
  
@@ -1055,7 +1053,6 @@ proxy-groups:
       - USA 🇺🇸 California 8
       - USA 🇺🇸 California 9
       - USA 🇺🇸 California 10
-      - USA 🇺🇸 Virginia
 
   - name: ↪️ use (vmess & trojan) group      
     type: select
