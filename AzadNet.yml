@@ -870,7 +870,7 @@ proxy-groups:
       - SWIT 🇨🇭 Zurich new
       - TH 🇹🇭 Bangkok
       - THA 🇹🇭 Bangkok new
-      - TUR 🇹🇷  Istanbul
+      - TUR 🇹🇷 Istanbul 1
       - TUR 🇹🇷 Istanbul new
       - TWN 🇹🇼 Taichung
       - TWN 🇹🇼 Taichung 2
@@ -1086,4 +1086,4 @@ proxy-groups:
       - DIRECT
 
 rules:
- - MATCH,🔰 SS & SSR,🔰 vmess & trojan 
+ - MATCH,🔰 SS & SSR,🔰 vmess & trojan
