@@ -274,10 +274,6 @@ proxies:
   
   - {name: BHR 🇧🇭 Dar Kulayb, server: 15.184.91.216, port: 55435, type: vmess, uuid: 8d81b746-53ce-45c5-b8a4-dec28a0c5a80, alterId: 64, cipher: auto, tls: false}
   - {name: BAH 🇧🇭 Dar Kulayb 2, server: 15.184.167.171, port: 24527, type: vmess, uuid: f1dc9b61-017e-4909-a9b4-19b8d3c7cae1, alterId: 64, cipher: auto, tls: false}
-  - {name: CAN 🇨🇦 CAN, server: jp3.bingbinghouse.com, port: 443, type: trojan, password: 4zoU9iC3Q6LrHezl, sni: jp3.bingbinghouse.com}
-  - {name: CAN 🇨🇦 CAN 2, server: t1.ssrsub.one, port: 2096, type: trojan, password: upfdQ5t4, sni: t1.ssrsub.one}
-  - {name: CAN 🇨🇦 CAN 3, server: t3.ssrsub.one, port: 8443, type: trojan, password: rvAjK7R2, sni: t3.ssrsub.one}
-  - {name: CAN 🇨🇦 CAN 4, server: t4.ssrsub.one, port: 8443, type: trojan, password: KTxHfpze, sni: t4.ssrsub.one}
   - {name: DNK 🇩🇰 Copenhagen 3, server: 5.183.101.204, port: 59857, type: vmess, uuid: 4c35d374-dbf2-4e5f-c731-dfa49191825a, alterId: 64, cipher: auto, tls: false}
   - {name: DNK 🇩🇰 Copenhagen 4, server: 5.183.101.200, port: 35374, type: vmess, uuid: 62836733-0014-4014-e0e3-908eea2f3063, alterId: 64, cipher: auto, tls: false}
   - {name: FIN 🇫🇮 Tuusula, server: 104.21.48.161, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
@@ -949,10 +945,6 @@ proxy-groups:
     proxies:
       - BHR 🇧🇭 Dar Kulayb
       - BAH 🇧🇭 Dar Kulayb 2
-      - CAN 🇨🇦 CAN
-      - CAN 🇨🇦 CAN 2
-      - CAN 🇨🇦 CAN 3
-      - CAN 🇨🇦 CAN 4
       - DNK 🇩🇰 Copenhagen 3
       - DNK 🇩🇰 Copenhagen 4
       - FIN 🇫🇮 Tuusula
