@@ -14,7 +14,7 @@ dns:
     - https://dns.google/dns-query
     - https://cloudflare-dns.com/dns-query
     - https://dns.adguard.com/dns-query
-    - https://dnsforge.de/dns-quer
+    - https://dnsforge.de/dns-query
     - https://dns.quad9.net/dns-query
   fallback:
     - tls://dns.google:853
