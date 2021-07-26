@@ -24,22 +24,22 @@ dns:
     - https://dnsforge.de/dns-quer
     - https://dns.quad9.net/dns-query
 proxies:
-  - {name: ALB 🇦🇱 Tirana, server: 31.171.153.131, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: ALB 🇦🇱 Tirana, server: 31.171.153.131, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8, udp: true}
   - {name: ALB 🇦🇱 Tirana 2, server: 31.171.155.21, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp, udp: true}
-  - {name: ALB 🇦🇱 Tirana 3, server: 31.171.155.101, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: ARG 🇦🇷 Buenos Aires, server: 91.206.168.9, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
-  - {name: ARG 🇦🇷 Buenos Aires 2, server: 91.206.168.19, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
-  - {name: AUS 🇦🇺 Melbourne, server: 103.192.80.219, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: AUS 🇦🇺 Brisbane, server: 45.248.77.235, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
-  - {name: AUS 🇦🇺 Perth, server: 124.150.139.29, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
-  - {name: AUS 🇦🇺 Sydney, server: 45.125.247.107, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
-  - {name: AUT 🇦🇹 Vienna, server: 89.187.168.56, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: AZR 🇦🇿 Baku,  server: 94.20.154.83, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
-  - {name: AZR 🇦🇿 Baku 2, server: 62.212.239.69, port: 47644, type: ss, cipher: aes-256-gcm, password: LxzfAVfKbPqQx4SDCat7EJyE}
-  - {name: AZR 🇦🇿 Baku 3, server: 94.20.154.59, port: 47644, type: ss, cipher: aes-256-gcm, password: LxzfAVfKbPqQx4SDCat7EJyE}
-  - {name: AZR 🇦🇿 Baku 4, server: 62.212.239.45, port: 47644, type: ss, cipher: aes-256-gcm, password: LxzfAVfKbPqQx4SDCat7EJyE}
-  - {name: AZR 🇦🇿 Baku 5, server: 62.212.239.53, port: 47644, type: ss, cipher: aes-256-gcm, password: LxzfAVfKbPqQx4SDCat7EJyE}
-  - {name: BiH 🇧🇦 Sarajevo, server: 185.99.3.66, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
+  - {name: ALB 🇦🇱 Tirana 3, server: 31.171.155.101, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
+  - {name: ARG 🇦🇷 Buenos Aires, server: 91.206.168.9, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH, udp: true}
+  - {name: ARG 🇦🇷 Buenos Aires 2, server: 91.206.168.19, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8, udp: true}
+  - {name: AUS 🇦🇺 Melbourne, server: 103.192.80.219, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
+  - {name: AUS 🇦🇺 Brisbane, server: 45.248.77.235, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH, udp: true}
+  - {name: AUS 🇦🇺 Perth, server: 124.150.139.29, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd, udp: true}
+  - {name: AUS 🇦🇺 Sydney, server: 45.125.247.107, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd, udp: true}
+  - {name: AUT 🇦🇹 Vienna, server: 89.187.168.56, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
+  - {name: AZR 🇦🇿 Baku,  server: 94.20.154.83, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8, udp: true}
+  - {name: AZR 🇦🇿 Baku 2, server: 62.212.239.69, port: 47644, type: ss, cipher: aes-256-gcm, password: LxzfAVfKbPqQx4SDCat7EJyE, udp: true}
+  - {name: AZR 🇦🇿 Baku 3, server: 94.20.154.59, port: 47644, type: ss, cipher: aes-256-gcm, password: LxzfAVfKbPqQx4SDCat7EJyE, udp: true}
+  - {name: AZR 🇦🇿 Baku 4, server: 62.212.239.45, port: 47644, type: ss, cipher: aes-256-gcm, password: LxzfAVfKbPqQx4SDCat7EJyE, udp: true}
+  - {name: AZR 🇦🇿 Baku 5, server: 62.212.239.53, port: 47644, type: ss, cipher: aes-256-gcm, password: LxzfAVfKbPqQx4SDCat7EJyE, udp: true}
+  - {name: BiH 🇧🇦 Sarajevo, server: 185.99.3.66, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd, udp: true}
   - {name: BEL 🇧🇪 Belgium, server: 5.253.205.99,  port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp, udp: true}
   - {name: BEL 🇧🇪 Belgium 2, server: 91.90.123.147,  port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp, udp: true}
   - {name: BRA 🇧🇷 Sao Paulo, server: 138.199.58.83, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
@@ -193,9 +193,9 @@ proxies:
   - {name: USA 🇺🇸 Las Vegas 1, server: 79.110.54.117, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
   - {name: USA 🇺🇸 Las Vegas 2, server: 79.110.54.131, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
   - {name: USA 🇺🇸 Las Vegas 3, server: 79.110.54.91, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
-  - {name: VNM 🇻🇳 Ho Chi Minh City, server: 202.143.110.32, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
-  - {name: VNM 🇻🇳 Ho Chi Minh City 2, server: 202.143.110.36, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: VEN 🇻🇪 Caracas, server: 45.149.3.3, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: VNM 🇻🇳 Ho Chi Minh City, server: 202.143.110.32, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH, udp: true}
+  - {name: VNM 🇻🇳 Ho Chi Minh City 2, server: 202.143.110.36, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
+  - {name: VEN 🇻🇪 Caracas, server: 45.149.3.3, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
 
   - {name: ARG 🇦🇷 Buenos Aires new, server: 131.255.4.219, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
   - {name: AUS 🇦🇺 Alexandria new , server: 149.28.186.148, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
