@@ -317,6 +317,7 @@ proxies:
   - {name: JPN 🇯🇵 Tokyo 7, server: jp.noic.ml, port: 2309, type: vmess, uuid: d58a968f-1163-4d5e-d22f-b6683300b64f, alterId: 32, cipher: auto, tls: true}
   - {name: JPN 🇯🇵 Tokyo 8, server: 104.18.207.61, port: 443, type: vmess, uuid: 356ed062-4f58-49c3-bd44-c0b6db1c94ee, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /stream, ws-headers: {Host: euserv3p.ezddns.tk}}
   - {name: JPN 🇯🇵 Tokyo 9, server: jp2.noic.ml, port: 2310, type: vmess, uuid: 65ad710b-e7e3-49ff-f394-a5b842f6e93e, alterId: 32, cipher: auto, tls: true}
+  - {name: JPN 🇯🇵 Tokyo 10, server: 15.152.48.124, port: 44734, type: vmess, uuid: ede610d8-6902-454e-a96e-d6d12d3eec04, alterId: 64, cipher: auto, tls: false}
   - {name: KOR 🇰🇷 Incheon, server: 15.164.227.247, port: 10891, type: vmess, uuid: 62affe81-79f0-4c07-ed18-a69b97081542, alterId: 64, cipher: auto, tls: false}
   - {name: KOR 🇰🇷 Incheon 2, server: 91.245.227.135, port: 38166, type: vmess, uuid: 9551d4fd-610e-4bf3-9f93-1df5452c3654, alterId: 32, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 91.245.227.135}}
   - {name: KOR 🇰🇷 Seoul, server: 52.79.60.0, port: 44223, type: vmess, uuid: 8b409727-b3e2-4e1f-b237-12b34cfb46e3, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 52.79.60.0}}
@@ -654,6 +655,7 @@ proxy-groups:
       - HKG 🇭🇰 Hong Kong 7
       - HUN 🇭🇺 Budapest
       - JPN 🇯🇵 JPN
+      - JPN 🇯🇵 Tokyo 10
       - KOR 🇰🇷 Incheon
       - KOR 🇰🇷 Incheon 2 
       - KOR 🇰🇷 Seoul
@@ -978,6 +980,7 @@ proxy-groups:
       - JPN 🇯🇵 Tokyo 7
       - JPN 🇯🇵 Tokyo 8
       - JPN 🇯🇵 Tokyo 9
+      - JPN 🇯🇵 Tokyo 10
       - KOR 🇰🇷 Incheon
       - KOR 🇰🇷 Incheon 2
       - KOR 🇰🇷 Seoul
