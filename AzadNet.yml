@@ -1048,7 +1048,7 @@ proxy-groups:
   - name: ↪️ use (vmess & trojan) group      
     type: select
     proxies:
-      - DIRECT
+      - 🔰 vmess & trojan
   
   - name: ↪️ use (SS & SSR) group      
     type: select
