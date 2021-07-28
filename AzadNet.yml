@@ -1044,16 +1044,16 @@ proxy-groups:
       - USA 🇺🇸 California 8
       - USA 🇺🇸 California 9
       - USA 🇺🇸 California 10
-
-  - name: ↪️ use (vmess & trojan) group      
-    type: select
-    proxies:
-      - 🔰 vmess & trojan
   
   - name: ↪️ use (SS & SSR) group      
     type: select
     proxies:
       - 🔰 SS & SSR
+
+  - name: ↪️ use (vmess & trojan) group      
+    type: select
+    proxies:
+      - DIRECT
 
   - name: ⛔Direct
     type: select
