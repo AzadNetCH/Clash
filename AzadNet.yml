@@ -1061,4 +1061,4 @@ proxy-groups:
       - DIRECT
 
 rules:
- - MATCH,🔰 SS & SSR,🔰 vmess & trojan
+ - MATCH ,🔰 SS & SSR ,🔰 vmess & trojan
