@@ -6439,4 +6439,4 @@ rules:
  - DOMAIN-SUFFIX,js.foxpush.com,⛔BLOCK
  - DOMAIN-SUFFIX,pushe.co,⛔BLOCK
 
- - MATCH,🔰 SS & SSR با تشکر از:@VPNFolder - @wbnet - @proSSH,🔰 vmess & trojan با تشکر از:@Bn_Chanll - @vpn_proxy66  
+ - MATCH ,🔰 SS & SSR ,🔰 vmess & trojan  
