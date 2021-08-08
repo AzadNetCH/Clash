@@ -1045,7 +1045,7 @@ proxy-groups:
   - name: ↪️ use (SS & SSR) group      
     type: select
     proxies:
-      - 🔰 SS & SSR با تشکر از:@VPNFolder - @wbnet - @proSSH
+      - 🔰 SS & SSR
 
   - name: ⛔Direct
     type: select
