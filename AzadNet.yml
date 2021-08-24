@@ -344,9 +344,9 @@ proxies:
   - {name: PRC 🇨🇳 China 4 , server: 23.225.125.195, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/301109172001, ws-headers: {Host: www.91370744.xyz}}
   - {name: PRC 🇨🇳 China 5, server: 23.224.158.170, port: 443, type: vmess, uuid: aa6449c1-9557-415e-9681-08701767d56e, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/292026011205, ws-headers: {Host: www.58245542.xyz}}
   - {name: ROM 🇷🇴 Romania, server: 5.183.101.204, port: 59857, type: vmess, uuid: 4c35d374-dbf2-4e5f-c731-dfa49191825a, alterId: 64, cipher: auto, tls: false}
-  - {name: RUS 🇷🇺 RUS, server: 91.245.227.135, port: 38166, type: vmess, uuid: 9551d4fd-610e-4bf3-9f93-1df5452c3654, alterId: 32, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 91.245.227.135}}
-  - {name: RUS 🇷🇺 RUS 2, server: 91.245.227.135, port: 38166, type: vmess, uuid: 9551d4fd-610e-4bf3-9f93-1df5452c3654, alterId: 32, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 91.245.227.135}}
-  - {name: RUS 🇷🇺 RUS 3, server: 172.67.150.130, port: 80, type: vmess, uuid: 3d31728e-064d-42b8-b945-f79c008f73fc, alterId: 233, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: free-russian01-cdn.xiaohouzi.club}}
+  - {name: RUS 🇷🇺 RUS, server: 172.67.150.130, port: 80, type: vmess, uuid: 3d31728e-064d-42b8-b945-f79c008f73fc, alterId: 233, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: free-russian01-cdn.xiaohouzi.club}}
+  - {name: RUS 🇷🇺 RUS 2, server: free-russian01-cdn.xiaohouzi.club, port: 80, type: vmess, uuid: 3d31728e-064d-42b8-b945-f79c008f73fc, alterId: 233, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: free-russian01-cdn.xiaohouzi.club}}
+  - {name: RUS 🇷🇺 RUS 3, server: 80.85.156.31, port: 40331, type: vmess, uuid: f3dc16e3-715c-4839-abd3-8e0c6df46064, alterId: 0, cipher: auto, tls: false}
   - {name: RUS 🇷🇺 RUS 4, server: free-russian01-cdn.xiaohouzi.club, port: 80, type: vmess, uuid: 3d31728e-064d-42b8-b945-f79c008f73fc, alterId: 233, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: free-russian01-cdn.xiaohouzi.club}}
   - {name: RUS 🇷🇺 RUS 5, server: 80.85.156.31, port: 40331, type: vmess, uuid: f3dc16e3-715c-4839-abd3-8e0c6df46064, alterId: 0, cipher: auto, tls: false}
   - {name: SGP 🇸🇬 Singapore, server: 51.79.157.223, port: 80, type: vmess, uuid: 88b21f86-b8fc-4e92-8a70-ccf4ccc60539, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /sshocean, ws-headers: {Host: 51.79.157.223}}
@@ -642,7 +642,17 @@ proxy-groups:
       - GER 🇩🇪 GER 4
       - GER 🇩🇪 GER 5
       - GER 🇩🇪 GER 6
+      - GER 🇩🇪 GER 7
+      - GER 🇩🇪 GER 8
+      - GER 🇩🇪 GER 9
+      - GER 🇩🇪 GER 10
+      - GER 🇩🇪 GER 11
       - GER 🇩🇪 GER 12
+      - GER 🇩🇪 GER 13
+      - GER 🇩🇪 GER 14
+      - GER 🇩🇪 GER 15
+      - GER 🇩🇪 GER 16
+      - GER 🇩🇪 GER 17
       - HKG 🇭🇰 Hong Kong 2
       - HKG 🇭🇰 Hong Kong 6
       - JPN 🇯🇵 Tokyo 10
@@ -663,8 +673,6 @@ proxy-groups:
       - RUS 🇷🇺 RUS
       - RUS 🇷🇺 RUS 2
       - RUS 🇷🇺 RUS 3
-      - RUS 🇷🇺 RUS 4
-      - RUS 🇷🇺 RUS 5
       - SGP 🇸🇬 Singapore 3
       - SGP 🇸🇬 Singapore 4
       - SOAF 🇿🇦 Cape Town
