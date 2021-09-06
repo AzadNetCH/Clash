@@ -50,6 +50,7 @@ proxies:
   - {name: CAN 🇨🇦 Toronto, server: 37.19.211.39, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd, udp: true}
   - {name: CAN 🇨🇦 Vancouver, server: 208.78.41.201, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
   - {name: CAN 🇨🇦 Montreal, server: 91.245.254.237, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd, udp: true}
+  - {name: COL 🇨🇴 Bagotá, server: 45.129.32.32, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
   - {name: CROA 🇭🇷 Zagreb, server: 85.10.56.192, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp, udp: true}
   - {name: CROA 🇭🇷 Zagreb 2, server: 85.10.50.164, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp, udp: true}
   - {name: CROA 🇭🇷 Zagreb 3, server: 176.222.34.113, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8, udp: true}
@@ -432,6 +433,7 @@ proxy-groups:
       - CAN 🇨🇦 Vancouver
       - CHL ⃕ ␋ 🇨🇱 San Antonio
       - CHL 🇨🇱 Viña del Mar new
+      - COL 🇨🇴 Bagotá
       - CROA 🇭🇷 Zagreb
       - CROA 🇭🇷 Zagreb 2
       - CROA 🇭🇷 Zagreb 3
