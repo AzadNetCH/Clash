@@ -374,15 +374,9 @@ proxies:
   - {name: USA 🇺🇸 California 3, server: 96.43.91.58, port: 443, type: vmess, uuid: 3bfb43e2-7dfe-4757-86ee-1ce9fb9fd13a, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/310910211916, ws-headers: {Host: www.45218443.xyz}}
   - {name: USA 🇺🇸 California 6, server: hk1opuy-node.3366test.com, port: 13723, type: vmess, uuid: a90597c1-bab3-4217-ad6f-0838675c8638, alterId: 10, cipher: auto, tls: true, network: ws, ws-path: /ray, ws-headers: {Host: hk1opuy-node.3366test.com}}
   - {name: USA 🇺🇸 California 7, server: 107.167.9.124, port: 443, type: vmess, uuid: 2566d00f-218c-48f7-9a36-13d3d6f1a724, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/310910211916, ws-headers: {Host: www.17080100.xyz}}
-  - {name: USA 🇺🇸 California 8, server: 96.43.91.59, port: 443, type: vmess, uuid: 3bfb43e2-7dfe-4757-86ee-1ce9fb9fd13a, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/310910211916, ws-headers: {Host: www.45218443.xyz}}
-  - {name: USA 🇺🇸 California 9, server: 198.211.3.154, port: 443, type: vmess, uuid: 3bfb43e2-7dfe-4757-86ee-1ce9fb9fd13a, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/310910211916, ws-headers: {Host: www.45218443.xyz}}
   - {name: USA 🇺🇸 California 10, server: www.17080100.xyz, port: 443, type: vmess, uuid: 2566d00f-218c-48f7-9a36-13d3d6f1a724, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/310910211916, ws-headers: {Host: www.17080100.xyz}}
   - {name: USA 🇺🇸 California 11, server: www.92726054.xyz, port: 443, type: vmess, uuid: d3cbe556-8db3-47e0-8ef1-06b2cce00411, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/310910211916, ws-headers: {Host: www.92726054.xyz}}
-  - {name: USA 🇺🇸 California 12, server: 104.160.186.54, port: 443, type: vmess, uuid: d3cbe556-8db3-47e0-8ef1-06b2cce00411, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/310910211916, ws-headers: {Host: www.92726054.xyz}}
   - {name: USA 🇺🇸 California 13, server: 107.167.9.124, port: 443, type: vmess, uuid: 2566d00f-218c-48f7-9a36-13d3d6f1a724, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/310910211916, ws-headers: {Host: www.17080100.xyz}}
-  - {name: USA 🇺🇸 California 14, server: 96.43.91.58, port: 443, type: vmess, uuid: 3bfb43e2-7dfe-4757-86ee-1ce9fb9fd13a, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/310910211916, ws-headers: {Host: www.45218443.xyz}}
-  - {name: SOAF 🇿🇦 Cape Town, server: 13.245.16.126, port: 20404, type: vmess, uuid: 559636c7-b5a2-450c-9b5e-0dc8fc14f4f5, alterId: 64, cipher: auto, tls: false}
-  - {name: SOAF 🇿🇦 Cape Town 2, server: 13.245.13.47, port: 45623, type: vmess, uuid: a443853f-ce89-4b7c-e6f5-a5ad018085bf, alterId: 64, cipher: auto, tls: false}
 
 proxy-groups:
   - name: 🔰 SS & SSR
@@ -673,8 +667,6 @@ proxy-groups:
       - RUS 🇷🇺 RUS 3
       - SGP 🇸🇬 Singapore 3
       - SGP 🇸🇬 Singapore 4
-      - SOAF 🇿🇦 Cape Town
-      - SOAF 🇿🇦 Cape Town 2
       - SWE 🇸🇪 Stockholm
       - TUR 🇹🇷 Istanbul
       - TUR 🇹🇷 Bursa
@@ -689,13 +681,9 @@ proxy-groups:
       - USA 🇺🇸 California 3
       - USA 🇺🇸 California 6
       - USA 🇺🇸 California 7
-      - USA 🇺🇸 California 8
-      - USA 🇺🇸 California 9
       - USA 🇺🇸 California 10
       - USA 🇺🇸 California 11
-      - USA 🇺🇸 California 12
       - USA 🇺🇸 California 13
-      - USA 🇺🇸 California 14
       - 🔥 Auto2(Best ping) 
       - ↪️ use (SS & SSR) group
  
@@ -1016,8 +1004,6 @@ proxy-groups:
       - SGP 🇸🇬 Singapore 2
       - SGP 🇸🇬 Singapore 3
       - SGP 🇸🇬 Singapore 4
-      - SOAF 🇿🇦 Cape Town 
-      - SOAF 🇿🇦 Cape Town 2
       - SPN 🇪🇸 Madrid 3
       - SPN 🇪🇸 Madrid 4
       - SWE 🇸🇪 Stockholm
@@ -1040,13 +1026,9 @@ proxy-groups:
       - USA 🇺🇸 California 3
       - USA 🇺🇸 California 6
       - USA 🇺🇸 California 7
-      - USA 🇺🇸 California 8
-      - USA 🇺🇸 California 9
       - USA 🇺🇸 California 10
       - USA 🇺🇸 California 11
-      - USA 🇺🇸 California 12
       - USA 🇺🇸 California 13
-      - USA 🇺🇸 California 14
   - name: ↪️ use (vmess & trojan) group      
     type: select
     proxies:
