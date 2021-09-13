@@ -326,8 +326,6 @@ proxies:
   - {name: NLD 🇳🇱 NLD 3, server: 46.182.107.44, port: 443, type: vmess, uuid: fe5f69e7-e183-439b-950b-9661ef0651f2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.68737987.xyz}}
   - {name: NLD 🇳🇱 NLD 4, server: 46.182.107.45, port: 443, type: vmess, uuid: fe5f69e7-e183-439b-950b-9661ef0651f2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.68737987.xyz}}
   - {name: NLD 🇳🇱 NLD 5, server: 46.182.107.157, port: 443, type: vmess, uuid: 20b30916-e203-412e-8ec0-900f3acd5128, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.73345741.xyz}}
-  - {name: NLD 🇳🇱 NLD 6, server: c39s4.jamjams.net, port: 10606, type: vmess, uuid: c474da00-e28b-40b0-8356-8f62e5eb71e2, alterId: 8, cipher: auto, tls: false}
-  - {name: NLD 🇳🇱 NLD 7, server: 204.124.181.242, port: 10606, type: vmess, uuid: c474da00-e28b-40b0-8356-8f62e5eb71e2, alterId: 8, cipher: auto, tls: false}
   - {name: NLD 🇳🇱 NLD 8, server: 46.182.107.157, port: 443, type: vmess, uuid: 20b30916-e203-412e-8ec0-900f3acd5128, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.73345741.xyz}}
   - {name: NLD 🇳🇱 NLD 9, server: 46.182.107.94, port: 443, type: vmess, uuid: 743bdc87-1dea-41bf-aa0b-51dfbbfec8aa, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.54872833.xyz}}
   - {name: NLD 🇳🇱 NLD 10, server: 46.182.107.44, port: 443, type: vmess, uuid: fe5f69e7-e183-439b-950b-9661ef0651f2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.68737987.xyz}}
@@ -629,8 +627,6 @@ proxy-groups:
       - NLD 🇳🇱 NLD 3
       - NLD 🇳🇱 NLD 4
       - NLD 🇳🇱 NLD 5
-      - NLD 🇳🇱 NLD 6
-      - NLD 🇳🇱 NLD 7
       - NLD 🇳🇱 NLD 8
       - NLD 🇳🇱 NLD 9
       - NLD 🇳🇱 NLD 10
@@ -943,8 +939,6 @@ proxy-groups:
       - NLD 🇳🇱 NLD 3
       - NLD 🇳🇱 NLD 4
       - NLD 🇳🇱 NLD 5
-      - NLD 🇳🇱 NLD 6
-      - NLD 🇳🇱 NLD 7
       - NLD 🇳🇱 NLD 8
       - NLD 🇳🇱 NLD 9
       - NLD 🇳🇱 NLD 10
