@@ -358,7 +358,6 @@ proxies:
   - {name: TUR 🇹🇷 Istanbul, server: 193.31.116.230, port: 48003, type: vmess, uuid: 4d274187-109a-44df-bb55-b2c84eb03ba7, alterId: 64, cipher: auto, tls: false}
   - {name: TUR 🇹🇷 Bursa, server: 185.247.138.25, port: 15079, type: vmess, uuid: a1d846ec-9bef-4ffd-e34a-43bb06323ac3, alterId: 64, cipher: auto, tls: false}
   - {name: TWN 🇹🇼 Taipei, server: 211.23.132.124, port: 9233, type: vmess, uuid: be58f4e4-894a-47ee-8836-cf75e74fa9c9, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 211.23.132.124}}
-  - {name: TWN 🇹🇼 Chang-hua 2, server: hinet1.welsonal.xyz, port: 443, type: trojan, password: Bf775DrodY9LwwEk, sni: hinet1.welsonal.xyz}
   - {name: UK 🇬🇧 London 5, server: 51.195.217.20, port: 80, type: vmess, uuid: 6c0cb6a9-2389-4b5d-8bec-b14b076f4a4e, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /sshocean, ws-headers: {Host: 51.195.217.20}}
   - {name: USA 🇺🇸 USA, server: nn-ssr4.feiclouddd.me, port: 443, type: vmess, uuid: 79214731-7f0c-4f2d-a894-13b7df293624, alterId: 60, cipher: auto, tls: true, network: ws, ws-path: /sadfasdf, ws-headers: {Host: nn-ssr4.feiclouddd.me}}
   - {name: USA 🇺🇸 USA 3, server: euserv5p.ezddns.tk, port: 80, type: vmess, uuid: 60b738e2-3aa4-4cde-c270-20f8cc1ab16a, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /audio.wav, ws-headers: {Host: euserv5p.ezddns.tk}}
@@ -998,7 +997,6 @@ proxy-groups:
       - TUR 🇹🇷 Istanbul
       - TUR 🇹🇷 Bursa
       - TWN 🇹🇼 Taipei
-      - TWN 🇹🇼 Chang-hua 2
       - UK 🇬🇧 London 5
       - USA 🇺🇸 USA
       - USA 🇺🇸 USA 3
