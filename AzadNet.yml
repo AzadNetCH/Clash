@@ -353,8 +353,6 @@ proxies:
   - {name: SGP 🇸🇬 Singapore 3, server: gggz.quickairport.top, port: 21827, type: vmess, uuid: 943c710e-273c-4a48-b52c-8ab43049a08b, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: gggz.quickairport.top}}
   - {name: SGP 🇸🇬 Singapore 4, server: transit-azure-f4s-hk.speedtestcustom.tk, port: 10261, type: vmess, uuid: 7a3128da-6fe9-4cc6-cfb7-b97fe387b82f, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: transit-azure-f4s-hk.speedtestcustom.tk}}
   - {name: SWE 🇸🇪 Stockholm, server: 13.49.246.208, port: 443, type: vmess, uuid: df055ea2-4d3a-445e-977d-8e958abaad3a, alterId: 2, cipher: auto, tls: true, network: ws, ws-path: /xamjyss143/, ws-headers: {Host: v2ray-se-2.xamjyssvpn.xyz}}
-  - {name: SPN 🇪🇸 Madrid 3, server: 5.183.103.196, port: 57801, type: vmess, uuid: 337ae850-ba0b-4647-e9b7-a222dc09b0dc, alterId: 64, cipher: auto, tls: false}
-  - {name: SPN 🇪🇸 Madrid 4, server: 5.183.103.196, port: 57801, type: vmess, uuid: 337ae850-ba0b-4647-e9b7-a222dc09b0dc, alterId: 64, cipher: auto, tls: false}
   - {name: TUR 🇹🇷 Istanbul, server: 193.31.116.230, port: 48003, type: vmess, uuid: 4d274187-109a-44df-bb55-b2c84eb03ba7, alterId: 64, cipher: auto, tls: false}
   - {name: TUR 🇹🇷 Bursa, server: 185.247.138.25, port: 15079, type: vmess, uuid: a1d846ec-9bef-4ffd-e34a-43bb06323ac3, alterId: 64, cipher: auto, tls: false}
   - {name: TWN 🇹🇼 Taipei, server: 211.23.132.124, port: 9233, type: vmess, uuid: be58f4e4-894a-47ee-8836-cf75e74fa9c9, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 211.23.132.124}}
@@ -991,8 +989,6 @@ proxy-groups:
       - SGP 🇸🇬 Singapore 2
       - SGP 🇸🇬 Singapore 3
       - SGP 🇸🇬 Singapore 4
-      - SPN 🇪🇸 Madrid 3
-      - SPN 🇪🇸 Madrid 4
       - SWE 🇸🇪 Stockholm
       - TUR 🇹🇷 Istanbul
       - TUR 🇹🇷 Bursa
