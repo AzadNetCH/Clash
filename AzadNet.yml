@@ -65,9 +65,7 @@ proxies:
   - {name: FRA 🇫🇷 Bordeaux 3, server: 185.108.106.164, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
   - {name: FRA 🇫🇷 Marseille, server: 138.199.16.130, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH, udp: true}
   - {name: FRA 🇫🇷 Roubaix, server: 51.210.113.68, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: FRA 🇫🇷 Roubaix 2, server: 51.178.133.154, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
   - {name: FRA 🇫🇷 Roubaix 3, server: 51.210.113.68, port: 807, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: FRA 🇫🇷 Roubaix 4, server: 51.178.133.154, port: 807, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
   - {name: GER 🇩🇪 Frankfurt, server: 185.102.219.48, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8, udp: true}
   - {name: GER 🇩🇪 Frankfurt 2, server: 138.199.19.164, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8, udp: true}
   - {name: GER 🇩🇪 Frankfurt 3, server: 156.146.33.75, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8, udp: true}
@@ -455,9 +453,7 @@ proxy-groups:
       - FRA 🇫🇷 Paris 1
       - FRA 🇫🇷 Paris 2
       - FRA 🇫🇷 Roubaix
-      - FRA 🇫🇷 Roubaix 2
       - FRA 🇫🇷 Roubaix 3
-      - FRA 🇫🇷 Roubaix 4
       - FRA 🇫🇷 Strasbourg new
       - GER 🇩🇪 Düsseldorf new
       - GER 🇩🇪 Frankfurt
@@ -767,9 +763,7 @@ proxy-groups:
       - FRA 🇫🇷 Paris 1
       - FRA 🇫🇷 Paris 2
       - FRA 🇫🇷 Roubaix
-      - FRA 🇫🇷 Roubaix 2
       - FRA 🇫🇷 Roubaix 3
-      - FRA 🇫🇷 Roubaix 4
       - FRA 🇫🇷 Strasbourg new
       - GER 🇩🇪 Düsseldorf new
       - GER 🇩🇪 Frankfurt
