@@ -371,7 +371,6 @@ proxies:
   - {name: USA 🇺🇸 USA 5, server: 23.225.28.173, port: 443, type: vmess, uuid: 5ac3d610-1802-491b-ab06-dad9bbd83ff1, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.10855945.xyz}}
   - {name: USA 🇺🇸 USA 6, server: 23.225.28.172, port: 443, type: vmess, uuid: 5ac3d610-1802-491b-ab06-dad9bbd83ff1, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.10855945.xyz}}
   - {name: USA 🇺🇸 USA 7, server: 23.224.30.70, port: 443, type: vmess, uuid: 688f4b5d-ce9a-4729-abe5-b66ca96b2ee9, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.36773818.xyz}}
-  - {name: USA 🇺🇸 California 3, server: 96.43.91.58, port: 443, type: vmess, uuid: 3bfb43e2-7dfe-4757-86ee-1ce9fb9fd13a, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/310910211916, ws-headers: {Host: www.45218443.xyz}}
   - {name: USA 🇺🇸 California 6, server: hk1opuy-node.3366test.com, port: 13723, type: vmess, uuid: a90597c1-bab3-4217-ad6f-0838675c8638, alterId: 10, cipher: auto, tls: true, network: ws, ws-path: /ray, ws-headers: {Host: hk1opuy-node.3366test.com}}
   - {name: USA 🇺🇸 California 7, server: 107.167.9.124, port: 443, type: vmess, uuid: 2566d00f-218c-48f7-9a36-13d3d6f1a724, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/310910211916, ws-headers: {Host: www.17080100.xyz}}
   - {name: USA 🇺🇸 California 10, server: www.17080100.xyz, port: 443, type: vmess, uuid: 2566d00f-218c-48f7-9a36-13d3d6f1a724, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/310910211916, ws-headers: {Host: www.17080100.xyz}}
@@ -678,7 +677,6 @@ proxy-groups:
       - USA 🇺🇸 USA 5
       - USA 🇺🇸 USA 6
       - USA 🇺🇸 USA 7
-      - USA 🇺🇸 California 3
       - USA 🇺🇸 California 6
       - USA 🇺🇸 California 7
       - USA 🇺🇸 California 10
@@ -1023,7 +1021,6 @@ proxy-groups:
       - USA 🇺🇸 USA 5
       - USA 🇺🇸 USA 6
       - USA 🇺🇸 USA 7
-      - USA 🇺🇸 California 3
       - USA 🇺🇸 California 6
       - USA 🇺🇸 California 7
       - USA 🇺🇸 California 10
