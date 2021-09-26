@@ -168,7 +168,7 @@ proxies:
   - {name: USA 🇺🇸 Tampa 3, server: 209.216.92.222, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd, udp: true}
   - {name: USA 🇺🇸 Tampa 4, server: 209.216.92.3, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH, udp: true}
   - {name: USA 🇺🇸 Seattle 4, server: 212.102.46.65, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd, udp: true}
-  - {name: USA 🇺🇸 Los Angeles 1, server: 212.103.49.147, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd, udp: true}
+  - {name: USA 🇺🇸 Los Angeles 1, server: 89.187.187.149, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd, udp: true}
   - {name: USA 🇺🇸 Los Angeles 2, server: 138.199.9.207, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd, udp: true}
   - {name: USA 🇺🇸 Los Angeles 3, server: 45.129.32.34, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH, udp: true}
   - {name: USA 🇺🇸 Manassas 1, server: 207.244.125.132, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd, udp: true}
