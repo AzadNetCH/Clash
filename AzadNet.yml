@@ -36,7 +36,7 @@ proxies:
   - {name: AUS 🇦🇺 Adelaide, server: 45.248.79.30, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd, udp: true}
   - {name: AUT 🇦🇹 Vienna, server: 89.187.168.56, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
   - {name: AZR 🇦🇿 Baku,  server: 62.212.239.43, port: 50232, type: ss, cipher: aes-256-gcm, password: CjchzpwdSjRtDjezYMwx9BKM}
-  - {name: AZR 🇦🇿 Baku 2, server: 62.212.239.45, port: 50232, type: ss, cipher: aes-256-gcm, password: CjchzpwdSjRtDjezYMwx9BKM}
+  - {name: AZR 🇦🇿 Baku 2, server: 62.212.239.44, port: 50232, type: ss, cipher: aes-256-gcm, password: CjchzpwdSjRtDjezYMwx9BKM}
   - {name: AZR 🇦🇿 Baku 3, server: 94.20.154.59, port: 50232, type: ss, cipher: aes-256-gcm, password: CjchzpwdSjRtDjezYMwx9BKM}
   - {name: AZR 🇦🇿 Baku 4, server: 94.20.154.85, port: 50232, type: ss, cipher: aes-256-gcm, password: CjchzpwdSjRtDjezYMwx9BKM}
   - {name: AZR 🇦🇿 Baku 5, server: 94.20.154.83, port: 50232, type: ss, cipher: aes-256-gcm, password: CjchzpwdSjRtDjezYMwx9BKM}
