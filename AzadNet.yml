@@ -57,6 +57,7 @@ proxies:
   - {name: CZE 🇨🇿 Prague, server: 185.180.14.149, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH, udp: true}
   - {name: DNK 🇩🇰 Copenhagen, server: 89.45.7.51, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp, udp: true}
   - {name: DNK 🇩🇰 Copenhagen 2, server: 193.29.107.227, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp, udp: true}
+  - {name: DZA 🇩🇿 Algiers, server: 62.197.144.3, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
   - {name: EST 🇪🇪 Tallinn, server: 185.174.159.131, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8, udp: true}
   - {name: FRA 🇫🇷 Paris 1, server: 143.244.57.106, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna, udp: true}
   - {name: FRA 🇫🇷 Paris 2, server: 143.244.57.119, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna, udp: true}
@@ -406,6 +407,7 @@ proxy-groups:
       - DNK 🇩🇰 Copenhagen new
       - DNK 🇩🇰 Copenhagen 2
       - DNK 🇩🇰 Copenhagen 2 new
+      - DZA 🇩🇿 Algiers
       - EST 🇪🇪 Tallinn
       - EST 🇪🇪 Tallinn new
       - FIN 🇫🇮 Helsinki new
@@ -696,6 +698,7 @@ proxy-groups:
       - DNK 🇩🇰 Copenhagen new
       - DNK 🇩🇰 Copenhagen 2
       - DNK 🇩🇰 Copenhagen 2 new
+      - DZA 🇩🇿 Algiers
       - EST 🇪🇪 Tallinn
       - EST 🇪🇪 Tallinn new
       - FIN 🇫🇮 Helsinki new
