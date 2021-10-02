@@ -67,6 +67,7 @@ proxies:
   - {name: FRA 🇫🇷 Marseille, server: 185.166.84.59, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH, udp: true}
   - {name: FRA 🇫🇷 Roubaix, server: 51.210.113.68, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
   - {name: FRA 🇫🇷 Roubaix 3, server: 51.210.113.68, port: 807, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: GEO 🇬🇪🇲 Tbilisi, server: 91.239.207.234, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
   - {name: GER 🇩🇪 Frankfurt, server: 185.102.219.48, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8, udp: true}
   - {name: GER 🇩🇪 Frankfurt 2, server: 138.199.19.164, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8, udp: true}
   - {name: GER 🇩🇪 Frankfurt 3, server: 156.146.33.85, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8, udp: true}
@@ -421,6 +422,7 @@ proxy-groups:
       - FRA 🇫🇷 Roubaix
       - FRA 🇫🇷 Roubaix 3
       - FRA 🇫🇷 Strasbourg new
+      - GEO 🇬🇪🇲 Tbilisi
       - GER 🇩🇪 Düsseldorf new
       - GER 🇩🇪 Frankfurt
       - GER 🇩🇪 Frankfurt 2
@@ -712,6 +714,7 @@ proxy-groups:
       - FRA 🇫🇷 Roubaix
       - FRA 🇫🇷 Roubaix 3
       - FRA 🇫🇷 Strasbourg new
+      - GEO 🇬🇪🇲 Tbilisi
       - GER 🇩🇪 Düsseldorf new
       - GER 🇩🇪 Frankfurt
       - GER 🇩🇪 Frankfurt 2
