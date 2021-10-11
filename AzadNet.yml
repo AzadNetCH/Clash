@@ -93,11 +93,11 @@ proxies:
   - {name: IND 🇮🇳 Indore, server: 103.39.132.189, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd, udp: true}
   - {name: IND 🇮🇳 Chennai, server: 103.94.27.115, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH, udp: true}
   - {name: IND 🇮🇳 Chennai 2, server: 103.94.27.181, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd, udp: true}
-  - {name: LUX 🇱🇺 Luxembourg, server: 185.153.151.120, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp, udp: true}
+  - {name: LUX 🇱🇺 Luxembourg, server: 185.153.151.167, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
   - {name: LIT 🇱🇹 Vilnius, server: 188.92.78.150, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp, udp: true}
   - {name: LVA 🇱🇻 Riga, server: 91.203.69.146, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8, udp: true}
   - {name: MYS 🇲🇾 Kuala Lumpur, server: 111.90.140.143, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH, udp: true}
-  - {name: MDA 🇲🇩 Chișinău, server: 194.33.40.112, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
+  - {name: MDA 🇲🇩 Chișinău, server: 194.33.40.114, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
   - {name: MKD 🇲🇰 Skopje, server: 185.225.28.91, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH, udp: true}
   - {name: MEX 🇲🇽 Mexico City, server: 194.41.112.3, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd, udp: true}
   - {name: MLT 🇲🇹 Valletta, server: 130.185.255.38, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
@@ -262,7 +262,7 @@ proxies:
   - {name: USA 🇺🇲 Virginia 5 new, server: 213.174.158.181, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
   - {name: USA 🇺🇲 Virginia 6 new, server: 213.174.130.129, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
   
-  - {name: JPN 🇯🇵 Tokyo, server: 89.187.160.145, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
+  - {name: JPN 🇯🇵 Tokyo, server: 138.199.22.132, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
   - {name: JPN 🇯🇵 Tokyo 2, server: 185.168.20.113, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
   - {name: JPN 🇯🇵 Tokyo 3, server: 185.160.26.170, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
   - {name: SNG 🇸🇬 Singapore, server: 89.187.162.186, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna, udp: true}
