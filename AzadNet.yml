@@ -104,7 +104,7 @@ proxies:
   - {name: MEX 🇲🇽 Mexico City, server: 194.41.112.3, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
   - {name: MLT 🇲🇹 Valletta, server: 130.185.255.38, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
   - {name: NGA 🇳🇬 Lagos, server: 102.165.23.6, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
-  - {name: NGA 🇳🇬 Lagos 2, server: 102.165.23.4, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8, udp: true}
+  - {name: NGA 🇳🇬 Lagos 2, server: 102.165.23.7, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8, udp: true}
   - {name: NZL 🇳🇿 Auckland, server: 180.149.231.3, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH, udp: true}
   - {name: NLD 🇳🇱 Amsterdam 1, server: 143.244.42.94, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp, udp: true}
   - {name: NLD 🇳🇱 Amsterdam 2, server: 212.102.35.199, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna, udp: true}
@@ -150,8 +150,6 @@ proxies:
   - {name: USA 🇺🇸 Chicago, server: 138.199.42.139, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
   - {name: USA 🇺🇸 Chicago 1, server: 138.199.42.141, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH, udp: true}
   - {name: USA 🇺🇸 Chicago 2, server: 155.254.28.141, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
-  - {name: USA 🇺🇸 Chicago 3, server: 138.199.42.163, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: USA 🇺🇸 Chicago 4, server: 143.244.60.164, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH, udp: true}
   - {name: USA 🇺🇸 St. Louis 1, server: 148.72.174.41, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
   - {name: USA 🇺🇸 St. Louis 2, server: 148.72.174.37, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH, udp: true}
   - {name: USA 🇺🇸 Bend 1, server: 45.43.14.83, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH, udp: true}
@@ -550,8 +548,6 @@ proxy-groups:
       - USA 🇺🇸 Charlotte 2
       - USA 🇺🇸 Chicago 1
       - USA 🇺🇸 Chicago 2
-      - USA 🇺🇸 Chicago 3
-      - USA 🇺🇸 Chicago 4
       - USA 🇺🇸 Detroit 1
       - USA 🇺🇸 Detroit 2
       - USA 🇺🇸 Detroit 3
@@ -836,8 +832,6 @@ proxy-groups:
       - USA 🇺🇸 Charlotte 2
       - USA 🇺🇸 Chicago 1
       - USA 🇺🇸 Chicago 2
-      - USA 🇺🇸 Chicago 3
-      - USA 🇺🇸 Chicago 4
       - USA 🇺🇸 Detroit 1
       - USA 🇺🇸 Detroit 2
       - USA 🇺🇸 Detroit 3
