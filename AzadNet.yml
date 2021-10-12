@@ -638,8 +638,8 @@ proxy-groups:
  
   - name: 🔥 Auto(Best ping)
     type: url-test
-    url: https://www.google.com
-    interval: 1500
+    url: ‏http://www.gstatic.com/generate_204
+    interval: 300
     proxies:
       - ALB 🇦🇱 Tirana
       - ALB 🇦🇱 Tirana 2
@@ -865,8 +865,8 @@ proxy-groups:
 
   - name: 🔥 Auto2(Best ping)
     type: url-test
-    url: https://www.google.com
-    interval: 1500
+    url: ‏http://www.gstatic.com/generate_204
+    interval: 300
     proxies:
       - BHR 🇧🇭 Dar Kulayb
       - BAH 🇧🇭 Dar Kulayb 2
