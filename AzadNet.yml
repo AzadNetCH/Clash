@@ -636,8 +636,8 @@ proxy-groups:
  
   - name: 🔥 Auto(Best ping)
     type: url-test
-    url: ‏http://www.gstatic.com/generate_204
-    interval: 300
+    url: ‏https://google.com
+    interval: 1500
     proxies:
       - ALB 🇦🇱 Tirana
       - ALB 🇦🇱 Tirana 2
