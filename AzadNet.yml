@@ -83,7 +83,7 @@ proxies:
   - {name: HUN 🇭🇺 Budapest 1, server: 185.252.223.83, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
   - {name: ISL 🇮🇸 Reykjavik, server: 45.133.193.107, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH, udp: true}
   - {name: ISL 🇮🇸 Reykjavik 2, server: 45.133.193.195, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
-  - {name: ITA 🇮🇹 Milan 1, server: 84.17.58.159, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
+  - {name: ITA 🇮🇹 Milan 1, server: 84.17.58.164, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
   - {name: ITA 🇮🇹 Milan 2, server: 212.102.55.67, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
   - {name: ITA 🇮🇹 Milan 3, server: 212.102.54.177, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH, udp: true}
   - {name: ITA 🇮🇹 Milan 4, server: 84.17.58.202, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH, udp: true}
