@@ -636,7 +636,7 @@ proxy-groups:
  
   - name: 🔥 Auto(Best ping)
     type: url-test
-    url: ‏https://www.google.com
+    url: https://www.google.com
     interval: 1500
     proxies:
       - ALB 🇦🇱 Tirana
@@ -863,7 +863,7 @@ proxy-groups:
 
   - name: 🔥 Auto2(Best ping)
     type: url-test
-    url: ‏https://www.google.com
+    url: https://www.google.com
     interval: 1500
     proxies:
       - BHR 🇧🇭 Dar Kulayb
