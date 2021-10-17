@@ -284,9 +284,6 @@ proxies:
   - {name: FRA 🇫🇷 Paris 3, server: 92.222.217.16, port: 80, type: vmess, uuid: 3d02e7f9-35ff-4219-aa2d-d3e41dbf02df, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /sshocean, ws-headers: {Host: 92.222.217.16}}
   - {name: GER 🇩🇪 GER, server: 172.67.153.238, port: 443, type: vmess, uuid: 356ed062-4f58-49c3-bd44-c0b6db1c94ee, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /stream, ws-headers: {Host: euserv3p.ezddns.tk}}
   - {name: GER 🇩🇪 GER 2, server: 46.182.107.94, port: 443, type: vmess, uuid: 743bdc87-1dea-41bf-aa0b-51dfbbfec8aa, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.54872833.xyz}}
-  - {name: GER 🇩🇪 GER 4, server: euserv12p.ezddns.tk, port: 80, type: vmess, uuid: c0304bc1-f8ff-4108-9bc6-3415d16ae5e3, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /video, ws-headers: {Host: euserv12p.ezddns.tk}}
-  - {name: GER 🇩🇪 GER 5, server: euserv6p.ezddns.tk, port: 80, type: vmess, uuid: 499737a4-9f18-4e1f-fb38-437e1855fc04, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /video, ws-headers: {Host: euserv6p.ezddns.tk}}
-  - {name: GER 🇩🇪 GER 6, server: euserv9p.ezddns.tk, port: 80, type: vmess, uuid: ca870483-fa7d-4f64-983a-6ed455143aca, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /live, ws-headers: {Host: euserv9p.ezddns.tk}}
   - {name: GER 🇩🇪 GER 7, server: 104.19.45.117, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
   - {name: GER 🇩🇪 GER 8, server: 172.67.154.85, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
   - {name: GER 🇩🇪 GER 9, server: 104.18.6.138, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
@@ -596,8 +593,6 @@ proxy-groups:
       - FRA 🇫🇷 France
       - GER 🇩🇪 GER
       - GER 🇩🇪 GER 2
-      - GER 🇩🇪 GER 5
-      - GER 🇩🇪 GER 6
       - GER 🇩🇪 GER 7
       - GER 🇩🇪 GER 8
       - GER 🇩🇪 GER 9
@@ -879,8 +874,6 @@ proxy-groups:
       - FRA 🇫🇷 Paris 3
       - GER 🇩🇪 GER
       - GER 🇩🇪 GER 2
-      - GER 🇩🇪 GER 5
-      - GER 🇩🇪 GER 6
       - GER 🇩🇪 GER 7
       - GER 🇩🇪 GER 8
       - GER 🇩🇪 GER 9
