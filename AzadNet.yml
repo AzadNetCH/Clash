@@ -284,7 +284,6 @@ proxies:
   - {name: FRA 🇫🇷 Paris 3, server: 92.222.217.16, port: 80, type: vmess, uuid: 3d02e7f9-35ff-4219-aa2d-d3e41dbf02df, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /sshocean, ws-headers: {Host: 92.222.217.16}}
   - {name: GER 🇩🇪 GER, server: 172.67.153.238, port: 443, type: vmess, uuid: 356ed062-4f58-49c3-bd44-c0b6db1c94ee, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /stream, ws-headers: {Host: euserv3p.ezddns.tk}}
   - {name: GER 🇩🇪 GER 2, server: 46.182.107.94, port: 443, type: vmess, uuid: 743bdc87-1dea-41bf-aa0b-51dfbbfec8aa, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.54872833.xyz}}
-  - {name: GER 🇩🇪 GER 3, server: euserv18p.ezddns.tk, port: 80, type: vmess, uuid: 344c0b7d-2c35-4c95-8481-e2fc3c456a06, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /audio.mp3, ws-headers: {Host: euserv18p.ezddns.tk}}
   - {name: GER 🇩🇪 GER 4, server: euserv12p.ezddns.tk, port: 80, type: vmess, uuid: c0304bc1-f8ff-4108-9bc6-3415d16ae5e3, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /video, ws-headers: {Host: euserv12p.ezddns.tk}}
   - {name: GER 🇩🇪 GER 5, server: euserv6p.ezddns.tk, port: 80, type: vmess, uuid: 499737a4-9f18-4e1f-fb38-437e1855fc04, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /video, ws-headers: {Host: euserv6p.ezddns.tk}}
   - {name: GER 🇩🇪 GER 6, server: euserv9p.ezddns.tk, port: 80, type: vmess, uuid: ca870483-fa7d-4f64-983a-6ed455143aca, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /live, ws-headers: {Host: euserv9p.ezddns.tk}}
@@ -336,6 +335,8 @@ proxies:
   - {name: PRC 🇨🇳 China 5, server: 23.224.158.170, port: 443, type: vmess, uuid: aa6449c1-9557-415e-9681-08701767d56e, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/292026011205, ws-headers: {Host: www.58245542.xyz}}
   - {name: RUS 🇷🇺 RUS, server: 172.67.150.130, port: 80, type: vmess, uuid: 3d31728e-064d-42b8-b945-f79c008f73fc, alterId: 233, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: free-russian01-cdn.xiaohouzi.club}}
   - {name: RUS 🇷🇺 RUS 2, server: free-russian01-cdn.xiaohouzi.club, port: 80, type: vmess, uuid: 3d31728e-064d-42b8-b945-f79c008f73fc, alterId: 233, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: free-russian01-cdn.xiaohouzi.club}}
+  - {name: SOAF 🇿🇦 Johannesburg 1, server: 104.16.104.139, port: 443, type: vmess, uuid: dfaa99c8-332d-4bd5-81f6-4d5f0dca7511, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /sshocean, ws-headers: {Host: za1.v2rayserv.com}}
+  - {name: SOAF 🇿🇦 Johannesburg 2, server: 104.16.105.139, port: 443, type: vmess, uuid: f06e1803-63f8-4c3b-9315-8389a0a78984, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /sshocean, ws-headers: {Host: uk3.v2rayserv.com}}
   - {name: SGP 🇸🇬 Singapore, server: 51.79.157.223, port: 80, type: vmess, uuid: 88b21f86-b8fc-4e92-8a70-ccf4ccc60539, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /sshocean, ws-headers: {Host: 51.79.157.223}}
   - {name: TUR 🇹🇷 Bursa, server: 185.247.138.25, port: 15079, type: vmess, uuid: a1d846ec-9bef-4ffd-e34a-43bb06323ac3, alterId: 64, cipher: auto, tls: false}
   - {name: TWN 🇹🇼 Taipei, server: 211.23.132.124, port: 9233, type: vmess, uuid: be58f4e4-894a-47ee-8836-cf75e74fa9c9, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 211.23.132.124}}
@@ -595,8 +596,6 @@ proxy-groups:
       - FRA 🇫🇷 France
       - GER 🇩🇪 GER
       - GER 🇩🇪 GER 2
-      - GER 🇩🇪 GER 3
-      - GER 🇩🇪 GER 4
       - GER 🇩🇪 GER 5
       - GER 🇩🇪 GER 6
       - GER 🇩🇪 GER 7
@@ -624,6 +623,8 @@ proxy-groups:
       - PRC 🇨🇳 China 4
       - RUS 🇷🇺 RUS
       - RUS 🇷🇺 RUS 2
+      - SOAF 🇿🇦 Johannesburg 1
+      - SOAF 🇿🇦 Johannesburg 2
       - TUR 🇹🇷 Bursa
       - TWN 🇹🇼 Taipei
       - USA 🇺🇸 USA
@@ -878,8 +879,6 @@ proxy-groups:
       - FRA 🇫🇷 Paris 3
       - GER 🇩🇪 GER
       - GER 🇩🇪 GER 2
-      - GER 🇩🇪 GER 3
-      - GER 🇩🇪 GER 4
       - GER 🇩🇪 GER 5
       - GER 🇩🇪 GER 6
       - GER 🇩🇪 GER 7
@@ -929,6 +928,8 @@ proxy-groups:
       - PRC 🇨🇳 China 5
       - RUS 🇷🇺 RUS
       - RUS 🇷🇺 RUS 2
+      - SOAF 🇿🇦 Johannesburg 1
+      - SOAF 🇿🇦 Johannesburg 2
       - SGP 🇸🇬 Singapore
       - TUR 🇹🇷 Bursa
       - TWN 🇹🇼 Taipei
