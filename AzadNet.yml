@@ -347,6 +347,7 @@ proxies:
   - {name: USA 🇺🇸 California 10, server: www.17080100.xyz, port: 443, type: vmess, uuid: 2566d00f-218c-48f7-9a36-13d3d6f1a724, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/310910211916, ws-headers: {Host: www.17080100.xyz}}
   - {name: USA 🇺🇸 California 11, server: www.92726054.xyz, port: 443, type: vmess, uuid: d3cbe556-8db3-47e0-8ef1-06b2cce00411, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/310910211916, ws-headers: {Host: www.92726054.xyz}}
   - {name: USA 🇺🇸 California 13, server: 107.167.9.124, port: 443, type: vmess, uuid: 2566d00f-218c-48f7-9a36-13d3d6f1a724, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/310910211916, ws-headers: {Host: www.17080100.xyz}}
+  - {name: USA 🇺🇸 NY, server: usv-3.openv2ray.com, port: 80, type: vmess, uuid: a40d34c6-b77c-4648-9210-3e8d2f4226b5, alterId: 16, cipher: auto, tls: false, network: ws, ws-path: "/opentunnel?user=opentunnel.net-azadnet0002", ws-headers: {Host: usv-3.openv2ray.com}}
 
 proxy-groups:
   - name: 🔰 SS & SSR
@@ -632,6 +633,7 @@ proxy-groups:
       - USA 🇺🇸 California 10
       - USA 🇺🇸 California 11
       - USA 🇺🇸 California 13
+      - USA 🇺🇸 NY
       - 🔥 Auto2(Best ping) 
       - ↪️ use (SS & SSR) group
  
@@ -937,6 +939,7 @@ proxy-groups:
       - USA 🇺🇸 California 10
       - USA 🇺🇸 California 11
       - USA 🇺🇸 California 13
+      - USA 🇺🇸 NY
   - name: ↪️ use (vmess & trojan) group      
     type: select
     proxies:
