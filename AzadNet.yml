@@ -11,6 +11,10 @@ dns:
   enhanced-mode: fake-ip
   fake-ip-range: 198.18.0.1/16
   nameserver:
+    - https://EU2.DNS.LAVATE.CH/dns-query
+    - https://DANDELIONSPROUT.Asuscomm.com:2501/dns-query
+    - https://DNS.HeN.ee/dns-query
+    - https://NoTMIKE.dev/dns.php
     - tls://dns.google:853
     - https://dns.google/dns-query
     - https://cloudflare-dns.com/dns-query
@@ -18,6 +22,10 @@ dns:
     - https://dnsforge.de/dns-query
     - https://dns.quad9.net/dns-query
   fallback:
+    - https://EU2.DNS.LAVATE.CH/dns-query
+    - https://DANDELIONSPROUT.Asuscomm.com:2501/dns-query
+    - https://DNS.HeN.ee/dns-query
+    - https://NoTMIKE.dev/dns.php
     - tls://dns.google:853
     - https://dns.google/dns-query
     - https://cloudflare-dns.com/dns-query
