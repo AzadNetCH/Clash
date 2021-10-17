@@ -110,7 +110,6 @@ proxies:
   - {name: MDA 🇲🇩 Chișinău, server: 194.33.40.114, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
   - {name: MKD 🇲🇰 Skopje, server: 185.225.28.91, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH, udp: true}
   - {name: MEX 🇲🇽 Mexico City, server: 194.41.112.3, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
-  - {name: MLT 🇲🇹 Valletta, server: 130.185.255.38, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
   - {name: NGA 🇳🇬 Lagos, server: 102.165.23.6, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
   - {name: NGA 🇳🇬 Lagos 2, server: 102.165.23.7, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8, udp: true}
   - {name: NZL 🇳🇿 Auckland, server: 180.149.231.3, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH, udp: true}
@@ -471,7 +470,6 @@ proxy-groups:
       - MDA 🇲🇩 Chisinau new
       - MEX 🇲🇽 Mexico City
       - MKD 🇲🇰 Skopje
-      - MLT 🇲🇹 Valletta
       - MLT 🇲🇹 Safi new
       - MYS 🇲🇾 Kuala Lumpur
       - MYS 🇲🇾 Kuala Lumpur new
@@ -755,7 +753,6 @@ proxy-groups:
       - MDA 🇲🇩 Chisinau new
       - MEX 🇲🇽 Mexico City
       - MKD 🇲🇰 Skopje
-      - MLT 🇲🇹 Valletta
       - MLT 🇲🇹 Safi new
       - MYS 🇲🇾 Kuala Lumpur
       - MYS 🇲🇾 Kuala Lumpur new
