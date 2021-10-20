@@ -1043,7 +1043,7 @@ proxy-groups:
       - TUR 🇹🇷 Bursa
       - UK 🇬🇧 London 4
 
-  - name: ↪️ use (vmess & trojan) group      
+  - name: ↪️ use (vmess & trojan) group     
     type: select
     proxies:
       - DIRECT
