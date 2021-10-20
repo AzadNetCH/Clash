@@ -274,6 +274,7 @@ proxies:
   - {name: CAN 🇨🇦 Toronto 5, server: 134.195.196.165, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
   - {name: CAN 🇨🇦 Toronto 6, server: 134.195.196.81, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
   - {name: CAN 🇨🇦 Toronto 7, server: 134.195.196.133, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: GER 🇩🇪 Hesse, server: 51.89.99.52, port: 805, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
   - {name: JPN 🇯🇵 Tokyo 2, server: 185.168.20.113, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
   - {name: JPN 🇯🇵 Tokyo 3, server: 185.160.26.170, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
   - {name: TWN 🇹🇼 Taichung, server: 188.92.78.137, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp, udp: true}
@@ -452,6 +453,7 @@ proxy-groups:
       - GER 🇩🇪 Berlin 2
       - GER 🇩🇪 Berlin 3
       - GER 🇩🇪 Berlin 4
+      - GER 🇩🇪 Hesse
       - GER 🇩🇪 Nuremberg new
       - GRC 🇬🇷 Athens
       - HUN 🇭🇺 Budapest 1
@@ -744,6 +746,7 @@ proxy-groups:
       - GER 🇩🇪 Berlin 2
       - GER 🇩🇪 Berlin 3
       - GER 🇩🇪 Berlin 4
+      - GER 🇩🇪 Hesse
       - GER 🇩🇪 Nuremberg new
       - GRC 🇬🇷 Athens
       - HKG 🇭🇰 Central new
