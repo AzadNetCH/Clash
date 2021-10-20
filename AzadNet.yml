@@ -332,10 +332,6 @@ proxies:
   - {name: USA 🇺🇸 Georgia 6, server: 167.88.63.89, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
   - {name: USA 🇺🇸 Nevada, server: 79.110.54.133, port: 48794, type: ss, cipher: aes-256-gcm, password: r9Q3adc3ru9sfBDPEj4yp6U6, udp: true}
 
-  - {name: BHR 🇧🇭 Dar Kulayb, server: 15.184.91.216, port: 55435, type: vmess, uuid: 8d81b746-53ce-45c5-b8a4-dec28a0c5a80, alterId: 64, cipher: auto, tls: false}
-  - {name: BAH 🇧🇭 Dar Kulayb 2, server: 15.184.167.171, port: 24527, type: vmess, uuid: f1dc9b61-017e-4909-a9b4-19b8d3c7cae1, alterId: 64, cipher: auto, tls: false}
-  - {name: DNK 🇩🇰 Copenhagen 3, server: 5.183.101.204, port: 59857, type: vmess, uuid: 4c35d374-dbf2-4e5f-c731-dfa49191825a, alterId: 64, cipher: auto, tls: false}
-  - {name: DNK 🇩🇰 Copenhagen 4, server: 5.183.101.200, port: 35374, type: vmess, uuid: 62836733-0014-4014-e0e3-908eea2f3063, alterId: 64, cipher: auto, tls: false}
   - {name: FRA 🇫🇷 France, server: 199.60.103.228, port: 80, type: vmess, uuid: b22b990f-b6dd-4b57-a0e1-ee3f829d413f, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /sshkit, ws-headers: {Host: eu-sshkit.v2-ray.cf}}
   - {name: FRA 🇫🇷 Carpentras, server: 51.15.229.29, port: 80, type: vmess, uuid: 9f4adaba-1213-49cd-aad2-2507ab59ca3c, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /sshocean, ws-headers: {Host: 51.15.229.29}}
   - {name: FRA 🇫🇷 Longjumeau, server: 54.37.18.98, port: 80, type: vmess, uuid: c4c24503-a357-40d1-b9bd-0dc4264d65e3, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /sshocean, ws-headers: {Host: 54.37.18.98}}
@@ -680,9 +676,7 @@ proxy-groups:
     type: select
     proxies:
       - ↪️ use (SS & SSR) group
-      - 🔥 Auto2(Best ping)       
-      - BHR 🇧🇭 Dar Kulayb
-      - BAH 🇧🇭 Dar Kulayb 2
+      - 🔥 Auto2(Best ping)
       - FRA 🇫🇷 France
       - GER 🇩🇪 GER
       - GER 🇩🇪 GER 2
@@ -1003,10 +997,6 @@ proxy-groups:
     url: https://www.google.com
     interval: 1500
     proxies:
-      - BHR 🇧🇭 Dar Kulayb
-      - BAH 🇧🇭 Dar Kulayb 2
-      - DNK 🇩🇰 Copenhagen 3
-      - DNK 🇩🇰 Copenhagen 4
       - FRA 🇫🇷 France
       - FRA 🇫🇷 Carpentras
       - FRA 🇫🇷 Longjumeau
