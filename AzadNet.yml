@@ -323,11 +323,14 @@ proxies:
   - {name: UK 🇬🇧 London 23, server: 172.99.190.186, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
   - {name: UK 🇬🇧 London 24, server: 172.99.190.149, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
   - {name: UK 🇬🇧 London 25, server: 172.99.190.230, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: USA 🇺🇸 Georgia, server: 167.88.63.99, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: USA 🇺🇸 Georgia 2, server: 27.131.164.94, port: 49202, type: ss, cipher: aes-256-gcm, password: btzEYXKZxnR7g6H2vFTQK5TD, udp: true}
+  - {name: USA 🇺🇸 Georgia 3, server: 167.88.63.89, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: USA 🇺🇸 Georgia 4, server: 167.88.63.11, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: USA 🇺🇸 Georgia 5, server: 167.88.63.60, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: USA 🇺🇸 Georgia 6, server: 167.88.63.89, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: USA 🇺🇸 Nevada, server: 79.110.54.133, port: 48794, type: ss, cipher: aes-256-gcm, password: r9Q3adc3ru9sfBDPEj4yp6U6, udp: true}
 
-
-
-
-  
   - {name: BHR 🇧🇭 Dar Kulayb, server: 15.184.91.216, port: 55435, type: vmess, uuid: 8d81b746-53ce-45c5-b8a4-dec28a0c5a80, alterId: 64, cipher: auto, tls: false}
   - {name: BAH 🇧🇭 Dar Kulayb 2, server: 15.184.167.171, port: 24527, type: vmess, uuid: f1dc9b61-017e-4909-a9b4-19b8d3c7cae1, alterId: 64, cipher: auto, tls: false}
   - {name: DNK 🇩🇰 Copenhagen 3, server: 5.183.101.204, port: 59857, type: vmess, uuid: 4c35d374-dbf2-4e5f-c731-dfa49191825a, alterId: 64, cipher: auto, tls: false}
@@ -660,6 +663,12 @@ proxy-groups:
       - USA 🇺🇸 Detroit 2
       - USA 🇺🇸 Detroit 3
       - USA 🇺🇸 Detroit 4
+      - USA 🇺🇸 Georgia
+      - USA 🇺🇸 Georgia 2
+      - USA 🇺🇸 Georgia 3
+      - USA 🇺🇸 Georgia 4
+      - USA 🇺🇸 Georgia 5
+      - USA 🇺🇸 Georgia 6
       - USA 🇺🇸 Houston 1
       - USA 🇺🇸 Houston 2
       - USA 🇺🇸 Houston 3
@@ -676,6 +685,7 @@ proxy-groups:
       - USA 🇺🇸 Los Angeles 3
       - USA 🇺🇸 Miami
       - USA 🇺🇸 New York 2
+      - USA 🇺🇸 Nevada
       - USA 🇺🇸 Orlando 1
       - USA 🇺🇸 Orlando 2
       - USA 🇺🇸 Phoenix 1 2
@@ -994,6 +1004,12 @@ proxy-groups:
       - USA 🇺🇸 Detroit 2
       - USA 🇺🇸 Detroit 3
       - USA 🇺🇸 Detroit 4
+      - USA 🇺🇸 Georgia
+      - USA 🇺🇸 Georgia 2
+      - USA 🇺🇸 Georgia 3
+      - USA 🇺🇸 Georgia 4
+      - USA 🇺🇸 Georgia 5
+      - USA 🇺🇸 Georgia 6
       - USA 🇺🇸 Houston 1
       - USA 🇺🇸 Houston 2
       - USA 🇺🇸 Houston 3
@@ -1010,6 +1026,7 @@ proxy-groups:
       - USA 🇺🇸 Los Angeles 3
       - USA 🇺🇸 Miami
       - USA 🇺🇸 New York 2
+      - USA 🇺🇸 Nevada
       - USA 🇺🇸 Orlando 1
       - USA 🇺🇸 Orlando 2
       - USA 🇺🇸 Phoenix 1 2
