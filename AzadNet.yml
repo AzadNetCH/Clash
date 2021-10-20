@@ -289,6 +289,11 @@ proxies:
   - {name: TWN 🇹🇼 Taichung, server: 188.92.78.137, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp, udp: true}
   - {name: TWN 🇹🇼 Taichung 2, server: 2.58.241.3, port: 38033, type: ss, cipher: aes-256-gcm, password: xpQwyV4W5FdA6NMANJJx73US}
   - {name: TWN 🇹🇼 Taichung 3, server: 103.152.151.69, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: TWN 🇹🇼 Taichung 4, server: 2.58.242.43, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd, udp: true}
+  - {name: TWN 🇹🇼 Taichung 5, server: 2.58.242.43, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD, udp: true}
+  - {name: TWN 🇹🇼 Taipei 2, server: 2.58.242.43, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp, udp: true}
+  - {name: TWN 🇹🇼 Taipei 3, server: 2.58.242.43, port: 44820, type: ss, cipher: aes-256-gcm, password: jspgz9G3VmvBMCgMUWLBaZHu, udp: true}
+  - {name: TWN 🇹🇼 Taipei 4, server: 2.58.242.43, port: 33148, type: ss, cipher: aes-256-gcm, password: CMduaFXddcQbwNAAs7xFDnc8, udp: true}
   - {name: THA 🇹🇭 Bangkok, server: 45.40.54.7, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
   - {name: THA 🇹🇭 Bangkok 2, server: 27.131.164.100, port: 50232, type: ss, cipher: aes-256-gcm, password: CjchzpwdSjRtDjezYMwx9BKM, udp: true}
   - {name: THA 🇹🇭 Bangkok 3, server: 27.131.164.100, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
@@ -574,6 +579,11 @@ proxy-groups:
       - TWN 🇹🇼 Taichung
       - TWN 🇹🇼 Taichung 2
       - TWN 🇹🇼 Taichung 3
+      - TWN 🇹🇼 Taichung 4
+      - TWN 🇹🇼 Taichung 5
+      - TWN 🇹🇼 Taipei 2
+      - TWN 🇹🇼 Taipei 3
+      - TWN 🇹🇼 Taipei 4
       - UAE 🇦🇪 Dubai 1
       - UAE 🇦🇪 Dubai 2
       - UAE 🇦🇪 Dubai 3
@@ -881,6 +891,11 @@ proxy-groups:
       - TWN 🇹🇼 Taichung
       - TWN 🇹🇼 Taichung 2
       - TWN 🇹🇼 Taichung 3
+      - TWN 🇹🇼 Taichung 4
+      - TWN 🇹🇼 Taichung 5
+      - TWN 🇹🇼 Taipei 2
+      - TWN 🇹🇼 Taipei 3
+      - TWN 🇹🇼 Taipei 4
       - UAE 🇦🇪 Dubai 1
       - UAE 🇦🇪 Dubai 2
       - UAE 🇦🇪 Dubai 3
