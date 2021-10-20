@@ -372,7 +372,6 @@ proxies:
   - {name: JPN 🇯🇵 Tokyo 7, server: jp.noic.ml, port: 2309, type: vmess, uuid: d58a968f-1163-4d5e-d22f-b6683300b64f, alterId: 32, cipher: auto, tls: true}
   - {name: JPN 🇯🇵 Tokyo 8, server: 104.18.207.61, port: 443, type: vmess, uuid: 356ed062-4f58-49c3-bd44-c0b6db1c94ee, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /stream, ws-headers: {Host: euserv3p.ezddns.tk}}
   - {name: JPN 🇯🇵 Tokyo 9, server: jp2.noic.ml, port: 2310, type: vmess, uuid: 65ad710b-e7e3-49ff-f394-a5b842f6e93e, alterId: 32, cipher: auto, tls: true}
-  - {name: JPN 🇯🇵 Tokyo 10, server: japan.mini.00001.zeroyyds.cc, port: 80, type: vmess, uuid: e6d14923-99e3-4e4d-8dd3-65968a21114b, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: japan.mini.00001.zeroyyds.cc}}
   - {name: LUX 🇱🇺 Bissen 2, server: workers.dev, port: 443, type: vmess, uuid: 7a70e0f7-170d-4ab0-82a0-c40554bfb320, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /111111.online, ws-headers: {Host: buyvm.proxypool.ga}}
   - {name: NLD 🇳🇱 NLD 2, server: 46.182.107.154, port: 443, type: vmess, uuid: 130c9f2e-42b1-4ebf-b345-e26456a061f9, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.05222027.xyz}}
   - {name: NLD 🇳🇱 NLD 3, server: 46.182.107.44, port: 443, type: vmess, uuid: fe5f69e7-e183-439b-950b-9661ef0651f2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.68737987.xyz}}
@@ -712,7 +711,6 @@ proxy-groups:
       - HKG 🇭🇰 Hong Kong 2
       - HKG 🇭🇰 Hong Kong 6
       - HKG 🇭🇰 Hong Kong 7
-      - JPN 🇯🇵 Tokyo 10
       - NLD 🇳🇱 NLD 2
       - NLD 🇳🇱 NLD 3
       - NLD 🇳🇱 NLD 4
@@ -1059,7 +1057,6 @@ proxy-groups:
       - JPN 🇯🇵 Tokyo 7
       - JPN 🇯🇵 Tokyo 8
       - JPN 🇯🇵 Tokyo 9
-      - JPN 🇯🇵 Tokyo 10
       - LUX 🇱🇺 Bissen 2
       - NLD 🇳🇱 NLD 2
       - NLD 🇳🇱 NLD 3
