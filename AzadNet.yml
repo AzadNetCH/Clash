@@ -88,6 +88,7 @@ proxies:
   - {name: GER 🇩🇪 Berlin 3, server: 193.29.106.187, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
   - {name: GER 🇩🇪 Berlin 4, server: 193.29.106.155, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
   - {name: GRC 🇬🇷 Athens, server: 91.240.243.9, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp, udp: true}
+  - {name: HKG 🇭🇰 Hong Kong, server: 212.102.42.211, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
   - {name: HUN 🇭🇺 Budapest 1, server: 185.252.223.83, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
   - {name: ISL 🇮🇸 Reykjavik, server: 45.133.193.107, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH, udp: true}
   - {name: ISL 🇮🇸 Reykjavik 2, server: 45.133.193.195, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
@@ -352,19 +353,10 @@ proxies:
   - {name: GER 🇩🇪 GER 15, server: cdnde.irteyz.today, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
   - {name: GER 🇩🇪 GER 16, server: 104.18.7.138, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
   - {name: GER 🇩🇪 GER 17, server: 104.19.45.117, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
-  - {name: HKG 🇭🇰 Hong Kong, server: 16.162.120.7, port: 30070, type: vmess, uuid: 39341fe7-b8b7-4605-a811-af1f1d46d4fb, alterId: 100, cipher: auto, tls: false}
-  - {name: HKG 🇭🇰 Hong Kong 2, server: jb.wocaonimabi666.xyz, port: 48258, type: vmess, uuid: 5080a95a-27b6-441f-8cee-a6e2ba5c780a, alterId: 0, cipher: auto, tls: false}
-  - {name: HKG 🇭🇰 Hong Kong 3, server: 20.HKG.ASIA.BIGAIRPORT.NET, port: 80, type: vmess, uuid: bb511347-6ed5-475c-9ffe-ac7268fdf351, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 20.HKG.ASIA.BIGAIRPORT.NET}}
-  - {name: HKG 🇭🇰 Hong Kong 4, server: 18.HKG.ASIA.BIGAIRPORT.NET, port: 80, type: vmess, uuid: bb511347-6ed5-475c-9ffe-ac7268fdf351, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 18.HKG.ASIA.BIGAIRPORT.NET}}
-  - {name: HKG 🇭🇰 Hong Kong 5, server: game-hk.june628.ml, port: 10163, type: vmess, uuid: 9b9955c9-3562-48b8-a0f7-98ef8258e51f, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /By:June-@CloudLinkGroup, ws-headers: {Host: game-hk.june628.ml}}
-  - {name: HKG 🇭🇰 Hong Kong 6, server: 18.166.65.222, port: 80, type: vmess, uuid: 56a2ff86-807b-471c-e5f7-463ea41ec65b, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 18.166.65.222}}
-  - {name: HKG 🇭🇰 Hong Kong 7, server: 104.16.106.139, port: 443, type: vmess, uuid: bda44570-cb02-48da-8991-ac9eea26b53d, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /sshocean, ws-headers: {Host: hk1.v2rayserv.com}}
   - {name: HUN 🇭🇺 Budapest, server: 185.225.69.134, port: 45081, type: vmess, uuid: 3c3bfd75-dc30-4e76-8940-47e1137e21f9, alterId: 64, cipher: auto, tls: false}
   - {name: IDN 🇮🇩 Bogor, server: 103.227.254.55, port: 80, type: vmess, uuid: 390bebf4-e8d1-4651-9658-22e181ed50b1, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /sshocean, ws-headers: {Host: 103.227.254.55}}
   - {name: IND 🇮🇳 Bangalore, server: 167.71.235.142, port: 80, type: vmess, uuid: 927f8a2a-f2db-499b-e0f0-b1e344508546, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 167.71.235.142}}
   - {name: IND 🇮🇳 Bengaluru 2, server: ind02.xqkj.cloud, port: 5062, type: vmess, uuid: 91ff9fa0-2578-48a4-bdd7-fe0fcb24e61f, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: ind02.xqkj.cloud}}
-  - {name: IRL 🇮🇪 Dublin 4, server: huluwa0528.herokuapp.com, port: 443, type: vmess, uuid: c0fc8428-034f-414b-9dfb-52b5cf7d25bb, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /c0fc8428-034f-414b-9dfb-52b5cf7d25bb-vmess, ws-headers: {Host: huluwa0528.herokuapp.com}}
-  - {name: IRL 🇮🇪 Dublin 5, server: lulu0528.herokuapp.com, port: 443, type: vmess, uuid: c0fc8428-034f-414b-9dfb-52b5cf7d25bb, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /c0fc8428-034f-414b-9dfb-52b5cf7d25bb-vmess, ws-headers: {Host: lulu0528.herokuapp.com}}
   - {name: JPN 🇯🇵 JPN, server: 54.199.6.184, port: 12347, type: vmess, uuid: d20d7c24-486d-400c-a8f6-e87bc67bf35c, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 54.199.6.184}}
   - {name: JPN 🇯🇵 Tokyo 6, server: 104.19.1.168, port: 443, type: vmess, uuid: f299184b-19e0-41a4-9b4b-65fa8f0e691c, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /jj, ws-headers: {Host: c-jp1.ooxc.cc}}
   - {name: JPN 🇯🇵 Tokyo 8, server: 104.18.207.61, port: 443, type: vmess, uuid: 356ed062-4f58-49c3-bd44-c0b6db1c94ee, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /stream, ws-headers: {Host: euserv3p.ezddns.tk}}
@@ -485,6 +477,7 @@ proxy-groups:
       - GER 🇩🇪 Hesse
       - GER 🇩🇪 Nuremberg new
       - GRC 🇬🇷 Athens
+      - HKG 🇭🇰 Hong Kong
       - HUN 🇭🇺 Budapest 1
       - HKG 🇭🇰 Central new
       - HUN 🇭🇺 Budapest new
@@ -705,9 +698,6 @@ proxy-groups:
       - GER 🇩🇪 GER 15
       - GER 🇩🇪 GER 16
       - GER 🇩🇪 GER 17
-      - HKG 🇭🇰 Hong Kong 2
-      - HKG 🇭🇰 Hong Kong 6
-      - HKG 🇭🇰 Hong Kong 7
       - NLD 🇳🇱 NLD 2
       - NLD 🇳🇱 NLD 3
       - NLD 🇳🇱 NLD 4
@@ -816,6 +806,7 @@ proxy-groups:
       - GER 🇩🇪 Nuremberg new
       - GRC 🇬🇷 Athens
       - HKG 🇭🇰 Central new
+      - HKG 🇭🇰 Hong Kong
       - HUN 🇭🇺 Budapest 1
       - HUN 🇭🇺 Budapest new
       - IND 🇮🇳 Bengaluru new
@@ -1035,18 +1026,9 @@ proxy-groups:
       - GER 🇩🇪 GER 15
       - GER 🇩🇪 GER 16
       - GER 🇩🇪 GER 17
-      - HKG 🇭🇰 Hong Kong
-      - HKG 🇭🇰 Hong Kong 2
-      - HKG 🇭🇰 Hong Kong 3
-      - HKG 🇭🇰 Hong Kong 4
-      - HKG 🇭🇰 Hong Kong 5
-      - HKG 🇭🇰 Hong Kong 6
-      - HKG 🇭🇰 Hong Kong 7
       - HUN 🇭🇺 Budapest
       - IDN 🇮🇩 Bogor
       - IND 🇮🇳 Bengaluru 2
-      - IRL 🇮🇪 Dublin 4
-      - IRL 🇮🇪 Dublin 5
       - JPN 🇯🇵 JPN
       - JPN 🇯🇵 Tokyo 6
       - JPN 🇯🇵 Tokyo 8
