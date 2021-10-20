@@ -396,17 +396,6 @@ proxies:
   - {name: TUR 🇹🇷 Bursa, server: 185.247.138.25, port: 15079, type: vmess, uuid: a1d846ec-9bef-4ffd-e34a-43bb06323ac3, alterId: 64, cipher: auto, tls: false}
   - {name: TWN 🇹🇼 Taipei, server: 211.23.132.124, port: 9233, type: vmess, uuid: be58f4e4-894a-47ee-8836-cf75e74fa9c9, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 211.23.132.124}}
   - {name: UK 🇬🇧 London 4, server: 51.195.217.20, port: 80, type: vmess, uuid: 6c0cb6a9-2389-4b5d-8bec-b14b076f4a4e, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /sshocean, ws-headers: {Host: 51.195.217.20}}
-  - {name: USA 🇺🇸 USA, server: nn-ssr4.feiclouddd.me, port: 443, type: vmess, uuid: 79214731-7f0c-4f2d-a894-13b7df293624, alterId: 60, cipher: auto, tls: true, network: ws, ws-path: /sadfasdf, ws-headers: {Host: nn-ssr4.feiclouddd.me}}
-  - {name: USA 🇺🇸 USA 3, server: euserv5p.ezddns.tk, port: 80, type: vmess, uuid: 60b738e2-3aa4-4cde-c270-20f8cc1ab16a, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /audio.wav, ws-headers: {Host: euserv5p.ezddns.tk}}
-  - {name: USA 🇺🇸 USA 4, server: nn-ssr4.feiclouddd.me, port: 443, type: vmess, uuid: 79214731-7f0c-4f2d-a894-13b7df293624, alterId: 60, cipher: auto, tls: true, network: ws, ws-path: /sadfasdf, ws-headers: {Host: nn-ssr4.feiclouddd.me}}
-  - {name: USA 🇺🇸 USA 7, server: 23.224.30.70, port: 443, type: vmess, uuid: 688f4b5d-ce9a-4729-abe5-b66ca96b2ee9, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.36773818.xyz}}
-  - {name: USA 🇺🇸 California 6, server: hk1opuy-node.3366test.com, port: 13723, type: vmess, uuid: a90597c1-bab3-4217-ad6f-0838675c8638, alterId: 10, cipher: auto, tls: true, network: ws, ws-path: /ray, ws-headers: {Host: hk1opuy-node.3366test.com}}
-  - {name: USA 🇺🇸 California 7, server: 107.167.9.124, port: 443, type: vmess, uuid: 2566d00f-218c-48f7-9a36-13d3d6f1a724, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/310910211916, ws-headers: {Host: www.17080100.xyz}}
-  - {name: USA 🇺🇸 California 10, server: www.17080100.xyz, port: 443, type: vmess, uuid: 2566d00f-218c-48f7-9a36-13d3d6f1a724, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/310910211916, ws-headers: {Host: www.17080100.xyz}}
-  - {name: USA 🇺🇸 California 11, server: www.92726054.xyz, port: 443, type: vmess, uuid: d3cbe556-8db3-47e0-8ef1-06b2cce00411, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/310910211916, ws-headers: {Host: www.92726054.xyz}}
-  - {name: USA 🇺🇸 California 13, server: 107.167.9.124, port: 443, type: vmess, uuid: 2566d00f-218c-48f7-9a36-13d3d6f1a724, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/310910211916, ws-headers: {Host: www.17080100.xyz}}
-  - {name: USA 🇺🇸 NY, server: usv-3.openv2ray.com, port: 80, type: vmess, uuid: a40d34c6-b77c-4648-9210-3e8d2f4226b5, alterId: 16, cipher: auto, tls: false, network: ws, ws-path: "/opentunnel?user=opentunnel.net-azadnet0002", ws-headers: {Host: usv-3.openv2ray.com}}
-  - {name: USA 🇺🇸 TX, server: 216.230.232.20, port: 443, type: trojan, password: opentunnel.net-azadnet0001}
 
 proxy-groups:
   - name: 🔰 SS & SSR
@@ -742,17 +731,6 @@ proxy-groups:
       - TUR 🇹🇷 Bursa
       - TWN 🇹🇼 Taipei
       - UK 🇬🇧 London 4
-      - USA 🇺🇸 USA
-      - USA 🇺🇸 USA 3
-      - USA 🇺🇸 USA 4
-      - USA 🇺🇸 USA 7
-      - USA 🇺🇸 California 6
-      - USA 🇺🇸 California 7
-      - USA 🇺🇸 California 10
-      - USA 🇺🇸 California 11
-      - USA 🇺🇸 California 13
-      - USA 🇺🇸 NY
-      - USA 🇺🇸 TX
       - 🔥 Auto2(Best ping) 
       - ↪️ use (SS & SSR) group
  
@@ -1107,17 +1085,6 @@ proxy-groups:
       - TUR 🇹🇷 Bursa
       - TWN 🇹🇼 Taipei
       - UK 🇬🇧 London 4
-      - USA 🇺🇸 USA
-      - USA 🇺🇸 USA 3
-      - USA 🇺🇸 USA 4
-      - USA 🇺🇸 USA 7
-      - USA 🇺🇸 California 6
-      - USA 🇺🇸 California 7
-      - USA 🇺🇸 California 10
-      - USA 🇺🇸 California 11
-      - USA 🇺🇸 California 13
-      - USA 🇺🇸 NY
-      - USA 🇺🇸 TX
 
   - name: ↪️ use (vmess & trojan) group      
     type: select
