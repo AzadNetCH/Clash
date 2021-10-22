@@ -84,7 +84,7 @@ proxies:
   - {name: GER 🇩🇪 Frankfurt 4, server: 18.185.63.41, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
   - {name: GER 🇩🇪 Frankfurt 5, server: 185.104.184.78, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
   - {name: GER 🇩🇪 Berlin 1, server: 193.29.106.195, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
-  - {name: GER 🇩🇪 Berlin 2, server: 193.29.106.85, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
+  - {name: GER 🇩🇪 Berlin 2, server: 193.29.106.189, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
   - {name: GER 🇩🇪 Berlin 3, server: 193.29.106.187, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
   - {name: GER 🇩🇪 Berlin 4, server: 193.29.106.155, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
   - {name: GRC 🇬🇷 Athens, server: 91.240.243.9, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp, udp: true}
