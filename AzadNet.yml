@@ -201,7 +201,7 @@ proxies:
   - {name: VEN 🇻🇪 Caracas, server: 45.149.3.3, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
 
   - {name: ARG 🇦🇷 Buenos Aires new, server: 131.255.4.219, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: AUS 🇦🇺 Alexandria new , server: 149.28.186.148, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: AUS 🇦🇺 Alexandria new , server: 167.88.63.29, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
   - {name: AUT 🇦🇹 Graz new, server: 151.236.30.184, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
   - {name: BGR 🇧🇬 Sofia 2 new, server: 194.68.225.104, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
   - {name: BGR 🇧🇬 Sofia 3 new, server: 194.68.225.104, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
