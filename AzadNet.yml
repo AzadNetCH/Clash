@@ -50,8 +50,8 @@ proxies:
   - {name: AZR 🇦🇿 Baku 4, server: 62.212.239.67, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: AZR 🇦🇿 Baku 5, server: 94.20.154.67, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: BiH 🇧🇦 Sarajevo, server: 185.99.3.66, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
+  - {name: BEL 🇧🇪 Antwerp, server: 188.95.55.115,  port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp, udp: true}
   - {name: BEL 🇧🇪 Belgium, server: 91.90.123.187,  port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp, udp: true}
-  - {name: BEL 🇧🇪 Belgium 2, server: 91.90.123.197,  port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp, udp: true}
   - {name: BRA 🇧🇷 Sao Paulo, server: 138.199.58.83, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
   - {name: BRA 🇧🇷 Sao Paulo 2, server: 45.231.207.72, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
   - {name: CHL ⃕ ␋ 🇨🇱 San Antonio, server: 31.169.121.19, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
@@ -400,8 +400,8 @@ proxy-groups:
       - AZR 🇦🇿 Baku 3
       - AZR 🇦🇿 Baku 4
       - AZR 🇦🇿 Baku 5
+      - BEL 🇧🇪 Antwerp
       - BEL 🇧🇪 Belgium
-      - BEL 🇧🇪 Belgium 2
       - BEL 🇧🇪 Flanders new
       - BEL 🇧🇪 Flanders 2 new
       - BGR 🇧🇬 Sofia new
@@ -725,8 +725,8 @@ proxy-groups:
       - AZR 🇦🇿 Baku 3
       - AZR 🇦🇿 Baku 4
       - AZR 🇦🇿 Baku 5
+      - BEL 🇧🇪 Antwerp
       - BEL 🇧🇪 Belgium
-      - BEL 🇧🇪 Belgium 2
       - BEL 🇧🇪 Flanders new
       - BEL 🇧🇪 Flanders 2 new
       - BGR 🇧🇬 Sofia new
