@@ -184,7 +184,6 @@ proxies:
   - {name: USA 🇺🇸 Los Angeles 3, server: 138.199.9.197, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH, udp: true}
   - {name: USA 🇺🇸 Latham 1, server: 154.16.169.5, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
   - {name: USA 🇺🇸 Latham 2, server: 45.43.19.82, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
-  - {name: USA 🇺🇸 Latham 3, server: 45.43.19.82, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH, udp: true}
   - {name: USA 🇺🇸 Miami, server: 45.87.214.253, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
   - {name: USA 🇺🇸 Buffalo, server: 172.93.153.149, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH, udp: true}
   - {name: USA 🇺🇸 Atlanta, server: 66.115.169.35, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH, udp: true}
@@ -636,7 +635,6 @@ proxy-groups:
       - USA 🇺🇸 Las Vegas 3
       - USA 🇺🇸 Latham 1
       - USA 🇺🇸 Latham 2
-      - USA 🇺🇸 Latham 3
       - USA 🇺🇸 Los Angeles 2
       - USA 🇺🇸 Los Angeles 3
       - USA 🇺🇸 Miami
@@ -953,7 +951,6 @@ proxy-groups:
       - USA 🇺🇸 Las Vegas 3
       - USA 🇺🇸 Latham 1
       - USA 🇺🇸 Latham 2
-      - USA 🇺🇸 Latham 3
       - USA 🇺🇸 Los Angeles 2
       - USA 🇺🇸 Los Angeles 3
       - USA 🇺🇸 Miami
