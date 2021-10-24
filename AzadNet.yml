@@ -156,7 +156,6 @@ proxies:
   - {name: USA 🇺🇸 Houston 1, server: 199.10.64.83, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH, udp: true}
   - {name: USA 🇺🇸 Houston 2, server: 199.10.64.243, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
   - {name: USA 🇺🇸 Houston 3, server: 199.10.64.101, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH, udp: true}
-  - {name: USA 🇺🇸 Houston 4, server: 199.10.64.243, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
   - {name: USA 🇺🇸 Detroit 1, server: 138.199.42.143, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
   - {name: USA 🇺🇸 Detroit 2, server: 138.199.42.145, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH, udp: true}
   - {name: USA 🇺🇸 Detroit 3, server: 138.199.42.147, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH, udp: true}
@@ -635,7 +634,6 @@ proxy-groups:
       - USA 🇺🇸 Houston 1
       - USA 🇺🇸 Houston 2
       - USA 🇺🇸 Houston 3
-      - USA 🇺🇸 Houston 4
       - USA 🇺🇸 Las Vegas 1
       - USA 🇺🇸 Las Vegas 2
       - USA 🇺🇸 Las Vegas 3
@@ -955,7 +953,6 @@ proxy-groups:
       - USA 🇺🇸 Houston 1
       - USA 🇺🇸 Houston 2
       - USA 🇺🇸 Houston 3
-      - USA 🇺🇸 Houston 4
       - USA 🇺🇸 Las Vegas 1
       - USA 🇺🇸 Las Vegas 2
       - USA 🇺🇸 Las Vegas 3
