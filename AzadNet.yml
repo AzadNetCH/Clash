@@ -102,7 +102,7 @@ proxies:
   - {name: ISR 🇮🇱 Tel Aviv, server: 87.239.255.116, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH, udp: true}
   - {name: IND 🇮🇳 Indore, server: 103.39.134.61, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
   - {name: IND 🇮🇳 Chennai, server: 103.108.117.147, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH, udp: true}
-  - {name: IND 🇮🇳 Chennai 2, server: 103.108.117.149, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
+  - {name: IND 🇮🇳 Mumbai, server: 103.108.117.149, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
   - {name: JPN 🇯🇵 Tokyo, server: 138.199.22.132, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
   - {name: LUX 🇱🇺 Luxembourg, server: 185.153.151.167, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
   - {name: LIT 🇱🇹 Vilnius, server: 188.92.78.150, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp, udp: true}
@@ -274,7 +274,7 @@ proxies:
   - {name: CAN 🇨🇦 Toronto 7, server: 134.195.196.133, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
   - {name: GER 🇩🇪 Hesse, server: 51.89.99.52, port: 805, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
   - {name: IND 🇮🇳 Maharashtra, server: 192.46.211.249, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
-  - {name: IND 🇮🇳 Mumbai, server: 192.46.211.249, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: IND 🇮🇳 Mumbai 2, server: 192.46.211.249, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
   - {name: JPN 🇯🇵 Tokyo 2, server: 185.168.20.113, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
   - {name: JPN 🇯🇵 Tokyo 3, server: 185.160.26.170, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
   - {name: NOR 🇳🇴 Agder, server: 46.29.218.6, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
@@ -475,10 +475,10 @@ proxy-groups:
       - HUN 🇭🇺 Budapest new
       - IND 🇮🇳 Bengaluru new
       - IND 🇮🇳 Chennai
-      - IND 🇮🇳 Chennai 2
+      - IND 🇮🇳 Mumbai
       - IND 🇮🇳 Indore
       - IND 🇮🇳 Maharashtra
-      - IND 🇮🇳 Mumbai
+      - IND 🇮🇳 Mumbai 2
       - IRL 🇮🇪 Dublin
       - IRL 🇮🇪 Dublin 2
       - IRL 🇮🇪 Dublin 3
@@ -798,10 +798,10 @@ proxy-groups:
       - HUN 🇭🇺 Budapest new
       - IND 🇮🇳 Bengaluru new
       - IND 🇮🇳 Chennai
-      - IND 🇮🇳 Chennai 2
+      - IND 🇮🇳 Mumbai
       - IND 🇮🇳 Indore
       - IND 🇮🇳 Maharashtra
-      - IND 🇮🇳 Mumbai
+      - IND 🇮🇳 Mumbai 2
       - IRL 🇮🇪 Dublin
       - IRL 🇮🇪 Dublin 2
       - IRL 🇮🇪 Dublin 3
