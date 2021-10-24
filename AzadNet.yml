@@ -149,8 +149,7 @@ proxies:
   - {name: UKR 🇺🇦 Kyiv 2, server: 156.146.50.107, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
   - {name: USA 🇺🇸 Bend 1, server: 45.43.14.83, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH, udp: true}
   - {name: USA 🇺🇸 Bend 2, server: 154.16.168.188, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH, udp: true}
-  - {name: USA 🇺🇸 Bend 1 2, server: 45.43.14.83, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH, udp: true}
-  - {name: USA 🇺🇸 Bend 2 2, server: 45.43.14.84, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
+  - {name: USA 🇺🇸 Bend 3, server: 45.43.14.84, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
   - {name: USA 🇺🇸 Boston 1, server: 173.237.207.13, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
   - {name: USA 🇺🇸 Boston 2, server: 173.237.207.42, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
   - {name: USA 🇺🇸 Boston 3, server: 173.237.207.30, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH, udp: true}
@@ -615,9 +614,8 @@ proxy-groups:
       - USA 🇺🇲 Virginia 6 new
       - USA 🇺🇸 Atlanta
       - USA 🇺🇸 Bend 1
-      - USA 🇺🇸 Bend 1 2
       - USA 🇺🇸 Bend 2
-      - USA 🇺🇸 Bend 2 2
+      - USA 🇺🇸 Bend 3
       - USA 🇺🇸 Boston 1
       - USA 🇺🇸 Charlotte
       - USA 🇺🇸 Charlotte 1
@@ -936,9 +934,8 @@ proxy-groups:
       - USA 🇺🇲 Virginia 6 new
       - USA 🇺🇸 Atlanta
       - USA 🇺🇸 Bend 1
-      - USA 🇺🇸 Bend 1 2
       - USA 🇺🇸 Bend 2
-      - USA 🇺🇸 Bend 2 2
+      - USA 🇺🇸 Bend 3
       - USA 🇺🇸 Boston 1
       - USA 🇺🇸 Charlotte
       - USA 🇺🇸 Charlotte 1
