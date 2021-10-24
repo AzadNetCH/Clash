@@ -169,10 +169,11 @@ proxies:
   - {name: USA 🇺🇸 Charlotte 2, server: 155.254.28.141, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
   - {name: USA 🇺🇸 New York 1, server: 37.19.199.216, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
   - {name: USA 🇺🇸 New York 2, server: 138.199.40.172, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH, udp: true}
-  - {name: USA 🇺🇸 Phoenix, server: 199.58.187.5, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH, udp: true}
   - {name: USA 🇺🇸 San Francisco, server: 185.124.240.161, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
-  - {name: USA 🇺🇸 Phoenix 1, server: 199.58.187.15, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
+  - {name: USA 🇺🇸 Phoenix, server: 199.58.187.5, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH, udp: true}
+  - {name: USA 🇺🇸 Phoenix 1, server: 199.58.187.14, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
   - {name: USA 🇺🇸 Phoenix 2, server: 199.58.187.16, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
+  - {name: USA 🇺🇸 Phoenix 3, server: 199.58.187.67, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH, udp: true}
   - {name: USA 🇺🇸 Tampa 1, server: 209.216.92.18, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
   - {name: USA 🇺🇸 Tampa 2, server: 209.216.92.19, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
   - {name: USA 🇺🇸 Tampa 3, server: 209.216.92.222, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
@@ -181,8 +182,6 @@ proxies:
   - {name: USA 🇺🇸 Los Angeles 1, server: 89.187.187.149, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
   - {name: USA 🇺🇸 Los Angeles 2, server: 138.199.9.207, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
   - {name: USA 🇺🇸 Los Angeles 3, server: 45.129.32.34, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH, udp: true}
-  - {name: USA 🇺🇸 Phoenix 1 2, server: 199.58.187.5, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
-  - {name: USA 🇺🇸 Phoenix 2 2, server: 199.58.187.67, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH, udp: true}
   - {name: USA 🇺🇸 Latham 1, server: 154.16.169.5, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
   - {name: USA 🇺🇸 Latham 2, server: 45.43.19.82, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
   - {name: USA 🇺🇸 Latham 3, server: 45.43.19.82, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH, udp: true}
@@ -645,8 +644,7 @@ proxy-groups:
       - USA 🇺🇸 Nevada
       - USA 🇺🇸 Orlando 1
       - USA 🇺🇸 Orlando 2
-      - USA 🇺🇸 Phoenix 1 2
-      - USA 🇺🇸 Phoenix 2 2
+      - USA 🇺🇸 Phoenix 3
       - USA 🇺🇸 San Francisco
       - USA 🇺🇸 St. Louis 2
       - USA 🇺🇸 Tampa 1
@@ -963,8 +961,7 @@ proxy-groups:
       - USA 🇺🇸 Nevada
       - USA 🇺🇸 Orlando 1
       - USA 🇺🇸 Orlando 2
-      - USA 🇺🇸 Phoenix 1 2
-      - USA 🇺🇸 Phoenix 2 2
+      - USA 🇺🇸 Phoenix 3
       - USA 🇺🇸 San Francisco
       - USA 🇺🇸 St. Louis 2
       - USA 🇺🇸 Tampa 1
