@@ -159,7 +159,6 @@ proxies:
   - {name: USA 🇺🇸 Detroit 1, server: 138.199.42.143, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
   - {name: USA 🇺🇸 Detroit 2, server: 138.199.42.145, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH, udp: true}
   - {name: USA 🇺🇸 Detroit 3, server: 138.199.42.147, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH, udp: true}
-  - {name: USA 🇺🇸 Detroit 4, server: 138.199.42.149, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
   - {name: USA 🇺🇸 Chicago, server: 138.199.42.139, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
   - {name: USA 🇺🇸 Chicago 1, server: 138.199.42.141, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH, udp: true}
   - {name: USA 🇺🇸 Chicago 2, server: 155.254.28.141, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
@@ -624,7 +623,6 @@ proxy-groups:
       - USA 🇺🇸 Detroit 1
       - USA 🇺🇸 Detroit 2
       - USA 🇺🇸 Detroit 3
-      - USA 🇺🇸 Detroit 4
       - USA 🇺🇸 Georgia
       - USA 🇺🇸 Georgia 2
       - USA 🇺🇸 Georgia 3
@@ -943,7 +941,6 @@ proxy-groups:
       - USA 🇺🇸 Detroit 1
       - USA 🇺🇸 Detroit 2
       - USA 🇺🇸 Detroit 3
-      - USA 🇺🇸 Detroit 4
       - USA 🇺🇸 Georgia
       - USA 🇺🇸 Georgia 2
       - USA 🇺🇸 Georgia 3
