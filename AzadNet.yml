@@ -116,7 +116,7 @@ proxies:
   - {name: NLD 🇳🇱 Amsterdam 1, server: 81.19.208.68, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp, udp: true}
   - {name: NLD 🇳🇱 Amsterdam 2, server: 212.102.35.199, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna, udp: true}
   - {name: NLD 🇳🇱 Amsterdam 3, server: 212.102.35.200, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
-  - {name: NOR 🇳🇴 Oslo, server: 45.12.223.195, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
+  - {name: NOR 🇳🇴 Oslo, server: 91.219.215.21, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
   - {name: PNM 🇵🇦 Panama, server: 185.244.139.3, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
   - {name: POL 🇵🇱 Warsaw 1, server: 84.17.55.134, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
   - {name: POL 🇵🇱 Gdansk, server: 5.187.49.149, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH, udp: true}
