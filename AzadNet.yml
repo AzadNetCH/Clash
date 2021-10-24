@@ -104,6 +104,7 @@ proxies:
   - {name: IND 🇮🇳 Chennai, server: 103.108.117.147, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH, udp: true}
   - {name: IND 🇮🇳 Mumbai, server: 103.108.117.149, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
   - {name: JPN 🇯🇵 Tokyo, server: 138.199.22.132, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
+  - {name: KOR 🇰🇷 Seoul, server: 61.14.210.233, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
   - {name: LUX 🇱🇺 Luxembourg, server: 185.153.151.167, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
   - {name: LIT 🇱🇹 Vilnius, server: 188.92.78.150, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp, udp: true}
   - {name: LVA 🇱🇻 Riga, server: 91.203.69.146, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8, udp: true}
@@ -498,6 +499,7 @@ proxy-groups:
       - JPN 🇯🇵 Tokyo new
       - JPN 🇯🇵 Tokyo 2
       - JPN 🇯🇵 Tokyo 3
+      - KOR 🇰🇷 Seoul
       - LIT 🇱🇹 Vilnius
       - LUX 🇱🇺 Luxembourg
       - LUX 🇱🇺 Luxembourg new
@@ -821,6 +823,7 @@ proxy-groups:
       - JPN 🇯🇵 Tokyo new
       - JPN 🇯🇵 Tokyo 2
       - JPN 🇯🇵 Tokyo 3
+      - KOR 🇰🇷 Seoul
       - LIT 🇱🇹 Vilnius
       - LUX 🇱🇺 Luxembourg
       - LUX 🇱🇺 Luxembourg new
