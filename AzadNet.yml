@@ -118,7 +118,7 @@ proxies:
   - {name: NLD 🇳🇱 Amsterdam 3, server: 212.102.35.200, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
   - {name: NOR 🇳🇴 Oslo, server: 91.219.215.21, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
   - {name: PHL 🇵🇭 Manila, server: 45.134.224.26, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH, udp: true}
-  - {name: POL 🇵🇱 Warsaw 1, server: 84.17.55.134, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
+  - {name: POL 🇵🇱 Warsaw, server: 84.17.55.134, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
   - {name: POL 🇵🇱 Gdansk, server: 5.187.49.149, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH, udp: true}
   - {name: PRT 🇵🇹 Lisbon, server: 91.205.230.140, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp, udp: true}
   - {name: PRT 🇵🇹 Porto, server: 194.39.127.23, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp, udp: true}
@@ -364,7 +364,7 @@ proxies:
   - {name: NLD 🇳🇱 NLD 11, server: 46.182.107.154, port: 443, type: vmess, uuid: 130c9f2e-42b1-4ebf-b345-e26456a061f9, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.05222027.xyz}}
   - {name: NLD 🇳🇱 NLD 12, server: 46.182.107.151, port: 443, type: vmess, uuid: f5250c4e-f855-4eff-b73c-a02226d42fe7, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.06321530.xyz}}
   - {name: NLD 🇳🇱 NLD 13, server: 46.182.107.156, port: 443, type: vmess, uuid: 20b30916-e203-412e-8ec0-900f3acd3588, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.25936911.xyz}}
-  - {name: POL 🇵🇱 Warsaw, server: 146.59.13.37, port: 80, type: vmess, uuid: b79212e2-b670-4d4b-8c22-eb796921b97a, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /sshocean, ws-headers: {Host: 146.59.13.37}}
+  - {name: POL 🇵🇱 Warsaw 1, server: 146.59.13.37, port: 80, type: vmess, uuid: b79212e2-b670-4d4b-8c22-eb796921b97a, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /sshocean, ws-headers: {Host: 146.59.13.37}}
   - {name: PRC 🇨🇳 China 4 , server: 23.225.125.195, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/301109172001, ws-headers: {Host: www.91370744.xyz}}
   - {name: PRC 🇨🇳 China 5, server: 23.224.158.170, port: 443, type: vmess, uuid: aa6449c1-9557-415e-9681-08701767d56e, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/292026011205, ws-headers: {Host: www.58245542.xyz}}
   - {name: RUS 🇷🇺 RUS, server: 172.67.150.130, port: 80, type: vmess, uuid: 3d31728e-064d-42b8-b945-f79c008f73fc, alterId: 233, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: free-russian01-cdn.xiaohouzi.club}}
@@ -522,7 +522,7 @@ proxy-groups:
       - NZL 🇳🇿 Auckland
       - PHL 🇵🇭 Manila
       - POL 🇵🇱 Gdansk
-      - POL 🇵🇱 Warsaw 1
+      - POL 🇵🇱 Warsaw
       - POL 🇵🇱 Wroclaw new
       - POL 🇵🇱 Wroclaw 2 new
       - PRT 🇵🇹 Lisbon
@@ -692,6 +692,7 @@ proxy-groups:
       - NLD 🇳🇱 NLD 9
       - NLD 🇳🇱 NLD 10
       - NLD 🇳🇱 NLD 11
+      - POL 🇵🇱 Warsaw 1
       - PRC 🇨🇳 China 4
       - RUS 🇷🇺 RUS
       - RUS 🇷🇺 RUS 2
@@ -844,7 +845,7 @@ proxy-groups:
       - NZL 🇳🇿 Auckland
       - PHL 🇵🇭 Manila
       - POL 🇵🇱 Gdansk
-      - POL 🇵🇱 Warsaw 1
+      - POL 🇵🇱 Warsaw
       - POL 🇵🇱 Wroclaw new
       - POL 🇵🇱 Wroclaw 2 new
       - PRT 🇵🇹 Lisbon
@@ -1022,7 +1023,7 @@ proxy-groups:
       - NLD 🇳🇱 NLD 11
       - NLD 🇳🇱 NLD 12
       - NLD 🇳🇱 NLD 13
-      - POL 🇵🇱 Warsaw
+      - POL 🇵🇱 Warsaw 1
       - PRC 🇨🇳 China 4
       - PRC 🇨🇳 China 5
       - RUS 🇷🇺 RUS
