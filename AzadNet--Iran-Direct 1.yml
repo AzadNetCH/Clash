@@ -5,16 +5,16 @@ mode: Rule
 log-level: info
 external-controller: :9090
 dns:
-  enable: true
-  ipv6: false
-  enhanced-mode: fake-ip
-  fake-ip-range: 127.8.0.1/16
-  nameserver:
-    - 1.1.1.1
-    - 8.8.8.8
-  fallback:
-    - 1.1.1.1
-    - 8.8.8.8
+ enable: true
+ ipv6: false
+ enhanced-mode: fake-ip
+ fake-ip-range: 198.18.0.1/16
+ nameserver:
+  - tls://dns.google:853
+  - https://cloudflare-dns.com/dns-query
+ fallback:
+  - tls://dns.google:853
+  - https://cloudflare-dns.com/dns-query
 proxies:
   - {name: ALB 🇦🇱 Tirana, server: 31.171.153.131, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8, udp: true}
   - {name: ALB 🇦🇱 Tirana 2, server: 31.171.153.163, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp, udp: true}
