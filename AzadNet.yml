@@ -11,7 +11,6 @@ dns:
   fake-ip-range: 198.18.0.1/16
   nameserver:
     - https://EU2.DNS.LAVATE.CH/dns-query
-    - https://DANDELIONSPROUT.Asuscomm.com:2501/dns-query
     - https://DNS.HeN.ee/dns-query
     - https://NoTMIKE.dev/dns.php
     - tls://dns.google:853
@@ -20,9 +19,9 @@ dns:
     - https://dns.adguard.com/dns-query
     - https://dnsforge.de/dns-query
     - https://dns.quad9.net/dns-query
+    - https://DANDELIONSPROUT.Asuscomm.com:2501/dns-query
   fallback:
     - https://EU2.DNS.LAVATE.CH/dns-query
-    - https://DANDELIONSPROUT.Asuscomm.com:2501/dns-query
     - https://DNS.HeN.ee/dns-query
     - https://NoTMIKE.dev/dns.php
     - tls://dns.google:853
@@ -31,6 +30,7 @@ dns:
     - https://dns.adguard.com/dns-query
     - https://dnsforge.de/dns-query
     - https://dns.quad9.net/dns-query
+    - https://DANDELIONSPROUT.Asuscomm.com:2501/dns-query
 
 proxies:
   - {name: ALB 🇦🇱 Tirana, server: 31.171.154.99, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8, udp: true}
