@@ -139,7 +139,7 @@ proxies:
   - {name: UK 🇬🇧 Glasgow, server: 185.108.105.87, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna, udp: true}
   - {name: UK 🇬🇧 London, server: 81.19.214.32, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna, udp: true}
   - {name: UK 🇬🇧 London 2, server: 81.19.214.32, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH, udp: true}
-  - {name: UK 🇬🇧 London 3, server: 185.134.22.191, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna, udp: true}
+  - {name: UK 🇬🇧 London 3, server: 185.44.78.172, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna, udp: true}
   - {name: UK 🇬🇧 Manchester, server: 91.90.121.139, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
   - {name: UK 🇬🇧 Manchester 2, server: 84.39.114.157, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
   - {name: UKR 🇺🇦 Kyiv, server: 156.146.50.97, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
