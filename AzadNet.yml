@@ -94,7 +94,7 @@ proxies:
   - {name: ITA 🇮🇹 Rome, server: 82.102.26.92, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH, udp: true}
   - {name: IRL 🇮🇪 Dublin, server: 185.252.222.101, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
   - {name: IRL 🇮🇪 Dublin 2, server: 185.252.222.117, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
-  - {name: IRL 🇮🇪 Dublin 3, server: 5.157.13.101, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
+  - {name: IRL 🇮🇪 Dublin 3, server: 146.70.48.53, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
   - {name: ISR 🇮🇱 Tel Aviv, server: 87.239.255.116, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH, udp: true}
   - {name: IND 🇮🇳 Indore, server: 103.39.134.61, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
   - {name: IND 🇮🇳 Chennai, server: 103.108.117.147, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH, udp: true}
