@@ -668,7 +668,7 @@ proxy-groups:
   - name: 🔥 Auto(Best ping)
     type: url-test
     url: http://connect.rom.miui.com/generate_204
-    interval: 1500
+    interval: 600
     proxies:
       - ALB 🇦🇱 Tirana
       - ALB 🇦🇱 Tirana 2
@@ -929,7 +929,7 @@ proxy-groups:
   - name: 🔥 Auto2(Best ping)
     type: url-test
     url: http://connect.rom.miui.com/generate_204
-    interval: 1500
+    interval: 300
     proxies:
       - FRA 🇫🇷 France
       - FRA 🇫🇷 Carpentras
