@@ -230,8 +230,6 @@ proxies:
   - {name: MYS 🇲🇾 Kuala Lumpur new, server: 202.59.10.102, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
   - {name: NLD 🇳🇱 Amsterdam new, server: 88.208.7.204, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
   - {name: NOR 🇳🇴 Oslo 2 new, server: 194.68.32.29, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: NOR 🇳🇴 Oslo 3 new, server: 194.68.32.22, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: NOR 🇳🇴 Oslo new, server: 194.68.32.22, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
   - {name: POL 🇵🇱 Wroclaw 2 new, server: 54.37.139.110, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
   - {name: POL 🇵🇱 Wroclaw new, server: 54.37.136.249, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
   - {name: PRT 🇵🇹 Lisbon new, server: 185.113.143.189, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
@@ -240,15 +238,12 @@ proxies:
   - {name: SNG 🇸🇬 Singapore new, server: 194.233.65.67, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
   - {name: SOAF 🇿🇦 Cape Town 2 new, server: 129.232.222.74, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
   - {name: SOAF 🇿🇦 Cape Town new, server: 197.189.202.25, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: SPN 🇪🇸 Madrid new, server: 37.143.130.213, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
   - {name: SVK 🇸🇰 Bratislava new, server: 188.123.123.133, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
   - {name: SVN 🇸🇮 Ljubljana new, server: 192.71.244.49, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
   - {name: SWE 🇸🇪 Stockholm new, server: 46.246.93.59, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
   - {name: SWIT 🇨🇭 Zurich new, server: 212.237.210.158, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: THA 🇹🇭 Bangkok new, server: 43.254.132.220, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
   - {name: TUR 🇹🇷 Istanbul new, server: 185.17.113.234, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
   - {name: UK 🇬🇧 London new, server: 176.10.80.6, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: UKR 🇺🇦 Kyiv new, server: 147.78.3.242, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
   - {name: USA 🇺🇲 Virginia new, server: 213.174.130.129, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
   - {name: USA 🇺🇲 Virginia 2 new, server: 213.174.130.130, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
   - {name: USA 🇺🇲 Virginia 3 new, server: 213.174.159.246, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
@@ -265,7 +260,6 @@ proxies:
   - {name: CAN 🇨🇦 Toronto 7, server: 134.195.196.133, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
   - {name: IND 🇮🇳 Maharashtra, server: 192.46.211.249, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
   - {name: IND 🇮🇳 Mumbai 2, server: 192.46.211.249, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
-  - {name: JPN 🇯🇵 Tokyo 2, server: 185.168.20.113, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
   - {name: NOR 🇳🇴 Agder, server: 46.29.218.6, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
   - {name: SNG 🇸🇬 Singapore 6, server: 89.187.163.195, port: 34687, type: ss, cipher: aes-256-gcm, password: txmK9WhwP6WPhP7hqSBLVxpN, udp: true}
   - {name: TWN 🇹🇼 Taichung 2, server: 2.58.241.3, port: 38033, type: ss, cipher: aes-256-gcm, password: xpQwyV4W5FdA6NMANJJx73US}
@@ -277,9 +271,6 @@ proxies:
   - {name: TWN 🇹🇼 Taipei 4, server: 2.58.242.43, port: 33148, type: ss, cipher: aes-256-gcm, password: CMduaFXddcQbwNAAs7xFDnc8, udp: true}
   - {name: THA 🇹🇭 Bangkok 2, server: 27.131.164.100, port: 50232, type: ss, cipher: aes-256-gcm, password: CjchzpwdSjRtDjezYMwx9BKM, udp: true}
   - {name: THA 🇹🇭 Bangkok 3, server: 27.131.164.100, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
-  - {name: THA 🇹🇭 Bangkok 4, server: 27.131.164.94, port: 49514, type: ss, cipher: aes-256-gcm, password: dpGjA4GkzV28QPDYzEp94cTe, udp: true}
-  - {name: THA 🇹🇭 Bangkok 5, server: 27.131.164.94, port: 44236, type: ss, cipher: aes-256-gcm, password: FWrXcxPZjJxAN89xLgqY3Acp, udp: true}
-  - {name: THA 🇹🇭 Bangkok 6, server: 27.131.164.94, port: 35200, type: ss, cipher: aes-256-gcm, password: WBLAbN6AwtV5avBx73hFRLB3, udp: true}
   - {name: THA 🇹🇭 Bangkok 7, server: 27.131.164.100, port: 45746, type: ss, cipher: aes-256-gcm, password: wEsFcHCvbL4eJkL4DZQa7RgR, udp: true}
   - {name: THA 🇹🇭 Fang, server: 27.131.164.100, port: 49514, type: ss, cipher: aes-256-gcm, password: dpGjA4GkzV28QPDYzEp94cTe, udp: true}
   - {name: UK 🇬🇧 London 8, server: 172.99.190.186, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
@@ -299,7 +290,6 @@ proxies:
   - {name: UK 🇬🇧 London 23, server: 172.99.190.186, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
   - {name: UK 🇬🇧 London 24, server: 172.99.190.149, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
   - {name: UK 🇬🇧 London 25, server: 172.99.190.230, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
-  - {name: USA 🇺🇸 Georgia 2, server: 27.131.164.94, port: 49202, type: ss, cipher: aes-256-gcm, password: btzEYXKZxnR7g6H2vFTQK5TD, udp: true}
   - {name: USA 🇺🇸 Georgia 3, server: 167.88.63.89, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
   - {name: USA 🇺🇸 Georgia 6, server: 167.88.63.89, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
   - {name: USA 🇺🇸 Nevada, server: 79.110.54.133, port: 48794, type: ss, cipher: aes-256-gcm, password: r9Q3adc3ru9sfBDPEj4yp6U6, udp: true}
@@ -314,8 +304,6 @@ proxies:
   - {name: HUN 🇭🇺 Budapest, server: 185.225.69.134, port: 45081, type: vmess, uuid: 3c3bfd75-dc30-4e76-8940-47e1137e21f9, alterId: 64, cipher: auto, tls: false}
   - {name: IDN 🇮🇩 Bogor, server: 103.227.254.55, port: 80, type: vmess, uuid: 390bebf4-e8d1-4651-9658-22e181ed50b1, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /sshocean, ws-headers: {Host: 103.227.254.55}}
   - {name: IND 🇮🇳 Bangalore, server: 167.71.235.142, port: 80, type: vmess, uuid: 927f8a2a-f2db-499b-e0f0-b1e344508546, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 167.71.235.142}}
-  - {name: IND 🇮🇳 Bengaluru 2, server: ind02.xqkj.cloud, port: 5062, type: vmess, uuid: 91ff9fa0-2578-48a4-bdd7-fe0fcb24e61f, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: ind02.xqkj.cloud}}
-  - {name: JPN 🇯🇵 JPN, server: 54.199.6.184, port: 12347, type: vmess, uuid: d20d7c24-486d-400c-a8f6-e87bc67bf35c, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 54.199.6.184}}
   - {name: JPN 🇯🇵 Tokyo 6, server: 104.19.1.168, port: 443, type: vmess, uuid: f299184b-19e0-41a4-9b4b-65fa8f0e691c, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /jj, ws-headers: {Host: c-jp1.ooxc.cc}}
   - {name: JPN 🇯🇵 Tokyo 8, server: 104.18.207.61, port: 443, type: vmess, uuid: 356ed062-4f58-49c3-bd44-c0b6db1c94ee, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /stream, ws-headers: {Host: euserv3p.ezddns.tk}}
   - {name: KOR 🇰🇷 Seoul 2, server: 193.123.253.102, port: 80, type: vmess, uuid: 562398c8-cb7f-4850-90eb-2fd17dccb13a, alterId: 1, cipher: auto, tls: true}
@@ -455,7 +443,6 @@ proxy-groups:
       - ITA 🇮🇹 Rome
       - JPN 🇯🇵 Tokyo
       - JPN 🇯🇵 Tokyo new
-      - JPN 🇯🇵 Tokyo 2
       - KOR 🇰🇷 Seoul
       - LUX 🇱🇺 Luxembourg
       - LUX 🇱🇺 Luxembourg new
@@ -475,9 +462,7 @@ proxy-groups:
       - NLD 🇳🇱 Amsterdam 3
       - NOR 🇳🇴 Agder
       - NOR 🇳🇴 Oslo
-      - NOR 🇳🇴 Oslo new
       - NOR 🇳🇴 Oslo 2 new
-      - NOR 🇳🇴 Oslo 3 new
       - NZL 🇳🇿 Auckland
       - PHL 🇵🇭 Manila
       - POL 🇵🇱 Gdansk
@@ -501,7 +486,6 @@ proxy-groups:
       - SOAF 🇿🇦 Johannesburg
       - SPN 🇪🇸 Barcelona
       - SPN 🇪🇸 Madrid
-      - SPN 🇪🇸 Madrid new
       - SPN 🇪🇸 Valencia
       - SVK 🇸🇰 Bratislava
       - SVK 🇸🇰 Bratislava new
@@ -513,11 +497,7 @@ proxy-groups:
       - THA 🇹🇭 Bangkok
       - THA 🇹🇭 Bangkok 2
       - THA 🇹🇭 Bangkok 3
-      - THA 🇹🇭 Bangkok 4
-      - THA 🇹🇭 Bangkok 5
-      - THA 🇹🇭 Bangkok 6
       - THA 🇹🇭 Bangkok 7
-      - THA 🇹🇭 Bangkok new
       - THA 🇹🇭 Fang
       - TUR 🇹🇷 Istanbul
       - TUR 🇹🇷 Istanbul new
@@ -557,7 +537,6 @@ proxy-groups:
       - UK 🇬🇧 Manchester
       - UK 🇬🇧 Manchester 2
       - UKR 🇺🇦 Kyiv
-      - UKR 🇺🇦 Kyiv new
       - UKR 🇺🇦 Kyiv 2
       - USA 🇺🇲 Virginia new
       - USA 🇺🇲 Virginia 2 new
@@ -578,7 +557,6 @@ proxy-groups:
       - USA 🇺🇸 Detroit 1
       - USA 🇺🇸 Detroit 2
       - USA 🇺🇸 Detroit 3
-      - USA 🇺🇸 Georgia 2
       - USA 🇺🇸 Georgia 3
       - USA 🇺🇸 Georgia 6
       - USA 🇺🇸 Houston 1
@@ -748,7 +726,6 @@ proxy-groups:
       - ITA 🇮🇹 Rome
       - JPN 🇯🇵 Tokyo
       - JPN 🇯🇵 Tokyo new
-      - JPN 🇯🇵 Tokyo 2
       - KOR 🇰🇷 Seoul
       - LUX 🇱🇺 Luxembourg
       - LUX 🇱🇺 Luxembourg new
@@ -768,9 +745,7 @@ proxy-groups:
       - NLD 🇳🇱 Amsterdam 3
       - NOR 🇳🇴 Agder
       - NOR 🇳🇴 Oslo
-      - NOR 🇳🇴 Oslo new
       - NOR 🇳🇴 Oslo 2 new
-      - NOR 🇳🇴 Oslo 3 new
       - NZL 🇳🇿 Auckland
       - PHL 🇵🇭 Manila
       - POL 🇵🇱 Gdansk
@@ -793,7 +768,6 @@ proxy-groups:
       - SOAF 🇿🇦 Johannesburg
       - SPN 🇪🇸 Barcelona
       - SPN 🇪🇸 Madrid
-      - SPN 🇪🇸 Madrid new
       - SPN 🇪🇸 Valencia
       - SVK 🇸🇰 Bratislava
       - SVK 🇸🇰 Bratislava new
@@ -805,11 +779,7 @@ proxy-groups:
       - THA 🇹🇭 Bangkok
       - THA 🇹🇭 Bangkok 2
       - THA 🇹🇭 Bangkok 3
-      - THA 🇹🇭 Bangkok 4
-      - THA 🇹🇭 Bangkok 5
-      - THA 🇹🇭 Bangkok 6
       - THA 🇹🇭 Bangkok 7
-      - THA 🇹🇭 Bangkok new
       - THA 🇹🇭 Fang
       - TUR 🇹🇷 Istanbul
       - TUR 🇹🇷 Istanbul new
@@ -849,7 +819,6 @@ proxy-groups:
       - UK 🇬🇧 Manchester
       - UK 🇬🇧 Manchester 2
       - UKR 🇺🇦 Kyiv
-      - UKR 🇺🇦 Kyiv new
       - UKR 🇺🇦 Kyiv 2
       - USA 🇺🇲 Virginia new
       - USA 🇺🇲 Virginia 2 new
@@ -870,7 +839,6 @@ proxy-groups:
       - USA 🇺🇸 Detroit 1
       - USA 🇺🇸 Detroit 2
       - USA 🇺🇸 Detroit 3
-      - USA 🇺🇸 Georgia 2
       - USA 🇺🇸 Georgia 3
       - USA 🇺🇸 Georgia 6
       - USA 🇺🇸 Houston 1
@@ -910,8 +878,6 @@ proxy-groups:
       - GER 🇩🇪 GER 17
       - HUN 🇭🇺 Budapest
       - IDN 🇮🇩 Bogor
-      - IND 🇮🇳 Bengaluru 2
-      - JPN 🇯🇵 JPN
       - JPN 🇯🇵 Tokyo 6
       - JPN 🇯🇵 Tokyo 8
       - KOR 🇰🇷 Seoul 2
