@@ -274,6 +274,8 @@ proxies:
   - {name: THA 🇹🇭 Bangkok 3, server: 27.131.164.100, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
   - {name: THA 🇹🇭 Bangkok 7, server: 27.131.164.100, port: 45746, type: ss, cipher: aes-256-gcm, password: wEsFcHCvbL4eJkL4DZQa7RgR, udp: true}
   - {name: THA 🇹🇭 Fang, server: 27.131.164.100, port: 49514, type: ss, cipher: aes-256-gcm, password: dpGjA4GkzV28QPDYzEp94cTe, udp: true}
+  - {name: UK 🇬🇧 London 5, server: 172.99.190.35, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: UK 🇬🇧 London 6, server: 172.99.190.35, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
   - {name: UK 🇬🇧 London 8, server: 172.99.190.186, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
   - {name: UK 🇬🇧 London 9, server: 172.99.190.158, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
   - {name: UK 🇬🇧 London 10, server: 172.99.190.109, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
@@ -525,6 +527,8 @@ proxy-groups:
       - UK 🇬🇧 London
       - UK 🇬🇧 London 2
       - UK 🇬🇧 London 3
+      - UK 🇬🇧 London 5
+      - UK 🇬🇧 London 6
       - UK 🇬🇧 London 8
       - UK 🇬🇧 London 9
       - UK 🇬🇧 London 10
@@ -814,6 +818,8 @@ proxy-groups:
       - UK 🇬🇧 London
       - UK 🇬🇧 London 2
       - UK 🇬🇧 London 3
+      - UK 🇬🇧 London 5
+      - UK 🇬🇧 London 6
       - UK 🇬🇧 London 8
       - UK 🇬🇧 London 9
       - UK 🇬🇧 London 10
