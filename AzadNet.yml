@@ -297,6 +297,7 @@ proxies:
   - {name: FRA 🇫🇷 Carpentras, server: 51.15.229.29, port: 80, type: vmess, uuid: 9f4adaba-1213-49cd-aad2-2507ab59ca3c, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /sshocean, ws-headers: {Host: 51.15.229.29}}
   - {name: GER 🇩🇪 GER, server: 172.67.153.238, port: 443, type: vmess, uuid: 356ed062-4f58-49c3-bd44-c0b6db1c94ee, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /stream, ws-headers: {Host: euserv3p.ezddns.tk}}
   - {name: GER 🇩🇪 GER 2, server: 46.182.107.94, port: 443, type: vmess, uuid: 743bdc87-1dea-41bf-aa0b-51dfbbfec8aa, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.54872833.xyz}}
+  - {name: GER 🇩🇪 GER 3, server: 116.203.188.159, port: 80, type: vmess, uuid: a40d34c6-b77c-4648-9210-3e8d2f4226b5, alterId: 16, cipher: auto, tls: false, network: ws, ws-path: "/opentunnel?user=opentunnel.net-cvbn", ws-headers: {Host: dev-1.openv2ray.com}}
   - {name: GER 🇩🇪 GER 4, server: 144.76.41.59, port: 80, type: vmess, uuid: a40d34c6-b77c-4648-9210-3e8d2f4226b5, alterId: 16, cipher: auto, tls: false, network: ws, ws-path: "/opentunnel?user=opentunnel.net-eseew", ws-headers: {Host: dev-2.openv2ray.com}}
   - {name: GER 🇩🇪 GER 8, server: 172.67.154.85, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
   - {name: GER 🇩🇪 GER 10, server: 104.21.48.161, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
@@ -593,6 +594,7 @@ proxy-groups:
       - 🔥 Auto2(Best ping)
       - GER 🇩🇪 GER
       - GER 🇩🇪 GER 2
+      - GER 🇩🇪 GER 3
       - GER 🇩🇪 GER 4
       - GER 🇩🇪 GER 8
       - GER 🇩🇪 GER 10
@@ -874,6 +876,7 @@ proxy-groups:
       - FRA 🇫🇷 Carpentras
       - GER 🇩🇪 GER
       - GER 🇩🇪 GER 2
+      - GER 🇩🇪 GER 3
       - GER 🇩🇪 GER 4
       - GER 🇩🇪 GER 8
       - GER 🇩🇪 GER 10
