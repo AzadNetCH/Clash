@@ -339,6 +339,7 @@ proxies:
   - {name: SOAF 🇿🇦 Johannesburg 2, server: 104.16.105.139, port: 443, type: vmess, uuid: f06e1803-63f8-4c3b-9315-8389a0a78984, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /sshocean, ws-headers: {Host: uk3.v2rayserv.com}}
   - {name: SGP 🇸🇬 Singapore, server: 51.79.157.223, port: 80, type: vmess, uuid: 88b21f86-b8fc-4e92-8a70-ccf4ccc60539, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /sshocean, ws-headers: {Host: 51.79.157.223}}
   - {name: UK 🇬🇧 London 4, server: 51.195.217.20, port: 80, type: vmess, uuid: 6c0cb6a9-2389-4b5d-8bec-b14b076f4a4e, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /sshocean, ws-headers: {Host: 51.195.217.20}}
+  - {name: USA 🇺🇸 California, server: t2.ssrsub.com, port: 844, type: trojan, password: 52f31fcb-f948-4f71-bca8-795fdcf7b754, sni: t2.ssrsub.com, skip-cert-verify: false}
   - {name: USA 🇺🇸 Los Angeles, server: aws.mooncloud.bike, port: 10021, type: vmess, uuid: 792f7496-a1e2-4694-96f4-5fbe5e13d68b, alterId: 1, cipher: auto, tls: true}
 
 proxy-groups:
@@ -584,6 +585,7 @@ proxy-groups:
       - USA 🇺🇸 Las Vegas 3
       - USA 🇺🇸 Latham 1
       - USA 🇺🇸 Latham 2
+      - USA 🇺🇸 Los Angeles 1
       - USA 🇺🇸 Los Angeles 2
       - USA 🇺🇸 Los Angeles 3
       - USA 🇺🇸 Miami
@@ -878,6 +880,7 @@ proxy-groups:
       - USA 🇺🇸 Las Vegas 3
       - USA 🇺🇸 Latham 1
       - USA 🇺🇸 Latham 2
+      - USA 🇺🇸 Los Angeles 1
       - USA 🇺🇸 Los Angeles 2
       - USA 🇺🇸 Los Angeles 3
       - USA 🇺🇸 Miami
