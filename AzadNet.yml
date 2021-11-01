@@ -297,6 +297,7 @@ proxies:
   - {name: USA 🇺🇸 Georgia 3, server: 167.88.63.89, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
   - {name: USA 🇺🇸 Georgia 6, server: 167.88.63.89, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
   - {name: USA 🇺🇸 Nevada, server: 79.110.54.133, port: 48794, type: ss, cipher: aes-256-gcm, password: r9Q3adc3ru9sfBDPEj4yp6U6, udp: true}
+  - {name: USA 🇺🇸 Atlanta 2, server: 167.88.63.60, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
 
   - {name: CAN 🇨🇦 Toronto 9, server: t10.ssrsub.com, port: 844, type: trojan, password: f5487ee3-aef5-436f-adf9-673b1afe2ff7, sni: t10.ssrsub.com, skip-cert-verify: false}
   - {name: FRA 🇫🇷 Carpentras, server: 51.15.229.29, port: 80, type: vmess, uuid: 9f4adaba-1213-49cd-aad2-2507ab59ca3c, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /sshocean, ws-headers: {Host: 51.15.229.29}}
@@ -560,6 +561,7 @@ proxy-groups:
       - USA 🇺🇲 Virginia 5 new
       - USA 🇺🇲 Virginia 6 new
       - USA 🇺🇸 Atlanta
+      - USA 🇺🇸 Atlanta 2
       - USA 🇺🇸 Bend 1
       - USA 🇺🇸 Bend 2
       - USA 🇺🇸 Bend 3
@@ -853,6 +855,7 @@ proxy-groups:
       - USA 🇺🇲 Virginia 5 new
       - USA 🇺🇲 Virginia 6 new
       - USA 🇺🇸 Atlanta
+      - USA 🇺🇸 Atlanta 2
       - USA 🇺🇸 Bend 1
       - USA 🇺🇸 Bend 2
       - USA 🇺🇸 Bend 3
