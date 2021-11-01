@@ -213,7 +213,7 @@ proxies:
   - {name: EST 🇪🇪 Tallinn new, server: 37.252.5.234, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
   - {name: FIN 🇫🇮 Helsinki new, server: 37.143.129.185, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
   - {name: FRA 🇫🇷 Gravelines new, server: 95.85.90.181, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: FRA 🇫🇷 Strasbourg new, server: 135.125.248.215, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: GER 🇩🇪 Hesse, server: 135.125.248.215, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
   - {name: GER 🇩🇪 Düsseldorf new, server: 161.97.131.160, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
   - {name: GER 🇩🇪 Nuremberg new, server: 213.136.80.36, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
   - {name: HKG 🇭🇰 Central new, server: 203.23.128.94, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
@@ -308,7 +308,7 @@ proxies:
   - {name: IND 🇮🇳 Bangalore, server: 167.71.235.142, port: 80, type: vmess, uuid: 927f8a2a-f2db-499b-e0f0-b1e344508546, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 167.71.235.142}}
   - {name: JPN 🇯🇵 Tokyo 6, server: 104.19.1.168, port: 443, type: vmess, uuid: f299184b-19e0-41a4-9b4b-65fa8f0e691c, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /jj, ws-headers: {Host: c-jp1.ooxc.cc}}
   - {name: JPN 🇯🇵 Tokyo 8, server: 104.18.207.61, port: 443, type: vmess, uuid: 356ed062-4f58-49c3-bd44-c0b6db1c94ee, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /stream, ws-headers: {Host: euserv3p.ezddns.tk}}
-  - {name: KOR 🇰🇷 Seoul 2, server: 193.123.253.102, port: 80, type: vmess, uuid: 562398c8-cb7f-4850-90eb-2fd17dccb13a, alterId: 1, cipher: auto, tls: true}
+  - {name: KOR 🇰🇷 Seoul 2, server: 193.123.253.102, port: 80, type: vmess, uuid: 562398c8-cb7f-4850-90eb-2fd17dccb13a, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: 193.123.253.102}}
   - {name: LUX 🇱🇺 Bissen 2, server: workers.dev, port: 443, type: vmess, uuid: 7a70e0f7-170d-4ab0-82a0-c40554bfb320, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /111111.online, ws-headers: {Host: buyvm.proxypool.ga}}
   - {name: NLD 🇳🇱 NLD 2, server: 46.182.107.154, port: 443, type: vmess, uuid: 130c9f2e-42b1-4ebf-b345-e26456a061f9, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.05222027.xyz}}
   - {name: NLD 🇳🇱 NLD 3, server: 46.182.107.44, port: 443, type: vmess, uuid: fe5f69e7-e183-439b-950b-9661ef0651f2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.68737987.xyz}}
@@ -321,7 +321,7 @@ proxies:
   - {name: NLD 🇳🇱 NLD 11, server: 46.182.107.154, port: 443, type: vmess, uuid: 130c9f2e-42b1-4ebf-b345-e26456a061f9, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.05222027.xyz}}
   - {name: NLD 🇳🇱 NLD 12, server: 46.182.107.151, port: 443, type: vmess, uuid: f5250c4e-f855-4eff-b73c-a02226d42fe7, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.06321530.xyz}}
   - {name: NLD 🇳🇱 NLD 13, server: 46.182.107.156, port: 443, type: vmess, uuid: 20b30916-e203-412e-8ec0-900f3acd3588, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.25936911.xyz}}
-  - {name: POL 🇵🇱 Warsaw 1, server: 146.59.13.37, port: 80, type: vmess, uuid: b79212e2-b670-4d4b-8c22-eb796921b97a, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /sshocean, ws-headers: {Host: 146.59.13.37}}
+  - {name: POL 🇵🇱 Warsaw 1, server: 146.59.13.37, port: 808, type: vmess, uuid: b79212e2-b670-4d4b-8c22-eb796921b97a, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /sshocean, ws-headers: {Host: 146.59.13.37}}
   - {name: PRC 🇨🇳 China 4 , server: 23.225.125.195, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/301109172001, ws-headers: {Host: www.91370744.xyz}}
   - {name: PRC 🇨🇳 China 5, server: 23.224.158.170, port: 443, type: vmess, uuid: aa6449c1-9557-415e-9681-08701767d56e, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/292026011205, ws-headers: {Host: www.58245542.xyz}}
   - {name: RUS 🇷🇺 RUS 2, server: free-russian01-cdn.xiaohouzi.club, port: 80, type: vmess, uuid: 3d31728e-064d-42b8-b945-f79c008f73fc, alterId: 233, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: free-russian01-cdn.xiaohouzi.club}}
@@ -408,8 +408,8 @@ proxy-groups:
       - FRA 🇫🇷 Paris 2
       - FRA 🇫🇷 Roubaix
       - FRA 🇫🇷 Roubaix 3
-      - FRA 🇫🇷 Strasbourg new
       - GEO 🇬🇪🇲 Tbilisi
+      - GER 🇩🇪 Hesse
       - GER 🇩🇪 Düsseldorf new
       - GER 🇩🇪 Frankfurt
       - GER 🇩🇪 Frankfurt 2
@@ -693,8 +693,8 @@ proxy-groups:
       - FRA 🇫🇷 Paris 2
       - FRA 🇫🇷 Roubaix
       - FRA 🇫🇷 Roubaix 3
-      - FRA 🇫🇷 Strasbourg new
       - GEO 🇬🇪🇲 Tbilisi
+      - GER 🇩🇪 Hesse
       - GER 🇩🇪 Düsseldorf new
       - GER 🇩🇪 Frankfurt
       - GER 🇩🇪 Frankfurt 2
