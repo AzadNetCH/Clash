@@ -76,7 +76,7 @@ proxies:
   - {name: FRA 🇫🇷 Roubaix, server: 95.85.90.181, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
   - {name: FRA 🇫🇷 Roubaix 3, server: 95.85.90.181, port: 807, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
   - {name: GEO 🇬🇪🇲 Tbilisi, server: 91.239.207.232, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
-  - {name: GER 🇩🇪 Frankfurt, server: 156.146.33.83, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8, udp: true}
+  - {name: GER 🇩🇪 Frankfurt, server: 156.146.33.65, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8, udp: true}
   - {name: GER 🇩🇪 Frankfurt 2, server: 138.199.19.157, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8, udp: true}
   - {name: GER 🇩🇪 Frankfurt 3, server: 185.59.220.150, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8, udp: true}
   - {name: GER 🇩🇪 Frankfurt 4, server: 18.185.63.41, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
