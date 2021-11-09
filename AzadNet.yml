@@ -4,7 +4,6 @@ allow-lan: true
 mode: Rule
 log-level: info
 external-controller: :9090
-
 dns:
   enable: true
   ipv6: false
