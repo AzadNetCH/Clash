@@ -23,9 +23,9 @@ URL 4: https://raw.githubusercontent.com/AzadNetCH/Clash/main/v2ray.yml
 
 
 Auto Update:
-1440 (for Android version)
+1440 Minutes (for Android version)
 &
-24 (for Windows version)
+24 Hours (for Windows version)
 
 
 Now Save and Select that.
