@@ -146,7 +146,7 @@ proxies:
   - {name: UKR 🇺🇦 Kyiv 2, server: 156.146.50.107, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
   - {name: USA 🇺🇸 Bend 1, server: 154.16.168.184, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH, udp: true}
   - {name: USA 🇺🇸 Bend 2, server: 154.16.168.188, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH, udp: true}
-  - {name: USA 🇺🇸 Bend 3, server: 45.43.14.84, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
+  - {name: USA 🇺🇸 Bend 3, server: 45.43.14.75, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
   - {name: USA 🇺🇸 Boston 1, server: 173.237.207.13, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
   - {name: USA 🇺🇸 Boston 2, server: 173.237.207.42, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
   - {name: USA 🇺🇸 Boston 3, server: 173.237.207.30, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH, udp: true}
@@ -264,7 +264,7 @@ proxies:
   - {name: NOR 🇳🇴 Agder 2, server: 46.29.218.6, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
   - {name: SNG 🇸🇬 Singapore 6, server: 89.187.163.195, port: 34687, type: ss, cipher: aes-256-gcm, password: txmK9WhwP6WPhP7hqSBLVxpN, udp: true}
   - {name: TWN 🇹🇼 Taichung 2, server: 2.58.241.3, port: 38033, type: ss, cipher: aes-256-gcm, password: xpQwyV4W5FdA6NMANJJx73US}
-  - {name: TWN 🇹🇼 Taichung 3, server: 103.152.151.69, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: TWN 🇹🇼 Taichung 3, server: 2.58.242.131, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
   - {name: TWN 🇹🇼 Taichung 4, server: 2.58.242.43, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd, udp: true}
   - {name: TWN 🇹🇼 Taichung 5, server: 2.58.242.43, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD, udp: true}
   - {name: TWN 🇹🇼 Taipei 2, server: 2.58.242.43, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp, udp: true}
