@@ -10,7 +10,7 @@ Group > Group URL
 In the [AnXray application](https://github.com/XTLS/AnXray) from:
 Group > Group URL
 
-Name: File Name (AzadNet/SurfShark/UFO)
+Name: File Name (AzadNet/SurfShark/UFO/v2ray YML)
 
 
 URL1: https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet.yml
