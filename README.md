@@ -10,7 +10,7 @@ Group > Group URL
 In the [AnXray application](https://github.com/XTLS/AnXray) from:
 Group > Group URL
 
-Name: File Name (AzadNet/SurfShark/UFO/v2ray YML)
+Name: File Name (AzadNet/SurfShark/UFO/v2ray) YML
 
 
 URL1: https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet.yml
@@ -26,6 +26,7 @@ Auto Update:
 1440 (for Android version)
 24 (for Windows version)
 
-Now save and select that.
+
+Now Save and Select that.
 
 
