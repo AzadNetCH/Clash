@@ -1,5 +1,5 @@
 # Clash
-Clash & SagerNet & AnXray Config Config
+YML file for Clash & SagerNet & AnXray
 
 In the [Clash application](https://github.com/Kr328) from:
 Profiles > New Profile > URL
