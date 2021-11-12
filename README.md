@@ -13,13 +13,13 @@ Group > Group URL
 Name: File Name (AzadNet/SurfShark/UFO)
 
 
-URL1: https://github.com/AzadNetCH/Clash/releases/download/1.0/AzadNet.yml
+URL1: https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet.yml
 
-URL2: https://github.com/AzadNetCH/Clash/releases/download/1.0/SurfShark.yml
+URL2: https://raw.githubusercontent.com/AzadNetCH/Clash/main/SurfShark.yml
 
-URL3: https://github.com/AzadNetCH/Clash/releases/download/1.0/UFO.yml
+URL3: https://raw.githubusercontent.com/AzadNetCH/Clash/main/UFO.yml
 
-URL 4: https://github.com/AzadNetCH/Clash/releases/download/1.0/v2ray.yml
+URL 4: https://raw.githubusercontent.com/AzadNetCH/Clash/main/v2ray.yml
 
 
 Auto Update:
