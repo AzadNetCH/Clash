@@ -24,6 +24,7 @@ URL 4: https://raw.githubusercontent.com/AzadNetCH/Clash/main/v2ray.yml
 
 Auto Update:
 1440 (for Android version)
+&
 24 (for Windows version)
 
 
