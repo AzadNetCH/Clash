@@ -226,7 +226,7 @@ proxies:
   - {name: MDA 🇲🇩 Chisinau new, server: 192.121.87.89, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
   - {name: MLT 🇲🇹 Safi new, server: 185.89.238.36, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
   - {name: MYS 🇲🇾 Kuala Lumpur new, server: 202.59.10.102, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: NLD 🇳🇱 Amsterdam new, server: 88.208.7.204, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: NLD 🇳🇱 Amsterdam new, server: 88.208.7.202, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
   - {name: NOR 🇳🇴 Oslo 2 new, server: 194.68.32.29, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
   - {name: POL 🇵🇱 Wroclaw 2 new, server: 54.37.139.110, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
   - {name: POL 🇵🇱 Wroclaw new, server: 54.37.136.249, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
