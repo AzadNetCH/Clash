@@ -1861,5 +1861,5 @@ rules:
  - IP-CIDR6,fc00::/7,DIRECT,no-resolve
  - IP-CIDR6,fe80::/10,DIRECT,no-resolve
  - IP-CIDR6,fd00::/8,DIRECT,no-resolve
- - GEOIP,CN,DIRECT
+ - GEOIP,IR,DIRECT
  - MATCH,Proxies
