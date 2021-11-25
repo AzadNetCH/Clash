@@ -184,21 +184,21 @@ proxies:
   - {name: USA 🇺🇸 Illinois, server: 69.39.239.72, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: 2jQLXYq5xgrE3gKXmfjB, udp: true}
   - {name: USA 🇺🇸 Illinois 2, server: 169.62.109.140, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: 74cf7gsXJgd9Z4MAW42L, udp: true}
   - {name: USA 🇺🇸 Los Angeles, server: 2.56.178.201, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: USA 🇺🇸 LosAngeles, server: 77.247.126.153, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: USA 🇺🇸 Los Angeles 2, server: 104.149.129.126, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: USA 🇺🇸 Los Angeles 3, server: 104.149.149.158, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: USA 🇺🇸 Los Angeles 4, server: 155.94.196.234, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: USA 🇺🇸 Los Angeles 5, server: 185.153.180.10, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: USA 🇺🇸 LosAngeles 2, server: 193.239.87.134, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: USA 🇺🇸 San Jose, server: 103.138.73.118, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: USA 🇺🇸 Santa Clara, server: 92.38.149.173, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
+  - {name: USA 🇺🇸 Los Angeles 2, server: 77.247.126.153, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: USA 🇺🇸 Los Angeles 3, server: 104.149.129.126, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
+  - {name: USA 🇺🇸 Los Angeles 4, server: 104.149.149.158, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
+  - {name: USA 🇺🇸 Los Angeles 5, server: 155.94.196.234, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
+  - {name: USA 🇺🇸 Los Angeles 6, server: 185.153.180.10, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
+  - {name: USA 🇺🇸 Los Angeles 7, server: 193.239.87.134, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
   - {name: USA 🇺🇸 New Jersey, server: 92.38.169.196, port: 826, type: ss, cipher: chacha20-ietf-poly1305, password: sF43Xt2gONqcgFX563, udp: true}
   - {name: USA 🇺🇸 New Jersey 2, server: 23.226.131.146, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: ckX2YfENbjCtVzVJphFP, udp: true}
   - {name: USA 🇺🇸 New Memphis, server: 104.249.173.232, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
   - {name: USA 🇺🇸 New Memphis 2, server: 104.249.173.240, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: USA 🇺🇸 NewYork, server: 5.181.234.254, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: USA 🇺🇸 NewYork 2, server: 45.144.112.162, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: USA 🇺🇸 New York, server: 142.202.48.58, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: USA 🇺🇸 New York, server: 5.181.234.254, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: USA 🇺🇸 New York 2, server: 45.144.112.162, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: USA 🇺🇸 New York 3, server: 142.202.48.58, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: USA 🇺🇸 San Jose, server: 103.138.73.118, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
+  - {name: USA 🇺🇸 Santa Clara, server: 92.38.149.173, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
   - {name: USA 🇺🇸 Texas, server: 170.130.31.114, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: 4W2SJmdKUMJjjkVfRDdh, udp: true}
   - {name: USA 🇺🇸 Tennessee, server: 70.39.71.2, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: XkH8z99cQguQ8ywK5jhV, udp: true}
   - {name: USA 🇺🇲 Virginia, server: 213.174.130.129, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
@@ -364,21 +364,21 @@ proxy-groups:
       - USA 🇺🇸 Illinois
       - USA 🇺🇸 Illinois 2
       - USA 🇺🇸 Los Angeles
-      - USA 🇺🇸 LosAngeles
       - USA 🇺🇸 Los Angeles 2
       - USA 🇺🇸 Los Angeles 3
       - USA 🇺🇸 Los Angeles 4
       - USA 🇺🇸 Los Angeles 5
-      - USA 🇺🇸 LosAngeles 2
-      - USA 🇺🇸 San Jose
-      - USA 🇺🇸 Santa Clara
+      - USA 🇺🇸 Los Angeles 6
+      - USA 🇺🇸 Los Angeles 7
       - USA 🇺🇸 New Jersey
       - USA 🇺🇸 New Jersey 2
       - USA 🇺🇸 New Memphis
       - USA 🇺🇸 New Memphis 2
-      - USA 🇺🇸 NewYork
-      - USA 🇺🇸 NewYork 2
       - USA 🇺🇸 New York
+      - USA 🇺🇸 New York 2
+      - USA 🇺🇸 New York 3
+      - USA 🇺🇸 San Jose
+      - USA 🇺🇸 Santa Clara
       - USA 🇺🇸 Texas
       - USA 🇺🇸 Tennessee
       - USA 🇺🇲 Virginia
@@ -545,21 +545,21 @@ proxy-groups:
       - USA 🇺🇸 Illinois
       - USA 🇺🇸 Illinois 2
       - USA 🇺🇸 Los Angeles
-      - USA 🇺🇸 LosAngeles
       - USA 🇺🇸 Los Angeles 2
       - USA 🇺🇸 Los Angeles 3
       - USA 🇺🇸 Los Angeles 4
       - USA 🇺🇸 Los Angeles 5
-      - USA 🇺🇸 LosAngeles 2
-      - USA 🇺🇸 San Jose
-      - USA 🇺🇸 Santa Clara
+      - USA 🇺🇸 Los Angeles 6
+      - USA 🇺🇸 Los Angeles 7
       - USA 🇺🇸 New Jersey
       - USA 🇺🇸 New Jersey 2
       - USA 🇺🇸 New Memphis
       - USA 🇺🇸 New Memphis 2
-      - USA 🇺🇸 NewYork
-      - USA 🇺🇸 NewYork 2
       - USA 🇺🇸 New York
+      - USA 🇺🇸 New York 2
+      - USA 🇺🇸 New York 3
+      - USA 🇺🇸 San Jose
+      - USA 🇺🇸 Santa Clara
       - USA 🇺🇸 Texas
       - USA 🇺🇸 Tennessee
       - USA 🇺🇲 Virginia
