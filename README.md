@@ -17,8 +17,6 @@ URL1: https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet.yml
 
 URL2: https://raw.githubusercontent.com/AzadNetCH/Clash/main/UFO.yml
 
-URL3: https://raw.githubusercontent.com/AzadNetCH/Clash/main/v2ray.yml
-
 
 Auto Update:
 1440 Minutes (for Android version)
