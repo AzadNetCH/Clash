@@ -15,11 +15,9 @@ Name: File Name (AzadNet/SurfShark/UFO/v2ray) YML
 
 URL1: https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet.yml
 
-URL2: https://raw.githubusercontent.com/AzadNetCH/Clash/main/SurfShark.yml
+URL2: https://raw.githubusercontent.com/AzadNetCH/Clash/main/UFO.yml
 
-URL3: https://raw.githubusercontent.com/AzadNetCH/Clash/main/UFO.yml
-
-URL 4: https://raw.githubusercontent.com/AzadNetCH/Clash/main/v2ray.yml
+URL3: https://raw.githubusercontent.com/AzadNetCH/Clash/main/v2ray.yml
 
 
 Auto Update:
