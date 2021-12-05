@@ -470,8 +470,8 @@ proxy-groups:
 
   - name: 🔥 Auto(Best ping)
     type: url-test
-    url: http://www.google.com
-    interval: 900
+    url: http://www.google.com/generate_204
+    interval: 300
     proxies:
       - ALB 🇦🇱 Tirana
       - ARG 🇦🇷 Buenos Aires
