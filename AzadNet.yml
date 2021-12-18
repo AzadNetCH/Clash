@@ -7,8 +7,7 @@ external-controller: :9090
 dns:
   enable: true
   ipv6: false
-  enhanced-mode: fake-ip
-  fake-ip-range: 198.18.0.1/16
+  enhanced-mode: redir-host
   nameserver:
     - https://EU2.DNS.LAVATE.CH/dns-query
     - https://DNS.HeN.ee/dns-query
@@ -31,6 +30,8 @@ dns:
     - https://dnsforge.de/dns-query
     - https://dns.quad9.net/dns-query
     - https://DANDELIONSPROUT.Asuscomm.com:2501/dns-query
+  fallback-filter:
+    geoip: true
 proxies:
   - {name: ALB 🇦🇱 Tirana, server: 31.171.153.178, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
   - {name: ARG 🇦🇷 Buenos Aires, server: 131.255.4.219, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
