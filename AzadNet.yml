@@ -679,6 +679,11 @@ proxies:
   - {name: USA 🇺🇸 New York 35, server: 142.202.48.43, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
   - {name: USA 🇺🇸 New York 36, server: 169.197.141.15, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
   - {name: USA 🇺🇸 New York 37, server: 169.197.141.91, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: USA 🇺🇸 New York 38, server: 194.124.76.241, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: USA 🇺🇸 New York 39, server: 142.202.48.114, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: USA 🇺🇸 New York 40, server: 142.202.48.83, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
+  - {name: USA 🇺🇸 New York 41, server: 45.144.112.162, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: USA 🇺🇸 New York 42, server: 142.202.48.108, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
   - {name: USA 🇺🇸 Tennessee, server: 70.39.71.2, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: XkH8z99cQguQ8ywK5jhV, udp: true}
   - {name: USA 🇺🇸 Texas, server: 170.130.31.114, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: 4W2SJmdKUMJjjkVfRDdh, udp: true}
   - {name: USA 🇺🇸 Texas 2, server: 167.88.62.24, port: 4444, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, udp: true}
@@ -1349,6 +1354,11 @@ proxy-groups:
       - USA 🇺🇸 New York 35
       - USA 🇺🇸 New York 36
       - USA 🇺🇸 New York 37
+      - USA 🇺🇸 New York 38
+      - USA 🇺🇸 New York 39
+      - USA 🇺🇸 New York 40
+      - USA 🇺🇸 New York 41
+      - USA 🇺🇸 New York 42
       - USA 🇺🇸 Tennessee
       - USA 🇺🇸 Texas
       - USA 🇺🇸 Texas 2
@@ -2019,6 +2029,11 @@ proxy-groups:
       - USA 🇺🇸 New York 35
       - USA 🇺🇸 New York 36
       - USA 🇺🇸 New York 37
+      - USA 🇺🇸 New York 38
+      - USA 🇺🇸 New York 39
+      - USA 🇺🇸 New York 40
+      - USA 🇺🇸 New York 41
+      - USA 🇺🇸 New York 42
       - USA 🇺🇸 Tennessee
       - USA 🇺🇸 Texas
       - USA 🇺🇸 Texas 2
