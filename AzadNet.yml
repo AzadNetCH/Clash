@@ -60,6 +60,8 @@ proxies:
   - {name: BLG 🇧🇬 Sofia, server: 194.68.225.28, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
   - {name: BLG 🇧🇬 Sofia 2, server: 194.68.225.104, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
   - {name: BRA 🇧🇷 Sao Paulo, server: 177.54.152.89, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: 2GWsqE7Gr3nRMuuQZfFa, udp: true}
+  - {name: CAN 🇨🇦 Beauharnois, server: 51.161.118.38, port: 807, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: CAN 🇨🇦 Beauharnois 2, server: 51.161.118.38, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
   - {name: CAN 🇨🇦 Toronto, server: 134.195.196.12, port: 8882, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
   - {name: CAN 🇨🇦 Toronto 2, server: 134.195.196.50, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
   - {name: CAN 🇨🇦 Toronto 3, server: 134.195.196.76, port: 8882, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
@@ -182,7 +184,6 @@ proxies:
   - {name: CAN 🇨🇦 Toronto 120, server: 134.195.196.219, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
   - {name: CAN 🇨🇦 Toronto 121, server: 134.195.196.231, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
   - {name: CAN 🇨🇦 Toronto 122, server: 134.195.198.195, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
-  - {name: CAN 🇨🇦 Beauharnois, server: 51.161.118.38, port: 807, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
   - {name: COL 🇨🇴 Bogotá, server: 181.119.30.61, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
   - {name: CROA 🇭🇷 Zagreb, server: 46.183.184.12, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
   - {name: CYP 🇨🇾 Nicosia, server: 213.169.137.221, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
@@ -195,6 +196,7 @@ proxies:
   - {name: FIN 🇫🇮 Helsinki 2, server: 185.212.149.152, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: SxFvGWWUtEjyQnGbggq2, udp: true}
   - {name: FRA 🇫🇷 Roubaix, server: 135.125.248.215, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
   - {name: FRA 🇫🇷 Roubaix 2, server: 135.125.248.215, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: FRA 🇫🇷 Roubaix 3, server: 135.125.248.215, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
   - {name: GER 🇩🇪 Düsseldorf, server: 161.97.131.160, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
   - {name: GER 🇩🇪 Düsseldorf 2, server: 178.18.255.190, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
   - {name: GER 🇩🇪 Düsseldorf 3, server: 146.0.36.44, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
@@ -261,6 +263,7 @@ proxies:
   - {name: ITA 🇮🇹 Milan 2, server: 158.58.173.54, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
   - {name: ITA 🇮🇹 Milan 3, server: 158.58.173.240, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
   - {name: ITA 🇮🇹 Milan 4, server: 95.174.23.218, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: ITA 🇮🇹 Milan 5, server: 185.213.21.6, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
   - {name: JPN 🇯🇵 Tokyo, server: 45.66.134.210, port: 807, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
   - {name: JPN 🇯🇵 Tokyo 2, server: 89.31.125.101, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
   - {name: JPN 🇯🇵 Tokyo 3, server: 89.31.125.216, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
@@ -475,6 +478,7 @@ proxies:
   - {name: SNG 🇸🇬 Singapore 2, server: 194.233.65.67, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
   - {name: SOAF 🇿🇦 Johannesburg, server: 102.165.20.38, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: VLGVpK9npKaFqBLHcnu9, udp: true}
   - {name: SPN 🇪🇸 Barcelona, server: 172.107.233.234, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: SPN 🇪🇸 Barcelona 2, server: 172.107.233.234, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
   - {name: SPN 🇪🇸 Madrid, server: 45.152.183.242, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: r4MP5DzDNmAqbBHzbSXw, udp: true}
   - {name: SRB 🇷🇸 Belgrade, server: 194.71.126.31, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
   - {name: SWD 🇸🇪 Stockholm, server: 185.243.215.187, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
@@ -717,6 +721,8 @@ proxy-groups:
       - BLG 🇧🇬 Sofia
       - BLG 🇧🇬 Sofia 2
       - BRA 🇧🇷 Sao Paulo
+      - CAN 🇨🇦 Beauharnois
+      - CAN 🇨🇦 Beauharnois 2
       - CAN 🇨🇦 Toronto
       - CAN 🇨🇦 Toronto 2
       - CAN 🇨🇦 Toronto 3
@@ -839,7 +845,6 @@ proxy-groups:
       - CAN 🇨🇦 Toronto 120
       - CAN 🇨🇦 Toronto 121
       - CAN 🇨🇦 Toronto 122
-      - CAN 🇨🇦 Beauharnois
       - CYP 🇨🇾 Nicosia
       - DEN 🇩🇰 Copenhagen
       - DEN 🇩🇰 Copenhagen 2
@@ -850,6 +855,7 @@ proxy-groups:
       - FIN 🇫🇮 Helsinki 2
       - FRA 🇫🇷 Roubaix
       - FRA 🇫🇷 Roubaix 2
+      - FRA 🇫🇷 Roubaix 3
       - GER 🇩🇪 Düsseldorf
       - GER 🇩🇪 Düsseldorf 2
       - GER 🇩🇪 Düsseldorf 3
@@ -916,6 +922,7 @@ proxy-groups:
       - ITA 🇮🇹 Milan 2
       - ITA 🇮🇹 Milan 3
       - ITA 🇮🇹 Milan 4
+      - ITA 🇮🇹 Milan 5
       - JPN 🇯🇵 Tokyo
       - JPN 🇯🇵 Tokyo 2
       - JPN 🇯🇵 Tokyo 3
@@ -1130,6 +1137,7 @@ proxy-groups:
       - SNG 🇸🇬 Singapore 2
       - SOAF 🇿🇦 Johannesburg
       - SPN 🇪🇸 Barcelona
+      - SPN 🇪🇸 Barcelona 2
       - SPN 🇪🇸 Madrid
       - SRB 🇷🇸 Belgrade
       - SWD 🇸🇪 Stockholm
@@ -1372,6 +1380,8 @@ proxy-groups:
       - BLG 🇧🇬 Sofia
       - BLG 🇧🇬 Sofia 2
       - BRA 🇧🇷 Sao Paulo
+      - CAN 🇨🇦 Beauharnois
+      - CAN 🇨🇦 Beauharnois 2
       - CAN 🇨🇦 Toronto
       - CAN 🇨🇦 Toronto 2
       - CAN 🇨🇦 Toronto 3
@@ -1494,7 +1504,6 @@ proxy-groups:
       - CAN 🇨🇦 Toronto 120
       - CAN 🇨🇦 Toronto 121
       - CAN 🇨🇦 Toronto 122
-      - CAN 🇨🇦 Beauharnois
       - CYP 🇨🇾 Nicosia
       - DEN 🇩🇰 Copenhagen
       - DEN 🇩🇰 Copenhagen 2
@@ -1505,6 +1514,7 @@ proxy-groups:
       - FIN 🇫🇮 Helsinki 2
       - FRA 🇫🇷 Roubaix
       - FRA 🇫🇷 Roubaix 2
+      - FRA 🇫🇷 Roubaix 3
       - GER 🇩🇪 Düsseldorf
       - GER 🇩🇪 Düsseldorf 2
       - GER 🇩🇪 Düsseldorf 3
@@ -1571,6 +1581,7 @@ proxy-groups:
       - ITA 🇮🇹 Milan 2
       - ITA 🇮🇹 Milan 3
       - ITA 🇮🇹 Milan 4
+      - ITA 🇮🇹 Milan 5
       - JPN 🇯🇵 Tokyo
       - JPN 🇯🇵 Tokyo 2
       - JPN 🇯🇵 Tokyo 3
@@ -1785,6 +1796,7 @@ proxy-groups:
       - SNG 🇸🇬 Singapore 2
       - SOAF 🇿🇦 Johannesburg
       - SPN 🇪🇸 Barcelona
+      - SPN 🇪🇸 Barcelona 2
       - SPN 🇪🇸 Madrid
       - SRB 🇷🇸 Belgrade
       - SWD 🇸🇪 Stockholm
