@@ -461,6 +461,9 @@ proxies:
   - {name: NOR 🇳🇴 Oslo 8, server: 46.29.219.246, port: 5601, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
   - {name: NOR 🇳🇴 Oslo 9, server: 46.29.219.246, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
   - {name: NOR 🇳🇴 Oslo 10, server: 46.29.219.246, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: NOR 🇳🇴 Oslo 11, server: 46.29.218.170, port: 8888, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: NOR 🇳🇴 Oslo 12, server: 46.29.218.146, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
+  - {name: NOR 🇳🇴 Oslo 13, server: 46.29.218.146, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
   - {name: PRT 🇵🇹 Lisbon, server: 185.90.57.152, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: qSnstpCypymLvPeyLRqf, udp: true}
   - {name: PRT 🇵🇹 Lisbon 2, server: 185.90.57.152, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: qSnstpCypymLvPeyLRqf, udp: true}
   - {name: ROM 🇷🇴 Bucharest, server: 86.105.25.162, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: gKDDFZyBmBH5Ru46xBAK, udp: true}
@@ -575,6 +578,14 @@ proxies:
   - {name: UK 🇬🇧 London 76, server: 172.99.190.246, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
   - {name: UK 🇬🇧 London 77, server: 62.216.74.78, port: 16823, type: vmess, uuid: 7455b760-fc67-4898-ae69-afce6eb2a9c0, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
   - {name: UK 🇬🇧 London 78, server: 62.216.80.11, port: 16823, type: vmess, uuid: 7455b760-fc67-4898-ae69-afce6eb2a9c0, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: UK 🇬🇧 London 79, server: 172.99.190.139, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: UK 🇬🇧 London 80, server: 172.99.190.139, port: 9101, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY, udp: true}
+  - {name: UK 🇬🇧 London 81, server: 172.99.190.139, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: UK 🇬🇧 London 82, server: 172.99.190.167, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: UK 🇬🇧 London 83, server: 172.99.190.90, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: UK 🇬🇧 London 84, server: 172.99.190.139, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: UK 🇬🇧 London 85, server: 92.223.59.188, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: UK 🇬🇧 London 86, server: 172.99.190.90, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
   - {name: UK 🇬🇧 Purfleet, server: 198.244.150.26, port: 826, type: ss, cipher: chacha20-ietf-poly1305, password: sF43Xt2gONqcgFX563, udp: true}
   - {name: UKR 🇺🇦 Kharkiv, server: 195.211.41.10, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
   - {name: UKR 🇺🇦 Kyiv, server: 37.19.218.197, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: Mx6DztQqZb7j34FdWjER, udp: true}
@@ -1120,6 +1131,9 @@ proxy-groups:
       - NOR 🇳🇴 Oslo 8
       - NOR 🇳🇴 Oslo 9
       - NOR 🇳🇴 Oslo 10
+      - NOR 🇳🇴 Oslo 11
+      - NOR 🇳🇴 Oslo 12
+      - NOR 🇳🇴 Oslo 13
       - PRT 🇵🇹 Lisbon
       - PRT 🇵🇹 Lisbon 2
       - ROM 🇷🇴 Bucharest
@@ -1234,6 +1248,14 @@ proxy-groups:
       - UK 🇬🇧 London 76
       - UK 🇬🇧 London 77
       - UK 🇬🇧 London 78
+      - UK 🇬🇧 London 79
+      - UK 🇬🇧 London 80
+      - UK 🇬🇧 London 81
+      - UK 🇬🇧 London 82
+      - UK 🇬🇧 London 83
+      - UK 🇬🇧 London 84
+      - UK 🇬🇧 London 85
+      - UK 🇬🇧 London 86
       - UK 🇬🇧 Purfleet
       - UKR 🇺🇦 Kharkiv
       - UKR 🇺🇦 Kyiv
@@ -1779,6 +1801,9 @@ proxy-groups:
       - NOR 🇳🇴 Oslo 8
       - NOR 🇳🇴 Oslo 9
       - NOR 🇳🇴 Oslo 10
+      - NOR 🇳🇴 Oslo 11
+      - NOR 🇳🇴 Oslo 12
+      - NOR 🇳🇴 Oslo 13
       - PRT 🇵🇹 Lisbon
       - PRT 🇵🇹 Lisbon 2
       - ROM 🇷🇴 Bucharest
@@ -1893,6 +1918,14 @@ proxy-groups:
       - UK 🇬🇧 London 76
       - UK 🇬🇧 London 77
       - UK 🇬🇧 London 78
+      - UK 🇬🇧 London 79
+      - UK 🇬🇧 London 80
+      - UK 🇬🇧 London 81
+      - UK 🇬🇧 London 82
+      - UK 🇬🇧 London 83
+      - UK 🇬🇧 London 84
+      - UK 🇬🇧 London 85
+      - UK 🇬🇧 London 86
       - UK 🇬🇧 Purfleet
       - UKR 🇺🇦 Kharkiv
       - UKR 🇺🇦 Kyiv
