@@ -10,13 +10,14 @@ Group > Group URL
 In the [AnXray application](https://github.com/XTLS/AnXray) from:
 Group > Group URL
 
-Name: File Name (AzadNet/SurfShark/UFO/v2ray) YML
-
+Name: File Name (AzadNet/UFO/AzadNet--Iran-Direct 1.yml/AzadNet--Iran-Direct 2.yml) YML
 
 URL1: https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet.yml
-
 URL2: https://raw.githubusercontent.com/AzadNetCH/Clash/main/UFO.yml
 
+Direct Connection for GeoIP:IRAN
+URL3: https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet--Iran-Direct 1.yml
+URL4: https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet--Iran-Direct 2.yml
 
 Auto Update:
 1440 Minutes (for Android version)
