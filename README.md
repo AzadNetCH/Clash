@@ -20,7 +20,7 @@ Only for iOS devices:
 
 URL3: https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_iOS.txt
 
-Direct Connection for GeoIP:IRAN
+Direct Connection for GeoIP=IRAN:
 
 URL4: https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_IRAN-Direct1.yml
 
