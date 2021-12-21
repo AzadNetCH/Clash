@@ -16,12 +16,14 @@ URL1: https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet.yml
 
 URL2: https://raw.githubusercontent.com/AzadNetCH/Clash/main/UFO.yml
 
+only for iOS:
+URL3: https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_iOS.txt
 
 Direct Connection for GeoIP:IRAN
 
-URL3: https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_IRAN-Direct1.yml
+URL4: https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_IRAN-Direct1.yml
 
-URL4: https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_IRAN-Direct2.yml
+URL5: https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_IRAN-Direct2.yml
 
 Auto Update:
 1440 Minutes (for Android version)
