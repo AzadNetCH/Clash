@@ -16,7 +16,8 @@ URL1: https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet.yml
 
 URL2: https://raw.githubusercontent.com/AzadNetCH/Clash/main/UFO.yml
 
-only for iOS:
+Only for iOS devices:
+
 URL3: https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_iOS.txt
 
 Direct Connection for GeoIP:IRAN
