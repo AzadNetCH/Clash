@@ -207,6 +207,7 @@ proxies:
   - {name: GER 🇩🇪 Düsseldorf 8, server: 146.0.36.23, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
   - {name: GER 🇩🇪 Düsseldorf 9, server: 146.0.36.23, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
   - {name: GER 🇩🇪 Hesse, server: 18.185.63.41, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: GER 🇩🇪 Frankfurt, server: 135.125.150.55, port: 889, type: ss, cipher: chacha20-ietf-poly1305, password: KhS1x8JT7p58RIp7gz, udp: true}
   - {name: GER 🇩🇪 Hesse 2, server: 141.95.0.23, port: 807, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
   - {name: GER 🇩🇪 Hesse 3, server: 141.95.0.26, port: 826, type: ss, cipher: chacha20-ietf-poly1305, password: sF43Xt2gONqcgFX563, udp: true}
   - {name: GER 🇩🇪 Hesse 4, server: 135.125.236.229, port: 50007, type: ss, cipher: aes-256-cfb, password: !<str> 7122910143, udp: true}
@@ -880,6 +881,7 @@ proxy-groups:
       - GER 🇩🇪 Düsseldorf 7
       - GER 🇩🇪 Düsseldorf 8
       - GER 🇩🇪 Düsseldorf 9
+      - GER 🇩🇪 Frankfurt
       - GER 🇩🇪 Hesse
       - GER 🇩🇪 Hesse 2
       - GER 🇩🇪 Hesse 3
@@ -1555,6 +1557,7 @@ proxy-groups:
       - GER 🇩🇪 Düsseldorf 7
       - GER 🇩🇪 Düsseldorf 8
       - GER 🇩🇪 Düsseldorf 9
+      - GER 🇩🇪 Frankfurt
       - GER 🇩🇪 Hesse
       - GER 🇩🇪 Hesse 2
       - GER 🇩🇪 Hesse 3
