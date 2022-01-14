@@ -9,6 +9,9 @@ dns:
   ipv6: false
   enhanced-mode: redir-host
   nameserver:
+    - https://mozilla.cloudflare-dns.com/dns-query
+    - https://doh-de.blahdns.com/dns-query
+    - https://doh.dnswarden.com/uncensored
     - https://EU2.DNS.LAVATE.CH/dns-query
     - https://DNS.HeN.ee/dns-query
     - https://NoTMIKE.dev/dns.php
