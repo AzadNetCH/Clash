@@ -23,6 +23,9 @@ dns:
     - https://dns.quad9.net/dns-query
     - https://DANDELIONSPROUT.Asuscomm.com:2501/dns-query
   fallback:
+    - https://mozilla.cloudflare-dns.com/dns-query
+    - https://doh-de.blahdns.com/dns-query
+    - https://doh.dnswarden.com/uncensored
     - https://EU2.DNS.LAVATE.CH/dns-query
     - https://DNS.HeN.ee/dns-query
     - https://NoTMIKE.dev/dns.php
