@@ -361,6 +361,7 @@ proxies:
   - {name: SWT 🇨🇭 Zurich, server: 212.237.210.158, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
   - {name: TUR 🇹🇷 Bahçelievler, server: 185.17.113.234, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
   - {name: TWN 🇹🇼 Taipei, server: 103.123.0.28, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: TWN 🇹🇼 Taichung, server: 59.125.11.158, port: 8158, type: ss, cipher: rc4-md5, password: passinfo123, udp: true}
   - {name: UK 🇬🇧 London, server: 92.223.59.188, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
   - {name: UK 🇬🇧 London 5, server: 176.10.80.6, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
   - {name: UK 🇬🇧 London 7, server: 172.99.190.61, port: 8882, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
@@ -829,6 +830,7 @@ proxy-groups:
       - SWT 🇨🇭 Zurich
       - TUR 🇹🇷 Bahçelievler
       - TWN 🇹🇼 Taipei
+      - TWN 🇹🇼 Taichung
       - UK 🇬🇧 London
       - UK 🇬🇧 London 5
       - UK 🇬🇧 London 7
@@ -1298,6 +1300,7 @@ proxy-groups:
       - SWT 🇨🇭 Zurich
       - TUR 🇹🇷 Bahçelievler
       - TWN 🇹🇼 Taipei
+      - TWN 🇹🇼 Taichung
       - UK 🇬🇧 London
       - UK 🇬🇧 London 5
       - UK 🇬🇧 London 7
