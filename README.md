@@ -51,6 +51,7 @@ Now Save and Select that.
 # ShadowSocks (Android & Windows)
 
 In the [ShadowSocks Android](https://play.google.com/store/apps/details?id=com.github.shadowsocks) or [ShadowSocks Windows](https://github.com/shadowsocks/shadowsocks-windows/releases/latest) from:
+
 Subscriptions > + > URL6
 
 URL6: https://raw.githubusercontent.com/AzadNetCH/JSON/main/AzadNet.json
