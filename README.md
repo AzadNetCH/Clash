@@ -41,7 +41,7 @@ Now Save and Select that.
 # Potatso Lite (iOS)
 
 In the [Potatso Lite application](https://apps.apple.com/us/app/potatso-lite/id1239860606) from:
-Subscription > + > URL6
+Subscription > + > URL
 
 URL6: https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_iOS.txt
 
@@ -51,7 +51,6 @@ Now Save and Select that.
 # ShadowSocks (Android & Windows)
 
 In the [ShadowSocks Android](https://play.google.com/store/apps/details?id=com.github.shadowsocks) or [ShadowSocks Windows](https://github.com/shadowsocks/shadowsocks-windows/releases/latest) from:
-
 Subscriptions > + > URL6
 
 URL6: https://raw.githubusercontent.com/AzadNetCH/JSON/main/AzadNet.json
