@@ -26,6 +26,12 @@ URL4: https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_IRAN-Direc
 
 URL5: https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_IRAN-Direct2.yml
 
+In the [V2RanNG application](https://play.google.com/store/apps/details?id=com.v2ray.ang) from:
+Subscription Setting > + > URL
+
+URL6: https://raw.githubusercontent.com/AzadNetCH/Clash/main/V2Ray.txt
+
+
 Auto Update:
 1440 Minutes (for Android version)
 &
