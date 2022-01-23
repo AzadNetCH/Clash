@@ -225,10 +225,8 @@ proxies:
   - {name: ISR 🇮🇱 Haifa, server: 83.229.73.60, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
   - {name: ISR 🇮🇱 Haifa 2, server: 83.229.73.120, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
   - {name: ISR 🇮🇱 Haifa 3, server: 185.162.125.91, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: ITA 🇮🇹 Milan, server: 158.58.173.54, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: ITA 🇮🇹 Milan 2, server: 158.58.173.240, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: ITA 🇮🇹 Milan 3, server: 95.174.23.218, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: ITA 🇮🇹 Milan 4, server: 217.138.197.138, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: dsHq7JmRFhSkvxzCuMFy, udp: true}
+  - {name: ITA 🇮🇹 Milan, server: 95.174.23.218, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: ITA 🇮🇹 Milan 2, server: 217.138.197.138, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: dsHq7JmRFhSkvxzCuMFy, udp: true}
   - {name: ITA 🇮🇹 Rome, server: 84.33.193.79, port: 18760, type: ss, cipher: aes-256-gcm, password: hg49$WH8943g3, udp: true}
   - {name: JPN 🇯🇵 Tokyo, server: 89.31.125.101, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
   - {name: JPN 🇯🇵 Tokyo 2, server: 89.31.125.216, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
@@ -375,7 +373,6 @@ proxies:
   - {name: SWD 🇸🇪 Stockholm, server: 185.243.215.187, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
   - {name: SWD 🇸🇪 Stockholm 2, server: 80.67.3.120, port: 40503, type: ss, cipher: aes-256-cfb, password: XS4DBE6, udp: true}
   - {name: SWT 🇨🇭 Zurich, server: 212.237.210.158, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: TUR 🇹🇷 Bahçelievler, server: 185.17.113.234, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
   - {name: TWN 🇹🇼 Taipei, server: 103.123.0.28, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
   - {name: TWN 🇹🇼 Taipei 2, server: 188.214.106.98, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: cNbqVVyUfbJFZ6S8EgRH, udp: true}
   - {name: TWN 🇹🇼 Taichung, server: 59.125.11.158, port: 8158, type: ss, cipher: rc4-md5, password: passinfo123, udp: true}
@@ -718,8 +715,6 @@ proxy-groups:
       - ISR 🇮🇱 Haifa 3
       - ITA 🇮🇹 Milan
       - ITA 🇮🇹 Milan 2
-      - ITA 🇮🇹 Milan 3
-      - ITA 🇮🇹 Milan 4
       - ITA 🇮🇹 Rome
       - JPN 🇯🇵 Tokyo
       - JPN 🇯🇵 Tokyo 2
@@ -866,7 +861,6 @@ proxy-groups:
       - SWD 🇸🇪 Stockholm
       - SWD 🇸🇪 Stockholm 2
       - SWT 🇨🇭 Zurich
-      - TUR 🇹🇷 Bahçelievler
       - TWN 🇹🇼 Taipei
       - TWN 🇹🇼 Taipei 2
       - TWN 🇹🇼 Taichung
@@ -1210,8 +1204,6 @@ proxy-groups:
       - ISR 🇮🇱 Haifa 3
       - ITA 🇮🇹 Milan
       - ITA 🇮🇹 Milan 2
-      - ITA 🇮🇹 Milan 3
-      - ITA 🇮🇹 Milan 4
       - ITA 🇮🇹 Rome
       - JPN 🇯🇵 Tokyo
       - JPN 🇯🇵 Tokyo 2
@@ -1358,7 +1350,6 @@ proxy-groups:
       - SWD 🇸🇪 Stockholm
       - SWD 🇸🇪 Stockholm 2
       - SWT 🇨🇭 Zurich
-      - TUR 🇹🇷 Bahçelievler
       - TWN 🇹🇼 Taipei
       - TWN 🇹🇼 Taipei 2
       - TWN 🇹🇼 Taichung
