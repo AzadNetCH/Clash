@@ -40,6 +40,8 @@ dns:
     geoip: true
 proxies:
   - {name: ARG 🇦🇷 Buenos Aires, server: 131.255.4.219, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: ARG 🇦🇷 Buenos Aires 2, server: 131.255.4.140, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: UHu5NzfXjuur52h9, udp: true}
+  - {name: AUS 🇦🇺 Melbourne, server: 116.206.230.130, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: zaNeDgu9mZKpEMTHQJy8, udp: true}
   - {name: AUS 🇦🇺 Sydney, server: 194.14.208.110, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
   - {name: AUS 🇦🇺 Sydney 2, server: 192.53.168.189, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
   - {name: AUS 🇦🇺 Sydney 3, server: 192.53.169.116, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
@@ -47,6 +49,7 @@ proxies:
   - {name: AUS 🇦🇺 Sydney 5, server: 192.53.169.116, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
   - {name: AUS 🇦🇺 Sydney 6, server: 192.53.168.189, port: 9102, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY, udp: true}
   - {name: AUS 🇦🇺 Sydney 7, server: 192.53.168.189, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: AUS 🇦🇺 Sydney 8, server: 46.102.153.106, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: dsHq7JmRFhSkvxzCuMFy, udp: true}
   - {name: AZR 🇦🇿 Baku, server: 94.20.154.38, port: 50000, type: ss, cipher: aes-256-cfb, password: !<str> 3135771619, udp: true}
   - {name: B&H 🇧🇦 Novi Travnik, server: 185.99.3.108, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb, udp: true}
   - {name: B&H 🇧🇦 Novi Travnik 2, server: 185.99.3.108, port: 47121, type: ss, cipher: aes-256-gcm, password: CTK8GXFQgKYQErrghPJfZ6tk, udp: true}
@@ -173,6 +176,7 @@ proxies:
   - {name: CAN 🇨🇦 Toronto 120, server: 134.195.196.219, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
   - {name: CAN 🇨🇦 Toronto 121, server: 134.195.196.231, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
   - {name: CAN 🇨🇦 Toronto 122, server: 134.195.198.195, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: CAN 🇨🇦 Toronto 123, server: 184.75.208.234, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: 47GH3wQRw7V4Zhd35bFs, udp: true}
   - {name: COL 🇨🇴 Bogotá, server: 181.119.30.61, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
   - {name: CYP 🇨🇾 Nicosia, server: 213.169.137.221, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
   - {name: DEN 🇩🇰 Copenhagen, server: 5.183.101.229, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
@@ -203,6 +207,7 @@ proxies:
   - {name: HKG 🇭🇰 Central 6, server: 118.107.244.109, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
   - {name: HKG 🇭🇰 Central 7, server: 118.107.244.114, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
   - {name: HKG 🇭🇰 Central 8, server: 118.107.244.113, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: HKG 🇭🇰 Central 9, server: 84.17.37.55, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: tjwRqQvteAjt3xFmbZTA, udp: true}
   - {name: HUN 🇭🇺 Budapest, server: 194.71.130.160, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
   - {name: HUN 🇭🇺 Budapest 2, server: 194.71.130.194, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
   - {name: ICL 🇮🇸 Hafnarfjordur, server: 37.235.49.158, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
@@ -215,6 +220,7 @@ proxies:
   - {name: IND 🇮🇳 Mumbai 5, server: 192.46.209.146, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
   - {name: IND 🇮🇳 Mumbai 6, server: 192.46.209.215, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
   - {name: INDO 🇮🇩 Jakarta, server: 103.84.192.228, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: INDO 🇮🇩 Jakarta 2, server: 45.133.181.58, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: qzj5NqakK4YvYYU87eFF, udp: true}
   - {name: ISLM 🇮🇲 Douglas, server: 37.235.55.84, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
   - {name: ISR 🇮🇱 Haifa, server: 83.229.73.60, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
   - {name: ISR 🇮🇱 Haifa 2, server: 83.229.73.120, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
@@ -222,6 +228,7 @@ proxies:
   - {name: ITA 🇮🇹 Milan, server: 158.58.173.54, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
   - {name: ITA 🇮🇹 Milan 2, server: 158.58.173.240, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
   - {name: ITA 🇮🇹 Milan 3, server: 95.174.23.218, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: ITA 🇮🇹 Milan 4, server: 217.138.197.138, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: dsHq7JmRFhSkvxzCuMFy, udp: true}
   - {name: ITA 🇮🇹 Rome, server: 84.33.193.79, port: 18760, type: ss, cipher: aes-256-gcm, password: hg49$WH8943g3, udp: true}
   - {name: JPN 🇯🇵 Tokyo, server: 89.31.125.101, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
   - {name: JPN 🇯🇵 Tokyo 2, server: 89.31.125.216, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
@@ -241,6 +248,7 @@ proxies:
   - {name: JPN 🇯🇵 Tokyo 16, server: 85.208.108.194, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
   - {name: JPN 🇯🇵 Tokyo 17, server: 85.208.110.2, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
   - {name: JPN 🇯🇵 Tokyo 18, server: 85.208.110.2, port: 9101, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY, udp: true}
+  - {name: JPN 🇯🇵 Tokyo 19, server: 84.17.34.8, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: FuynHKjkzhBnmcLpaLKm, udp: true}
   - {name: KOR 🇰🇷 Seoul, server: 158.247.213.230, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
   - {name: KOR 🇰🇷 Seoul 2, server: 141.164.38.135, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
   - {name: KOR 🇰🇷 Seoul 7, server: 158.247.203.40, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
@@ -307,11 +315,14 @@ proxies:
   - {name: KOR 🇰🇷 Seoul 108, server: 158.247.223.116, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
   - {name: KOR 🇰🇷 Seoul 109, server: 158.247.224.123, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
   - {name: KOR 🇰🇷 Seoul 110, server: 158.247.226.61, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: KOR 🇰🇷 Seoul 111, server: 169.56.83.206, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: V9eSCwLbC8xS97e3Brm3, udp: true}
   - {name: LUX 🇱🇺 Luxembourg, server: 172.255.248.35, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
   - {name: LUX 🇱🇺 Luxembourg 2, server: 46.226.111.148, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: vPwCvtbOUMkb, udp: true}
+  - {name: LUX 🇱🇺 Luxembourg 3, server: 5.253.204.194, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: qLzS7DF9qRYxJTHfckhC, udp: true}
   - {name: MCD 🇲🇰 Skopje, server: 46.183.185.15, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
   - {name: MLD 🇲🇩 Chisinau, server: 192.121.87.89, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
   - {name: MLT 🇲🇹 Safi, server: 185.89.238.36, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: MLS 🇲🇾 Kuala Lumpur, server: 223.25.246.4, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: w4GUD28Bw9uCMdbc2pqA, udp: true}
   - {name: NIG 🇳🇬 Lagos, server: 102.129.144.142, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: QzTsOpqsdj29bWqIqWR6, udp: true}
   - {name: NIG 🇳🇬 Lagos 2, server: 102.129.144.142, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: QzTsOpqsdj29bWqIqWR6, udp: true}
   - {name: NLD 🇳🇱 Amsterdam, server: 37.218.245.122, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: fPn40BnheGrB, udp: true}
@@ -321,7 +332,6 @@ proxies:
   - {name: NLD 🇳🇱 Amsterdam 5, server: 172.99.188.99, port: 5601, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
   - {name: NLD 🇳🇱 Amsterdam 6, server: 172.99.188.99, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
   - {name: NLD 🇳🇱 Amsterdam 7, server: 172.99.188.99, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
-  - {name: NLD 🇳🇱 Duivendrecht, server: 178.239.173.20, port: 18760, type: ss, cipher: chacha20-ietf-poly1305, password: hg49$WH8943g3, udp: true}
   - {name: NOR 🇳🇴 Kristiansand, server: 46.29.218.6, port: 8882, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
   - {name: NOR 🇳🇴 Kristiansand 2, server: 46.29.218.6, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v, udp: true}
   - {name: NOR 🇳🇴 Kristiansand 3, server: 46.29.218.146, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v, udp: true}
@@ -345,17 +355,19 @@ proxies:
   - {name: NOR 🇳🇴 Oslo 6, server: 46.29.219.246, port: 5601, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
   - {name: NOR 🇳🇴 Oslo 7, server: 46.29.219.246, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
   - {name: NOR 🇳🇴 Oslo 8, server: 46.29.219.246, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: NZ 🇲🇸 Auckland, server: 103.108.94.226, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: bFfLrvbG3GjjNSxKBWt5, udp: true}
+  - {name: PHL 🇸🇽 Manila, server: 188.214.125.106, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: Zq4srheW4eeqMfGeWMTG, udp: true}
   - {name: PRT 🇵🇹 Lisbon, server: 185.90.57.152, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: qSnstpCypymLvPeyLRqf, udp: true}
   - {name: ROM 🇷🇴 Bucharest, server: 86.105.25.162, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: gKDDFZyBmBH5Ru46xBAK, udp: true}
   - {name: ROM 🇷🇴 Bucharest 2, server: 185.233.150.6, port: 18760, type: ss, cipher: aes-256-gcm, password: hg49$WH8943g3, udp: true}
   - {name: RUS 🇷🇺 Moscow, server: 194.34.239.105, port: 18760, type: ss, cipher: chacha20-ietf-poly1305, password: hg49$WH8943g3, udp: true}
   - {name: RUS 🇷🇺 Moscow 2, server: 83.217.9.76, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: RUS 🇷🇺 St Petersburg, server: 82.202.220.242, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: Kw6hMXQ2Z7ey7mf2Uqyr, udp: true}
+  - {name: RUS 🇷🇺 St Petersburg, server: 82.202.220.242, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: Kw6hMXQ2Z7ey7mf2Uqyr, udp: true}
   - {name: SLVK 🇸🇰 Bratislava, server: 188.123.123.133, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
   - {name: SNG 🇸🇬 Queenstown Estate, server: 45.88.42.250, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
   - {name: SNG 🇸🇬 Queenstown Estate 2, server: 81.90.189.33, port: 889, type: ss, cipher: chacha20-ietf-poly1305, password: KhS1x8JT7p58RIp7gz, udp: true}
   - {name: SNG 🇸🇬 Queenstown Estate 3, server: 81.90.188.167, port: 826, type: ss, cipher: chacha20-ietf-poly1305, password: sF43Xt2gONqcgFX563, udp: true}
-  - {name: SNG 🇸🇬 Singapore, server: 84.17.38.144, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: gTYdduTTEBBdVZ4LcBnT, udp: true}
+  - {name: SNG 🇸🇬 Singapore, server: 84.17.38.144, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: gTYdduTTEBBdVZ4LcBnT, udp: true}
   - {name: SNG 🇸🇬 Singapore 2, server: 194.233.65.67, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
   - {name: SOAF 🇿🇦 Johannesburg, server: 102.165.20.38, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: VLGVpK9npKaFqBLHcnu9, udp: true}
   - {name: SPN 🇪🇸 Madrid, server: 45.152.183.242, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: r4MP5DzDNmAqbBHzbSXw, udp: true}
@@ -365,6 +377,7 @@ proxies:
   - {name: SWT 🇨🇭 Zurich, server: 212.237.210.158, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
   - {name: TUR 🇹🇷 Bahçelievler, server: 185.17.113.234, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
   - {name: TWN 🇹🇼 Taipei, server: 103.123.0.28, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: TWN 🇹🇼 Taipei 2, server: 188.214.106.98, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: cNbqVVyUfbJFZ6S8EgRH, udp: true}
   - {name: TWN 🇹🇼 Taichung, server: 59.125.11.158, port: 8158, type: ss, cipher: rc4-md5, password: passinfo123, udp: true}
   - {name: UK 🇬🇧 London, server: 92.223.59.188, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
   - {name: UK 🇬🇧 London 5, server: 176.10.80.6, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
@@ -431,6 +444,7 @@ proxies:
   - {name: USA 🇺🇸 California 11, server: 185.153.180.10, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
   - {name: USA 🇺🇸 California 12, server: 169.197.142.47, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
   - {name: USA 🇺🇸 California 13, server: 169.197.142.47, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: USA 🇺🇸 California 14, server: 66.55.92.75, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: 6g8n89NARNcuTH2XvUtZ, udp: true}
   - {name: USA 🇺🇸 Delaware, server: 104.237.224.145, port: 18760, type: ss, cipher: chacha20-ietf-poly1305, password: hg49$WH8943g3, udp: true}
   - {name: USA 🇺🇸 Georgia, server: 104.223.91.146, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: QKyLzp5JUG6XEGy2wbEE, udp: true}
   - {name: USA 🇺🇸 Georgia 2, server: 167.88.63.21, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
@@ -464,6 +478,7 @@ proxies:
   - {name: USA 🇺🇸 Georgia 36, server: 167.88.63.93, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
   - {name: USA 🇺🇸 Georgia 37, server: 167.88.63.108, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
   - {name: USA 🇺🇸 Georgia 38, server: 167.88.63.28, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: USA 🇺🇸 Illinois, server: 169.62.109.140, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: 74cf7gsXJgd9Z4MAW42L, udp: true}
   - {name: USA 🇺🇸 New Jersey, server: 23.226.131.146, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: ckX2YfENbjCtVzVJphFP, udp: true}
   - {name: USA 🇺🇸 New Jersey 2, server: 92.38.169.196, port: 826, type: ss, cipher: chacha20-ietf-poly1305, password: sF43Xt2gONqcgFX563, udp: true}
   - {name: USA 🇺🇸 New York 4, server: 142.202.48.114, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
@@ -503,10 +518,12 @@ proxies:
   - {name: USA 🇺🇸 Texas 5, server: 167.88.62.24, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
   - {name: USA 🇺🇸 Texas 6, server: 167.88.62.24, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
   - {name: USA 🇺🇸 Texas 7, server: 167.88.62.24, port: 5000, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: USA 🇺🇸 Texas 8, server: 170.130.31.114, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: 4W2SJmdKUMJjjkVfRDdh, udp: true}
   - {name: USA 🇺🇸 Virginia, server: 213.174.129.4, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
   - {name: USA 🇺🇸 Virginia 3, server: 213.174.158.181, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
   - {name: USA 🇺🇸 Virginia 4, server: 213.174.159.246, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
   - {name: USA 🇺🇸 Washington, server: 104.140.21.178, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: 4kUSnsELPgwDFqkrnPqL, udp: true}
+  - {name: VIET 🇻🇳 Hanoi, server: 188.214.152.194, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: t8BFcaM3GSCw5FHbph27, udp: true}
   - {name: VIET 🇻🇳 Ho Chi Minh, server: 103.238.213.96, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
 proxy-groups:
   - name: 🔰 All Proxies
@@ -514,6 +531,8 @@ proxy-groups:
     proxies:
       - 🔥 Auto(Best ping)
       - ARG 🇦🇷 Buenos Aires
+      - ARG 🇦🇷 Buenos Aires 2
+      - AUS 🇦🇺 Melbourne
       - AUS 🇦🇺 Sydney
       - AUS 🇦🇺 Sydney 2
       - AUS 🇦🇺 Sydney 3
@@ -521,6 +540,7 @@ proxy-groups:
       - AUS 🇦🇺 Sydney 5
       - AUS 🇦🇺 Sydney 6
       - AUS 🇦🇺 Sydney 7
+      - AUS 🇦🇺 Sydney 8
       - AZR 🇦🇿 Baku
       - B&H 🇧🇦 Novi Travnik
       - B&H 🇧🇦 Novi Travnik 2
@@ -647,6 +667,7 @@ proxy-groups:
       - CAN 🇨🇦 Toronto 120
       - CAN 🇨🇦 Toronto 121
       - CAN 🇨🇦 Toronto 122
+      - CAN 🇨🇦 Toronto 123
       - COL 🇨🇴 Bogotá
       - CYP 🇨🇾 Nicosia
       - DEN 🇩🇰 Copenhagen
@@ -677,6 +698,7 @@ proxy-groups:
       - HKG 🇭🇰 Central 6
       - HKG 🇭🇰 Central 7
       - HKG 🇭🇰 Central 8
+      - HKG 🇭🇰 Central 9
       - HUN 🇭🇺 Budapest
       - HUN 🇭🇺 Budapest 2
       - ICL 🇮🇸 Hafnarfjordur
@@ -689,6 +711,7 @@ proxy-groups:
       - IND 🇮🇳 Mumbai 5
       - IND 🇮🇳 Mumbai 6
       - INDO 🇮🇩 Jakarta
+      - INDO 🇮🇩 Jakarta 2
       - ISLM 🇮🇲 Douglas
       - ISR 🇮🇱 Haifa
       - ISR 🇮🇱 Haifa 2
@@ -696,6 +719,7 @@ proxy-groups:
       - ITA 🇮🇹 Milan
       - ITA 🇮🇹 Milan 2
       - ITA 🇮🇹 Milan 3
+      - ITA 🇮🇹 Milan 4
       - ITA 🇮🇹 Rome
       - JPN 🇯🇵 Tokyo
       - JPN 🇯🇵 Tokyo 2
@@ -715,6 +739,7 @@ proxy-groups:
       - JPN 🇯🇵 Tokyo 16
       - JPN 🇯🇵 Tokyo 17
       - JPN 🇯🇵 Tokyo 18
+      - JPN 🇯🇵 Tokyo 19
       - KOR 🇰🇷 Seoul
       - KOR 🇰🇷 Seoul 2
       - KOR 🇰🇷 Seoul 7
@@ -781,11 +806,14 @@ proxy-groups:
       - KOR 🇰🇷 Seoul 108
       - KOR 🇰🇷 Seoul 109
       - KOR 🇰🇷 Seoul 110
+      - KOR 🇰🇷 Seoul 111
       - LUX 🇱🇺 Luxembourg
       - LUX 🇱🇺 Luxembourg 2
+      - LUX 🇱🇺 Luxembourg 3
       - MCD 🇲🇰 Skopje
       - MLD 🇲🇩 Chisinau
       - MLT 🇲🇹 Safi
+      - MLS 🇲🇾 Kuala Lumpur
       - NIG 🇳🇬 Lagos
       - NIG 🇳🇬 Lagos 2
       - NLD 🇳🇱 Amsterdam
@@ -795,7 +823,6 @@ proxy-groups:
       - NLD 🇳🇱 Amsterdam 5
       - NLD 🇳🇱 Amsterdam 6
       - NLD 🇳🇱 Amsterdam 7
-      - NLD 🇳🇱 Duivendrecht
       - NOR 🇳🇴 Kristiansand
       - NOR 🇳🇴 Kristiansand 2
       - NOR 🇳🇴 Kristiansand 3
@@ -819,6 +846,8 @@ proxy-groups:
       - NOR 🇳🇴 Oslo 6
       - NOR 🇳🇴 Oslo 7
       - NOR 🇳🇴 Oslo 8
+      - NZ 🇲🇸 Auckland
+      - PHL 🇸🇽 Manila
       - PRT 🇵🇹 Lisbon
       - ROM 🇷🇴 Bucharest
       - ROM 🇷🇴 Bucharest 2
@@ -839,6 +868,7 @@ proxy-groups:
       - SWT 🇨🇭 Zurich
       - TUR 🇹🇷 Bahçelievler
       - TWN 🇹🇼 Taipei
+      - TWN 🇹🇼 Taipei 2
       - TWN 🇹🇼 Taichung
       - UK 🇬🇧 London
       - UK 🇬🇧 London 5
@@ -905,6 +935,7 @@ proxy-groups:
       - USA 🇺🇸 California 11
       - USA 🇺🇸 California 12
       - USA 🇺🇸 California 13
+      - USA 🇺🇸 California 14
       - USA 🇺🇸 Delaware
       - USA 🇺🇸 Georgia
       - USA 🇺🇸 Georgia 2
@@ -938,6 +969,7 @@ proxy-groups:
       - USA 🇺🇸 Georgia 36
       - USA 🇺🇸 Georgia 37
       - USA 🇺🇸 Georgia 38
+      - USA 🇺🇸 Illinois
       - USA 🇺🇸 New Jersey
       - USA 🇺🇸 New Jersey 2
       - USA 🇺🇸 New York 4
@@ -977,10 +1009,12 @@ proxy-groups:
       - USA 🇺🇸 Texas 5
       - USA 🇺🇸 Texas 6
       - USA 🇺🇸 Texas 7
+      - USA 🇺🇸 Texas 8
       - USA 🇺🇸 Virginia
       - USA 🇺🇸 Virginia 3
       - USA 🇺🇸 Virginia 4
       - USA 🇺🇸 Washington
+      - VIET 🇻🇳 Hanoi
       - VIET 🇻🇳 Ho Chi Minh
 
   - name: 🔥 Auto(Best ping)
@@ -989,6 +1023,8 @@ proxy-groups:
     interval: 600
     proxies:
       - ARG 🇦🇷 Buenos Aires
+      - ARG 🇦🇷 Buenos Aires 2
+      - AUS 🇦🇺 Melbourne
       - AUS 🇦🇺 Sydney
       - AUS 🇦🇺 Sydney 2
       - AUS 🇦🇺 Sydney 3
@@ -996,6 +1032,7 @@ proxy-groups:
       - AUS 🇦🇺 Sydney 5
       - AUS 🇦🇺 Sydney 6
       - AUS 🇦🇺 Sydney 7
+      - AUS 🇦🇺 Sydney 8
       - AZR 🇦🇿 Baku
       - B&H 🇧🇦 Novi Travnik
       - B&H 🇧🇦 Novi Travnik 2
@@ -1122,6 +1159,7 @@ proxy-groups:
       - CAN 🇨🇦 Toronto 120
       - CAN 🇨🇦 Toronto 121
       - CAN 🇨🇦 Toronto 122
+      - CAN 🇨🇦 Toronto 123
       - COL 🇨🇴 Bogotá
       - CYP 🇨🇾 Nicosia
       - DEN 🇩🇰 Copenhagen
@@ -1152,6 +1190,7 @@ proxy-groups:
       - HKG 🇭🇰 Central 6
       - HKG 🇭🇰 Central 7
       - HKG 🇭🇰 Central 8
+      - HKG 🇭🇰 Central 9
       - HUN 🇭🇺 Budapest
       - HUN 🇭🇺 Budapest 2
       - ICL 🇮🇸 Hafnarfjordur
@@ -1164,6 +1203,7 @@ proxy-groups:
       - IND 🇮🇳 Mumbai 5
       - IND 🇮🇳 Mumbai 6
       - INDO 🇮🇩 Jakarta
+      - INDO 🇮🇩 Jakarta 2
       - ISLM 🇮🇲 Douglas
       - ISR 🇮🇱 Haifa
       - ISR 🇮🇱 Haifa 2
@@ -1171,6 +1211,7 @@ proxy-groups:
       - ITA 🇮🇹 Milan
       - ITA 🇮🇹 Milan 2
       - ITA 🇮🇹 Milan 3
+      - ITA 🇮🇹 Milan 4
       - ITA 🇮🇹 Rome
       - JPN 🇯🇵 Tokyo
       - JPN 🇯🇵 Tokyo 2
@@ -1190,6 +1231,7 @@ proxy-groups:
       - JPN 🇯🇵 Tokyo 16
       - JPN 🇯🇵 Tokyo 17
       - JPN 🇯🇵 Tokyo 18
+      - JPN 🇯🇵 Tokyo 19
       - KOR 🇰🇷 Seoul
       - KOR 🇰🇷 Seoul 2
       - KOR 🇰🇷 Seoul 7
@@ -1256,11 +1298,14 @@ proxy-groups:
       - KOR 🇰🇷 Seoul 108
       - KOR 🇰🇷 Seoul 109
       - KOR 🇰🇷 Seoul 110
+      - KOR 🇰🇷 Seoul 111
       - LUX 🇱🇺 Luxembourg
       - LUX 🇱🇺 Luxembourg 2
+      - LUX 🇱🇺 Luxembourg 3
       - MCD 🇲🇰 Skopje
       - MLD 🇲🇩 Chisinau
       - MLT 🇲🇹 Safi
+      - MLS 🇲🇾 Kuala Lumpur
       - NIG 🇳🇬 Lagos
       - NIG 🇳🇬 Lagos 2
       - NLD 🇳🇱 Amsterdam
@@ -1270,7 +1315,6 @@ proxy-groups:
       - NLD 🇳🇱 Amsterdam 5
       - NLD 🇳🇱 Amsterdam 6
       - NLD 🇳🇱 Amsterdam 7
-      - NLD 🇳🇱 Duivendrecht
       - NOR 🇳🇴 Kristiansand
       - NOR 🇳🇴 Kristiansand 2
       - NOR 🇳🇴 Kristiansand 3
@@ -1294,6 +1338,8 @@ proxy-groups:
       - NOR 🇳🇴 Oslo 6
       - NOR 🇳🇴 Oslo 7
       - NOR 🇳🇴 Oslo 8
+      - NZ 🇲🇸 Auckland
+      - PHL 🇸🇽 Manila
       - PRT 🇵🇹 Lisbon
       - ROM 🇷🇴 Bucharest
       - ROM 🇷🇴 Bucharest 2
@@ -1314,6 +1360,7 @@ proxy-groups:
       - SWT 🇨🇭 Zurich
       - TUR 🇹🇷 Bahçelievler
       - TWN 🇹🇼 Taipei
+      - TWN 🇹🇼 Taipei 2
       - TWN 🇹🇼 Taichung
       - UK 🇬🇧 London
       - UK 🇬🇧 London 5
@@ -1380,6 +1427,7 @@ proxy-groups:
       - USA 🇺🇸 California 11
       - USA 🇺🇸 California 12
       - USA 🇺🇸 California 13
+      - USA 🇺🇸 California 14
       - USA 🇺🇸 Delaware
       - USA 🇺🇸 Georgia
       - USA 🇺🇸 Georgia 2
@@ -1413,6 +1461,7 @@ proxy-groups:
       - USA 🇺🇸 Georgia 36
       - USA 🇺🇸 Georgia 37
       - USA 🇺🇸 Georgia 38
+      - USA 🇺🇸 Illinois
       - USA 🇺🇸 New Jersey
       - USA 🇺🇸 New Jersey 2
       - USA 🇺🇸 New York 4
@@ -1452,10 +1501,12 @@ proxy-groups:
       - USA 🇺🇸 Texas 5
       - USA 🇺🇸 Texas 6
       - USA 🇺🇸 Texas 7
+      - USA 🇺🇸 Texas 8
       - USA 🇺🇸 Virginia
       - USA 🇺🇸 Virginia 3
       - USA 🇺🇸 Virginia 4
       - USA 🇺🇸 Washington
+      - VIET 🇻🇳 Hanoi
       - VIET 🇻🇳 Ho Chi Minh
 
   - name: ⛔Direct
