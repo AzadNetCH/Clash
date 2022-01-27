@@ -11,9 +11,8 @@ dns:
   nameserver:
     - https://mozilla.cloudflare-dns.com/dns-query
     - https://doh-de.blahdns.com/dns-query
-    - https://doh.dnswarden.com/uncensored
-    - https://EU2.DNS.LAVATE.CH/dns-query
-    - https://DNS.HeN.ee/dns-query
+    - https://dns.dnshome.de/dns-query
+    - https://dns.hostux.net/dns-query
     - https://NoTMIKE.dev/dns.php
     - tls://dns.google:853
     - https://dns.google/dns-query
@@ -21,19 +20,18 @@ dns:
     - https://dns.adguard.com/dns-query
     - https://dnsforge.de/dns-query
     - https://dns.quad9.net/dns-query
-    - https://dns.hostux.net/dns-query
     - https://doh.42l.fr/dns-query
-    - https://dns.dnshome.de/dns-query
     - https://dns.switch.ch/dns-query
     - https://NoTMIKE.dev/dns.php
     - https://DANDELIONSPROUT.Asuscomm.com:2501/dns-query
     - https://DNS.HeN.ee/dns-query
+    - https://EU2.DNS.LAVATE.CH/dns-query
+    - https://doh.dnswarden.com/uncensored
   fallback:
     - https://mozilla.cloudflare-dns.com/dns-query
     - https://doh-de.blahdns.com/dns-query
-    - https://doh.dnswarden.com/uncensored
-    - https://EU2.DNS.LAVATE.CH/dns-query
-    - https://DNS.HeN.ee/dns-query
+    - https://dns.dnshome.de/dns-query
+    - https://dns.hostux.net/dns-query
     - https://NoTMIKE.dev/dns.php
     - tls://dns.google:853
     - https://dns.google/dns-query
@@ -41,13 +39,13 @@ dns:
     - https://dns.adguard.com/dns-query
     - https://dnsforge.de/dns-query
     - https://dns.quad9.net/dns-query
-    - https://dns.hostux.net/dns-query
     - https://doh.42l.fr/dns-query
-    - https://dns.dnshome.de/dns-query
     - https://dns.switch.ch/dns-query
     - https://NoTMIKE.dev/dns.php
     - https://DANDELIONSPROUT.Asuscomm.com:2501/dns-query
     - https://DNS.HeN.ee/dns-query
+    - https://EU2.DNS.LAVATE.CH/dns-query
+    - https://doh.dnswarden.com/uncensored
   fallback-filter:
     geoip: true
 proxies:
