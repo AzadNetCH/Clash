@@ -9,6 +9,8 @@ dns:
   ipv6: false
   enhanced-mode: redir-host
   nameserver:
+    - tls://one.one.one.one:853
+    - https://azure.cloudflare-dns.com/dns-query
     - https://mozilla.cloudflare-dns.com/dns-query
     - https://doh-de.blahdns.com/dns-query
     - https://dns.dnshome.de/dns-query
@@ -28,6 +30,8 @@ dns:
     - https://EU2.DNS.LAVATE.CH/dns-query
     - https://doh.dnswarden.com/uncensored
   fallback:
+    - tls://one.one.one.one:853
+    - https://azure.cloudflare-dns.com/dns-query
     - https://mozilla.cloudflare-dns.com/dns-query
     - https://doh-de.blahdns.com/dns-query
     - https://dns.dnshome.de/dns-query
