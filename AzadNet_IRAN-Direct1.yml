@@ -9,47 +9,47 @@ dns:
   ipv6: false
   enhanced-mode: redir-host
   nameserver:
-    - tls://one.one.one.one:853
     - https://azure.cloudflare-dns.com/dns-query
-    - https://mozilla.cloudflare-dns.com/dns-query
-    - https://doh-de.blahdns.com/dns-query
     - https://dns.dnshome.de/dns-query
     - https://dns.hostux.net/dns-query
     - https://NoTMIKE.dev/dns.php
+    - https://doh.42l.fr/dns-query
+    - https://NoTMIKE.dev/dns.php
+    - https://DNS.HeN.ee/dns-query
+    - https://doh.dnswarden.com/uncensored
+    - tls://one.one.one.one:853
     - tls://dns.google:853
     - https://dns.google/dns-query
     - https://cloudflare-dns.com/dns-query
-    - https://dns.adguard.com/dns-query
-    - https://dnsforge.de/dns-query
     - https://dns.quad9.net/dns-query
-    - https://doh.42l.fr/dns-query
-    - https://dns.switch.ch/dns-query
-    - https://NoTMIKE.dev/dns.php
-    - https://DANDELIONSPROUT.Asuscomm.com:2501/dns-query
-    - https://DNS.HeN.ee/dns-query
+    - https://mozilla.cloudflare-dns.com/dns-query
     - https://EU2.DNS.LAVATE.CH/dns-query
-    - https://doh.dnswarden.com/uncensored
+    - https://DANDELIONSPROUT.Asuscomm.com:2501/dns-query
+    - https://dns.switch.ch/dns-query
+    - https://dnsforge.de/dns-query
+    - https://dns.adguard.com/dns-query
+    - https://doh-de.blahdns.com/dns-query
   fallback:
-    - tls://one.one.one.one:853
     - https://azure.cloudflare-dns.com/dns-query
-    - https://mozilla.cloudflare-dns.com/dns-query
-    - https://doh-de.blahdns.com/dns-query
     - https://dns.dnshome.de/dns-query
     - https://dns.hostux.net/dns-query
     - https://NoTMIKE.dev/dns.php
+    - https://doh.42l.fr/dns-query
+    - https://NoTMIKE.dev/dns.php
+    - https://DNS.HeN.ee/dns-query
+    - https://doh.dnswarden.com/uncensored
+    - tls://one.one.one.one:853
     - tls://dns.google:853
     - https://dns.google/dns-query
     - https://cloudflare-dns.com/dns-query
-    - https://dns.adguard.com/dns-query
-    - https://dnsforge.de/dns-query
     - https://dns.quad9.net/dns-query
-    - https://doh.42l.fr/dns-query
-    - https://dns.switch.ch/dns-query
-    - https://NoTMIKE.dev/dns.php
-    - https://DANDELIONSPROUT.Asuscomm.com:2501/dns-query
-    - https://DNS.HeN.ee/dns-query
+    - https://mozilla.cloudflare-dns.com/dns-query
     - https://EU2.DNS.LAVATE.CH/dns-query
-    - https://doh.dnswarden.com/uncensored
+    - https://DANDELIONSPROUT.Asuscomm.com:2501/dns-query
+    - https://dns.switch.ch/dns-query
+    - https://dnsforge.de/dns-query
+    - https://dns.adguard.com/dns-query
+    - https://doh-de.blahdns.com/dns-query
   fallback-filter:
     geoip: true
     geoip-code: IR
