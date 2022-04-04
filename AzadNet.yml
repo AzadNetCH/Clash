@@ -14,7 +14,6 @@ dns:
     - https://dns.hostux.net/dns-query
     - https://NoTMIKE.dev/dns.php
     - https://doh.42l.fr/dns-query
-    - https://NoTMIKE.dev/dns.php
     - https://DNS.HeN.ee/dns-query
     - https://doh.dnswarden.com/uncensored
     - tls://one.one.one.one:853
@@ -35,7 +34,6 @@ dns:
     - https://dns.hostux.net/dns-query
     - https://NoTMIKE.dev/dns.php
     - https://doh.42l.fr/dns-query
-    - https://NoTMIKE.dev/dns.php
     - https://DNS.HeN.ee/dns-query
     - https://doh.dnswarden.com/uncensored
     - tls://one.one.one.one:853
