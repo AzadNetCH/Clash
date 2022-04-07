@@ -301,1344 +301,412 @@ proxy-groups:
     type: select
     proxies:
       - 🔥 Auto(Best ping)
-      - 🇩🇪_1
-      - 🇩🇪_2
-      - 🇩🇪_3
-      - 🇩🇪_4
-      - 🇩🇪_5
-      - 🇩🇪_6
-      - 🇩🇪_7
-      - 🇩🇪_8
-      - 🇩🇪_9
-      - 🇩🇪_10
-      - 🇩🇪_11
-      - 🇩🇪_12
-      - 🇩🇪_13
-      - 🇩🇪_14
-      - 🇬🇧_15
-      - 🇫🇷_16
-      - 🇵🇱_17
-      - 🇵🇱_18
-      - 🇵🇱_19
-      - 🇨🇦_20
-      - 🇨🇦_21
-      - 🇨🇦_22
-      - 🇨🇦_23
-      - 🇨🇦_24
-      - 🇨🇦_25
-      - 🇨🇦_26
-      - 🇨🇦_27
-      - 🇮🇳_28
-      - 🇮🇳_29
-      - 🇮🇳_30
-      - 🇮🇳_31
-      - 🇮🇳_32
-      - 🇮🇳_33
-      - 🇮🇳_34
-      - 🇮🇳_35
-      - 🇮🇳_36
-      - 🇮🇳_37
-      - 🇮🇳_38
-      - Relay_+_14_40Mb_39
-      - 🇸🇬_40
-      - 🇸🇬_41
-      - 🇸🇬_42
-      - 🇸🇬_43
-      - 🇸🇬_44
-      - 🇸🇬_45
-      - 🇸🇬_46
-      - 🇸🇬_47
-      - 🇸🇬_48
-      - 🇸🇬_49
-      - 🇸🇬_50
-      - 🇸🇬_51
-      - 🇸🇬_52
-      - 🇸🇬_53
-      - 🇸🇬_54
-      - 🇸🇬_55
-      - 🇸🇬_56
-      - 🇸🇬_57
-      - 🇫🇷+FR_500
-      - 🇨🇦+CA_192
-      - 🇨🇦+CA_272
-      - 🇨🇦+CA_196
-      - 🇨🇦+CA_180
-      - 🇨🇦+CA_269
-      - 🇨🇦+CA_279
-      - 🇨🇦+CA_267
-      - _33
-      - 🇺🇸+US_2158
-      - 🇺🇸+US_2134
-      - 🇮🇳+IN_718
-      - 🇺🇸+US_2067
-      - 🇺🇸+US_2163
-      - 🇺🇸+US_1088
-      - 🇺🇸+US_2165
-      - 🇺🇸+US_2133
-      - 🇺🇸+US_2172
-      - 🇺🇸+US_2150
-      - 🇺🇸+US_1647
-      - 🇺🇸+US_1144
-      - 🇺🇸+US_2170
-      - 🇺🇸+US_1153
-      - 🇩🇪_81
-      - 🇩🇪_82
-      - 🇩🇪_83
-      - 🇩🇪_84
-      - 🇩🇪_85
-      - 🇩🇪_86
-      - 🇨🇦_87
-      - 🇨🇦_88
-      - 🇨🇦_89
-      - 🇨🇦_90
-      - 🇨🇦_91
-      - 🇨🇦_92
-      - 🇨🇦_93
-      - 🇮🇳_94
-      - 🇮🇳_95
-      - 🇮🇳_96
-      - 🇮🇳_97
-      - 🇮🇳_98
-      - 🇮🇳_99
-      - 🇮🇳_100
-      - 🇮🇳_101
-      - 🇮🇳_102
-      - 🇮🇳_103
-      - 🇮🇳_104
-      - 🇮🇳_105
-      - 🇮🇳_106
-      - 🇮🇳_107
-      - 🇮🇳_108
-      - 🇮🇳_109
-      - 🇩🇪_110
-      - 🇩🇪_111
-      - 🇩🇪_112
-      - 🇩🇪_113
-      - 🇨🇦_114
-      - 🇨🇦_115
-      - 🇨🇦_116
-      - 🇨🇦_117
-      - 🇨🇦_118
-      - 🇨🇦_119
-      - 🇨🇦_120
-      - 🇮🇳_121
-      - 🇮🇳_122
-      - 🇮🇳_123
-      - 🇮🇳_124
-      - 🇮🇳_125
-      - 🇮🇳_126
-      - 🇮🇳_127
-      - 🇮🇳_128
-      - 🇮🇳_129
-      - 🇮🇳_130
-      - 🇮🇳_131
-      - 🇮🇳_132
-      - 🇮🇳_133
-      - 🇮🇳_134
-      - 🇮🇳_135
-      - 🇮🇳_136
-      - 🇮🇳_137
-      - 🇮🇳_138
-      - 🇮🇳_139
-      - 🇮🇳_140
-      - 🇩🇪_141
-      - 🇩🇪_142
-      - 🇩🇪_143
-      - 🇫🇷_144
-      - 🇫🇷_145
-      - 🇩🇪_146
-      - 🇫🇷+FR_523
-      - 🇫🇷+FR_549
-      - 🇮🇳+IN_710
-      - 🇮🇳+IN_709
-      - 🇸🇬+SG_958
-      - 🇩🇪_152
-      - 🇩🇪_153
-      - 🇩🇪_154
-      - 🇩🇪_155
-      - 🇬🇧_156
-      - 🇩🇪_157
-      - 🇩🇪_158
-      - 🇺🇸+US_1524
-      - 🇺🇸+US_1679
-      - 🇩🇪_161
-      - 🇩🇪+DE_774
-      - 🇩🇪+DE_762
-      - 🇩🇪+DE_744
-      - 🇩🇪+DE_750
-      - 🇩🇪+DE_749
-      - 🇩🇪+DE_773
-      - 🇩🇪+DE_772
-      - 🇩🇪+DE_746
-      - UnitedKingdom🇬🇧_170
-      - Germany🇩🇪_171
-      - France🇨🇵_172
-      - UnitedKingdom🇬🇧_173
-      - Belgium🇧🇪_174
-      - UnitedKingdomLondon🇬🇧_175
-      - UnitedKingdom🇬🇧_176
-      - France🇨🇵_177
-      - Turkey🇹🇷_178
-      - 🇧🇪_179
-      - Belgium🇧🇪_180
-      - Belgium🇧🇪_181
-      - France🇨🇵_182
-      - UnitedKingdom🇬🇧_183
-      - UnitedStates،NewYork🇺🇸_184
-      - France🇨🇵_185
-      - UnitedStates_NewYork🇺🇸_186
-      - NewYork🇺🇸_187
-      - UnitedStatesNewYork🇺🇲_188
-      - UnitedStatesNewYork🇺🇲_189
-      - UnitedStatesNewYork🇺🇲_190
-      - UnitedStatesNewYork🇺🇸_191
-      - UnitedStatesNewYork🇺🇲_192
-      - UnitedStatesNewJersey🇺🇸_193
-      - UnitedStates(US)NewYork🇺🇸_194
-      - UnitedStates(US)NewYork🇺🇸_195
-      - UnitedStates(US)NewYork🇺🇲_196
-      - UnitedStates(US)NewYork🇺🇸_197
-      - UnitedStates(US)NewYork🇺🇲_198
-      - Canada(CA)Ontario🇨🇦_199
-      - UnitedStatesNewYork🇺🇲_200
-      - UnitedStatesNewYork🇺🇲_201
-      - UnitedStates(US)NewYork🇺🇲_202
-      - UnitedStates(US)NewYork🇺🇸_203
-      - UnitedStates(US)NewYork🇺🇲_204
-      - Canada(CA)Ontario🇨🇦_205
-      - UnitedStates(US)NewYork🇺🇸_206
-      - UnitedStates(US)NewYork🇺🇲_207
-      - Canada(CA)Ontario🇨🇦_208
-      - UnitedStates(US)NewYork🇺🇲_209
-      - Canada(CA)Ontario🇨🇦_210
-      - Canada(CA)Quebec🇨🇦_211
-      - UnitedStates(US)NewYork🇺🇲_212
-      - UnitedStates(US)NewYork🇺🇲_213
-      - UnitedStates(US)NewYork🇺🇲_214
-      - Turkey🇹🇷_215
-      - Turkey🇹🇷_216
-      - UnitedKingdom🇬🇧_217
-      - Belgium🇧🇪_218
-      - Germany🇩🇪_219
-      - Germany🇩🇪_220
-      - Germany🇩🇪_221
-      - Germany🇩🇪_222
-      - UnitedKingdom🇬🇧_223
-      - UnitedKingdom🇬🇧_224
-      - UnitedKingdom🇬🇧_225
-      - Germany🇩🇪_226
-      - Germany🇩🇪_227
-      - UnitedKingdom🇬🇧_228
-      - UnitedKingdom🇬🇧_229
-      - Netherlands🇳🇱_230
-      - Poland🇵🇱_231
-      - Netherlands🇳🇱_232
-      - UnitedKingdom🇬🇧_233
-      - Poland🇵🇱_234
-      - BosniaandHerzegovina🇧🇦_235
-      - 🇵🇱_236
-      - Poland🇵🇱_237
-      - 🇵🇱_238
-      - UnitedKingdom🇬🇧_239
-      - Poland🇵🇱_240
-      - BosniaandHerzegovina🇧🇦_241
-      - Netherlands🇳🇱_242
-      - BosniaandHerzegovina🇧🇦_243
-      - Germany🇩🇪_244
-      - Netherlands🇳🇱_245
-      - Poland🇵🇱_246
-      - Netherlands🇳🇱_247
-      - Poland🇵🇱_248
-      - Poland🇵🇱_249
-      - UnitedKingdom🇬🇧_250
-      - Netherlands🇳🇱_251
-      - Poland🇵🇱_252
-      - Turkey🇹🇷_253
-      - 🇧🇪M247_254
-      - Belgium🇧🇪_255
-      - Belgium🇧🇪_256
-      - France🇨🇵_257
-      - Turkey🇹🇷_258
-      - Turkey🇹🇷_259
-      - UnitedKingdom🇬🇧_260
-      - Belgium🇧🇪_261
-      - Germany🇩🇪_262
-      - Germany🇩🇪_263
-      - Germany🇩🇪_264
-      - Germany🇩🇪_265
-      - UnitedKingdom🇬🇧_266
-      - UnitedKingdom🇬🇧_267
-      - UnitedKingdom🇬🇧_268
-      - Germany🇩🇪_269
-      - Germany🇩🇪_270
-      - UnitedKingdom🇬🇧_271
-      - 🇩🇪_272
-      - 🇩🇪_273
-      - 🇩🇪_274
-      - 🇩🇪_275
-      - 🇩🇪_276
-      - 🇩🇪_277
-      - 🇩🇪_278
-      - 🇩🇪_279
-      - 🇩🇪_280
-      - 🇩🇪【426节点池】DE_447
-      - 🇩🇪_282
-      - 🇩🇪_283
-      - 🇬🇧_284
-      - 🇩🇪【426节点池】DE_472
-      - 🇬🇧_286
-      - 🇩🇪_287
-      - 🇩🇪【426节点池】DE_452
-      - 🇮🇳India_289
-      - 🇮🇳India_290
-      - 🇮🇳India_291
-      - 🇯🇵Japan_292
-      - 🇯🇵Japan_293
-      - 🇯🇵Japan_294
-      - 🇯🇵Japan_295
-      - 🇯🇵Japan_296
-      - 🇯🇵Japan_297
-      - 🇯🇵Japan_298
-      - 🇯🇵Japan_299
-      - 🇯🇵Japan_300
-      - 🇯🇵Japan_301
-      - 🇯🇵Japan_302
-      - 🇯🇵Japan_303
-      - 🇯🇵Japan_304
-      - 🇯🇵Japan_305
-      - 🇯🇵Japan_306
-      - 🇰🇷Korea,+Republic+of_307
-      - 🇰🇷Korea,+Republic+of_308
-      - 🇰🇷Korea,+Republic+of_309
-      - 🇰🇷Korea,+Republic+of_310
-      - 🇰🇷Korea,+Republic+of_311
-      - 🇰🇷Korea,+Republic+of_312
-      - 🇰🇷Korea,+Republic+of_313
-      - 🇰🇷Korea,+Republic+of_314
-      - 🇰🇷Korea,+Republic+of_315
-      - 🇰🇷Korea,+Republic+of_316
-      - 🇰🇷Korea,+Republic+of_317
-      - 🇰🇷Korea,+Republic+of_318
-      - 🇰🇷Korea,+Republic+of_319
-      - 🇰🇷Korea,+Republic+of_320
-      - 🇰🇷Korea,+Republic+of_321
-      - 🇰🇷Korea,+Republic+of_322
-      - 🇰🇷Korea,+Republic+of_323
-      - 🇰🇷Korea,+Republic+of_324
-      - 🇰🇷Korea,+Republic+of_325
-      - 🇰🇷Korea,+Republic+of_326
-      - 🇰🇷Korea,+Republic+of_327
-      - 🇰🇷Korea,+Republic+of_328
-      - 🇰🇷Korea,+Republic+of_329
-      - 🇰🇷Korea,+Republic+of_330
-      - 🇰🇷Korea,+Republic+of_331
-      - 🇰🇷Korea,+Republic+of_332
-      - 🇰🇷Korea,+Republic+of_333
-      - 🇰🇷Korea,+Republic+of_334
-      - 🇰🇷Korea,+Republic+of_335
-      - 🇰🇷Korea,+Republic+of_336
-      - 🇰🇷Korea,+Republic+of_337
-      - 🇰🇷Korea,+Republic+of_338
-      - 🇰🇷Korea,+Republic+of_339
-      - 🇰🇷Korea,+Republic+of_340
-      - 🇰🇷Korea,+Republic+of_341
-      - 🇰🇷Korea,+Republic+of_342
-      - 🇰🇷Korea,+Republic+of_343
-      - 🇰🇷Korea,+Republic+of_344
-      - 🇰🇷Korea,+Republic+of_345
-      - 🇰🇷Korea,+Republic+of_346
-      - 🇰🇷Korea,+Republic+of_347
-      - 🇰🇷Korea,+Republic+of_348
-      - 🇰🇷Korea,+Republic+of_349
-      - 🇰🇷Korea,+Republic+of_350
-      - 🇰🇷Korea,+Republic+of_351
-      - 🇰🇷Korea,+Republic+of_352
-      - 🇰🇷Korea,+Republic+of_353
-      - 🇰🇷Korea,+Republic+of_354
-      - 🇰🇷Korea,+Republic+of_355
-      - 🇰🇷Korea,+Republic+of_356
-      - 🇮🇹Italy_357
-      - 🇮🇹Italy_358
-      - 🇮🇹Italy_359
-      - 🇦🇺Australia_360
-      - 🇦🇺Australia_361
-      - 🇦🇺Australia_362
-      - 🇦🇺Australia_363
-      - 🇦🇺Australia_364
-      - 🇦🇺Australia_365
-      - 🇦🇺Australia_366
-      - 🇸🇬Singapore_367
-      - 🇬🇧United+Kingdom_368
-      - 🇬🇧United+Kingdom_369
-      - 🇬🇧United+Kingdom_370
-      - 🇬🇧United+Kingdom_371
-      - 🇬🇧United+Kingdom_372
-      - 🇬🇧United+Kingdom_373
-      - 🇬🇧United+Kingdom_374
-      - 🇬🇧United+Kingdom_375
-      - 🇬🇧United+Kingdom_376
-      - 🇬🇧United+Kingdom_377
-      - 🇬🇧United+Kingdom_378
-      - 🇬🇧United+Kingdom_379
-      - 🇬🇧United+Kingdom_380
-      - 🇬🇧United+Kingdom_381
-      - 🇺🇸United+States_382
-      - 🇺🇸United+States_383
-      - 🇺🇸United+States_384
-      - 🇺🇸United+States_385
-      - 🇺🇸United+States_386
-      - 🇺🇸United+States_387
-      - 🇺🇸United+States_388
-      - 🇺🇸United+States_389
-      - 🇺🇸United+States_390
-      - 🇺🇸United+States_391
-      - 🇺🇸United+States_392
-      - 🇺🇸United+States_393
-      - 🇺🇸United+States_394
-      - 🇺🇸United+States_395
-      - 🇺🇸United+States_396
-      - 🇺🇸United+States_397
-      - 🇺🇸United+States_398
-      - 🇺🇸United+States_399
-      - 🇺🇸United+States_400
-      - 🇺🇸United+States_401
-      - 🇺🇸United+States_402
-      - 🇺🇸United+States_403
-      - 🇺🇸United+States_404
-      - 🇺🇸United+States_405
-      - 🇺🇸United+States_406
-      - 🇺🇸United+States_407
-      - 🇺🇸United+States_408
-      - 🇺🇸United+States_409
-      - 🇺🇸United+States_410
-      - 🇺🇸United+States_411
-      - 🇺🇸United+States_412
-      - 🇺🇸United+States_413
-      - 🇺🇸United+States_414
-      - 🇺🇸United+States_415
-      - 🇺🇸United+States_416
-      - 🇺🇸United+States_417
-      - 🇺🇸United+States_418
-      - 🇺🇸United+States_419
-      - 🇺🇸United+States_420
-      - 🇺🇸United+States_421
-      - 🇺🇸United+States_422
-      - 🇺🇸United+States_423
-      - 🇺🇸United+States_424
-      - 🇺🇸United+States_425
-      - 🇺🇸United+States_426
-      - 🇨🇦Canada_427
-      - 🇨🇦Canada_428
-      - 🇨🇦Canada_429
-      - 🇨🇦Canada_430
-      - 🇨🇦Canada_431
-      - 🇨🇦Canada_432
-      - 🇨🇦Canada_433
-      - 🇨🇦Canada_434
-      - 🇨🇦Canada_435
-      - 🇨🇦Canada_436
-      - 🇨🇦Canada_437
-      - 🇨🇦Canada_438
-      - 🇨🇦Canada_439
-      - 🇨🇦Canada_440
-      - 🇨🇦Canada_441
-      - 🇨🇦Canada_442
-      - 🇨🇦Canada_443
-      - 🇨🇦Canada_444
-      - 🇨🇦Canada_445
-      - 🇨🇦Canada_446
-      - 🇨🇦Canada_447
-      - 🇨🇦Canada_448
-      - 🇨🇦Canada_449
-      - 🇨🇦Canada_450
-      - 🇨🇦Canada_451
-      - 🇨🇦Canada_452
-      - 🇨🇦Canada_453
-      - 🇨🇦Canada_454
-      - 🇨🇦Canada_455
-      - 🇨🇦Canada_456
-      - 🇨🇦Canada_457
-      - 🇨🇦Canada_458
-      - 🇨🇦Canada_459
-      - 🇨🇦Canada_460
-      - 🇨🇦Canada_461
-      - 🇨🇦Canada_462
-      - 🇨🇦Canada_463
-      - 🇨🇦Canada_464
-      - 🇨🇦Canada_465
-      - 🇨🇦Canada_466
-      - 🇨🇦Canada_467
-      - 🇨🇦Canada_468
-      - 🇨🇦Canada_469
-      - 🇨🇦Canada_470
-      - 🇨🇦Canada_471
-      - 🇨🇦Canada_472
-      - 🇨🇦Canada_473
-      - 🇨🇦Canada_474
-      - 🇨🇦Canada_475
-      - 🇨🇦Canada_476
-      - 🇨🇦Canada_477
-      - 🇨🇦Canada_478
-      - 🇨🇦Canada_479
-      - 🇨🇦Canada_480
-      - 🇨🇦Canada_481
-      - 🇨🇦Canada_482
-      - 🇨🇦Canada_483
-      - 🇨🇦Canada_484
-      - 🇨🇦Canada_485
-      - 🇨🇦Canada_486
-      - 🇨🇦Canada_487
-      - 🇨🇦Canada_488
-      - 🇦🇺AU_20_10_30Mb_489
-      - 🇦🇺AU_21_9_67Mb_490
-      - 🇦🇺AU_23_11_56Mb_491
-      - 🇦🇺AU_33_11_77Mb_492
-      - Pool_🇧🇦BA_82_11_01Mb_493
-      - Pool_🇧🇦BA_86_12_96Mb_494
-      - 🇨🇦CA_97_9_95Mb_495
-      - _20_56Mb_496
-      - _16_69Mb_497
-      - Pool_🇨🇦CA_126_14_20Mb_498
-      - _20_66Mb_499
-      - _20_49Mb_500
-      - _20_48Mb(1)_501
-      - _20_74Mb(1)_502
-      - 🇨🇦CA_151_8_86Mb_503
-      - _20_71Mb_504
-      - _20_72Mb_505
-      - 🇨🇦CA_180_14_63Mb_506
-      - _20_63Mb_507
-      - _20_06Mb_508
-      - 🇨🇦CA_199_9_43Mb_509
-      - _20_53Mb(1)_510
-      - 🇨🇦CA_212_9_32Mb_511
-      - 🇨🇦CA_226_13_90Mb_512
-      - _20_37Mb_513
-      - _20_74Mb(2)_514
-      - _20_28Mb_515
-      - _20_45Mb(1)_516
-      - _19_80Mb_517
-      - _17_34Mb_518
-      - 🇨🇦CA_253_11_26Mb_519
-      - 🇨🇦CA_257_10_42Mb_520
-      - _20_65Mb(2)_521
-      - 🇨🇦CA_267_13_42Mb_522
-      - _17_12Mb_523
-      - 🇨🇦CA_274_7_95Mb_524
-      - 🇨🇦CA_281_8_91Mb_525
-      - 🇨🇦CA_282_10_29Mb_526
-      - 🇨🇦CA_283_9_33Mb_527
-      - _28_08Mb_528
-      - 🇩🇪DE_396_31_53Mb_529
-      - 🇩🇪DE_407_31_92Mb_530
-      - _16_57Mb_531
-      - _28_14Mb_532
-      - _28_92Mb_533
-      - _25_67Mb_534
-      - _16_55Mb_535
-      - _28_15Mb_536
-      - _24_63Mb(1)_537
-      - 🇮🇳IN_638_14_83Mb_538
-      - _25_38Mb_539
-      - _25_40Mb_540
-      - _26_86Mb_541
-      - _24_22Mb_542
-      - _18_51Mb_543
-      - _17_01Mb_544
-      - _26_38Mb_545
-      - _16_64Mb_546
-      - _25_36Mb_547
-      - _25_79Mb_548
-      - _25_10Mb_549
-      - _22_46Mb_550
-      - _27_93Mb_551
-      - _25_38Mb(1)_552
-      - _25_47Mb_553
-      - 🇮🇳IN_660_13_77Mb_554
-      - _21_35Mb_555
-      - _22_15Mb_556
-      - _22_65Mb_557
-      - _24_18Mb_558
-      - _21_98Mb_559
-      - _26_60Mb_560
-      - 🇮🇳IN_670_12_87Mb_561
-      - 🇮🇳IN_672_11_03Mb_562
-      - _26_89Mb_563
-      - _26_20Mb(1)_564
-      - _27_53Mb_565
-      - _25_49Mb_566
-      - _26_06Mb_567
-      - _24_81Mb_568
-      - _24_28Mb_569
-      - 🇮🇳IN_683_13_60Mb_570
-      - 🇮🇳IN_685_13_68Mb_571
-      - _24_96Mb_572
-      - _18_90Mb(1)_573
-      - _23_75Mb_574
-      - _21_75Mb_575
-      - _26_96Mb_576
-      - _26_28Mb(1)_577
-      - _26_48Mb(1)_578
-      - _26_86Mb(1)_579
-      - _25_00Mb_580
-      - _17_65Mb_581
-      - _17_58Mb_582
-      - _28_30Mb_583
-      - Relay_🇯🇵JP-🇯🇵JP_721_9_24Mb_584
-      - Relay_🇯🇵JP-🇯🇵JP_722_10_62Mb_585
-      - Relay_🇯🇵JP-🇯🇵JP_723_11_48Mb_586
-      - Relay_🇯🇵JP-🇯🇵JP_724_8_97Mb_587
-      - Relay_🇯🇵JP-🇯🇵JP_725_8_63Mb_588
-      - Relay_🇯🇵JP-🇯🇵JP_726_9_78Mb_589
-      - Relay_🇯🇵JP-🇯🇵JP_727_8_27Mb_590
-      - Relay_🇯🇵JP-🇯🇵JP_728_8_98Mb_591
-      - Relay_🇯🇵JP-🇯🇵JP_729_11_95Mb_592
-      - _26_57Mb_593
-      - 🇯🇵JP_736_31_81Mb_594
-      - 🇯🇵JP_739_8_50Mb_595
-      - Relay_🇯🇵JP-🇯🇵JP_740_9_24Mb_596
-      - Relay_🇯🇵JP-🇯🇵JP_741_7_10Mb_597
-      - _21_93Mb_598
-      - _17_91Mb_599
-      - _19_57Mb_600
-      - _22_00Mb_601
-      - 🇯🇵JP_771_35_70Mb_602
-      - 🇯🇵JP_772_14_70Mb_603
-      - _29_12Mb_604
-      - _24_47Mb_605
-      - _25_64Mb_606
-      - _26_43Mb_607
-      - _23_30Mb_608
-      - _26_82Mb_609
-      - _26_67Mb_610
-      - _26_96Mb(1)_611
-      - 🇸🇬SG_859_40_94Mb_612
-      - 🇸🇬SG_862_47_09Mb_613
-      - 🇸🇬SG_865_14_82Mb_614
-      - Relay_🇸🇬SG-🇸🇬SG_866_2_13Mb_615
-      - _29_27Mb_616
-      - _22_19Mb_617
-      - 🇸🇬SG_878_273_06Mb_618
-      - _25_77Mb_619
-      - _15_67Mb_620
-      - _26_81Mb(1)_621
-      - 🇸🇬SG_883_8_16Mb_622
-      - 🇸🇬SG_885_7_29Mb_623
-      - 🇸🇬SG_892_11_79Mb_624
-      - Pool_🇸🇬SG_893_13_11Mb_625
-      - Pool_🇸🇬SG_894_7_15Mb_626
-      - 🇸🇬SG_897_362_63Mb_627
-      - _17_74Mb_628
-      - _24_37Mb_629
-      - _18_15Mb_630
-      - _16_70Mb_631
-      - 🇸🇬SG_903_251_75Mb_632
-      - _17_56Mb_633
-      - 🇸🇬SG_905_49_17Mb_634
-      - 🇸🇬SG_906_124_99Mb_635
-      - _27_06Mb(1)_636
-      - _26_95Mb_637
-      - _28_34Mb(1)_638
-      - _23_22Mb_639
-      - _18_53Mb_640
-      - 🇸🇬SG_913_51_51Mb_641
-      - 🇸🇬SG_914_53_28Mb_642
-      - 🇸🇬SG_915_13_61Mb_643
-      - 🇸🇬SG_917_374_31Mb_644
-      - 🇸🇬SG_918_282_40Mb_645
-      - 🇸🇬SG_919_39_64Mb_646
-      - 🇸🇬SG_921_50_94Mb_647
-      - 🇸🇬SG_924_7_69Mb_648
-      - 🇸🇬SG_926_2_67Mb_649
-      - 🇺🇸US_951_12_46Mb_650
-      - 🇺🇸US_952_13_63Mb_651
-      - _18_96Mb(1)_652
-      - 🇺🇸US_967_13_64Mb_653
-      - 🇺🇸US_968_11_98Mb_654
-      - _20_46Mb_655
-      - 🇺🇸US_980_14_03Mb_656
-      - 🇺🇸US_984_14_15Mb_657
-      - 🇺🇸US_985_11_89Mb_658
-      - _18_61Mb(1)_659
-      - 🇺🇸US_1001_11_23Mb_660
-      - 🇺🇸US_1004_11_85Mb_661
-      - _20_35Mb_662
-      - _18_56Mb(1)_663
-      - _20_65Mb(3)_664
-      - 🇺🇸US_1027_10_36Mb_665
-      - _17_68Mb(1)_666
+      - AE 🇦🇪 Dubai @AzadNet
+      - AE 🇦🇪 Sharjah @AzadNet
+      - AE 🇦🇪 Sharjah @AzadNet 2
+      - AU 🇦🇺 Sydney @AzadNet
+      - AU 🇦🇺 Sydney @AzadNet 2
+      - AU 🇦🇺 Sydney @AzadNet 3
+      - AU 🇦🇺 Sydney @AzadNet 4
+      - AZ 🇦🇿 @AzadNet
+      - BA 🇧🇦 Novi Travnik @AzadNet
+      - BA 🇧🇦 Novi Travnik @AzadNet 2
+      - BA 🇧🇦 Novi Travnik @AzadNet 3
+      - BA 🇧🇦 Novi Travnik @AzadNet 4
+      - BA 🇧🇦 Novi Travnik @AzadNet 5
+      - BA 🇧🇦 Novi Travnik @AzadNet 6
+      - BA 🇧🇦 Novi Travnik @AzadNet 7
+      - BA 🇧🇦 Novi Travnik @AzadNet 8
+      - BA 🇧🇦 Novi Travnik @AzadNet 9
+      - BE 🇧🇪 Brussels @AzadNet
+      - CA 🇨🇦 Toronto @AzadNet
+      - CA 🇨🇦 Toronto @AzadNet 2
+      - CA 🇨🇦 Toronto @AzadNet 3
+      - CA 🇨🇦 Toronto @AzadNet 4
+      - CA 🇨🇦 Toronto @AzadNet 5
+      - CA 🇨🇦 Toronto @AzadNet 6
+      - CA 🇨🇦 Toronto @AzadNet 7
+      - CH 🇨🇭 Zurich @AzadNet
+      - CN 🇨🇳 @AzadNet
+      - CY 🇨🇾 @AzadNet
+      - DE 🇩🇪 @AzadNet
+      - DE 🇩🇪 @AzadNet 2
+      - DE 🇩🇪 @AzadNet 3
+      - DE 🇩🇪 Düsseldorf @AzadNet
+      - DE 🇩🇪 Frankfurt am Main @AzadNet
+      - DE 🇩🇪 Frankfurt am Main @AzadNet 2
+      - DE 🇩🇪 Frankfurt am Main @AzadNet 3
+      - DE 🇩🇪 Frankfurt am Main @AzadNet 4
+      - ES 🇪🇸 Madrid @AzadNet
+      - FR 🇫🇷 @AzadNet
+      - FR 🇫🇷 @AzadNet 2
+      - FR 🇫🇷 @AzadNet 3
+      - FR 🇫🇷 Vélizy-Villacoublay @AzadNet
+      - GB 🇬🇧 @AzadNet
+      - GB 🇬🇧 @AzadNet 2
+      - GB 🇬🇧 @AzadNet 3
+      - GB 🇬🇧 London @AzadNet
+      - GB 🇬🇧 London @AzadNet 2
+      - GB 🇬🇧 London @AzadNet 3
+      - GR 🇬🇷 Thessaloniki @AzadNet
+      - HK 🇭🇰 Central @AzadNet
+      - HK 🇭🇰 Central @AzadNet 2
+      - ID 🇮🇩 @AzadNet
+      - IL 🇮🇱 Jerusalem @AzadNet
+      - IL 🇮🇱 Jerusalem @AzadNet 2
+      - IM 🇮🇲 Douglas @AzadNet
+      - IN 🇮🇳 Mumbai @AzadNet
+      - IN 🇮🇳 Mumbai @AzadNet 2
+      - IN 🇮🇳 Mumbai @AzadNet 3
+      - IS 🇮🇸 @AzadNet
+      - IT 🇮🇹 @AzadNet
+      - IT 🇮🇹 @AzadNet 2
+      - IT 🇮🇹 Milan @AzadNet
+      - IT 🇮🇹 Milan @AzadNet 2
+      - JP 🇯🇵 Tokyo @AzadNet
+      - JP 🇯🇵 Tokyo @AzadNet 2
+      - JP 🇯🇵 Tokyo @AzadNet 3
+      - JP 🇯🇵 Tokyo @AzadNet 4
+      - KR 🇰🇷 Seoul @AzadNet
+      - KR 🇰🇷 Seoul @AzadNet 2
+      - KR 🇰🇷 Seoul @AzadNet 3
+      - KR 🇰🇷 Seoul @AzadNet 4
+      - LU 🇱🇺 Luxembourg @AzadNet
+      - MD 🇲🇩 Chisinau @AzadNet
+      - NL 🇳🇱 @AzadNet
+      - NL 🇳🇱 @AzadNet 2
+      - NL 🇳🇱 @AzadNet 3
+      - NL 🇳🇱 @AzadNet 4
+      - NL 🇳🇱 @AzadNet 5
+      - NL 🇳🇱 Amsterdam @AzadNet
+      - NL 🇳🇱 Amsterdam @AzadNet 2
+      - NL 🇳🇱 Amsterdam @AzadNet 3
+      - PL 🇵🇱 @AzadNet
+      - PL 🇵🇱 @AzadNet 2
+      - PL 🇵🇱 Warsaw @AzadNet
+      - RO 🇷🇴 @AzadNet
+      - RU 🇷🇺 @AzadNet
+      - RU 🇷🇺 Moscow @AzadNet
+      - RU 🇷🇺 Moscow @AzadNet 2
+      - RU 🇷🇺 Moscow @AzadNet 3
+      - RU 🇷🇺 Moscow @AzadNet 4
+      - SE 🇸🇪 Stockholm @AzadNet
+      - SE 🇸🇪 Stockholm @AzadNet 2
+      - SG 🇸🇬 Singapore @AzadNet
+      - SG 🇸🇬 Singapore @AzadNet 2
+      - SG 🇸🇬 Singapore @AzadNet 3
+      - SG 🇸🇬 Singapore @AzadNet 4
+      - SG 🇸🇬 Singapore @AzadNet 5
+      - SG 🇸🇬 Singapore @AzadNet 6
+      - SG 🇸🇬 Singapore @AzadNet 7
+      - SG 🇸🇬 Singapore @AzadNet 8
+      - SG 🇸🇬 Singapore @AzadNet 9
+      - SG 🇸🇬 Singapore @AzadNet 10
+      - SG 🇸🇬 Singapore @AzadNet 11
+      - SG 🇸🇬 Singapore @AzadNet 12
+      - SG 🇸🇬 Singapore @AzadNet 13
+      - SI 🇸🇮 Ljubljana @AzadNet
+      - TH 🇹🇭 @AzadNet
+      - TR 🇹🇷 @AzadNet
+      - TR 🇹🇷 Istanbul @AzadNet
+      - TW 🇹🇼 New Taipei @AzadNet
+      - UA 🇺🇦 @AzadNet
+      - UA 🇺🇦 @AzadNet 2
+      - UA 🇺🇦 @AzadNet 3
+      - UA 🇺🇦 Dnipropetrovsk @AzadNet
+      - UA 🇺🇦 Khmelnytskyy @AzadNet
+      - UA 🇺🇦 Kyiv @AzadNet
+      - UA 🇺🇦 Kyiv @AzadNet 2
+      - US 🇺🇸 @AzadNet
+      - US 🇺🇸 @AzadNet 2
+      - US 🇺🇸 Atlanta @AzadNet
+      - US 🇺🇸 Atlanta @AzadNet 2
+      - US 🇺🇸 Atlanta @AzadNet 3
+      - US 🇺🇸 Atlanta @AzadNet 4
+      - US 🇺🇸 Atlanta @AzadNet 5
+      - US 🇺🇸 Atlanta @AzadNet 6
+      - US 🇺🇸 Atlanta @AzadNet 7
+      - US 🇺🇸 Atlanta @AzadNet 8
+      - US 🇺🇸 Atlanta @AzadNet 9
+      - US 🇺🇸 Atlanta @AzadNet 10
+      - US 🇺🇸 Atlanta @AzadNet 11
+      - US 🇺🇸 Atlanta @AzadNet 12
+      - US 🇺🇸 Atlanta @AzadNet 13
+      - US 🇺🇸 Atlanta @AzadNet 14
+      - US 🇺🇸 Atlanta @AzadNet 15
+      - US 🇺🇸 Atlanta @AzadNet 16
+      - US 🇺🇸 Atlanta @AzadNet 17
+      - US 🇺🇸 Atlanta @AzadNet 18
+      - US 🇺🇸 Atlanta @AzadNet 19
+      - US 🇺🇸 Atlanta @AzadNet 20
+      - US 🇺🇸 Atlanta @AzadNet 21
+      - US 🇺🇸 Atlanta @AzadNet 22
+      - US 🇺🇸 Atlanta @AzadNet 23
+      - US 🇺🇸 Atlanta @AzadNet 24
+      - US 🇺🇸 Atlanta @AzadNet 25
+      - US 🇺🇸 Atlanta @AzadNet 26
+      - US 🇺🇸 Atlanta @AzadNet 27
+      - US 🇺🇸 Atlanta @AzadNet 28
+      - US 🇺🇸 Atlanta @AzadNet 29
+      - US 🇺🇸 Atlanta @AzadNet 30
+      - US 🇺🇸 Atlanta @AzadNet 31
+      - US 🇺🇸 Atlanta @AzadNet 32
+      - US 🇺🇸 Atlanta @AzadNet 33
+      - US 🇺🇸 Chicago @AzadNet
+      - US 🇺🇸 Chicago @AzadNet 2
+      - US 🇺🇸 Chicago @AzadNet 3
+      - US 🇺🇸 Chicago @AzadNet 4
+      - US 🇺🇸 Chicago @AzadNet 5
+      - US 🇺🇸 Chicago @AzadNet 6
+      - US 🇺🇸 Chicago @AzadNet 7
+      - US 🇺🇸 Chicago @AzadNet 8
+      - US 🇺🇸 Chicago @AzadNet 9
+      - US 🇺🇸 Chicago @AzadNet 10
+      - US 🇺🇸 Chicago @AzadNet 11
+      - US 🇺🇸 Chicago @AzadNet 12
+      - US 🇺🇸 Chicago @AzadNet 13
+      - US 🇺🇸 Dallas @AzadNet
+      - US 🇺🇸 Dallas @AzadNet 2
+      - US 🇺🇸 Dallas @AzadNet 3
+      - US 🇺🇸 Dallas @AzadNet 4
+      - US 🇺🇸 Dallas @AzadNet 5
+      - US 🇺🇸 Dallas @AzadNet 6
+      - US 🇺🇸 Los Angeles @AzadNet
+      - US 🇺🇸 Los Angeles @AzadNet 2
+      - US 🇺🇸 Los Angeles @AzadNet 3
+      - US 🇺🇸 Los Angeles @AzadNet 4
+      - US 🇺🇸 Memphis @AzadNet
+      - US 🇺🇸 Memphis @AzadNet 2
+      - US 🇺🇸 Miami @AzadNet
+      - US 🇺🇸 Miami @AzadNet 2
+      - US 🇺🇸 Miami @AzadNet 3
+      - US 🇺🇸 Miami @AzadNet 4
+      - US 🇺🇸 Newark @AzadNet
+      - US 🇺🇸 Newark @AzadNet 2
+      - US 🇺🇸 Newark @AzadNet 3
+      - US 🇺🇸 Newark @AzadNet 4
+      - US 🇺🇸 Reston @AzadNet
+      - US 🇺🇸 Reston @AzadNet 2
+      - US 🇺🇸 Reston @AzadNet 3
+      - US 🇺🇸 Santa Clara @AzadNet
+      - US 🇺🇸 Santa Clara @AzadNet 2
+      - US 🇺🇸 Santa Clara @AzadNet 3
+      - US 🇺🇸 Santa Clara @AzadNet 4
+      - US 🇺🇸 Seattle @AzadNet
+      - US 🇺🇸 Seattle @AzadNet 2
+      - US 🇺🇸 Seattle @AzadNet 3
+      - US 🇺🇸 Seattle @AzadNet 4
+      - US 🇺🇸 West New York @AzadNet
+      - VN 🇻🇳 @AzadNet
+      - ZA 🇿🇦 @AzadNet
+      - ZA 🇿🇦 @AzadNet 2
+      - ZA 🇿🇦 Johannesburg @AzadNet
 
   - name: 🔥 Auto(Best ping)
     type: url-test
     url: http://connectivitycheck.gstatic.com/generate_204
     interval: 600
     proxies:
-      - 🇩🇪_1
-      - 🇩🇪_2
-      - 🇩🇪_3
-      - 🇩🇪_4
-      - 🇩🇪_5
-      - 🇩🇪_6
-      - 🇩🇪_7
-      - 🇩🇪_8
-      - 🇩🇪_9
-      - 🇩🇪_10
-      - 🇩🇪_11
-      - 🇩🇪_12
-      - 🇩🇪_13
-      - 🇩🇪_14
-      - 🇬🇧_15
-      - 🇫🇷_16
-      - 🇵🇱_17
-      - 🇵🇱_18
-      - 🇵🇱_19
-      - 🇨🇦_20
-      - 🇨🇦_21
-      - 🇨🇦_22
-      - 🇨🇦_23
-      - 🇨🇦_24
-      - 🇨🇦_25
-      - 🇨🇦_26
-      - 🇨🇦_27
-      - 🇮🇳_28
-      - 🇮🇳_29
-      - 🇮🇳_30
-      - 🇮🇳_31
-      - 🇮🇳_32
-      - 🇮🇳_33
-      - 🇮🇳_34
-      - 🇮🇳_35
-      - 🇮🇳_36
-      - 🇮🇳_37
-      - 🇮🇳_38
-      - Relay_+_14_40Mb_39
-      - 🇸🇬_40
-      - 🇸🇬_41
-      - 🇸🇬_42
-      - 🇸🇬_43
-      - 🇸🇬_44
-      - 🇸🇬_45
-      - 🇸🇬_46
-      - 🇸🇬_47
-      - 🇸🇬_48
-      - 🇸🇬_49
-      - 🇸🇬_50
-      - 🇸🇬_51
-      - 🇸🇬_52
-      - 🇸🇬_53
-      - 🇸🇬_54
-      - 🇸🇬_55
-      - 🇸🇬_56
-      - 🇸🇬_57
-      - 🇫🇷+FR_500
-      - 🇨🇦+CA_192
-      - 🇨🇦+CA_272
-      - 🇨🇦+CA_196
-      - 🇨🇦+CA_180
-      - 🇨🇦+CA_269
-      - 🇨🇦+CA_279
-      - 🇨🇦+CA_267
-      - _33
-      - 🇺🇸+US_2158
-      - 🇺🇸+US_2134
-      - 🇮🇳+IN_718
-      - 🇺🇸+US_2067
-      - 🇺🇸+US_2163
-      - 🇺🇸+US_1088
-      - 🇺🇸+US_2165
-      - 🇺🇸+US_2133
-      - 🇺🇸+US_2172
-      - 🇺🇸+US_2150
-      - 🇺🇸+US_1647
-      - 🇺🇸+US_1144
-      - 🇺🇸+US_2170
-      - 🇺🇸+US_1153
-      - 🇩🇪_81
-      - 🇩🇪_82
-      - 🇩🇪_83
-      - 🇩🇪_84
-      - 🇩🇪_85
-      - 🇩🇪_86
-      - 🇨🇦_87
-      - 🇨🇦_88
-      - 🇨🇦_89
-      - 🇨🇦_90
-      - 🇨🇦_91
-      - 🇨🇦_92
-      - 🇨🇦_93
-      - 🇮🇳_94
-      - 🇮🇳_95
-      - 🇮🇳_96
-      - 🇮🇳_97
-      - 🇮🇳_98
-      - 🇮🇳_99
-      - 🇮🇳_100
-      - 🇮🇳_101
-      - 🇮🇳_102
-      - 🇮🇳_103
-      - 🇮🇳_104
-      - 🇮🇳_105
-      - 🇮🇳_106
-      - 🇮🇳_107
-      - 🇮🇳_108
-      - 🇮🇳_109
-      - 🇩🇪_110
-      - 🇩🇪_111
-      - 🇩🇪_112
-      - 🇩🇪_113
-      - 🇨🇦_114
-      - 🇨🇦_115
-      - 🇨🇦_116
-      - 🇨🇦_117
-      - 🇨🇦_118
-      - 🇨🇦_119
-      - 🇨🇦_120
-      - 🇮🇳_121
-      - 🇮🇳_122
-      - 🇮🇳_123
-      - 🇮🇳_124
-      - 🇮🇳_125
-      - 🇮🇳_126
-      - 🇮🇳_127
-      - 🇮🇳_128
-      - 🇮🇳_129
-      - 🇮🇳_130
-      - 🇮🇳_131
-      - 🇮🇳_132
-      - 🇮🇳_133
-      - 🇮🇳_134
-      - 🇮🇳_135
-      - 🇮🇳_136
-      - 🇮🇳_137
-      - 🇮🇳_138
-      - 🇮🇳_139
-      - 🇮🇳_140
-      - 🇩🇪_141
-      - 🇩🇪_142
-      - 🇩🇪_143
-      - 🇫🇷_144
-      - 🇫🇷_145
-      - 🇩🇪_146
-      - 🇫🇷+FR_523
-      - 🇫🇷+FR_549
-      - 🇮🇳+IN_710
-      - 🇮🇳+IN_709
-      - 🇸🇬+SG_958
-      - 🇩🇪_152
-      - 🇩🇪_153
-      - 🇩🇪_154
-      - 🇩🇪_155
-      - 🇬🇧_156
-      - 🇩🇪_157
-      - 🇩🇪_158
-      - 🇺🇸+US_1524
-      - 🇺🇸+US_1679
-      - 🇩🇪_161
-      - 🇩🇪+DE_774
-      - 🇩🇪+DE_762
-      - 🇩🇪+DE_744
-      - 🇩🇪+DE_750
-      - 🇩🇪+DE_749
-      - 🇩🇪+DE_773
-      - 🇩🇪+DE_772
-      - 🇩🇪+DE_746
-      - UnitedKingdom🇬🇧_170
-      - Germany🇩🇪_171
-      - France🇨🇵_172
-      - UnitedKingdom🇬🇧_173
-      - Belgium🇧🇪_174
-      - UnitedKingdomLondon🇬🇧_175
-      - UnitedKingdom🇬🇧_176
-      - France🇨🇵_177
-      - Turkey🇹🇷_178
-      - 🇧🇪_179
-      - Belgium🇧🇪_180
-      - Belgium🇧🇪_181
-      - France🇨🇵_182
-      - UnitedKingdom🇬🇧_183
-      - UnitedStates،NewYork🇺🇸_184
-      - France🇨🇵_185
-      - UnitedStates_NewYork🇺🇸_186
-      - NewYork🇺🇸_187
-      - UnitedStatesNewYork🇺🇲_188
-      - UnitedStatesNewYork🇺🇲_189
-      - UnitedStatesNewYork🇺🇲_190
-      - UnitedStatesNewYork🇺🇸_191
-      - UnitedStatesNewYork🇺🇲_192
-      - UnitedStatesNewJersey🇺🇸_193
-      - UnitedStates(US)NewYork🇺🇸_194
-      - UnitedStates(US)NewYork🇺🇸_195
-      - UnitedStates(US)NewYork🇺🇲_196
-      - UnitedStates(US)NewYork🇺🇸_197
-      - UnitedStates(US)NewYork🇺🇲_198
-      - Canada(CA)Ontario🇨🇦_199
-      - UnitedStatesNewYork🇺🇲_200
-      - UnitedStatesNewYork🇺🇲_201
-      - UnitedStates(US)NewYork🇺🇲_202
-      - UnitedStates(US)NewYork🇺🇸_203
-      - UnitedStates(US)NewYork🇺🇲_204
-      - Canada(CA)Ontario🇨🇦_205
-      - UnitedStates(US)NewYork🇺🇸_206
-      - UnitedStates(US)NewYork🇺🇲_207
-      - Canada(CA)Ontario🇨🇦_208
-      - UnitedStates(US)NewYork🇺🇲_209
-      - Canada(CA)Ontario🇨🇦_210
-      - Canada(CA)Quebec🇨🇦_211
-      - UnitedStates(US)NewYork🇺🇲_212
-      - UnitedStates(US)NewYork🇺🇲_213
-      - UnitedStates(US)NewYork🇺🇲_214
-      - Turkey🇹🇷_215
-      - Turkey🇹🇷_216
-      - UnitedKingdom🇬🇧_217
-      - Belgium🇧🇪_218
-      - Germany🇩🇪_219
-      - Germany🇩🇪_220
-      - Germany🇩🇪_221
-      - Germany🇩🇪_222
-      - UnitedKingdom🇬🇧_223
-      - UnitedKingdom🇬🇧_224
-      - UnitedKingdom🇬🇧_225
-      - Germany🇩🇪_226
-      - Germany🇩🇪_227
-      - UnitedKingdom🇬🇧_228
-      - UnitedKingdom🇬🇧_229
-      - Netherlands🇳🇱_230
-      - Poland🇵🇱_231
-      - Netherlands🇳🇱_232
-      - UnitedKingdom🇬🇧_233
-      - Poland🇵🇱_234
-      - BosniaandHerzegovina🇧🇦_235
-      - 🇵🇱_236
-      - Poland🇵🇱_237
-      - 🇵🇱_238
-      - UnitedKingdom🇬🇧_239
-      - Poland🇵🇱_240
-      - BosniaandHerzegovina🇧🇦_241
-      - Netherlands🇳🇱_242
-      - BosniaandHerzegovina🇧🇦_243
-      - Germany🇩🇪_244
-      - Netherlands🇳🇱_245
-      - Poland🇵🇱_246
-      - Netherlands🇳🇱_247
-      - Poland🇵🇱_248
-      - Poland🇵🇱_249
-      - UnitedKingdom🇬🇧_250
-      - Netherlands🇳🇱_251
-      - Poland🇵🇱_252
-      - Turkey🇹🇷_253
-      - 🇧🇪M247_254
-      - Belgium🇧🇪_255
-      - Belgium🇧🇪_256
-      - France🇨🇵_257
-      - Turkey🇹🇷_258
-      - Turkey🇹🇷_259
-      - UnitedKingdom🇬🇧_260
-      - Belgium🇧🇪_261
-      - Germany🇩🇪_262
-      - Germany🇩🇪_263
-      - Germany🇩🇪_264
-      - Germany🇩🇪_265
-      - UnitedKingdom🇬🇧_266
-      - UnitedKingdom🇬🇧_267
-      - UnitedKingdom🇬🇧_268
-      - Germany🇩🇪_269
-      - Germany🇩🇪_270
-      - UnitedKingdom🇬🇧_271
-      - 🇩🇪_272
-      - 🇩🇪_273
-      - 🇩🇪_274
-      - 🇩🇪_275
-      - 🇩🇪_276
-      - 🇩🇪_277
-      - 🇩🇪_278
-      - 🇩🇪_279
-      - 🇩🇪_280
-      - 🇩🇪【426节点池】DE_447
-      - 🇩🇪_282
-      - 🇩🇪_283
-      - 🇬🇧_284
-      - 🇩🇪【426节点池】DE_472
-      - 🇬🇧_286
-      - 🇩🇪_287
-      - 🇩🇪【426节点池】DE_452
-      - 🇮🇳India_289
-      - 🇮🇳India_290
-      - 🇮🇳India_291
-      - 🇯🇵Japan_292
-      - 🇯🇵Japan_293
-      - 🇯🇵Japan_294
-      - 🇯🇵Japan_295
-      - 🇯🇵Japan_296
-      - 🇯🇵Japan_297
-      - 🇯🇵Japan_298
-      - 🇯🇵Japan_299
-      - 🇯🇵Japan_300
-      - 🇯🇵Japan_301
-      - 🇯🇵Japan_302
-      - 🇯🇵Japan_303
-      - 🇯🇵Japan_304
-      - 🇯🇵Japan_305
-      - 🇯🇵Japan_306
-      - 🇰🇷Korea,+Republic+of_307
-      - 🇰🇷Korea,+Republic+of_308
-      - 🇰🇷Korea,+Republic+of_309
-      - 🇰🇷Korea,+Republic+of_310
-      - 🇰🇷Korea,+Republic+of_311
-      - 🇰🇷Korea,+Republic+of_312
-      - 🇰🇷Korea,+Republic+of_313
-      - 🇰🇷Korea,+Republic+of_314
-      - 🇰🇷Korea,+Republic+of_315
-      - 🇰🇷Korea,+Republic+of_316
-      - 🇰🇷Korea,+Republic+of_317
-      - 🇰🇷Korea,+Republic+of_318
-      - 🇰🇷Korea,+Republic+of_319
-      - 🇰🇷Korea,+Republic+of_320
-      - 🇰🇷Korea,+Republic+of_321
-      - 🇰🇷Korea,+Republic+of_322
-      - 🇰🇷Korea,+Republic+of_323
-      - 🇰🇷Korea,+Republic+of_324
-      - 🇰🇷Korea,+Republic+of_325
-      - 🇰🇷Korea,+Republic+of_326
-      - 🇰🇷Korea,+Republic+of_327
-      - 🇰🇷Korea,+Republic+of_328
-      - 🇰🇷Korea,+Republic+of_329
-      - 🇰🇷Korea,+Republic+of_330
-      - 🇰🇷Korea,+Republic+of_331
-      - 🇰🇷Korea,+Republic+of_332
-      - 🇰🇷Korea,+Republic+of_333
-      - 🇰🇷Korea,+Republic+of_334
-      - 🇰🇷Korea,+Republic+of_335
-      - 🇰🇷Korea,+Republic+of_336
-      - 🇰🇷Korea,+Republic+of_337
-      - 🇰🇷Korea,+Republic+of_338
-      - 🇰🇷Korea,+Republic+of_339
-      - 🇰🇷Korea,+Republic+of_340
-      - 🇰🇷Korea,+Republic+of_341
-      - 🇰🇷Korea,+Republic+of_342
-      - 🇰🇷Korea,+Republic+of_343
-      - 🇰🇷Korea,+Republic+of_344
-      - 🇰🇷Korea,+Republic+of_345
-      - 🇰🇷Korea,+Republic+of_346
-      - 🇰🇷Korea,+Republic+of_347
-      - 🇰🇷Korea,+Republic+of_348
-      - 🇰🇷Korea,+Republic+of_349
-      - 🇰🇷Korea,+Republic+of_350
-      - 🇰🇷Korea,+Republic+of_351
-      - 🇰🇷Korea,+Republic+of_352
-      - 🇰🇷Korea,+Republic+of_353
-      - 🇰🇷Korea,+Republic+of_354
-      - 🇰🇷Korea,+Republic+of_355
-      - 🇰🇷Korea,+Republic+of_356
-      - 🇮🇹Italy_357
-      - 🇮🇹Italy_358
-      - 🇮🇹Italy_359
-      - 🇦🇺Australia_360
-      - 🇦🇺Australia_361
-      - 🇦🇺Australia_362
-      - 🇦🇺Australia_363
-      - 🇦🇺Australia_364
-      - 🇦🇺Australia_365
-      - 🇦🇺Australia_366
-      - 🇸🇬Singapore_367
-      - 🇬🇧United+Kingdom_368
-      - 🇬🇧United+Kingdom_369
-      - 🇬🇧United+Kingdom_370
-      - 🇬🇧United+Kingdom_371
-      - 🇬🇧United+Kingdom_372
-      - 🇬🇧United+Kingdom_373
-      - 🇬🇧United+Kingdom_374
-      - 🇬🇧United+Kingdom_375
-      - 🇬🇧United+Kingdom_376
-      - 🇬🇧United+Kingdom_377
-      - 🇬🇧United+Kingdom_378
-      - 🇬🇧United+Kingdom_379
-      - 🇬🇧United+Kingdom_380
-      - 🇬🇧United+Kingdom_381
-      - 🇺🇸United+States_382
-      - 🇺🇸United+States_383
-      - 🇺🇸United+States_384
-      - 🇺🇸United+States_385
-      - 🇺🇸United+States_386
-      - 🇺🇸United+States_387
-      - 🇺🇸United+States_388
-      - 🇺🇸United+States_389
-      - 🇺🇸United+States_390
-      - 🇺🇸United+States_391
-      - 🇺🇸United+States_392
-      - 🇺🇸United+States_393
-      - 🇺🇸United+States_394
-      - 🇺🇸United+States_395
-      - 🇺🇸United+States_396
-      - 🇺🇸United+States_397
-      - 🇺🇸United+States_398
-      - 🇺🇸United+States_399
-      - 🇺🇸United+States_400
-      - 🇺🇸United+States_401
-      - 🇺🇸United+States_402
-      - 🇺🇸United+States_403
-      - 🇺🇸United+States_404
-      - 🇺🇸United+States_405
-      - 🇺🇸United+States_406
-      - 🇺🇸United+States_407
-      - 🇺🇸United+States_408
-      - 🇺🇸United+States_409
-      - 🇺🇸United+States_410
-      - 🇺🇸United+States_411
-      - 🇺🇸United+States_412
-      - 🇺🇸United+States_413
-      - 🇺🇸United+States_414
-      - 🇺🇸United+States_415
-      - 🇺🇸United+States_416
-      - 🇺🇸United+States_417
-      - 🇺🇸United+States_418
-      - 🇺🇸United+States_419
-      - 🇺🇸United+States_420
-      - 🇺🇸United+States_421
-      - 🇺🇸United+States_422
-      - 🇺🇸United+States_423
-      - 🇺🇸United+States_424
-      - 🇺🇸United+States_425
-      - 🇺🇸United+States_426
-      - 🇨🇦Canada_427
-      - 🇨🇦Canada_428
-      - 🇨🇦Canada_429
-      - 🇨🇦Canada_430
-      - 🇨🇦Canada_431
-      - 🇨🇦Canada_432
-      - 🇨🇦Canada_433
-      - 🇨🇦Canada_434
-      - 🇨🇦Canada_435
-      - 🇨🇦Canada_436
-      - 🇨🇦Canada_437
-      - 🇨🇦Canada_438
-      - 🇨🇦Canada_439
-      - 🇨🇦Canada_440
-      - 🇨🇦Canada_441
-      - 🇨🇦Canada_442
-      - 🇨🇦Canada_443
-      - 🇨🇦Canada_444
-      - 🇨🇦Canada_445
-      - 🇨🇦Canada_446
-      - 🇨🇦Canada_447
-      - 🇨🇦Canada_448
-      - 🇨🇦Canada_449
-      - 🇨🇦Canada_450
-      - 🇨🇦Canada_451
-      - 🇨🇦Canada_452
-      - 🇨🇦Canada_453
-      - 🇨🇦Canada_454
-      - 🇨🇦Canada_455
-      - 🇨🇦Canada_456
-      - 🇨🇦Canada_457
-      - 🇨🇦Canada_458
-      - 🇨🇦Canada_459
-      - 🇨🇦Canada_460
-      - 🇨🇦Canada_461
-      - 🇨🇦Canada_462
-      - 🇨🇦Canada_463
-      - 🇨🇦Canada_464
-      - 🇨🇦Canada_465
-      - 🇨🇦Canada_466
-      - 🇨🇦Canada_467
-      - 🇨🇦Canada_468
-      - 🇨🇦Canada_469
-      - 🇨🇦Canada_470
-      - 🇨🇦Canada_471
-      - 🇨🇦Canada_472
-      - 🇨🇦Canada_473
-      - 🇨🇦Canada_474
-      - 🇨🇦Canada_475
-      - 🇨🇦Canada_476
-      - 🇨🇦Canada_477
-      - 🇨🇦Canada_478
-      - 🇨🇦Canada_479
-      - 🇨🇦Canada_480
-      - 🇨🇦Canada_481
-      - 🇨🇦Canada_482
-      - 🇨🇦Canada_483
-      - 🇨🇦Canada_484
-      - 🇨🇦Canada_485
-      - 🇨🇦Canada_486
-      - 🇨🇦Canada_487
-      - 🇨🇦Canada_488
-      - 🇦🇺AU_20_10_30Mb_489
-      - 🇦🇺AU_21_9_67Mb_490
-      - 🇦🇺AU_23_11_56Mb_491
-      - 🇦🇺AU_33_11_77Mb_492
-      - Pool_🇧🇦BA_82_11_01Mb_493
-      - Pool_🇧🇦BA_86_12_96Mb_494
-      - 🇨🇦CA_97_9_95Mb_495
-      - _20_56Mb_496
-      - _16_69Mb_497
-      - Pool_🇨🇦CA_126_14_20Mb_498
-      - _20_66Mb_499
-      - _20_49Mb_500
-      - _20_48Mb(1)_501
-      - _20_74Mb(1)_502
-      - 🇨🇦CA_151_8_86Mb_503
-      - _20_71Mb_504
-      - _20_72Mb_505
-      - 🇨🇦CA_180_14_63Mb_506
-      - _20_63Mb_507
-      - _20_06Mb_508
-      - 🇨🇦CA_199_9_43Mb_509
-      - _20_53Mb(1)_510
-      - 🇨🇦CA_212_9_32Mb_511
-      - 🇨🇦CA_226_13_90Mb_512
-      - _20_37Mb_513
-      - _20_74Mb(2)_514
-      - _20_28Mb_515
-      - _20_45Mb(1)_516
-      - _19_80Mb_517
-      - _17_34Mb_518
-      - 🇨🇦CA_253_11_26Mb_519
-      - 🇨🇦CA_257_10_42Mb_520
-      - _20_65Mb(2)_521
-      - 🇨🇦CA_267_13_42Mb_522
-      - _17_12Mb_523
-      - 🇨🇦CA_274_7_95Mb_524
-      - 🇨🇦CA_281_8_91Mb_525
-      - 🇨🇦CA_282_10_29Mb_526
-      - 🇨🇦CA_283_9_33Mb_527
-      - _28_08Mb_528
-      - 🇩🇪DE_396_31_53Mb_529
-      - 🇩🇪DE_407_31_92Mb_530
-      - _16_57Mb_531
-      - _28_14Mb_532
-      - _28_92Mb_533
-      - _25_67Mb_534
-      - _16_55Mb_535
-      - _28_15Mb_536
-      - _24_63Mb(1)_537
-      - 🇮🇳IN_638_14_83Mb_538
-      - _25_38Mb_539
-      - _25_40Mb_540
-      - _26_86Mb_541
-      - _24_22Mb_542
-      - _18_51Mb_543
-      - _17_01Mb_544
-      - _26_38Mb_545
-      - _16_64Mb_546
-      - _25_36Mb_547
-      - _25_79Mb_548
-      - _25_10Mb_549
-      - _22_46Mb_550
-      - _27_93Mb_551
-      - _25_38Mb(1)_552
-      - _25_47Mb_553
-      - 🇮🇳IN_660_13_77Mb_554
-      - _21_35Mb_555
-      - _22_15Mb_556
-      - _22_65Mb_557
-      - _24_18Mb_558
-      - _21_98Mb_559
-      - _26_60Mb_560
-      - 🇮🇳IN_670_12_87Mb_561
-      - 🇮🇳IN_672_11_03Mb_562
-      - _26_89Mb_563
-      - _26_20Mb(1)_564
-      - _27_53Mb_565
-      - _25_49Mb_566
-      - _26_06Mb_567
-      - _24_81Mb_568
-      - _24_28Mb_569
-      - 🇮🇳IN_683_13_60Mb_570
-      - 🇮🇳IN_685_13_68Mb_571
-      - _24_96Mb_572
-      - _18_90Mb(1)_573
-      - _23_75Mb_574
-      - _21_75Mb_575
-      - _26_96Mb_576
-      - _26_28Mb(1)_577
-      - _26_48Mb(1)_578
-      - _26_86Mb(1)_579
-      - _25_00Mb_580
-      - _17_65Mb_581
-      - _17_58Mb_582
-      - _28_30Mb_583
-      - Relay_🇯🇵JP-🇯🇵JP_721_9_24Mb_584
-      - Relay_🇯🇵JP-🇯🇵JP_722_10_62Mb_585
-      - Relay_🇯🇵JP-🇯🇵JP_723_11_48Mb_586
-      - Relay_🇯🇵JP-🇯🇵JP_724_8_97Mb_587
-      - Relay_🇯🇵JP-🇯🇵JP_725_8_63Mb_588
-      - Relay_🇯🇵JP-🇯🇵JP_726_9_78Mb_589
-      - Relay_🇯🇵JP-🇯🇵JP_727_8_27Mb_590
-      - Relay_🇯🇵JP-🇯🇵JP_728_8_98Mb_591
-      - Relay_🇯🇵JP-🇯🇵JP_729_11_95Mb_592
-      - _26_57Mb_593
-      - 🇯🇵JP_736_31_81Mb_594
-      - 🇯🇵JP_739_8_50Mb_595
-      - Relay_🇯🇵JP-🇯🇵JP_740_9_24Mb_596
-      - Relay_🇯🇵JP-🇯🇵JP_741_7_10Mb_597
-      - _21_93Mb_598
-      - _17_91Mb_599
-      - _19_57Mb_600
-      - _22_00Mb_601
-      - 🇯🇵JP_771_35_70Mb_602
-      - 🇯🇵JP_772_14_70Mb_603
-      - _29_12Mb_604
-      - _24_47Mb_605
-      - _25_64Mb_606
-      - _26_43Mb_607
-      - _23_30Mb_608
-      - _26_82Mb_609
-      - _26_67Mb_610
-      - _26_96Mb(1)_611
-      - 🇸🇬SG_859_40_94Mb_612
-      - 🇸🇬SG_862_47_09Mb_613
-      - 🇸🇬SG_865_14_82Mb_614
-      - Relay_🇸🇬SG-🇸🇬SG_866_2_13Mb_615
-      - _29_27Mb_616
-      - _22_19Mb_617
-      - 🇸🇬SG_878_273_06Mb_618
-      - _25_77Mb_619
-      - _15_67Mb_620
-      - _26_81Mb(1)_621
-      - 🇸🇬SG_883_8_16Mb_622
-      - 🇸🇬SG_885_7_29Mb_623
-      - 🇸🇬SG_892_11_79Mb_624
-      - Pool_🇸🇬SG_893_13_11Mb_625
-      - Pool_🇸🇬SG_894_7_15Mb_626
-      - 🇸🇬SG_897_362_63Mb_627
-      - _17_74Mb_628
-      - _24_37Mb_629
-      - _18_15Mb_630
-      - _16_70Mb_631
-      - 🇸🇬SG_903_251_75Mb_632
-      - _17_56Mb_633
-      - 🇸🇬SG_905_49_17Mb_634
-      - 🇸🇬SG_906_124_99Mb_635
-      - _27_06Mb(1)_636
-      - _26_95Mb_637
-      - _28_34Mb(1)_638
-      - _23_22Mb_639
-      - _18_53Mb_640
-      - 🇸🇬SG_913_51_51Mb_641
-      - 🇸🇬SG_914_53_28Mb_642
-      - 🇸🇬SG_915_13_61Mb_643
-      - 🇸🇬SG_917_374_31Mb_644
-      - 🇸🇬SG_918_282_40Mb_645
-      - 🇸🇬SG_919_39_64Mb_646
-      - 🇸🇬SG_921_50_94Mb_647
-      - 🇸🇬SG_924_7_69Mb_648
-      - 🇸🇬SG_926_2_67Mb_649
-      - 🇺🇸US_951_12_46Mb_650
-      - 🇺🇸US_952_13_63Mb_651
-      - _18_96Mb(1)_652
-      - 🇺🇸US_967_13_64Mb_653
-      - 🇺🇸US_968_11_98Mb_654
-      - _20_46Mb_655
-      - 🇺🇸US_980_14_03Mb_656
-      - 🇺🇸US_984_14_15Mb_657
-      - 🇺🇸US_985_11_89Mb_658
-      - _18_61Mb(1)_659
-      - 🇺🇸US_1001_11_23Mb_660
-      - 🇺🇸US_1004_11_85Mb_661
-      - _20_35Mb_662
-      - _18_56Mb(1)_663
-      - _20_65Mb(3)_664
-      - 🇺🇸US_1027_10_36Mb_665
-      - _17_68Mb(1)_666
+      - AE 🇦🇪 Dubai @AzadNet
+      - AE 🇦🇪 Sharjah @AzadNet
+      - AE 🇦🇪 Sharjah @AzadNet 2
+      - AU 🇦🇺 Sydney @AzadNet
+      - AU 🇦🇺 Sydney @AzadNet 2
+      - AU 🇦🇺 Sydney @AzadNet 3
+      - AU 🇦🇺 Sydney @AzadNet 4
+      - AZ 🇦🇿 @AzadNet
+      - BA 🇧🇦 Novi Travnik @AzadNet
+      - BA 🇧🇦 Novi Travnik @AzadNet 2
+      - BA 🇧🇦 Novi Travnik @AzadNet 3
+      - BA 🇧🇦 Novi Travnik @AzadNet 4
+      - BA 🇧🇦 Novi Travnik @AzadNet 5
+      - BA 🇧🇦 Novi Travnik @AzadNet 6
+      - BA 🇧🇦 Novi Travnik @AzadNet 7
+      - BA 🇧🇦 Novi Travnik @AzadNet 8
+      - BA 🇧🇦 Novi Travnik @AzadNet 9
+      - BE 🇧🇪 Brussels @AzadNet
+      - CA 🇨🇦 Toronto @AzadNet
+      - CA 🇨🇦 Toronto @AzadNet 2
+      - CA 🇨🇦 Toronto @AzadNet 3
+      - CA 🇨🇦 Toronto @AzadNet 4
+      - CA 🇨🇦 Toronto @AzadNet 5
+      - CA 🇨🇦 Toronto @AzadNet 6
+      - CA 🇨🇦 Toronto @AzadNet 7
+      - CH 🇨🇭 Zurich @AzadNet
+      - CN 🇨🇳 @AzadNet
+      - CY 🇨🇾 @AzadNet
+      - DE 🇩🇪 @AzadNet
+      - DE 🇩🇪 @AzadNet 2
+      - DE 🇩🇪 @AzadNet 3
+      - DE 🇩🇪 Düsseldorf @AzadNet
+      - DE 🇩🇪 Frankfurt am Main @AzadNet
+      - DE 🇩🇪 Frankfurt am Main @AzadNet 2
+      - DE 🇩🇪 Frankfurt am Main @AzadNet 3
+      - DE 🇩🇪 Frankfurt am Main @AzadNet 4
+      - ES 🇪🇸 Madrid @AzadNet
+      - FR 🇫🇷 @AzadNet
+      - FR 🇫🇷 @AzadNet 2
+      - FR 🇫🇷 @AzadNet 3
+      - FR 🇫🇷 Vélizy-Villacoublay @AzadNet
+      - GB 🇬🇧 @AzadNet
+      - GB 🇬🇧 @AzadNet 2
+      - GB 🇬🇧 @AzadNet 3
+      - GB 🇬🇧 London @AzadNet
+      - GB 🇬🇧 London @AzadNet 2
+      - GB 🇬🇧 London @AzadNet 3
+      - GR 🇬🇷 Thessaloniki @AzadNet
+      - HK 🇭🇰 Central @AzadNet
+      - HK 🇭🇰 Central @AzadNet 2
+      - ID 🇮🇩 @AzadNet
+      - IL 🇮🇱 Jerusalem @AzadNet
+      - IL 🇮🇱 Jerusalem @AzadNet 2
+      - IM 🇮🇲 Douglas @AzadNet
+      - IN 🇮🇳 Mumbai @AzadNet
+      - IN 🇮🇳 Mumbai @AzadNet 2
+      - IN 🇮🇳 Mumbai @AzadNet 3
+      - IS 🇮🇸 @AzadNet
+      - IT 🇮🇹 @AzadNet
+      - IT 🇮🇹 @AzadNet 2
+      - IT 🇮🇹 Milan @AzadNet
+      - IT 🇮🇹 Milan @AzadNet 2
+      - JP 🇯🇵 Tokyo @AzadNet
+      - JP 🇯🇵 Tokyo @AzadNet 2
+      - JP 🇯🇵 Tokyo @AzadNet 3
+      - JP 🇯🇵 Tokyo @AzadNet 4
+      - KR 🇰🇷 Seoul @AzadNet
+      - KR 🇰🇷 Seoul @AzadNet 2
+      - KR 🇰🇷 Seoul @AzadNet 3
+      - KR 🇰🇷 Seoul @AzadNet 4
+      - LU 🇱🇺 Luxembourg @AzadNet
+      - MD 🇲🇩 Chisinau @AzadNet
+      - NL 🇳🇱 @AzadNet
+      - NL 🇳🇱 @AzadNet 2
+      - NL 🇳🇱 @AzadNet 3
+      - NL 🇳🇱 @AzadNet 4
+      - NL 🇳🇱 @AzadNet 5
+      - NL 🇳🇱 Amsterdam @AzadNet
+      - NL 🇳🇱 Amsterdam @AzadNet 2
+      - NL 🇳🇱 Amsterdam @AzadNet 3
+      - PL 🇵🇱 @AzadNet
+      - PL 🇵🇱 @AzadNet 2
+      - PL 🇵🇱 Warsaw @AzadNet
+      - RO 🇷🇴 @AzadNet
+      - RU 🇷🇺 @AzadNet
+      - RU 🇷🇺 Moscow @AzadNet
+      - RU 🇷🇺 Moscow @AzadNet 2
+      - RU 🇷🇺 Moscow @AzadNet 3
+      - RU 🇷🇺 Moscow @AzadNet 4
+      - SE 🇸🇪 Stockholm @AzadNet
+      - SE 🇸🇪 Stockholm @AzadNet 2
+      - SG 🇸🇬 Singapore @AzadNet
+      - SG 🇸🇬 Singapore @AzadNet 2
+      - SG 🇸🇬 Singapore @AzadNet 3
+      - SG 🇸🇬 Singapore @AzadNet 4
+      - SG 🇸🇬 Singapore @AzadNet 5
+      - SG 🇸🇬 Singapore @AzadNet 6
+      - SG 🇸🇬 Singapore @AzadNet 7
+      - SG 🇸🇬 Singapore @AzadNet 8
+      - SG 🇸🇬 Singapore @AzadNet 9
+      - SG 🇸🇬 Singapore @AzadNet 10
+      - SG 🇸🇬 Singapore @AzadNet 11
+      - SG 🇸🇬 Singapore @AzadNet 12
+      - SG 🇸🇬 Singapore @AzadNet 13
+      - SI 🇸🇮 Ljubljana @AzadNet
+      - TH 🇹🇭 @AzadNet
+      - TR 🇹🇷 @AzadNet
+      - TR 🇹🇷 Istanbul @AzadNet
+      - TW 🇹🇼 New Taipei @AzadNet
+      - UA 🇺🇦 @AzadNet
+      - UA 🇺🇦 @AzadNet 2
+      - UA 🇺🇦 @AzadNet 3
+      - UA 🇺🇦 Dnipropetrovsk @AzadNet
+      - UA 🇺🇦 Khmelnytskyy @AzadNet
+      - UA 🇺🇦 Kyiv @AzadNet
+      - UA 🇺🇦 Kyiv @AzadNet 2
+      - US 🇺🇸 @AzadNet
+      - US 🇺🇸 @AzadNet 2
+      - US 🇺🇸 Atlanta @AzadNet
+      - US 🇺🇸 Atlanta @AzadNet 2
+      - US 🇺🇸 Atlanta @AzadNet 3
+      - US 🇺🇸 Atlanta @AzadNet 4
+      - US 🇺🇸 Atlanta @AzadNet 5
+      - US 🇺🇸 Atlanta @AzadNet 6
+      - US 🇺🇸 Atlanta @AzadNet 7
+      - US 🇺🇸 Atlanta @AzadNet 8
+      - US 🇺🇸 Atlanta @AzadNet 9
+      - US 🇺🇸 Atlanta @AzadNet 10
+      - US 🇺🇸 Atlanta @AzadNet 11
+      - US 🇺🇸 Atlanta @AzadNet 12
+      - US 🇺🇸 Atlanta @AzadNet 13
+      - US 🇺🇸 Atlanta @AzadNet 14
+      - US 🇺🇸 Atlanta @AzadNet 15
+      - US 🇺🇸 Atlanta @AzadNet 16
+      - US 🇺🇸 Atlanta @AzadNet 17
+      - US 🇺🇸 Atlanta @AzadNet 18
+      - US 🇺🇸 Atlanta @AzadNet 19
+      - US 🇺🇸 Atlanta @AzadNet 20
+      - US 🇺🇸 Atlanta @AzadNet 21
+      - US 🇺🇸 Atlanta @AzadNet 22
+      - US 🇺🇸 Atlanta @AzadNet 23
+      - US 🇺🇸 Atlanta @AzadNet 24
+      - US 🇺🇸 Atlanta @AzadNet 25
+      - US 🇺🇸 Atlanta @AzadNet 26
+      - US 🇺🇸 Atlanta @AzadNet 27
+      - US 🇺🇸 Atlanta @AzadNet 28
+      - US 🇺🇸 Atlanta @AzadNet 29
+      - US 🇺🇸 Atlanta @AzadNet 30
+      - US 🇺🇸 Atlanta @AzadNet 31
+      - US 🇺🇸 Atlanta @AzadNet 32
+      - US 🇺🇸 Atlanta @AzadNet 33
+      - US 🇺🇸 Chicago @AzadNet
+      - US 🇺🇸 Chicago @AzadNet 2
+      - US 🇺🇸 Chicago @AzadNet 3
+      - US 🇺🇸 Chicago @AzadNet 4
+      - US 🇺🇸 Chicago @AzadNet 5
+      - US 🇺🇸 Chicago @AzadNet 6
+      - US 🇺🇸 Chicago @AzadNet 7
+      - US 🇺🇸 Chicago @AzadNet 8
+      - US 🇺🇸 Chicago @AzadNet 9
+      - US 🇺🇸 Chicago @AzadNet 10
+      - US 🇺🇸 Chicago @AzadNet 11
+      - US 🇺🇸 Chicago @AzadNet 12
+      - US 🇺🇸 Chicago @AzadNet 13
+      - US 🇺🇸 Dallas @AzadNet
+      - US 🇺🇸 Dallas @AzadNet 2
+      - US 🇺🇸 Dallas @AzadNet 3
+      - US 🇺🇸 Dallas @AzadNet 4
+      - US 🇺🇸 Dallas @AzadNet 5
+      - US 🇺🇸 Dallas @AzadNet 6
+      - US 🇺🇸 Los Angeles @AzadNet
+      - US 🇺🇸 Los Angeles @AzadNet 2
+      - US 🇺🇸 Los Angeles @AzadNet 3
+      - US 🇺🇸 Los Angeles @AzadNet 4
+      - US 🇺🇸 Memphis @AzadNet
+      - US 🇺🇸 Memphis @AzadNet 2
+      - US 🇺🇸 Miami @AzadNet
+      - US 🇺🇸 Miami @AzadNet 2
+      - US 🇺🇸 Miami @AzadNet 3
+      - US 🇺🇸 Miami @AzadNet 4
+      - US 🇺🇸 Newark @AzadNet
+      - US 🇺🇸 Newark @AzadNet 2
+      - US 🇺🇸 Newark @AzadNet 3
+      - US 🇺🇸 Newark @AzadNet 4
+      - US 🇺🇸 Reston @AzadNet
+      - US 🇺🇸 Reston @AzadNet 2
+      - US 🇺🇸 Reston @AzadNet 3
+      - US 🇺🇸 Santa Clara @AzadNet
+      - US 🇺🇸 Santa Clara @AzadNet 2
+      - US 🇺🇸 Santa Clara @AzadNet 3
+      - US 🇺🇸 Santa Clara @AzadNet 4
+      - US 🇺🇸 Seattle @AzadNet
+      - US 🇺🇸 Seattle @AzadNet 2
+      - US 🇺🇸 Seattle @AzadNet 3
+      - US 🇺🇸 Seattle @AzadNet 4
+      - US 🇺🇸 West New York @AzadNet
+      - VN 🇻🇳 @AzadNet
+      - ZA 🇿🇦 @AzadNet
+      - ZA 🇿🇦 @AzadNet 2
+      - ZA 🇿🇦 Johannesburg @AzadNet
 
   - name: ⛔Direct
     type: select
