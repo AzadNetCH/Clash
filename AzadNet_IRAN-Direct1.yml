@@ -302,988 +302,412 @@ proxy-groups:
     type: select
     proxies:
       - 🔥 Auto(Best ping)
-      - AE 🇦🇪 Dubai
-      - AE 🇦🇪 Dubai 2
-      - AR 🇦🇷 Buenos Aires
-      - AU 🇦🇺 Sydney
-      - AU 🇦🇺 Sydney 2
-      - AU 🇦🇺 Sydney 3
-      - AU 🇦🇺 Sydney 4
-      - AU 🇦🇺 Sydney 5
-      - AU 🇦🇺 Sydney 6
-      - AU 🇦🇺 Sydney 7
-      - BA 🇧🇦 Novi Travnik
-      - BA 🇧🇦 Novi Travnik 2
-      - CA 🇨🇦 Beauharnois
-      - CA 🇨🇦 Montreal
-      - CA 🇨🇦 Montreal 2
-      - CA 🇨🇦 Toronto
-      - CA 🇨🇦 Toronto 2
-      - CA 🇨🇦 Toronto 3
-      - CA 🇨🇦 Toronto 4
-      - CA 🇨🇦 Toronto 5
-      - CA 🇨🇦 Toronto 6
-      - CA 🇨🇦 Toronto 7
-      - CA 🇨🇦 Toronto 8
-      - CA 🇨🇦 Toronto 9
-      - CA 🇨🇦 Toronto 10
-      - CA 🇨🇦 Toronto 11
-      - CA 🇨🇦 Toronto 12
-      - CA 🇨🇦 Toronto 13
-      - CA 🇨🇦 Toronto 14
-      - CA 🇨🇦 Toronto 15
-      - CA 🇨🇦 Toronto 16
-      - CA 🇨🇦 Toronto 17
-      - CA 🇨🇦 Toronto 18
-      - CA 🇨🇦 Toronto 19
-      - CA 🇨🇦 Toronto 20
-      - CA 🇨🇦 Toronto 21
-      - CA 🇨🇦 Toronto 22
-      - CA 🇨🇦 Toronto 23
-      - CA 🇨🇦 Toronto 24
-      - CA 🇨🇦 Toronto 25
-      - CA 🇨🇦 Toronto 26
-      - CA 🇨🇦 Toronto 27
-      - CA 🇨🇦 Toronto 28
-      - CA 🇨🇦 Toronto 29
-      - CA 🇨🇦 Toronto 30
-      - CA 🇨🇦 Toronto 31
-      - CA 🇨🇦 Toronto 32
-      - CA 🇨🇦 Toronto 33
-      - CA 🇨🇦 Toronto 34
-      - CA 🇨🇦 Toronto 35
-      - CA 🇨🇦 Toronto 36
-      - CA 🇨🇦 Toronto 37
-      - CA 🇨🇦 Toronto 38
-      - CA 🇨🇦 Toronto 39
-      - CA 🇨🇦 Toronto 40
-      - CA 🇨🇦 Toronto 41
-      - CA 🇨🇦 Toronto 42
-      - CA 🇨🇦 Toronto 43
-      - CA 🇨🇦 Toronto 44
-      - CA 🇨🇦 Toronto 45
-      - CA 🇨🇦 Toronto 46
-      - CA 🇨🇦 Toronto 47
-      - CA 🇨🇦 Toronto 48
-      - CA 🇨🇦 Toronto 49
-      - CA 🇨🇦 Toronto 50
-      - CA 🇨🇦 Toronto 51
-      - CA 🇨🇦 Toronto 52
-      - CA 🇨🇦 Toronto 53
-      - CA 🇨🇦 Toronto 54
-      - CA 🇨🇦 Toronto 55
-      - CA 🇨🇦 Toronto 56
-      - CA 🇨🇦 Toronto 57
-      - CA 🇨🇦 Toronto 58
-      - CA 🇨🇦 Toronto 59
-      - CA 🇨🇦 Toronto 60
-      - CA 🇨🇦 Toronto 61
-      - CA 🇨🇦 Toronto 62
-      - CA 🇨🇦 Toronto 63
-      - CA 🇨🇦 Toronto 64
-      - CA 🇨🇦 Toronto 65
-      - CA 🇨🇦 Toronto 66
-      - CA 🇨🇦 Toronto 67
-      - CA 🇨🇦 Toronto 68
-      - CA 🇨🇦 Toronto 69
-      - CA 🇨🇦 Toronto 70
-      - CA 🇨🇦 Toronto 71
-      - CA 🇨🇦 Toronto 72
-      - CA 🇨🇦 Toronto 73
-      - CA 🇨🇦 Toronto 74
-      - CA 🇨🇦 Toronto 75
-      - CA 🇨🇦 Toronto 76
-      - CA 🇨🇦 Toronto 77
-      - CA 🇨🇦 Toronto 78
-      - CA 🇨🇦 Toronto 79
-      - CA 🇨🇦 Toronto 80
-      - CA 🇨🇦 Toronto 81
-      - CA 🇨🇦 Toronto 82
-      - CA 🇨🇦 Toronto 83
-      - CA 🇨🇦 Toronto 84
-      - CA 🇨🇦 Toronto 85
-      - CA 🇨🇦 Toronto 86
-      - CA 🇨🇦 Toronto 87
-      - CA 🇨🇦 Toronto 88
-      - CA 🇨🇦 Toronto 89
-      - CA 🇨🇦 Toronto 90
-      - CA 🇨🇦 Toronto 91
-      - CA 🇨🇦 Toronto 92
-      - CA 🇨🇦 Toronto 93
-      - CA 🇨🇦 Toronto 94
-      - CA 🇨🇦 Toronto 95
-      - CA 🇨🇦 Toronto 96
-      - CA 🇨🇦 Toronto 97
-      - CA 🇨🇦 Toronto 98
-      - CA 🇨🇦 Toronto 99
-      - CA 🇨🇦 Toronto 100
-      - CA 🇨🇦 Toronto 101
-      - CA 🇨🇦 Toronto 102
-      - CA 🇨🇦 Toronto 103
-      - CA 🇨🇦 Toronto 104
-      - CA 🇨🇦 Toronto 105
-      - CA 🇨🇦 Toronto 106
-      - CA 🇨🇦 Toronto 107
-      - CA 🇨🇦 Toronto 108
-      - CA 🇨🇦 Toronto 109
-      - CA 🇨🇦 Toronto 110
-      - CA 🇨🇦 Toronto 111
-      - CA 🇨🇦 Toronto 112
-      - CA 🇨🇦 Toronto 113
-      - CA 🇨🇦 Toronto 114
-      - CA 🇨🇦 Toronto 115
-      - CA 🇨🇦 Toronto 116
-      - CA 🇨🇦 Toronto 117
-      - CO 🇨🇴 Bogot
-      - CY 🇨🇾 Nicosia
-      - DE 🇩🇪 Dusseldorf
-      - DE 🇩🇪 Dusseldorf 2
-      - DE 🇩🇪 Frankfurt am Main
-      - DE 🇩🇪 Frankfurt am Main 2
-      - DE 🇩🇪 Frankfurt am Main 3
-      - DE 🇩🇪 Hesse
-      - DE 🇩🇪 Hesse 2
-      - DE 🇩🇪 Hesse 3
-      - DE 🇩🇪 Hesse 4
-      - DE 🇩🇪 Hesse 5
-      - DE 🇩🇪 Hesse 6
-      - DE 🇩🇪 Hesse 7
-      - ES 🇪🇸 Madrid
-      - FR 🇫🇷 Paris
-      - FR 🇫🇷 Paris 2
-      - FR 🇫🇷 Paris 3
-      - FR 🇫🇷 Paris 4
-      - FR 🇫🇷 Paris 5
-      - FR 🇫🇷 Paris 6
-      - FR 🇫🇷 Paris 7
-      - FR 🇫🇷 Paris 8
-      - FR 🇫🇷 Paris 9
-      - FR 🇫🇷 Paris 10
-      - FR 🇫🇷 Paris 11
-      - FR 🇫🇷 Paris 12
-      - FR 🇫🇷 Paris 13
-      - FR 🇫🇷 Paris 14
-      - FR 🇫🇷 Paris 15
-      - GB 🇬🇧 London
-      - GB 🇬🇧 London 2
-      - GB 🇬🇧 London 3
-      - GB 🇬🇧 London 4
-      - GB 🇬🇧 London 5
-      - GB 🇬🇧 London 6
-      - GB 🇬🇧 London 7
-      - GB 🇬🇧 London 8
-      - GB 🇬🇧 London 9
-      - GB 🇬🇧 London 10
-      - GB 🇬🇧 London 11
-      - GB 🇬🇧 London 12
-      - GB 🇬🇧 London 13
-      - GB 🇬🇧 London 14
-      - GB 🇬🇧 London 15
-      - GB 🇬🇧 London 16
-      - GB 🇬🇧 London 17
-      - GB 🇬🇧 London 18
-      - GB 🇬🇧 Walthamstow
-      - HK 🇭🇰 Central
-      - HU 🇭🇺 Budapest
-      - HU 🇭🇺 Budapest 2
-      - ID 🇮🇩 Jakarta
-      - IL 🇮🇱 Haifa
-      - IM 🇮🇲 Douglas
-      - IN 🇮🇳 Mumbai
-      - IN 🇮🇳 Mumbai 2
-      - IN 🇮🇳 Mumbai 3
-      - IN 🇮🇳 Mumbai 4
-      - IN 🇮🇳 Mumbai 5
-      - IN 🇮🇳 Mumbai 6
-      - IN 🇮🇳 Mumbai 7
-      - IN 🇮🇳 Mumbai 8
-      - IS 🇮🇸 Hafnarfjordur
-      - IT 🇮🇹 Milan
-      - IT 🇮🇹 Milan 2
-      - IT 🇮🇹 Milan 3
-      - IT 🇮🇹 Rome
-      - JP 🇯🇵 Tokyo
-      - JP 🇯🇵 Tokyo 2
-      - JP 🇯🇵 Tokyo 3
-      - JP 🇯🇵 Tokyo 4
-      - JP 🇯🇵 Tokyo 5
-      - JP 🇯🇵 Tokyo 6
-      - JP 🇯🇵 Tokyo 7
-      - JP 🇯🇵 Tokyo 8
-      - KR 🇰🇷 Seoul
-      - KR 🇰🇷 Seoul 2
-      - KR 🇰🇷 Seoul 3
-      - KR 🇰🇷 Seoul 4
-      - KR 🇰🇷 Seoul 5
-      - KR 🇰🇷 Seoul 6
-      - KR 🇰🇷 Seoul 7
-      - KR 🇰🇷 Seoul 8
-      - KR 🇰🇷 Seoul 9
-      - KR 🇰🇷 Seoul 10
-      - KR 🇰🇷 Seoul 11
-      - LX 🇱🇺 Luxembourg
-      - MK 🇲🇰 Skopje
-      - NL 🇳🇱 Amsterdam
-      - NL 🇳🇱 Naaldwijk
-      - NO 🇳🇴 Oslo
-      - PL 🇵🇱 Warsaw
-      - PL 🇵🇱 Warsaw 2
-      - PL 🇵🇱 Warsaw 3
-      - PL 🇵🇱 Warsaw 4
-      - PL 🇵🇱 Warsaw 5
-      - PL 🇵🇱 Warsaw 6
-      - PL 🇵🇱 Warsaw 7
-      - PL 🇵🇱 Warsaw 8
-      - PL 🇵🇱 Warsaw 9
-      - PL 🇵🇱 Warsaw 10
-      - RU 🇷🇺 Moscow
-      - SE 🇸🇪 Stockholm
-      - SG 🇸🇬 Singapore
-      - SG 🇸🇬 Singapore 2
-      - SG 🇸🇬 Singapore 3
-      - SG 🇸🇬 Singapore 4
-      - SG 🇸🇬 Singapore 5
-      - SG 🇸🇬 Singapore 6
-      - SG 🇸🇬 Singapore 7
-      - TR 🇹🇷 Istanbul
-      - TW 🇹🇼 Taipei
-      - TW 🇹🇼 Taichung
-      - US 🇺🇸 Ashburn
-      - US 🇺🇸 Ashburn 2
-      - US 🇺🇸 Ashburn 3
-      - US 🇺🇸 Ashburn 4
-      - US 🇺🇸 Ashburn 5
-      - US 🇺🇸 Ashburn 6
-      - US 🇺🇸 Ashburn 7
-      - US 🇺🇸 Ashburn 8
-      - US 🇺🇸 Ashburn 9
-      - US 🇺🇸 Ashburn 10
-      - US 🇺🇸 Ashburn 11
-      - US 🇺🇸 Ashburn 12
-      - US 🇺🇸 Ashburn 13
-      - US 🇺🇸 Atlanta
-      - US 🇺🇸 Atlanta 2
-      - US 🇺🇸 Atlanta 3
-      - US 🇺🇸 Atlanta 4
-      - US 🇺🇸 Atlanta 5
-      - US 🇺🇸 Atlanta 6
-      - US 🇺🇸 Atlanta 7
-      - US 🇺🇸 Atlanta 8
-      - US 🇺🇸 Atlanta 9
-      - US 🇺🇸 Atlanta 10
-      - US 🇺🇸 Atlanta 11
-      - US 🇺🇸 Atlanta 12
-      - US 🇺🇸 Atlanta 13
-      - US 🇺🇸 Atlanta 14
-      - US 🇺🇸 Atlanta 15
-      - US 🇺🇸 Atlanta 16
-      - US 🇺🇸 Atlanta 17
-      - US 🇺🇸 Atlanta 18
-      - US 🇺🇸 Atlanta 19
-      - US 🇺🇸 Atlanta 20
-      - US 🇺🇸 Atlanta 21
-      - US 🇺🇸 Atlanta 22
-      - US 🇺🇸 Atlanta 23
-      - US 🇺🇸 Atlanta 24
-      - US 🇺🇸 Atlanta 25
-      - US 🇺🇸 Atlanta 26
-      - US 🇺🇸 Atlanta 27
-      - US 🇺🇸 Atlanta 28
-      - US 🇺🇸 Atlanta 29
-      - US 🇺🇸 Atlanta 30
-      - US 🇺🇸 Atlanta 31
-      - US 🇺🇸 Atlanta 32
-      - US 🇺🇸 Atlanta 33
-      - US 🇺🇸 Atlanta 34
-      - US 🇺🇸 Atlanta 35
-      - US 🇺🇸 Atlanta 36
-      - US 🇺🇸 Chicago
-      - US 🇺🇸 Chicago 2
-      - US 🇺🇸 Chicago 3
-      - US 🇺🇸 Chicago 4
-      - US 🇺🇸 Chicago 5
-      - US 🇺🇸 Chicago 6
-      - US 🇺🇸 Chicago 7
-      - US 🇺🇸 Dallas
-      - US 🇺🇸 Dallas 2
-      - US 🇺🇸 Dallas 3
-      - US 🇺🇸 Dallas 4
-      - US 🇺🇸 Dallas 5
-      - US 🇺🇸 Dallas 6
-      - US 🇺🇸 Dallas 7
-      - US 🇺🇸 Dallas 8
-      - US 🇺🇸 Dallas 9
-      - US 🇺🇸 Dallas 10
-      - US 🇺🇸 Dallas 11
-      - US 🇺🇸 Dallas 12
-      - US 🇺🇸 Dallas 13
-      - US 🇺🇸 Dallas 14
-      - US 🇺🇸 Dallas 15
-      - US 🇺🇸 Dallas 16
-      - US 🇺🇸 Dallas 17
-      - US 🇺🇸 Dallas 18
-      - US 🇺🇸 Dallas 19
-      - US 🇺🇸 Dallas 20
-      - US 🇺🇸 Dallas 21
-      - US 🇺🇸 Dallas 22
-      - US 🇺🇸 Dallas 23
-      - US 🇺🇸 Dallas 24
-      - US 🇺🇸 Dallas 25
-      - US 🇺🇸 Dallas 26
-      - US 🇺🇸 Dallas 27
-      - US 🇺🇸 Dallas 28
-      - US 🇺🇸 Dallas 29
-      - US 🇺🇸 Dallas 30
-      - US 🇺🇸 Dallas 31
-      - US 🇺🇸 Dallas 32
-      - US 🇺🇸 Dallas 33
-      - US 🇺🇸 Dallas 34
-      - US 🇺🇸 Dallas 35
-      - US 🇺🇸 Dallas 36
-      - US 🇺🇸 Dallas 37
-      - US 🇺🇸 Dallas 38
-      - US 🇺🇸 Dallas 39
-      - US 🇺🇸 Denver
-      - US 🇺🇸 Los Angeles
-      - US 🇺🇸 Los Angeles 2
-      - US 🇺🇸 Los Angeles 3
-      - US 🇺🇸 Los Angeles 4
-      - US 🇺🇸 Los Angeles 5
-      - US 🇺🇸 Los Angeles 6
-      - US 🇺🇸 Los Angeles 7
-      - US 🇺🇸 Los Angeles 8
-      - US 🇺🇸 Los Angeles 9
-      - US 🇺🇸 Los Angeles 10
-      - US 🇺🇸 Los Angeles 11
-      - US 🇺🇸 Los Angeles 12
-      - US 🇺🇸 Los Angeles 13
-      - US 🇺🇸 Los Angeles 14
-      - US 🇺🇸 Los Angeles 15
-      - US 🇺🇸 Los Angeles 16
-      - US 🇺🇸 Los Angeles 17
-      - US 🇺🇸 Los Angeles 18
-      - US 🇺🇸 Los Angeles 19
-      - US 🇺🇸 Los Angeles 20
-      - US 🇺🇸 Los Angeles 21
-      - US 🇺🇸 Los Angeles 22
-      - US 🇺🇸 Los Angeles 23
-      - US 🇺🇸 Los Angeles 24
-      - US 🇺🇸 Los Angeles 25
-      - US 🇺🇸 Los Angeles 26
-      - US 🇺🇸 Los Angeles 27
-      - US 🇺🇸 Los Angeles 28
-      - US 🇺🇸 Los Angeles 29
-      - US 🇺🇸 Los Angeles 30
-      - US 🇺🇸 Los Angeles 31
-      - US 🇺🇸 Los Angeles 32
-      - US 🇺🇸 Los Angeles 33
-      - US 🇺🇸 Los Angeles 34
-      - US 🇺🇸 Los Angeles 35
-      - US 🇺🇸 Los Angeles 36
-      - US 🇺🇸 New York
-      - US 🇺🇸 New York 2
-      - US 🇺🇸 New York 3
-      - US 🇺🇸 New York 4
-      - US 🇺🇸 New York 5
-      - US 🇺🇸 New York 6
-      - US 🇺🇸 New York 7
-      - US 🇺🇸 New York 8
-      - US 🇺🇸 New York 9
-      - US 🇺🇸 New York 10
-      - US 🇺🇸 New York 11
-      - US 🇺🇸 New York 12
-      - US 🇺🇸 New York 13
-      - US 🇺🇸 New York 14
-      - US 🇺🇸 New York 15
-      - US 🇺🇸 New York 16
-      - US 🇺🇸 New York 17
-      - US 🇺🇸 New York 18
-      - US 🇺🇸 New York 19
-      - US 🇺🇸 New York 20
-      - US 🇺🇸 New York 21
-      - US 🇺🇸 New York 22
-      - US 🇺🇸 New York 23
-      - US 🇺🇸 New York 24
-      - US 🇺🇸 New York 25
-      - US 🇺🇸 New York 26
-      - US 🇺🇸 New York 27
-      - US 🇺🇸 New York 28
-      - US 🇺🇸 New York 29
-      - US 🇺🇸 New York 30
-      - US 🇺🇸 New York 31
-      - US 🇺🇸 New York 32
-      - US 🇺🇸 New York 33
-      - US 🇺🇸 New York 34
-      - US 🇺🇸 New York 35
-      - US 🇺🇸 New York 36
-      - US 🇺🇸 Newark
-      - US 🇺🇸 Newark 2
-      - US 🇺🇸 Newark 3
-      - US 🇺🇸 Newark 4
-      - US 🇺🇸 Newark 5
-      - US 🇺🇸 Newark 6
-      - US 🇺🇸 Newark 7
-      - US 🇺🇸 Newark 8
-      - US 🇺🇸 Reston
-      - US 🇺🇸 Reston 2
-      - US 🇺🇸 Reston 3
-      - US 🇺🇸 Reston 4
-      - US 🇺🇸 Reston 5
-      - US 🇺🇸 Reston 6
-      - US 🇺🇸 Reston 7
-      - US 🇺🇸 San Jose
-      - US 🇺🇸 Santa Clara
-      - US 🇺🇸 Santa Clara 2
-      - US 🇺🇸 Santa Clara 3
-      - US 🇺🇸 Santa Clara 4
-      - US 🇺🇸 Santa Clara 5
-      - US 🇺🇸 Santa Clara 6
-      - US 🇺🇸 Santa Clara 7
-      - US 🇺🇸 Santa Clara 8
-      - US 🇺🇸 Santa Clara 9
-      - US 🇺🇸 Santa Clara 10
-      - US 🇺🇸 Santa Clara 11
-      - US 🇺🇸 Santa Clara 12
-      - US 🇺🇸 Santa Clara 13
-      - US 🇺🇸 Santa Clara 14
-      - US 🇺🇸 Santa Clara 15
-      - US 🇺🇸 Santa Clara 16
-      - US 🇺🇸 Santa Clara 17
-      - US 🇺🇸 Santa Clara 18
-      - US 🇺🇸 Santa Clara 19
-      - US 🇺🇸 Santa Clara 20
-      - US 🇺🇸 Santa Clara 21
-      - US 🇺🇸 Seattle
-      - US 🇺🇸 Seattle 2
-      - US 🇺🇸 Seattle 3
-      - US 🇺🇸 Seattle 4
-      - US 🇺🇸 Seattle 5
-      - US 🇺🇸 Seattle 6
-      - US 🇺🇸 Seattle 7
-      - US 🇺🇸 Seattle 8
-      - US 🇺🇸 Seattle 9
-      - US 🇺🇸 Seattle 10
-      - US 🇺🇸 Seattle 11
-      - US 🇺🇸 Seattle 12
-      - US 🇺🇸 Seattle 13
-      - US 🇺🇸 Seattle 14
-      - US 🇺🇸 Seattle 15
-      - US 🇺🇸 Seattle 16
-      - US 🇺🇸 Seattle 17
-      - US 🇺🇸 Seattle 18
-      - US 🇺🇸 Seattle 19
-      - US 🇺🇸 Seattle 20
-      - US 🇺🇸 Seattle 21
-      - US 🇺🇸 Seattle 22
-      - US 🇺🇸 Seattle 23
-      - US 🇺🇸 Seattle 24
-      - US 🇺🇸 Seattle 25
-      - US 🇺🇸 Seattle 26
-      - US 🇺🇸 Seattle 27
-      - US 🇺🇸 Seattle 28
-      - US 🇺🇸 Seattle 29
-      - US 🇺🇸 Seattle 30
-      - US 🇺🇸 Seattle 31
-      - US 🇺🇸 Seattle 32
-      - US 🇺🇸 Seattle 33
-      - US 🇺🇸 Seattle 34
-      - US 🇺🇸 Seattle 35
-      - VN 🇻🇳 Ho Chi Minh City
-      - ZA 🇿🇦 Vereeniging
+      - AE 🇦🇪 Dubai @AzadNet
+      - AE 🇦🇪 Sharjah @AzadNet
+      - AE 🇦🇪 Sharjah @AzadNet 2
+      - AU 🇦🇺 Sydney @AzadNet
+      - AU 🇦🇺 Sydney @AzadNet 2
+      - AU 🇦🇺 Sydney @AzadNet 3
+      - AU 🇦🇺 Sydney @AzadNet 4
+      - AZ 🇦🇿 @AzadNet
+      - BA 🇧🇦 Novi Travnik @AzadNet
+      - BA 🇧🇦 Novi Travnik @AzadNet 2
+      - BA 🇧🇦 Novi Travnik @AzadNet 3
+      - BA 🇧🇦 Novi Travnik @AzadNet 4
+      - BA 🇧🇦 Novi Travnik @AzadNet 5
+      - BA 🇧🇦 Novi Travnik @AzadNet 6
+      - BA 🇧🇦 Novi Travnik @AzadNet 7
+      - BA 🇧🇦 Novi Travnik @AzadNet 8
+      - BA 🇧🇦 Novi Travnik @AzadNet 9
+      - BE 🇧🇪 Brussels @AzadNet
+      - CA 🇨🇦 Toronto @AzadNet
+      - CA 🇨🇦 Toronto @AzadNet 2
+      - CA 🇨🇦 Toronto @AzadNet 3
+      - CA 🇨🇦 Toronto @AzadNet 4
+      - CA 🇨🇦 Toronto @AzadNet 5
+      - CA 🇨🇦 Toronto @AzadNet 6
+      - CA 🇨🇦 Toronto @AzadNet 7
+      - CH 🇨🇭 Zurich @AzadNet
+      - CN 🇨🇳 @AzadNet
+      - CY 🇨🇾 @AzadNet
+      - DE 🇩🇪 @AzadNet
+      - DE 🇩🇪 @AzadNet 2
+      - DE 🇩🇪 @AzadNet 3
+      - DE 🇩🇪 Düsseldorf @AzadNet
+      - DE 🇩🇪 Frankfurt am Main @AzadNet
+      - DE 🇩🇪 Frankfurt am Main @AzadNet 2
+      - DE 🇩🇪 Frankfurt am Main @AzadNet 3
+      - DE 🇩🇪 Frankfurt am Main @AzadNet 4
+      - ES 🇪🇸 Madrid @AzadNet
+      - FR 🇫🇷 @AzadNet
+      - FR 🇫🇷 @AzadNet 2
+      - FR 🇫🇷 @AzadNet 3
+      - FR 🇫🇷 Vélizy-Villacoublay @AzadNet
+      - GB 🇬🇧 @AzadNet
+      - GB 🇬🇧 @AzadNet 2
+      - GB 🇬🇧 @AzadNet 3
+      - GB 🇬🇧 London @AzadNet
+      - GB 🇬🇧 London @AzadNet 2
+      - GB 🇬🇧 London @AzadNet 3
+      - GR 🇬🇷 Thessaloniki @AzadNet
+      - HK 🇭🇰 Central @AzadNet
+      - HK 🇭🇰 Central @AzadNet 2
+      - ID 🇮🇩 @AzadNet
+      - IL 🇮🇱 Jerusalem @AzadNet
+      - IL 🇮🇱 Jerusalem @AzadNet 2
+      - IM 🇮🇲 Douglas @AzadNet
+      - IN 🇮🇳 Mumbai @AzadNet
+      - IN 🇮🇳 Mumbai @AzadNet 2
+      - IN 🇮🇳 Mumbai @AzadNet 3
+      - IS 🇮🇸 @AzadNet
+      - IT 🇮🇹 @AzadNet
+      - IT 🇮🇹 @AzadNet 2
+      - IT 🇮🇹 Milan @AzadNet
+      - IT 🇮🇹 Milan @AzadNet 2
+      - JP 🇯🇵 Tokyo @AzadNet
+      - JP 🇯🇵 Tokyo @AzadNet 2
+      - JP 🇯🇵 Tokyo @AzadNet 3
+      - JP 🇯🇵 Tokyo @AzadNet 4
+      - KR 🇰🇷 Seoul @AzadNet
+      - KR 🇰🇷 Seoul @AzadNet 2
+      - KR 🇰🇷 Seoul @AzadNet 3
+      - KR 🇰🇷 Seoul @AzadNet 4
+      - LU 🇱🇺 Luxembourg @AzadNet
+      - MD 🇲🇩 Chisinau @AzadNet
+      - NL 🇳🇱 @AzadNet
+      - NL 🇳🇱 @AzadNet 2
+      - NL 🇳🇱 @AzadNet 3
+      - NL 🇳🇱 @AzadNet 4
+      - NL 🇳🇱 @AzadNet 5
+      - NL 🇳🇱 Amsterdam @AzadNet
+      - NL 🇳🇱 Amsterdam @AzadNet 2
+      - NL 🇳🇱 Amsterdam @AzadNet 3
+      - PL 🇵🇱 @AzadNet
+      - PL 🇵🇱 @AzadNet 2
+      - PL 🇵🇱 Warsaw @AzadNet
+      - RO 🇷🇴 @AzadNet
+      - RU 🇷🇺 @AzadNet
+      - RU 🇷🇺 Moscow @AzadNet
+      - RU 🇷🇺 Moscow @AzadNet 2
+      - RU 🇷🇺 Moscow @AzadNet 3
+      - RU 🇷🇺 Moscow @AzadNet 4
+      - SE 🇸🇪 Stockholm @AzadNet
+      - SE 🇸🇪 Stockholm @AzadNet 2
+      - SG 🇸🇬 Singapore @AzadNet
+      - SG 🇸🇬 Singapore @AzadNet 2
+      - SG 🇸🇬 Singapore @AzadNet 3
+      - SG 🇸🇬 Singapore @AzadNet 4
+      - SG 🇸🇬 Singapore @AzadNet 5
+      - SG 🇸🇬 Singapore @AzadNet 6
+      - SG 🇸🇬 Singapore @AzadNet 7
+      - SG 🇸🇬 Singapore @AzadNet 8
+      - SG 🇸🇬 Singapore @AzadNet 9
+      - SG 🇸🇬 Singapore @AzadNet 10
+      - SG 🇸🇬 Singapore @AzadNet 11
+      - SG 🇸🇬 Singapore @AzadNet 12
+      - SG 🇸🇬 Singapore @AzadNet 13
+      - SI 🇸🇮 Ljubljana @AzadNet
+      - TH 🇹🇭 @AzadNet
+      - TR 🇹🇷 @AzadNet
+      - TR 🇹🇷 Istanbul @AzadNet
+      - TW 🇹🇼 New Taipei @AzadNet
+      - UA 🇺🇦 @AzadNet
+      - UA 🇺🇦 @AzadNet 2
+      - UA 🇺🇦 @AzadNet 3
+      - UA 🇺🇦 Dnipropetrovsk @AzadNet
+      - UA 🇺🇦 Khmelnytskyy @AzadNet
+      - UA 🇺🇦 Kyiv @AzadNet
+      - UA 🇺🇦 Kyiv @AzadNet 2
+      - US 🇺🇸 @AzadNet
+      - US 🇺🇸 @AzadNet 2
+      - US 🇺🇸 Atlanta @AzadNet
+      - US 🇺🇸 Atlanta @AzadNet 2
+      - US 🇺🇸 Atlanta @AzadNet 3
+      - US 🇺🇸 Atlanta @AzadNet 4
+      - US 🇺🇸 Atlanta @AzadNet 5
+      - US 🇺🇸 Atlanta @AzadNet 6
+      - US 🇺🇸 Atlanta @AzadNet 7
+      - US 🇺🇸 Atlanta @AzadNet 8
+      - US 🇺🇸 Atlanta @AzadNet 9
+      - US 🇺🇸 Atlanta @AzadNet 10
+      - US 🇺🇸 Atlanta @AzadNet 11
+      - US 🇺🇸 Atlanta @AzadNet 12
+      - US 🇺🇸 Atlanta @AzadNet 13
+      - US 🇺🇸 Atlanta @AzadNet 14
+      - US 🇺🇸 Atlanta @AzadNet 15
+      - US 🇺🇸 Atlanta @AzadNet 16
+      - US 🇺🇸 Atlanta @AzadNet 17
+      - US 🇺🇸 Atlanta @AzadNet 18
+      - US 🇺🇸 Atlanta @AzadNet 19
+      - US 🇺🇸 Atlanta @AzadNet 20
+      - US 🇺🇸 Atlanta @AzadNet 21
+      - US 🇺🇸 Atlanta @AzadNet 22
+      - US 🇺🇸 Atlanta @AzadNet 23
+      - US 🇺🇸 Atlanta @AzadNet 24
+      - US 🇺🇸 Atlanta @AzadNet 25
+      - US 🇺🇸 Atlanta @AzadNet 26
+      - US 🇺🇸 Atlanta @AzadNet 27
+      - US 🇺🇸 Atlanta @AzadNet 28
+      - US 🇺🇸 Atlanta @AzadNet 29
+      - US 🇺🇸 Atlanta @AzadNet 30
+      - US 🇺🇸 Atlanta @AzadNet 31
+      - US 🇺🇸 Atlanta @AzadNet 32
+      - US 🇺🇸 Atlanta @AzadNet 33
+      - US 🇺🇸 Chicago @AzadNet
+      - US 🇺🇸 Chicago @AzadNet 2
+      - US 🇺🇸 Chicago @AzadNet 3
+      - US 🇺🇸 Chicago @AzadNet 4
+      - US 🇺🇸 Chicago @AzadNet 5
+      - US 🇺🇸 Chicago @AzadNet 6
+      - US 🇺🇸 Chicago @AzadNet 7
+      - US 🇺🇸 Chicago @AzadNet 8
+      - US 🇺🇸 Chicago @AzadNet 9
+      - US 🇺🇸 Chicago @AzadNet 10
+      - US 🇺🇸 Chicago @AzadNet 11
+      - US 🇺🇸 Chicago @AzadNet 12
+      - US 🇺🇸 Chicago @AzadNet 13
+      - US 🇺🇸 Dallas @AzadNet
+      - US 🇺🇸 Dallas @AzadNet 2
+      - US 🇺🇸 Dallas @AzadNet 3
+      - US 🇺🇸 Dallas @AzadNet 4
+      - US 🇺🇸 Dallas @AzadNet 5
+      - US 🇺🇸 Dallas @AzadNet 6
+      - US 🇺🇸 Los Angeles @AzadNet
+      - US 🇺🇸 Los Angeles @AzadNet 2
+      - US 🇺🇸 Los Angeles @AzadNet 3
+      - US 🇺🇸 Los Angeles @AzadNet 4
+      - US 🇺🇸 Memphis @AzadNet
+      - US 🇺🇸 Memphis @AzadNet 2
+      - US 🇺🇸 Miami @AzadNet
+      - US 🇺🇸 Miami @AzadNet 2
+      - US 🇺🇸 Miami @AzadNet 3
+      - US 🇺🇸 Miami @AzadNet 4
+      - US 🇺🇸 Newark @AzadNet
+      - US 🇺🇸 Newark @AzadNet 2
+      - US 🇺🇸 Newark @AzadNet 3
+      - US 🇺🇸 Newark @AzadNet 4
+      - US 🇺🇸 Reston @AzadNet
+      - US 🇺🇸 Reston @AzadNet 2
+      - US 🇺🇸 Reston @AzadNet 3
+      - US 🇺🇸 Santa Clara @AzadNet
+      - US 🇺🇸 Santa Clara @AzadNet 2
+      - US 🇺🇸 Santa Clara @AzadNet 3
+      - US 🇺🇸 Santa Clara @AzadNet 4
+      - US 🇺🇸 Seattle @AzadNet
+      - US 🇺🇸 Seattle @AzadNet 2
+      - US 🇺🇸 Seattle @AzadNet 3
+      - US 🇺🇸 Seattle @AzadNet 4
+      - US 🇺🇸 West New York @AzadNet
+      - VN 🇻🇳 @AzadNet
+      - ZA 🇿🇦 @AzadNet
+      - ZA 🇿🇦 @AzadNet 2
+      - ZA 🇿🇦 Johannesburg @AzadNet
 
   - name: 🔥 Auto(Best ping)
     type: url-test
     url: http://connectivitycheck.gstatic.com/generate_204
     interval: 600
     proxies:
-      - AE 🇦🇪 Dubai
-      - AE 🇦🇪 Dubai 2
-      - AR 🇦🇷 Buenos Aires
-      - AU 🇦🇺 Sydney
-      - AU 🇦🇺 Sydney 2
-      - AU 🇦🇺 Sydney 3
-      - AU 🇦🇺 Sydney 4
-      - AU 🇦🇺 Sydney 5
-      - AU 🇦🇺 Sydney 6
-      - AU 🇦🇺 Sydney 7
-      - BA 🇧🇦 Novi Travnik
-      - BA 🇧🇦 Novi Travnik 2
-      - CA 🇨🇦 Beauharnois
-      - CA 🇨🇦 Montreal
-      - CA 🇨🇦 Montreal 2
-      - CA 🇨🇦 Toronto
-      - CA 🇨🇦 Toronto 2
-      - CA 🇨🇦 Toronto 3
-      - CA 🇨🇦 Toronto 4
-      - CA 🇨🇦 Toronto 5
-      - CA 🇨🇦 Toronto 6
-      - CA 🇨🇦 Toronto 7
-      - CA 🇨🇦 Toronto 8
-      - CA 🇨🇦 Toronto 9
-      - CA 🇨🇦 Toronto 10
-      - CA 🇨🇦 Toronto 11
-      - CA 🇨🇦 Toronto 12
-      - CA 🇨🇦 Toronto 13
-      - CA 🇨🇦 Toronto 14
-      - CA 🇨🇦 Toronto 15
-      - CA 🇨🇦 Toronto 16
-      - CA 🇨🇦 Toronto 17
-      - CA 🇨🇦 Toronto 18
-      - CA 🇨🇦 Toronto 19
-      - CA 🇨🇦 Toronto 20
-      - CA 🇨🇦 Toronto 21
-      - CA 🇨🇦 Toronto 22
-      - CA 🇨🇦 Toronto 23
-      - CA 🇨🇦 Toronto 24
-      - CA 🇨🇦 Toronto 25
-      - CA 🇨🇦 Toronto 26
-      - CA 🇨🇦 Toronto 27
-      - CA 🇨🇦 Toronto 28
-      - CA 🇨🇦 Toronto 29
-      - CA 🇨🇦 Toronto 30
-      - CA 🇨🇦 Toronto 31
-      - CA 🇨🇦 Toronto 32
-      - CA 🇨🇦 Toronto 33
-      - CA 🇨🇦 Toronto 34
-      - CA 🇨🇦 Toronto 35
-      - CA 🇨🇦 Toronto 36
-      - CA 🇨🇦 Toronto 37
-      - CA 🇨🇦 Toronto 38
-      - CA 🇨🇦 Toronto 39
-      - CA 🇨🇦 Toronto 40
-      - CA 🇨🇦 Toronto 41
-      - CA 🇨🇦 Toronto 42
-      - CA 🇨🇦 Toronto 43
-      - CA 🇨🇦 Toronto 44
-      - CA 🇨🇦 Toronto 45
-      - CA 🇨🇦 Toronto 46
-      - CA 🇨🇦 Toronto 47
-      - CA 🇨🇦 Toronto 48
-      - CA 🇨🇦 Toronto 49
-      - CA 🇨🇦 Toronto 50
-      - CA 🇨🇦 Toronto 51
-      - CA 🇨🇦 Toronto 52
-      - CA 🇨🇦 Toronto 53
-      - CA 🇨🇦 Toronto 54
-      - CA 🇨🇦 Toronto 55
-      - CA 🇨🇦 Toronto 56
-      - CA 🇨🇦 Toronto 57
-      - CA 🇨🇦 Toronto 58
-      - CA 🇨🇦 Toronto 59
-      - CA 🇨🇦 Toronto 60
-      - CA 🇨🇦 Toronto 61
-      - CA 🇨🇦 Toronto 62
-      - CA 🇨🇦 Toronto 63
-      - CA 🇨🇦 Toronto 64
-      - CA 🇨🇦 Toronto 65
-      - CA 🇨🇦 Toronto 66
-      - CA 🇨🇦 Toronto 67
-      - CA 🇨🇦 Toronto 68
-      - CA 🇨🇦 Toronto 69
-      - CA 🇨🇦 Toronto 70
-      - CA 🇨🇦 Toronto 71
-      - CA 🇨🇦 Toronto 72
-      - CA 🇨🇦 Toronto 73
-      - CA 🇨🇦 Toronto 74
-      - CA 🇨🇦 Toronto 75
-      - CA 🇨🇦 Toronto 76
-      - CA 🇨🇦 Toronto 77
-      - CA 🇨🇦 Toronto 78
-      - CA 🇨🇦 Toronto 79
-      - CA 🇨🇦 Toronto 80
-      - CA 🇨🇦 Toronto 81
-      - CA 🇨🇦 Toronto 82
-      - CA 🇨🇦 Toronto 83
-      - CA 🇨🇦 Toronto 84
-      - CA 🇨🇦 Toronto 85
-      - CA 🇨🇦 Toronto 86
-      - CA 🇨🇦 Toronto 87
-      - CA 🇨🇦 Toronto 88
-      - CA 🇨🇦 Toronto 89
-      - CA 🇨🇦 Toronto 90
-      - CA 🇨🇦 Toronto 91
-      - CA 🇨🇦 Toronto 92
-      - CA 🇨🇦 Toronto 93
-      - CA 🇨🇦 Toronto 94
-      - CA 🇨🇦 Toronto 95
-      - CA 🇨🇦 Toronto 96
-      - CA 🇨🇦 Toronto 97
-      - CA 🇨🇦 Toronto 98
-      - CA 🇨🇦 Toronto 99
-      - CA 🇨🇦 Toronto 100
-      - CA 🇨🇦 Toronto 101
-      - CA 🇨🇦 Toronto 102
-      - CA 🇨🇦 Toronto 103
-      - CA 🇨🇦 Toronto 104
-      - CA 🇨🇦 Toronto 105
-      - CA 🇨🇦 Toronto 106
-      - CA 🇨🇦 Toronto 107
-      - CA 🇨🇦 Toronto 108
-      - CA 🇨🇦 Toronto 109
-      - CA 🇨🇦 Toronto 110
-      - CA 🇨🇦 Toronto 111
-      - CA 🇨🇦 Toronto 112
-      - CA 🇨🇦 Toronto 113
-      - CA 🇨🇦 Toronto 114
-      - CA 🇨🇦 Toronto 115
-      - CA 🇨🇦 Toronto 116
-      - CA 🇨🇦 Toronto 117
-      - CO 🇨🇴 Bogot
-      - CY 🇨🇾 Nicosia
-      - DE 🇩🇪 Dusseldorf
-      - DE 🇩🇪 Dusseldorf 2
-      - DE 🇩🇪 Frankfurt am Main
-      - DE 🇩🇪 Frankfurt am Main 2
-      - DE 🇩🇪 Frankfurt am Main 3
-      - DE 🇩🇪 Hesse
-      - DE 🇩🇪 Hesse 2
-      - DE 🇩🇪 Hesse 3
-      - DE 🇩🇪 Hesse 4
-      - DE 🇩🇪 Hesse 5
-      - DE 🇩🇪 Hesse 6
-      - DE 🇩🇪 Hesse 7
-      - ES 🇪🇸 Madrid
-      - FR 🇫🇷 Paris
-      - FR 🇫🇷 Paris 2
-      - FR 🇫🇷 Paris 3
-      - FR 🇫🇷 Paris 4
-      - FR 🇫🇷 Paris 5
-      - FR 🇫🇷 Paris 6
-      - FR 🇫🇷 Paris 7
-      - FR 🇫🇷 Paris 8
-      - FR 🇫🇷 Paris 9
-      - FR 🇫🇷 Paris 10
-      - FR 🇫🇷 Paris 11
-      - FR 🇫🇷 Paris 12
-      - FR 🇫🇷 Paris 13
-      - FR 🇫🇷 Paris 14
-      - FR 🇫🇷 Paris 15
-      - GB 🇬🇧 London
-      - GB 🇬🇧 London 2
-      - GB 🇬🇧 London 3
-      - GB 🇬🇧 London 4
-      - GB 🇬🇧 London 5
-      - GB 🇬🇧 London 6
-      - GB 🇬🇧 London 7
-      - GB 🇬🇧 London 8
-      - GB 🇬🇧 London 9
-      - GB 🇬🇧 London 10
-      - GB 🇬🇧 London 11
-      - GB 🇬🇧 London 12
-      - GB 🇬🇧 London 13
-      - GB 🇬🇧 London 14
-      - GB 🇬🇧 London 15
-      - GB 🇬🇧 London 16
-      - GB 🇬🇧 London 17
-      - GB 🇬🇧 London 18
-      - GB 🇬🇧 Walthamstow
-      - HK 🇭🇰 Central
-      - HU 🇭🇺 Budapest
-      - HU 🇭🇺 Budapest 2
-      - ID 🇮🇩 Jakarta
-      - IL 🇮🇱 Haifa
-      - IM 🇮🇲 Douglas
-      - IN 🇮🇳 Mumbai
-      - IN 🇮🇳 Mumbai 2
-      - IN 🇮🇳 Mumbai 3
-      - IN 🇮🇳 Mumbai 4
-      - IN 🇮🇳 Mumbai 5
-      - IN 🇮🇳 Mumbai 6
-      - IN 🇮🇳 Mumbai 7
-      - IN 🇮🇳 Mumbai 8
-      - IS 🇮🇸 Hafnarfjordur
-      - IT 🇮🇹 Milan
-      - IT 🇮🇹 Milan 2
-      - IT 🇮🇹 Milan 3
-      - IT 🇮🇹 Rome
-      - JP 🇯🇵 Tokyo
-      - JP 🇯🇵 Tokyo 2
-      - JP 🇯🇵 Tokyo 3
-      - JP 🇯🇵 Tokyo 4
-      - JP 🇯🇵 Tokyo 5
-      - JP 🇯🇵 Tokyo 6
-      - JP 🇯🇵 Tokyo 7
-      - JP 🇯🇵 Tokyo 8
-      - KR 🇰🇷 Seoul
-      - KR 🇰🇷 Seoul 2
-      - KR 🇰🇷 Seoul 3
-      - KR 🇰🇷 Seoul 4
-      - KR 🇰🇷 Seoul 5
-      - KR 🇰🇷 Seoul 6
-      - KR 🇰🇷 Seoul 7
-      - KR 🇰🇷 Seoul 8
-      - KR 🇰🇷 Seoul 9
-      - KR 🇰🇷 Seoul 10
-      - KR 🇰🇷 Seoul 11
-      - LX 🇱🇺 Luxembourg
-      - MK 🇲🇰 Skopje
-      - NL 🇳🇱 Amsterdam
-      - NL 🇳🇱 Naaldwijk
-      - NO 🇳🇴 Oslo
-      - PL 🇵🇱 Warsaw
-      - PL 🇵🇱 Warsaw 2
-      - PL 🇵🇱 Warsaw 3
-      - PL 🇵🇱 Warsaw 4
-      - PL 🇵🇱 Warsaw 5
-      - PL 🇵🇱 Warsaw 6
-      - PL 🇵🇱 Warsaw 7
-      - PL 🇵🇱 Warsaw 8
-      - PL 🇵🇱 Warsaw 9
-      - PL 🇵🇱 Warsaw 10
-      - RU 🇷🇺 Moscow
-      - SE 🇸🇪 Stockholm
-      - SG 🇸🇬 Singapore
-      - SG 🇸🇬 Singapore 2
-      - SG 🇸🇬 Singapore 3
-      - SG 🇸🇬 Singapore 4
-      - SG 🇸🇬 Singapore 5
-      - SG 🇸🇬 Singapore 6
-      - SG 🇸🇬 Singapore 7
-      - TR 🇹🇷 Istanbul
-      - TW 🇹🇼 Taipei
-      - TW 🇹🇼 Taichung
-      - US 🇺🇸 Ashburn
-      - US 🇺🇸 Ashburn 2
-      - US 🇺🇸 Ashburn 3
-      - US 🇺🇸 Ashburn 4
-      - US 🇺🇸 Ashburn 5
-      - US 🇺🇸 Ashburn 6
-      - US 🇺🇸 Ashburn 7
-      - US 🇺🇸 Ashburn 8
-      - US 🇺🇸 Ashburn 9
-      - US 🇺🇸 Ashburn 10
-      - US 🇺🇸 Ashburn 11
-      - US 🇺🇸 Ashburn 12
-      - US 🇺🇸 Ashburn 13
-      - US 🇺🇸 Atlanta
-      - US 🇺🇸 Atlanta 2
-      - US 🇺🇸 Atlanta 3
-      - US 🇺🇸 Atlanta 4
-      - US 🇺🇸 Atlanta 5
-      - US 🇺🇸 Atlanta 6
-      - US 🇺🇸 Atlanta 7
-      - US 🇺🇸 Atlanta 8
-      - US 🇺🇸 Atlanta 9
-      - US 🇺🇸 Atlanta 10
-      - US 🇺🇸 Atlanta 11
-      - US 🇺🇸 Atlanta 12
-      - US 🇺🇸 Atlanta 13
-      - US 🇺🇸 Atlanta 14
-      - US 🇺🇸 Atlanta 15
-      - US 🇺🇸 Atlanta 16
-      - US 🇺🇸 Atlanta 17
-      - US 🇺🇸 Atlanta 18
-      - US 🇺🇸 Atlanta 19
-      - US 🇺🇸 Atlanta 20
-      - US 🇺🇸 Atlanta 21
-      - US 🇺🇸 Atlanta 22
-      - US 🇺🇸 Atlanta 23
-      - US 🇺🇸 Atlanta 24
-      - US 🇺🇸 Atlanta 25
-      - US 🇺🇸 Atlanta 26
-      - US 🇺🇸 Atlanta 27
-      - US 🇺🇸 Atlanta 28
-      - US 🇺🇸 Atlanta 29
-      - US 🇺🇸 Atlanta 30
-      - US 🇺🇸 Atlanta 31
-      - US 🇺🇸 Atlanta 32
-      - US 🇺🇸 Atlanta 33
-      - US 🇺🇸 Atlanta 34
-      - US 🇺🇸 Atlanta 35
-      - US 🇺🇸 Atlanta 36
-      - US 🇺🇸 Chicago
-      - US 🇺🇸 Chicago 2
-      - US 🇺🇸 Chicago 3
-      - US 🇺🇸 Chicago 4
-      - US 🇺🇸 Chicago 5
-      - US 🇺🇸 Chicago 6
-      - US 🇺🇸 Chicago 7
-      - US 🇺🇸 Dallas
-      - US 🇺🇸 Dallas 2
-      - US 🇺🇸 Dallas 3
-      - US 🇺🇸 Dallas 4
-      - US 🇺🇸 Dallas 5
-      - US 🇺🇸 Dallas 6
-      - US 🇺🇸 Dallas 7
-      - US 🇺🇸 Dallas 8
-      - US 🇺🇸 Dallas 9
-      - US 🇺🇸 Dallas 10
-      - US 🇺🇸 Dallas 11
-      - US 🇺🇸 Dallas 12
-      - US 🇺🇸 Dallas 13
-      - US 🇺🇸 Dallas 14
-      - US 🇺🇸 Dallas 15
-      - US 🇺🇸 Dallas 16
-      - US 🇺🇸 Dallas 17
-      - US 🇺🇸 Dallas 18
-      - US 🇺🇸 Dallas 19
-      - US 🇺🇸 Dallas 20
-      - US 🇺🇸 Dallas 21
-      - US 🇺🇸 Dallas 22
-      - US 🇺🇸 Dallas 23
-      - US 🇺🇸 Dallas 24
-      - US 🇺🇸 Dallas 25
-      - US 🇺🇸 Dallas 26
-      - US 🇺🇸 Dallas 27
-      - US 🇺🇸 Dallas 28
-      - US 🇺🇸 Dallas 29
-      - US 🇺🇸 Dallas 30
-      - US 🇺🇸 Dallas 31
-      - US 🇺🇸 Dallas 32
-      - US 🇺🇸 Dallas 33
-      - US 🇺🇸 Dallas 34
-      - US 🇺🇸 Dallas 35
-      - US 🇺🇸 Dallas 36
-      - US 🇺🇸 Dallas 37
-      - US 🇺🇸 Dallas 38
-      - US 🇺🇸 Dallas 39
-      - US 🇺🇸 Denver
-      - US 🇺🇸 Los Angeles
-      - US 🇺🇸 Los Angeles 2
-      - US 🇺🇸 Los Angeles 3
-      - US 🇺🇸 Los Angeles 4
-      - US 🇺🇸 Los Angeles 5
-      - US 🇺🇸 Los Angeles 6
-      - US 🇺🇸 Los Angeles 7
-      - US 🇺🇸 Los Angeles 8
-      - US 🇺🇸 Los Angeles 9
-      - US 🇺🇸 Los Angeles 10
-      - US 🇺🇸 Los Angeles 11
-      - US 🇺🇸 Los Angeles 12
-      - US 🇺🇸 Los Angeles 13
-      - US 🇺🇸 Los Angeles 14
-      - US 🇺🇸 Los Angeles 15
-      - US 🇺🇸 Los Angeles 16
-      - US 🇺🇸 Los Angeles 17
-      - US 🇺🇸 Los Angeles 18
-      - US 🇺🇸 Los Angeles 19
-      - US 🇺🇸 Los Angeles 20
-      - US 🇺🇸 Los Angeles 21
-      - US 🇺🇸 Los Angeles 22
-      - US 🇺🇸 Los Angeles 23
-      - US 🇺🇸 Los Angeles 24
-      - US 🇺🇸 Los Angeles 25
-      - US 🇺🇸 Los Angeles 26
-      - US 🇺🇸 Los Angeles 27
-      - US 🇺🇸 Los Angeles 28
-      - US 🇺🇸 Los Angeles 29
-      - US 🇺🇸 Los Angeles 30
-      - US 🇺🇸 Los Angeles 31
-      - US 🇺🇸 Los Angeles 32
-      - US 🇺🇸 Los Angeles 33
-      - US 🇺🇸 Los Angeles 34
-      - US 🇺🇸 Los Angeles 35
-      - US 🇺🇸 Los Angeles 36
-      - US 🇺🇸 New York
-      - US 🇺🇸 New York 2
-      - US 🇺🇸 New York 3
-      - US 🇺🇸 New York 4
-      - US 🇺🇸 New York 5
-      - US 🇺🇸 New York 6
-      - US 🇺🇸 New York 7
-      - US 🇺🇸 New York 8
-      - US 🇺🇸 New York 9
-      - US 🇺🇸 New York 10
-      - US 🇺🇸 New York 11
-      - US 🇺🇸 New York 12
-      - US 🇺🇸 New York 13
-      - US 🇺🇸 New York 14
-      - US 🇺🇸 New York 15
-      - US 🇺🇸 New York 16
-      - US 🇺🇸 New York 17
-      - US 🇺🇸 New York 18
-      - US 🇺🇸 New York 19
-      - US 🇺🇸 New York 20
-      - US 🇺🇸 New York 21
-      - US 🇺🇸 New York 22
-      - US 🇺🇸 New York 23
-      - US 🇺🇸 New York 24
-      - US 🇺🇸 New York 25
-      - US 🇺🇸 New York 26
-      - US 🇺🇸 New York 27
-      - US 🇺🇸 New York 28
-      - US 🇺🇸 New York 29
-      - US 🇺🇸 New York 30
-      - US 🇺🇸 New York 31
-      - US 🇺🇸 New York 32
-      - US 🇺🇸 New York 33
-      - US 🇺🇸 New York 34
-      - US 🇺🇸 New York 35
-      - US 🇺🇸 New York 36
-      - US 🇺🇸 Newark
-      - US 🇺🇸 Newark 2
-      - US 🇺🇸 Newark 3
-      - US 🇺🇸 Newark 4
-      - US 🇺🇸 Newark 5
-      - US 🇺🇸 Newark 6
-      - US 🇺🇸 Newark 7
-      - US 🇺🇸 Newark 8
-      - US 🇺🇸 Reston
-      - US 🇺🇸 Reston 2
-      - US 🇺🇸 Reston 3
-      - US 🇺🇸 Reston 4
-      - US 🇺🇸 Reston 5
-      - US 🇺🇸 Reston 6
-      - US 🇺🇸 Reston 7
-      - US 🇺🇸 San Jose
-      - US 🇺🇸 Santa Clara
-      - US 🇺🇸 Santa Clara 2
-      - US 🇺🇸 Santa Clara 3
-      - US 🇺🇸 Santa Clara 4
-      - US 🇺🇸 Santa Clara 5
-      - US 🇺🇸 Santa Clara 6
-      - US 🇺🇸 Santa Clara 7
-      - US 🇺🇸 Santa Clara 8
-      - US 🇺🇸 Santa Clara 9
-      - US 🇺🇸 Santa Clara 10
-      - US 🇺🇸 Santa Clara 11
-      - US 🇺🇸 Santa Clara 12
-      - US 🇺🇸 Santa Clara 13
-      - US 🇺🇸 Santa Clara 14
-      - US 🇺🇸 Santa Clara 15
-      - US 🇺🇸 Santa Clara 16
-      - US 🇺🇸 Santa Clara 17
-      - US 🇺🇸 Santa Clara 18
-      - US 🇺🇸 Santa Clara 19
-      - US 🇺🇸 Santa Clara 20
-      - US 🇺🇸 Santa Clara 21
-      - US 🇺🇸 Seattle
-      - US 🇺🇸 Seattle 2
-      - US 🇺🇸 Seattle 3
-      - US 🇺🇸 Seattle 4
-      - US 🇺🇸 Seattle 5
-      - US 🇺🇸 Seattle 6
-      - US 🇺🇸 Seattle 7
-      - US 🇺🇸 Seattle 8
-      - US 🇺🇸 Seattle 9
-      - US 🇺🇸 Seattle 10
-      - US 🇺🇸 Seattle 11
-      - US 🇺🇸 Seattle 12
-      - US 🇺🇸 Seattle 13
-      - US 🇺🇸 Seattle 14
-      - US 🇺🇸 Seattle 15
-      - US 🇺🇸 Seattle 16
-      - US 🇺🇸 Seattle 17
-      - US 🇺🇸 Seattle 18
-      - US 🇺🇸 Seattle 19
-      - US 🇺🇸 Seattle 20
-      - US 🇺🇸 Seattle 21
-      - US 🇺🇸 Seattle 22
-      - US 🇺🇸 Seattle 23
-      - US 🇺🇸 Seattle 24
-      - US 🇺🇸 Seattle 25
-      - US 🇺🇸 Seattle 26
-      - US 🇺🇸 Seattle 27
-      - US 🇺🇸 Seattle 28
-      - US 🇺🇸 Seattle 29
-      - US 🇺🇸 Seattle 30
-      - US 🇺🇸 Seattle 31
-      - US 🇺🇸 Seattle 32
-      - US 🇺🇸 Seattle 33
-      - US 🇺🇸 Seattle 34
-      - US 🇺🇸 Seattle 35
-      - VN 🇻🇳 Ho Chi Minh City
-      - ZA 🇿🇦 Vereeniging
+      - AE 🇦🇪 Dubai @AzadNet
+      - AE 🇦🇪 Sharjah @AzadNet
+      - AE 🇦🇪 Sharjah @AzadNet 2
+      - AU 🇦🇺 Sydney @AzadNet
+      - AU 🇦🇺 Sydney @AzadNet 2
+      - AU 🇦🇺 Sydney @AzadNet 3
+      - AU 🇦🇺 Sydney @AzadNet 4
+      - AZ 🇦🇿 @AzadNet
+      - BA 🇧🇦 Novi Travnik @AzadNet
+      - BA 🇧🇦 Novi Travnik @AzadNet 2
+      - BA 🇧🇦 Novi Travnik @AzadNet 3
+      - BA 🇧🇦 Novi Travnik @AzadNet 4
+      - BA 🇧🇦 Novi Travnik @AzadNet 5
+      - BA 🇧🇦 Novi Travnik @AzadNet 6
+      - BA 🇧🇦 Novi Travnik @AzadNet 7
+      - BA 🇧🇦 Novi Travnik @AzadNet 8
+      - BA 🇧🇦 Novi Travnik @AzadNet 9
+      - BE 🇧🇪 Brussels @AzadNet
+      - CA 🇨🇦 Toronto @AzadNet
+      - CA 🇨🇦 Toronto @AzadNet 2
+      - CA 🇨🇦 Toronto @AzadNet 3
+      - CA 🇨🇦 Toronto @AzadNet 4
+      - CA 🇨🇦 Toronto @AzadNet 5
+      - CA 🇨🇦 Toronto @AzadNet 6
+      - CA 🇨🇦 Toronto @AzadNet 7
+      - CH 🇨🇭 Zurich @AzadNet
+      - CN 🇨🇳 @AzadNet
+      - CY 🇨🇾 @AzadNet
+      - DE 🇩🇪 @AzadNet
+      - DE 🇩🇪 @AzadNet 2
+      - DE 🇩🇪 @AzadNet 3
+      - DE 🇩🇪 Düsseldorf @AzadNet
+      - DE 🇩🇪 Frankfurt am Main @AzadNet
+      - DE 🇩🇪 Frankfurt am Main @AzadNet 2
+      - DE 🇩🇪 Frankfurt am Main @AzadNet 3
+      - DE 🇩🇪 Frankfurt am Main @AzadNet 4
+      - ES 🇪🇸 Madrid @AzadNet
+      - FR 🇫🇷 @AzadNet
+      - FR 🇫🇷 @AzadNet 2
+      - FR 🇫🇷 @AzadNet 3
+      - FR 🇫🇷 Vélizy-Villacoublay @AzadNet
+      - GB 🇬🇧 @AzadNet
+      - GB 🇬🇧 @AzadNet 2
+      - GB 🇬🇧 @AzadNet 3
+      - GB 🇬🇧 London @AzadNet
+      - GB 🇬🇧 London @AzadNet 2
+      - GB 🇬🇧 London @AzadNet 3
+      - GR 🇬🇷 Thessaloniki @AzadNet
+      - HK 🇭🇰 Central @AzadNet
+      - HK 🇭🇰 Central @AzadNet 2
+      - ID 🇮🇩 @AzadNet
+      - IL 🇮🇱 Jerusalem @AzadNet
+      - IL 🇮🇱 Jerusalem @AzadNet 2
+      - IM 🇮🇲 Douglas @AzadNet
+      - IN 🇮🇳 Mumbai @AzadNet
+      - IN 🇮🇳 Mumbai @AzadNet 2
+      - IN 🇮🇳 Mumbai @AzadNet 3
+      - IS 🇮🇸 @AzadNet
+      - IT 🇮🇹 @AzadNet
+      - IT 🇮🇹 @AzadNet 2
+      - IT 🇮🇹 Milan @AzadNet
+      - IT 🇮🇹 Milan @AzadNet 2
+      - JP 🇯🇵 Tokyo @AzadNet
+      - JP 🇯🇵 Tokyo @AzadNet 2
+      - JP 🇯🇵 Tokyo @AzadNet 3
+      - JP 🇯🇵 Tokyo @AzadNet 4
+      - KR 🇰🇷 Seoul @AzadNet
+      - KR 🇰🇷 Seoul @AzadNet 2
+      - KR 🇰🇷 Seoul @AzadNet 3
+      - KR 🇰🇷 Seoul @AzadNet 4
+      - LU 🇱🇺 Luxembourg @AzadNet
+      - MD 🇲🇩 Chisinau @AzadNet
+      - NL 🇳🇱 @AzadNet
+      - NL 🇳🇱 @AzadNet 2
+      - NL 🇳🇱 @AzadNet 3
+      - NL 🇳🇱 @AzadNet 4
+      - NL 🇳🇱 @AzadNet 5
+      - NL 🇳🇱 Amsterdam @AzadNet
+      - NL 🇳🇱 Amsterdam @AzadNet 2
+      - NL 🇳🇱 Amsterdam @AzadNet 3
+      - PL 🇵🇱 @AzadNet
+      - PL 🇵🇱 @AzadNet 2
+      - PL 🇵🇱 Warsaw @AzadNet
+      - RO 🇷🇴 @AzadNet
+      - RU 🇷🇺 @AzadNet
+      - RU 🇷🇺 Moscow @AzadNet
+      - RU 🇷🇺 Moscow @AzadNet 2
+      - RU 🇷🇺 Moscow @AzadNet 3
+      - RU 🇷🇺 Moscow @AzadNet 4
+      - SE 🇸🇪 Stockholm @AzadNet
+      - SE 🇸🇪 Stockholm @AzadNet 2
+      - SG 🇸🇬 Singapore @AzadNet
+      - SG 🇸🇬 Singapore @AzadNet 2
+      - SG 🇸🇬 Singapore @AzadNet 3
+      - SG 🇸🇬 Singapore @AzadNet 4
+      - SG 🇸🇬 Singapore @AzadNet 5
+      - SG 🇸🇬 Singapore @AzadNet 6
+      - SG 🇸🇬 Singapore @AzadNet 7
+      - SG 🇸🇬 Singapore @AzadNet 8
+      - SG 🇸🇬 Singapore @AzadNet 9
+      - SG 🇸🇬 Singapore @AzadNet 10
+      - SG 🇸🇬 Singapore @AzadNet 11
+      - SG 🇸🇬 Singapore @AzadNet 12
+      - SG 🇸🇬 Singapore @AzadNet 13
+      - SI 🇸🇮 Ljubljana @AzadNet
+      - TH 🇹🇭 @AzadNet
+      - TR 🇹🇷 @AzadNet
+      - TR 🇹🇷 Istanbul @AzadNet
+      - TW 🇹🇼 New Taipei @AzadNet
+      - UA 🇺🇦 @AzadNet
+      - UA 🇺🇦 @AzadNet 2
+      - UA 🇺🇦 @AzadNet 3
+      - UA 🇺🇦 Dnipropetrovsk @AzadNet
+      - UA 🇺🇦 Khmelnytskyy @AzadNet
+      - UA 🇺🇦 Kyiv @AzadNet
+      - UA 🇺🇦 Kyiv @AzadNet 2
+      - US 🇺🇸 @AzadNet
+      - US 🇺🇸 @AzadNet 2
+      - US 🇺🇸 Atlanta @AzadNet
+      - US 🇺🇸 Atlanta @AzadNet 2
+      - US 🇺🇸 Atlanta @AzadNet 3
+      - US 🇺🇸 Atlanta @AzadNet 4
+      - US 🇺🇸 Atlanta @AzadNet 5
+      - US 🇺🇸 Atlanta @AzadNet 6
+      - US 🇺🇸 Atlanta @AzadNet 7
+      - US 🇺🇸 Atlanta @AzadNet 8
+      - US 🇺🇸 Atlanta @AzadNet 9
+      - US 🇺🇸 Atlanta @AzadNet 10
+      - US 🇺🇸 Atlanta @AzadNet 11
+      - US 🇺🇸 Atlanta @AzadNet 12
+      - US 🇺🇸 Atlanta @AzadNet 13
+      - US 🇺🇸 Atlanta @AzadNet 14
+      - US 🇺🇸 Atlanta @AzadNet 15
+      - US 🇺🇸 Atlanta @AzadNet 16
+      - US 🇺🇸 Atlanta @AzadNet 17
+      - US 🇺🇸 Atlanta @AzadNet 18
+      - US 🇺🇸 Atlanta @AzadNet 19
+      - US 🇺🇸 Atlanta @AzadNet 20
+      - US 🇺🇸 Atlanta @AzadNet 21
+      - US 🇺🇸 Atlanta @AzadNet 22
+      - US 🇺🇸 Atlanta @AzadNet 23
+      - US 🇺🇸 Atlanta @AzadNet 24
+      - US 🇺🇸 Atlanta @AzadNet 25
+      - US 🇺🇸 Atlanta @AzadNet 26
+      - US 🇺🇸 Atlanta @AzadNet 27
+      - US 🇺🇸 Atlanta @AzadNet 28
+      - US 🇺🇸 Atlanta @AzadNet 29
+      - US 🇺🇸 Atlanta @AzadNet 30
+      - US 🇺🇸 Atlanta @AzadNet 31
+      - US 🇺🇸 Atlanta @AzadNet 32
+      - US 🇺🇸 Atlanta @AzadNet 33
+      - US 🇺🇸 Chicago @AzadNet
+      - US 🇺🇸 Chicago @AzadNet 2
+      - US 🇺🇸 Chicago @AzadNet 3
+      - US 🇺🇸 Chicago @AzadNet 4
+      - US 🇺🇸 Chicago @AzadNet 5
+      - US 🇺🇸 Chicago @AzadNet 6
+      - US 🇺🇸 Chicago @AzadNet 7
+      - US 🇺🇸 Chicago @AzadNet 8
+      - US 🇺🇸 Chicago @AzadNet 9
+      - US 🇺🇸 Chicago @AzadNet 10
+      - US 🇺🇸 Chicago @AzadNet 11
+      - US 🇺🇸 Chicago @AzadNet 12
+      - US 🇺🇸 Chicago @AzadNet 13
+      - US 🇺🇸 Dallas @AzadNet
+      - US 🇺🇸 Dallas @AzadNet 2
+      - US 🇺🇸 Dallas @AzadNet 3
+      - US 🇺🇸 Dallas @AzadNet 4
+      - US 🇺🇸 Dallas @AzadNet 5
+      - US 🇺🇸 Dallas @AzadNet 6
+      - US 🇺🇸 Los Angeles @AzadNet
+      - US 🇺🇸 Los Angeles @AzadNet 2
+      - US 🇺🇸 Los Angeles @AzadNet 3
+      - US 🇺🇸 Los Angeles @AzadNet 4
+      - US 🇺🇸 Memphis @AzadNet
+      - US 🇺🇸 Memphis @AzadNet 2
+      - US 🇺🇸 Miami @AzadNet
+      - US 🇺🇸 Miami @AzadNet 2
+      - US 🇺🇸 Miami @AzadNet 3
+      - US 🇺🇸 Miami @AzadNet 4
+      - US 🇺🇸 Newark @AzadNet
+      - US 🇺🇸 Newark @AzadNet 2
+      - US 🇺🇸 Newark @AzadNet 3
+      - US 🇺🇸 Newark @AzadNet 4
+      - US 🇺🇸 Reston @AzadNet
+      - US 🇺🇸 Reston @AzadNet 2
+      - US 🇺🇸 Reston @AzadNet 3
+      - US 🇺🇸 Santa Clara @AzadNet
+      - US 🇺🇸 Santa Clara @AzadNet 2
+      - US 🇺🇸 Santa Clara @AzadNet 3
+      - US 🇺🇸 Santa Clara @AzadNet 4
+      - US 🇺🇸 Seattle @AzadNet
+      - US 🇺🇸 Seattle @AzadNet 2
+      - US 🇺🇸 Seattle @AzadNet 3
+      - US 🇺🇸 Seattle @AzadNet 4
+      - US 🇺🇸 West New York @AzadNet
+      - VN 🇻🇳 @AzadNet
+      - ZA 🇿🇦 @AzadNet
+      - ZA 🇿🇦 @AzadNet 2
+      - ZA 🇿🇦 Johannesburg @AzadNet
 
   - name: ⛔Direct
     type: select
