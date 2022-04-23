@@ -97,197 +97,202 @@ dns:
     - speedtest.cros.wr.pvp.net
 proxies:
   - {name: AE 🇦🇪 Sharjah @AzadNet, server: 109.169.72.249, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: AU 🇦🇺 Sydney @AzadNet, server: 192.53.168.189, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
-  - {name: AU 🇦🇺 Sydney @AzadNet 2, server: 172.105.162.49, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
-  - {name: AU 🇦🇺 Sydney @AzadNet 3, server: 172.105.177.120, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, udp: true}
-  - {name: AU 🇦🇺 Sydney @AzadNet 4, server: 172.105.162.49, port: 4444, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, udp: true}
-  - {name: AU 🇦🇺 Sydney @AzadNet 5, server: 172.105.177.120, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
-  - {name: AU 🇦🇺 Sydney @AzadNet 6, server: 192.53.169.116, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
-  - {name: AU 🇦🇺 Sydney @AzadNet 7, server: 172.105.184.113, port: 5000, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
-  - {name: AU 🇦🇺 Sydney @AzadNet 8, server: 192.53.169.116, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: AU 🇦🇺 Sydney @AzadNet, server: 192.53.169.116, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: AU 🇦🇺 Sydney @AzadNet 2, server: 172.105.177.120, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, udp: true}
+  - {name: AU 🇦🇺 Sydney @AzadNet 3, server: 172.105.162.49, port: 4444, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, udp: true}
+  - {name: AU 🇦🇺 Sydney @AzadNet 4, server: 172.105.184.113, port: 5000, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: AU 🇦🇺 Sydney @AzadNet 5, server: 172.105.254.242, port: 6697, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
+  - {name: AU 🇦🇺 Sydney @AzadNet 6, server: 172.105.162.49, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
+  - {name: AU 🇦🇺 Sydney @AzadNet 7, server: 192.53.169.116, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: AU 🇦🇺 Sydney @AzadNet 8, server: 172.105.177.120, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
+  - {name: AU 🇦🇺 Sydney @AzadNet 9, server: 185.167.116.38, port: 9056, type: ss, cipher: aes-256-cfb, password: rNBfNuuANFCAk7KB, udp: true}
+  - {name: AZ 🇦🇿 @AzadNet, server: 94.20.154.38, port: 50000, type: ss, cipher: aes-256-cfb, password: !<str> 3135771619, udp: true}
   - {name: BE 🇧🇪 Brussels @AzadNet, server: 193.9.114.34, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: CA 🇨🇦 @AzadNet, server: 198.57.27.36, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
-  - {name: CA 🇨🇦 @AzadNet 2, server: 198.57.27.172, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
-  - {name: CA 🇨🇦 @AzadNet 3, server: 198.57.27.36, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
-  - {name: CA 🇨🇦 @AzadNet 4, server: 198.57.27.36, port: 9102, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY, udp: true}
-  - {name: CA 🇨🇦 @AzadNet 5, server: 198.57.27.36, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
-  - {name: CA 🇨🇦 @AzadNet 6, server: 198.57.27.14, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
-  - {name: CA 🇨🇦 @AzadNet 7, server: 198.57.27.36, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
-  - {name: CA 🇨🇦 @AzadNet 8, server: 198.57.27.172, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
-  - {name: CA 🇨🇦 @AzadNet 9, server: 198.57.27.14, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
-  - {name: CA 🇨🇦 @AzadNet 10, server: 198.57.27.14, port: 6697, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
+  - {name: BG 🇧🇬 Sofia @AzadNet, server: 213.183.63.217, port: 9000, type: ss, cipher: aes-256-cfb, password: a3GFYt36Sm82Vys9, udp: true}
+  - {name: BG 🇧🇬 Sofia @AzadNet 2, server: 213.183.63.221, port: 9007, type: ss, cipher: aes-256-cfb, password: kSPmvwdFzGMMW5pY, udp: true}
+  - {name: BG 🇧🇬 Sofia @AzadNet 3, server: 213.183.63.221, port: 9019, type: ss, cipher: aes-256-cfb, password: GA9KzeEgvfxNrgmM, udp: true}
+  - {name: BG 🇧🇬 Sofia @AzadNet 4, server: 213.183.63.221, port: 9025, type: ss, cipher: aes-256-cfb, password: XPtzA9sCug3SPR4c, udp: true}
+  - {name: BG 🇧🇬 Sofia @AzadNet 5, server: 213.183.63.219, port: 9027, type: ss, cipher: aes-256-cfb, password: EXN3S3eQpjE7EJu8, udp: true}
+  - {name: BG 🇧🇬 Sofia @AzadNet 6, server: 213.183.63.218, port: 9059, type: ss, cipher: aes-256-cfb, password: 9XwYyZsK8SNzQDtY, udp: true}
+  - {name: BG 🇧🇬 Sofia @AzadNet 7, server: 213.183.63.217, port: 9064, type: ss, cipher: aes-256-cfb, password: cp8pRSUAyLhTfVWH, udp: true}
+  - {name: BG 🇧🇬 Sofia @AzadNet 8, server: 213.183.63.221, port: 9084, type: ss, cipher: aes-256-cfb, password: c3NtHJ5ujV2tGDfj, udp: true}
+  - {name: CA 🇨🇦 @AzadNet, server: 169.197.142.238, port: 5001, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: CA 🇨🇦 @AzadNet 2, server: 198.57.27.14, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: CA 🇨🇦 @AzadNet 3, server: 198.57.27.172, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: CH 🇨🇭 @AzadNet, server: 212.237.210.158, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: CH 🇨🇭 Zurich @AzadNet, server: 185.126.116.124, port: 9005, type: ss, cipher: aes-256-cfb, password: ZET59LF6DvCC8KVt, udp: true}
+  - {name: CH 🇨🇭 Zurich @AzadNet 2, server: 185.126.116.124, port: 9018, type: ss, cipher: aes-256-cfb, password: fG2artUmHfNT2cX7, udp: true}
+  - {name: CH 🇨🇭 Zurich @AzadNet 3, server: 185.126.116.124, port: 9020, type: ss, cipher: aes-256-cfb, password: BNmAXXxAHYpTRdzu, udp: true}
+  - {name: CH 🇨🇭 Zurich @AzadNet 4, server: 185.126.116.117, port: 9020, type: ss, cipher: aes-256-cfb, password: BNmAXXxAHYpTRdzu, udp: true}
+  - {name: CH 🇨🇭 Zurich @AzadNet 5, server: 185.126.116.124, port: 9031, type: ss, cipher: aes-256-cfb, password: BwcAUZk8hUFAkDGN, udp: true}
+  - {name: CH 🇨🇭 Zurich @AzadNet 6, server: 185.126.116.117, port: 9032, type: ss, cipher: aes-256-cfb, password: UWZQeLRWnkqgkseq, udp: true}
+  - {name: CH 🇨🇭 Zurich @AzadNet 7, server: 185.126.116.117, port: 9046, type: ss, cipher: aes-256-cfb, password: NvS8N4Vf8qAGPSCL, udp: true}
+  - {name: CH 🇨🇭 Zurich @AzadNet 8, server: 185.126.116.117, port: 9088, type: ss, cipher: aes-256-cfb, password: f8npKgNzdkss2ytn, udp: true}
+  - {name: CN 🇨🇳 @AzadNet, server: 14.29.124.168, port: 25217, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*, udp: true}
+  - {name: CN 🇨🇳 @AzadNet 2, server: 14.29.124.168, port: 25256, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*, udp: true}
+  - {name: CN 🇨🇳 @AzadNet 3, server: 14.29.124.168, port: 25283, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*, udp: true}
+  - {name: CN 🇨🇳 @AzadNet 4, server: 14.29.124.168, port: 25286, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*, udp: true}
+  - {name: CN 🇨🇳 @AzadNet 5, server: 14.29.124.168, port: 25296, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*, udp: true}
+  - {name: CN 🇨🇳 @AzadNet 6, server: 14.29.124.168, port: 25297, type: ss, cipher: aes-128-cfb, password: QazEdcTgb159@$*, udp: true}
   - {name: CY 🇨🇾 @AzadNet, server: 213.169.137.221, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: DE 🇩🇪 Düsseldorf @AzadNet, server: 89.163.212.17, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
-  - {name: DE 🇩🇪 Düsseldorf @AzadNet 2, server: 89.163.212.17, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
-  - {name: DE 🇩🇪 Frankfurt am Main @AzadNet, server: 139.162.130.101, port: 8888, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
-  - {name: DE 🇩🇪 Frankfurt am Main @AzadNet 2, server: 139.162.132.116, port: 8009, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
+  - {name: CY 🇨🇾 @AzadNet 2, server: 213.169.137.221, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: DE 🇩🇪 @AzadNet, server: 93.186.201.124, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: DE 🇩🇪 Frankfurt am Main @AzadNet, server: 172.105.244.165, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: DE 🇩🇪 Frankfurt am Main @AzadNet 2, server: 172.105.244.165, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
   - {name: DE 🇩🇪 Frankfurt am Main @AzadNet 3, server: 139.162.132.116, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
-  - {name: DE 🇩🇪 Frankfurt am Main @AzadNet 4, server: 139.162.132.116, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
-  - {name: DE 🇩🇪 Frankfurt am Main @AzadNet 5, server: 139.162.130.101, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
-  - {name: DE 🇩🇪 Frankfurt am Main @AzadNet 6, server: 139.162.130.101, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
+  - {name: DE 🇩🇪 Frankfurt am Main @AzadNet 4, server: 139.162.130.101, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
+  - {name: DE 🇩🇪 Frankfurt am Main @AzadNet 5, server: 139.162.132.116, port: 8009, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
+  - {name: DE 🇩🇪 Frankfurt am Main @AzadNet 6, server: 139.162.132.116, port: 8009, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
+  - {name: DE 🇩🇪 Frankfurt am Main @AzadNet 7, server: 139.162.132.116, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
+  - {name: DE 🇩🇪 Frankfurt am Main @AzadNet 8, server: 139.162.130.101, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
+  - {name: DE 🇩🇪 Frankfurt am Main @AzadNet 9, server: 139.162.130.101, port: 8888, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: DE 🇩🇪 Frankfurt am Main @AzadNet 10, server: 5.183.179.166, port: 9024, type: ss, cipher: aes-256-cfb, password: BejrQvtu9sqUeNuZ, udp: true}
+  - {name: DE 🇩🇪 Frankfurt am Main @AzadNet 11, server: 5.183.179.139, port: 9032, type: ss, cipher: aes-256-cfb, password: UWZQeLRWnkqgkseq, udp: true}
+  - {name: DE 🇩🇪 Frankfurt am Main @AzadNet 12, server: 5.183.179.146, port: 9032, type: ss, cipher: aes-256-cfb, password: UWZQeLRWnkqgkseq, udp: true}
+  - {name: DE 🇩🇪 Frankfurt am Main @AzadNet 13, server: 5.183.179.170, port: 9038, type: ss, cipher: aes-256-cfb, password: gYCYXfkUQEs2TaJQ, udp: true}
+  - {name: DE 🇩🇪 Frankfurt am Main @AzadNet 14, server: 5.183.179.166, port: 9046, type: ss, cipher: aes-256-cfb, password: NvS8N4Vf8qAGPSCL, udp: true}
+  - {name: DE 🇩🇪 Frankfurt am Main @AzadNet 15, server: 5.183.179.170, port: 9073, type: ss, cipher: aes-256-cfb, password: daFYagqDdBdA6VTX, udp: true}
+  - {name: DE 🇩🇪 Frankfurt am Main @AzadNet 16, server: 5.183.179.139, port: 9097, type: ss, cipher: aes-256-cfb, password: Sn5B7jTqr76aCJT8, udp: true}
   - {name: FR 🇫🇷 @AzadNet, server: 5.39.70.138, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
-  - {name: FR 🇫🇷 @AzadNet 2, server: 5.39.70.138, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: FR 🇫🇷 @AzadNet 2, server: 5.39.70.138, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
   - {name: FR 🇫🇷 @AzadNet 3, server: 5.39.70.138, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
-  - {name: FR 🇫🇷 @AzadNet 4, server: 145.239.1.100, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, udp: true}
-  - {name: FR 🇫🇷 @AzadNet 5, server: 145.239.1.100, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
-  - {name: FR 🇫🇷 @AzadNet 6, server: 145.239.1.100, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
-  - {name: FR 🇫🇷 @AzadNet 7, server: 145.239.1.100, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
-  - {name: FR 🇫🇷 @AzadNet 8, server: 145.239.1.100, port: 8888, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
-  - {name: FR 🇫🇷 @AzadNet 9, server: 145.239.1.100, port: 8009, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
-  - {name: FR 🇫🇷 @AzadNet 10, server: 145.239.1.100, port: 8000, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
-  - {name: GB 🇬🇧 @AzadNet, server: 212.38.189.174, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v, udp: true}
-  - {name: GB 🇬🇧 @AzadNet 2, server: 212.38.189.174, port: 7002, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
-  - {name: GB 🇬🇧 London @AzadNet, server: 149.7.16.10, port: 6697, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
-  - {name: GB 🇬🇧 London @AzadNet 2, server: 149.7.16.10, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v, udp: true}
-  - {name: GB 🇬🇧 London @AzadNet 3, server: 149.7.16.10, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
-  - {name: GB 🇬🇧 London @AzadNet 4, server: 149.7.16.10, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
-  - {name: GB 🇬🇧 London @AzadNet 5, server: 149.7.16.10, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
-  - {name: GB 🇬🇧 London @AzadNet 6, server: 149.7.16.10, port: 7002, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
-  - {name: GB 🇬🇧 London @AzadNet 7, server: 149.7.16.10, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
-  - {name: GB 🇬🇧 London @AzadNet 8, server: 149.7.16.10, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
-  - {name: GB 🇬🇧 London @AzadNet 9, server: 149.7.16.10, port: 4444, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, udp: true}
-  - {name: GB 🇬🇧 London @AzadNet 10, server: 149.7.16.10, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
-  - {name: GB 🇬🇧 London @AzadNet 11, server: 149.7.16.10, port: 8009, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
-  - {name: GB 🇬🇧 London @AzadNet 12, server: 149.7.16.10, port: 9101, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY, udp: true}
-  - {name: GB 🇬🇧 London @AzadNet 13, server: 149.7.16.10, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
-  - {name: GB 🇬🇧 London @AzadNet 14, server: 149.7.16.10, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
-  - {name: GB 🇬🇧 London @AzadNet 15, server: 149.7.16.10, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
-  - {name: GB 🇬🇧 London @AzadNet 16, server: 149.7.16.10, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
-  - {name: GB 🇬🇧 London @AzadNet 17, server: 149.7.16.10, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
-  - {name: GB 🇬🇧 London @AzadNet 18, server: 149.7.16.10, port: 8888, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
-  - {name: GB 🇬🇧 London @AzadNet 19, server: 149.7.16.10, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
-  - {name: GB 🇬🇧 London @AzadNet 20, server: 149.7.16.10, port: 8000, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
-  - {name: GB 🇬🇧 London @AzadNet 21, server: 149.7.16.10, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
-  - {name: GB 🇬🇧 London @AzadNet 22, server: 149.7.16.10, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
-  - {name: GB 🇬🇧 London @AzadNet 23, server: 149.7.16.10, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
-  - {name: GB 🇬🇧 London @AzadNet 24, server: 149.7.16.10, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: FR 🇫🇷 @AzadNet 4, server: 5.39.70.138, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: GB 🇬🇧 @AzadNet, server: 78.129.253.9, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: GB 🇬🇧 @AzadNet 2, server: 78.129.253.9, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: GB 🇬🇧 London @AzadNet, server: 149.7.16.10, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: GB 🇬🇧 London @AzadNet 2, server: 149.7.16.10, port: 7002, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
+  - {name: GB 🇬🇧 London @AzadNet 3, server: 152.89.210.105, port: 9024, type: ss, cipher: aes-256-cfb, password: BejrQvtu9sqUeNuZ, udp: true}
   - {name: GB 🇬🇧 Walthamstow @AzadNet, server: 51.68.205.180, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, udp: true}
   - {name: GR 🇬🇷 Thessaloniki @AzadNet, server: 192.71.166.102, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: IL 🇮🇱 Jerusalem @AzadNet, server: 31.133.100.49, port: 50004, type: ss, cipher: aes-256-cfb, password: !<str> 4415934295, udp: true}
-  - {name: IM 🇮🇲 Douglas @AzadNet, server: 37.235.55.84, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: IN 🇮🇳 Mumbai @AzadNet, server: 172.105.40.184, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: HK 🇭🇰 Central @AzadNet, server: 62.216.92.167, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: HU 🇭🇺 Budapest @AzadNet, server: 194.71.130.160, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: IL 🇮🇱 Haifa @AzadNet, server: 83.229.73.120, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
+  - {name: IN 🇮🇳 Mumbai @AzadNet, server: 172.105.42.160, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
   - {name: IN 🇮🇳 Mumbai @AzadNet 2, server: 172.105.42.160, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
-  - {name: IN 🇮🇳 Mumbai @AzadNet 3, server: 172.105.42.160, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
-  - {name: IN 🇮🇳 Mumbai @AzadNet 4, server: 172.105.42.160, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
-  - {name: IN 🇮🇳 Mumbai @AzadNet 5, server: 192.46.208.123, port: 6697, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
-  - {name: IN 🇮🇳 Mumbai @AzadNet 6, server: 172.105.42.160, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
-  - {name: IN 🇮🇳 Mumbai @AzadNet 7, server: 172.105.42.160, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: IN 🇮🇳 Mumbai @AzadNet 3, server: 172.105.42.160, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: IN 🇮🇳 Mumbai @AzadNet 4, server: 172.105.39.228, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: IN 🇮🇳 Mumbai @AzadNet 5, server: 172.105.59.32, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: IN 🇮🇳 Mumbai @AzadNet 6, server: 172.105.42.160, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: IN 🇮🇳 Mumbai @AzadNet 7, server: 172.105.39.228, port: 8888, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: IN 🇮🇳 Mumbai @AzadNet 8, server: 172.105.35.151, port: 9101, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY, udp: true}
   - {name: IS 🇮🇸 @AzadNet, server: 37.235.49.158, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: JP 🇯🇵 Tokyo @AzadNet, server: 185.160.24.217, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: JP 🇯🇵 Tokyo @AzadNet 2, server: 89.31.125.101, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: JP 🇯🇵 Tokyo @AzadNet 3, server: 172.105.232.147, port: 8888, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
-  - {name: JP 🇯🇵 Tokyo @AzadNet 4, server: 172.105.232.147, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: IS 🇮🇸 @AzadNet 2, server: 37.235.49.158, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: IT 🇮🇹 Milan @AzadNet, server: 92.223.79.76, port: 50004, type: ss, cipher: aes-256-cfb, password: !<str> 4415934295, udp: true}
+  - {name: JP 🇯🇵 Tokyo @AzadNet, server: 172.105.232.147, port: 4444, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, udp: true}
+  - {name: JP 🇯🇵 Tokyo @AzadNet 2, server: 172.105.232.147, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: JP 🇯🇵 Tokyo @AzadNet 3, server: 185.160.24.217, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: JP 🇯🇵 Tokyo @AzadNet 4, server: 89.31.125.101, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
   - {name: JP 🇯🇵 Tokyo @AzadNet 5, server: 45.66.134.176, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: JP 🇯🇵 Tokyo @AzadNet 6, server: 172.105.234.211, port: 4444, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, udp: true}
-  - {name: JP 🇯🇵 Tokyo @AzadNet 7, server: 172.105.232.147, port: 4444, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, udp: true}
-  - {name: JP 🇯🇵 Tokyo @AzadNet 8, server: 139.162.80.175, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
+  - {name: JP 🇯🇵 Tokyo @AzadNet 6, server: 172.105.232.147, port: 8888, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: JP 🇯🇵 Tokyo @AzadNet 7, server: 172.105.232.147, port: 8888, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
   - {name: KR 🇰🇷 Seoul @AzadNet, server: 158.247.223.116, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
-  - {name: KR 🇰🇷 Seoul @AzadNet 2, server: 158.247.209.92, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
-  - {name: KR 🇰🇷 Seoul @AzadNet 3, server: 158.247.209.92, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
-  - {name: KR 🇰🇷 Seoul @AzadNet 4, server: 158.247.206.19, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
-  - {name: KR 🇰🇷 Seoul @AzadNet 5, server: 141.164.42.236, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v, udp: true}
-  - {name: KR 🇰🇷 Seoul @AzadNet 6, server: 141.164.49.240, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
-  - {name: KR 🇰🇷 Seoul @AzadNet 7, server: 158.247.203.40, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v, udp: true}
+  - {name: KR 🇰🇷 Seoul @AzadNet 2, server: 141.164.49.240, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: KR 🇰🇷 Seoul @AzadNet 3, server: 158.247.215.187, port: 5001, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: KR 🇰🇷 Seoul @AzadNet 4, server: 158.247.209.92, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: KR 🇰🇷 Seoul @AzadNet 5, server: 158.247.203.40, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v, udp: true}
+  - {name: KR 🇰🇷 Seoul @AzadNet 6, server: 141.164.57.134, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
+  - {name: KR 🇰🇷 Seoul @AzadNet 7, server: 158.247.206.19, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
   - {name: KR 🇰🇷 Seoul @AzadNet 8, server: 158.247.206.19, port: 8000, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
-  - {name: KR 🇰🇷 Seoul @AzadNet 9, server: 158.247.215.187, port: 5001, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
-  - {name: NL 🇳🇱 @AzadNet, server: 37.218.247.88, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: YbOE6O1uwbUv, udp: true}
+  - {name: KR 🇰🇷 Seoul @AzadNet 9, server: 141.164.57.134, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
+  - {name: KR 🇰🇷 Seoul @AzadNet 10, server: 141.164.38.135, port: 8009, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
+  - {name: KR 🇰🇷 Seoul @AzadNet 11, server: 141.164.35.41, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: KR 🇰🇷 Seoul @AzadNet 12, server: 141.164.56.110, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: KR 🇰🇷 Seoul @AzadNet 13, server: 158.247.209.92, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
+  - {name: NL 🇳🇱 @AzadNet, server: 213.183.59.185, port: 9046, type: ss, cipher: aes-256-cfb, password: NvS8N4Vf8qAGPSCL, udp: true}
+  - {name: NL 🇳🇱 @AzadNet 2, server: 213.183.59.218, port: 9098, type: ss, cipher: aes-256-cfb, password: aLpQtfEZe445QyHk, udp: true}
   - {name: NL 🇳🇱 Amsterdam @AzadNet, server: 88.208.7.204, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: PL 🇵🇱 @AzadNet, server: 194.15.196.78, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
-  - {name: PL 🇵🇱 @AzadNet 2, server: 194.15.196.78, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
-  - {name: RU 🇷🇺 Moscow @AzadNet, server: 83.217.9.76, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: NL 🇳🇱 Amsterdam @AzadNet 2, server: 88.208.7.204, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: NZ 🇳🇿 Auckland @AzadNet, server: 103.62.49.141, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: RS 🇷🇸 Belgrade @AzadNet, server: 194.71.126.31, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: RU 🇷🇺 @AzadNet, server: 217.30.10.63, port: 9007, type: ss, cipher: aes-256-cfb, password: kSPmvwdFzGMMW5pY, udp: true}
+  - {name: RU 🇷🇺 @AzadNet 2, server: 217.30.10.63, port: 9050, type: ss, cipher: aes-256-cfb, password: FG5ddLsMPbV5CutE, udp: true}
+  - {name: RU 🇷🇺 Moscow @AzadNet, server: 185.4.65.6, port: 21247, type: ss, cipher: aes-256-cfb, password: vDS9G2p, udp: true}
   - {name: RU 🇷🇺 Moscow @AzadNet 2, server: 213.183.53.177, port: 9015, type: ss, cipher: aes-256-cfb, password: ZpNDDKRu9MagNvaf, udp: true}
-  - {name: RU 🇷🇺 Moscow @AzadNet 3, server: 185.4.65.6, port: 21247, type: ss, cipher: aes-256-cfb, password: vDS9G2p, udp: true}
-  - {name: SE 🇸🇪 Stockholm @AzadNet, server: 196.196.156.122, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: RU 🇷🇺 Moscow @AzadNet 3, server: 213.183.53.202, port: 9019, type: ss, cipher: aes-256-cfb, password: GA9KzeEgvfxNrgmM, udp: true}
+  - {name: RU 🇷🇺 Moscow @AzadNet 4, server: 213.183.53.202, port: 9031, type: ss, cipher: aes-256-cfb, password: BwcAUZk8hUFAkDGN, udp: true}
+  - {name: RU 🇷🇺 Moscow @AzadNet 5, server: 83.217.9.76, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: RU 🇷🇺 St Petersburg @AzadNet, server: 92.223.65.31, port: 29092, type: ss, cipher: chacha20-ietf-poly1305, password: ypoq8dJBPqst, udp: true}
+  - {name: SE 🇸🇪 Stockholm @AzadNet, server: 185.243.215.187, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
+  - {name: SE 🇸🇪 Stockholm @AzadNet 2, server: 196.196.156.122, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: SE 🇸🇪 Stockholm @AzadNet 3, server: 196.196.156.122, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: SE 🇸🇪 Stockholm @AzadNet 4, server: 196.196.156.122, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
   - {name: SG 🇸🇬 Singapore @AzadNet, server: 172.104.44.88, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
   - {name: SG 🇸🇬 Singapore @AzadNet 2, server: 172.104.44.88, port: 9101, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY, udp: true}
-  - {name: SG 🇸🇬 Singapore @AzadNet 3, server: 172.104.44.88, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
-  - {name: SG 🇸🇬 Singapore @AzadNet 4, server: 172.104.44.88, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
-  - {name: SG 🇸🇬 Singapore @AzadNet 5, server: 172.104.44.88, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
-  - {name: SG 🇸🇬 Singapore @AzadNet 6, server: 172.104.44.88, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
-  - {name: SG 🇸🇬 Singapore @AzadNet 7, server: 172.104.44.88, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
-  - {name: SG 🇸🇬 Singapore @AzadNet 8, server: 172.104.44.88, port: 6697, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
-  - {name: SG 🇸🇬 Singapore @AzadNet 9, server: 172.104.44.88, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
-  - {name: SG 🇸🇬 Singapore @AzadNet 10, server: 172.104.44.88, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
   - {name: SI 🇸🇮 Ljubljana @AzadNet, server: 192.71.244.49, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: SI 🇸🇮 Ljubljana @AzadNet 2, server: 192.71.244.49, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
   - {name: TH 🇹🇭 @AzadNet, server: 119.59.113.126, port: 50004, type: ss, cipher: aes-256-cfb, password: !<str> 4415934295, udp: true}
+  - {name: TH 🇹🇭 @AzadNet 2, server: 119.59.113.126, port: 50004, type: ss, cipher: aes-256-cfb, password: !<str> 4415934295, udp: true}
   - {name: TR 🇹🇷 @AzadNet, server: 212.68.55.11, port: 18760, type: ss, cipher: aes-256-gcm, password: hg49$WH8943g3, udp: true}
-  - {name: TR 🇹🇷 Istanbul @AzadNet, server: 185.219.134.52, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
+  - {name: TR 🇹🇷 @AzadNet 2, server: 212.68.55.11, port: 18760, type: ss, cipher: aes-256-gcm, password: hg49$WH8943g3, udp: true}
   - {name: TW 🇹🇼 New Taipei @AzadNet, server: 103.123.0.28, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
   - {name: UA 🇺🇦 @AzadNet, server: 176.103.61.162, port: 444, type: ss, cipher: chacha20-ietf-poly1305, password: IjBemsAg, udp: true}
   - {name: UA 🇺🇦 @AzadNet 2, server: 77.120.115.235, port: 444, type: ss, cipher: chacha20-ietf-poly1305, password: Fowwipho, udp: true}
+  - {name: UA 🇺🇦 @AzadNet 3, server: 77.120.115.235, port: 444, type: ss, cipher: chacha20-ietf-poly1305, password: Fowwipho, udp: true}
   - {name: UA 🇺🇦 Dnipropetrovsk @AzadNet, server: 194.38.23.137, port: 444, type: ss, cipher: chacha20-ietf-poly1305, password: Neavloims, udp: true}
   - {name: UA 🇺🇦 Khmelnytskyy @AzadNet, server: 195.226.192.55, port: 444, type: ss, cipher: chacha20-ietf-poly1305, password: FruvDom0, udp: true}
-  - {name: UA 🇺🇦 Kyiv @AzadNet, server: 31.172.65.242, port: 444, type: ss, cipher: chacha20-ietf-poly1305, password: Doquawwa, udp: true}
-  - {name: UA 🇺🇦 Kyiv @AzadNet 2, server: 45.153.229.146, port: 4040, type: ss, cipher: chacha20-ietf-poly1305, password: qqSA3SvOpMGMmJCO, udp: true}
+  - {name: UA 🇺🇦 Khmelnytskyy @AzadNet 2, server: 195.226.192.55, port: 444, type: ss, cipher: chacha20-ietf-poly1305, password: FruvDom0, udp: true}
+  - {name: UA 🇺🇦 Kyiv @AzadNet, server: 45.153.229.146, port: 4040, type: ss, cipher: chacha20-ietf-poly1305, password: qqSA3SvOpMGMmJCO, udp: true}
+  - {name: UA 🇺🇦 Kyiv @AzadNet 2, server: 31.172.65.242, port: 444, type: ss, cipher: chacha20-ietf-poly1305, password: Doquawwa, udp: true}
   - {name: US 🇺🇸 @AzadNet, server: 38.242.209.88, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: PZJIsvVevvjz, udp: true}
-  - {name: US 🇺🇸 Atlanta @AzadNet, server: 167.88.63.71, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
-  - {name: US 🇺🇸 Atlanta @AzadNet 2, server: 38.121.43.71, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
-  - {name: US 🇺🇸 Atlanta @AzadNet 3, server: 167.88.63.60, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
-  - {name: US 🇺🇸 Atlanta @AzadNet 4, server: 167.88.63.114, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
-  - {name: US 🇺🇸 Atlanta @AzadNet 5, server: 172.99.190.230, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
-  - {name: US 🇺🇸 Atlanta @AzadNet 6, server: 172.99.190.206, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
-  - {name: US 🇺🇸 Atlanta @AzadNet 7, server: 167.88.63.28, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
-  - {name: US 🇺🇸 Atlanta @AzadNet 8, server: 167.88.63.28, port: 7002, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
-  - {name: US 🇺🇸 Atlanta @AzadNet 9, server: 172.99.190.206, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
+  - {name: US 🇺🇸 Atlanta @AzadNet, server: 38.121.43.71, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US 🇺🇸 Atlanta @AzadNet 2, server: 167.88.63.60, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: US 🇺🇸 Atlanta @AzadNet 3, server: 167.88.63.114, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: US 🇺🇸 Atlanta @AzadNet 4, server: 167.88.63.71, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
   - {name: US 🇺🇸 Chicago @AzadNet, server: 38.64.138.145, port: 5601, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
-  - {name: US 🇺🇸 Chicago @AzadNet 2, server: 38.64.138.145, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
-  - {name: US 🇺🇸 Chicago @AzadNet 3, server: 38.64.138.145, port: 7002, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
-  - {name: US 🇺🇸 Chicago @AzadNet 4, server: 38.64.138.145, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
-  - {name: US 🇺🇸 Chicago @AzadNet 5, server: 38.64.138.145, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
-  - {name: US 🇺🇸 Chicago @AzadNet 6, server: 162.251.61.221, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: US 🇺🇸 Chicago @AzadNet 7, server: 38.64.138.212, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
-  - {name: US 🇺🇸 Chicago @AzadNet 8, server: 38.64.138.145, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v, udp: true}
-  - {name: US 🇺🇸 Dallas @AzadNet, server: 38.68.134.69, port: 5000, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
-  - {name: US 🇺🇸 Dallas @AzadNet 2, server: 38.68.134.191, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
-  - {name: US 🇺🇸 Dallas @AzadNet 3, server: 38.68.135.123, port: 7002, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
-  - {name: US 🇺🇸 Dallas @AzadNet 4, server: 167.88.62.68, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
-  - {name: US 🇺🇸 Dallas @AzadNet 5, server: 167.88.62.24, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
-  - {name: US 🇺🇸 Dallas @AzadNet 6, server: 167.88.62.68, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
-  - {name: US 🇺🇸 Dallas @AzadNet 7, server: 38.68.135.18, port: 5601, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US 🇺🇸 Chicago @AzadNet 2, server: 38.64.138.145, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v, udp: true}
+  - {name: US 🇺🇸 Chicago @AzadNet 3, server: 38.64.138.212, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: US 🇺🇸 Chicago @AzadNet 4, server: 162.251.61.221, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: US 🇺🇸 Dallas @AzadNet, server: 167.88.62.68, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US 🇺🇸 Dallas @AzadNet 2, server: 167.88.62.68, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: US 🇺🇸 Dallas @AzadNet 3, server: 38.68.135.18, port: 5601, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US 🇺🇸 Dallas @AzadNet 4, server: 38.68.134.85, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
+  - {name: US 🇺🇸 Dallas @AzadNet 5, server: 38.68.135.123, port: 7002, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
+  - {name: US 🇺🇸 Dallas @AzadNet 6, server: 38.68.134.191, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
+  - {name: US 🇺🇸 Dallas @AzadNet 7, server: 167.88.62.24, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
   - {name: US 🇺🇸 Los Angeles @AzadNet, server: 38.114.114.68, port: 5001, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
-  - {name: US 🇺🇸 Los Angeles @AzadNet 2, server: 38.75.136.116, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
-  - {name: US 🇺🇸 Los Angeles @AzadNet 3, server: 38.75.136.116, port: 8000, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: US 🇺🇸 Los Angeles @AzadNet 2, server: 38.75.136.102, port: 5001, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US 🇺🇸 Los Angeles @AzadNet 3, server: 38.75.136.117, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
   - {name: US 🇺🇸 Los Angeles @AzadNet 4, server: 38.75.136.49, port: 6697, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
   - {name: US 🇺🇸 Los Angeles @AzadNet 5, server: 38.75.136.49, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
-  - {name: US 🇺🇸 Los Angeles @AzadNet 6, server: 38.75.136.102, port: 5001, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
-  - {name: US 🇺🇸 Los Angeles @AzadNet 7, server: 38.75.136.102, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
-  - {name: US 🇺🇸 Memphis @AzadNet, server: 104.249.173.240, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
-  - {name: US 🇺🇸 Memphis @AzadNet 2, server: 104.249.173.232, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
+  - {name: US 🇺🇸 Los Angeles @AzadNet 6, server: 38.75.136.116, port: 8000, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: US 🇺🇸 Los Angeles @AzadNet 7, server: 38.75.136.116, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
+  - {name: US 🇺🇸 Los Angeles @AzadNet 8, server: 38.75.136.102, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: US 🇺🇸 Memphis @AzadNet, server: 104.249.173.232, port: 50003, type: ss, cipher: aes-256-cfb, password: !<str> 8460400130, udp: true}
   - {name: US 🇺🇸 Miami @AzadNet, server: 38.91.107.43, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
-  - {name: US 🇺🇸 Newark @AzadNet, server: 142.202.48.83, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
-  - {name: US 🇺🇸 Newark @AzadNet 2, server: 38.91.100.102, port: 8000, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
-  - {name: US 🇺🇸 Newark @AzadNet 3, server: 142.202.48.77, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
-  - {name: US 🇺🇸 Newark @AzadNet 4, server: 142.202.48.43, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: US 🇺🇸 Newark @AzadNet, server: 142.202.48.14, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: US 🇺🇸 Newark @AzadNet 2, server: 142.202.48.77, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US 🇺🇸 Newark @AzadNet 3, server: 142.202.48.83, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: US 🇺🇸 Newark @AzadNet 4, server: 142.202.48.45, port: 6697, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
+  - {name: US 🇺🇸 Newark @AzadNet 5, server: 38.91.100.102, port: 8000, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: US 🇺🇸 Newark @AzadNet 6, server: 142.202.48.43, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
   - {name: US 🇺🇸 Philadelphia @AzadNet, server: 208.85.23.137, port: 27297, type: ss, cipher: aes-256-cfb, password: 67d4e302ac8f47bf92c42afe6f085221, udp: true}
-  - {name: US 🇺🇸 Reston @AzadNet, server: 38.86.135.27, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
-  - {name: US 🇺🇸 Reston @AzadNet 2, server: 38.86.135.126, port: 8000, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
-  - {name: US 🇺🇸 Reston @AzadNet 3, server: 38.86.135.27, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: US 🇺🇸 Reston @AzadNet, server: 38.86.135.27, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: US 🇺🇸 Reston @AzadNet 2, server: 38.86.135.27, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US 🇺🇸 Reston @AzadNet 3, server: 38.86.135.126, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
   - {name: US 🇺🇸 Reston @AzadNet 4, server: 38.86.135.27, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
-  - {name: US 🇺🇸 Reston @AzadNet 5, server: 38.86.135.126, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
+  - {name: US 🇺🇸 Reston @AzadNet 5, server: 38.86.135.126, port: 8000, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
   - {name: US 🇺🇸 Reston @AzadNet 6, server: 38.86.135.126, port: 8009, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
   - {name: US 🇺🇸 Reston @AzadNet 7, server: 38.86.135.239, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
   - {name: US 🇺🇸 Santa Clara @AzadNet, server: 167.88.61.204, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
-  - {name: US 🇺🇸 Santa Clara @AzadNet 2, server: 167.88.61.204, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
-  - {name: US 🇺🇸 Santa Clara @AzadNet 3, server: 167.88.61.130, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
-  - {name: US 🇺🇸 Santa Clara @AzadNet 4, server: 167.88.61.109, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
-  - {name: US 🇺🇸 Santa Clara @AzadNet 5, server: 167.88.61.204, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
-  - {name: US 🇺🇸 Santa Clara @AzadNet 6, server: 167.88.61.109, port: 6697, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
-  - {name: US 🇺🇸 Santa Clara @AzadNet 7, server: 167.88.61.109, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
-  - {name: US 🇺🇸 Santa Clara @AzadNet 8, server: 167.88.61.14, port: 9102, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY, udp: true}
-  - {name: US 🇺🇸 Santa Clara @AzadNet 9, server: 167.88.61.14, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
-  - {name: US 🇺🇸 Santa Clara @AzadNet 10, server: 167.88.61.236, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: US 🇺🇸 Santa Clara @AzadNet 11, server: 167.88.61.14, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
-  - {name: US 🇺🇸 Seattle @AzadNet, server: 38.143.66.55, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
-  - {name: US 🇺🇸 Seattle @AzadNet 2, server: 38.143.66.55, port: 5001, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
-  - {name: US 🇺🇸 Seattle @AzadNet 3, server: 38.143.66.71, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
-  - {name: US 🇺🇸 Seattle @AzadNet 4, server: 38.143.66.87, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
-  - {name: US 🇺🇸 Seattle @AzadNet 5, server: 38.143.66.186, port: 7002, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
-  - {name: US 🇺🇸 Seattle @AzadNet 6, server: 38.143.66.87, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
-  - {name: US 🇺🇸 Seattle @AzadNet 7, server: 38.143.66.71, port: 8009, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
-  - {name: US 🇺🇸 Seattle @AzadNet 8, server: 38.143.66.71, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
-  - {name: US 🇺🇸 Seattle @AzadNet 9, server: 38.143.66.99, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
-  - {name: US 🇺🇸 Seattle @AzadNet 10, server: 38.143.66.99, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
-  - {name: US 🇺🇸 West New York @AzadNet, server: 92.38.169.196, port: 826, type: ss, cipher: chacha20-ietf-poly1305, password: sF43Xt2gONqcgFX563, udp: true}
+  - {name: US 🇺🇸 Santa Clara @AzadNet 2, server: 167.88.61.50, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: US 🇺🇸 Santa Clara @AzadNet 3, server: 167.88.61.14, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: US 🇺🇸 Santa Clara @AzadNet 4, server: 167.88.61.204, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US 🇺🇸 Santa Clara @AzadNet 5, server: 167.88.61.109, port: 6697, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
+  - {name: US 🇺🇸 Santa Clara @AzadNet 6, server: 167.88.61.130, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: US 🇺🇸 Santa Clara @AzadNet 7, server: 167.88.61.204, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
+  - {name: US 🇺🇸 Santa Clara @AzadNet 8, server: 167.88.61.236, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: US 🇺🇸 Santa Clara @AzadNet 9, server: 167.88.61.109, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: US 🇺🇸 Seattle @AzadNet, server: 38.143.66.99, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: US 🇺🇸 Seattle @AzadNet 2, server: 38.143.66.87, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US 🇺🇸 Seattle @AzadNet 3, server: 38.143.66.55, port: 5001, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US 🇺🇸 Seattle @AzadNet 4, server: 38.143.66.71, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US 🇺🇸 Seattle @AzadNet 5, server: 38.143.66.71, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
+  - {name: US 🇺🇸 Seattle @AzadNet 6, server: 38.143.66.99, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
+  - {name: US 🇺🇸 Seattle @AzadNet 7, server: 38.143.66.186, port: 7002, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
+  - {name: US 🇺🇸 Seattle @AzadNet 8, server: 38.143.66.87, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
+  - {name: US 🇺🇸 Seattle @AzadNet 9, server: 38.143.66.71, port: 8009, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
+  - {name: US 🇺🇸 Seattle @AzadNet 10, server: 38.143.66.71, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: US 🇺🇸 Seattle @AzadNet 11, server: 38.143.66.55, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
   - {name: VN 🇻🇳 @AzadNet, server: 103.238.213.96, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
   - {name: ZA 🇿🇦 @AzadNet, server: 102.130.121.237, port: 50004, type: ss, cipher: aes-256-cfb, password: !<str> 4415934295, udp: true}
   - {name: ZA 🇿🇦 @AzadNet 2, server: 102.130.118.99, port: 50004, type: ss, cipher: aes-256-cfb, password: !<str> 4415934295, udp: true}
@@ -305,66 +310,68 @@ proxy-groups:
       - AU 🇦🇺 Sydney @AzadNet 6
       - AU 🇦🇺 Sydney @AzadNet 7
       - AU 🇦🇺 Sydney @AzadNet 8
+      - AU 🇦🇺 Sydney @AzadNet 9
+      - AZ 🇦🇿 @AzadNet
       - BE 🇧🇪 Brussels @AzadNet
+      - BG 🇧🇬 Sofia @AzadNet
+      - BG 🇧🇬 Sofia @AzadNet 2
+      - BG 🇧🇬 Sofia @AzadNet 3
+      - BG 🇧🇬 Sofia @AzadNet 4
+      - BG 🇧🇬 Sofia @AzadNet 5
+      - BG 🇧🇬 Sofia @AzadNet 6
+      - BG 🇧🇬 Sofia @AzadNet 7
+      - BG 🇧🇬 Sofia @AzadNet 8
       - CA 🇨🇦 @AzadNet
       - CA 🇨🇦 @AzadNet 2
       - CA 🇨🇦 @AzadNet 3
-      - CA 🇨🇦 @AzadNet 4
-      - CA 🇨🇦 @AzadNet 5
-      - CA 🇨🇦 @AzadNet 6
-      - CA 🇨🇦 @AzadNet 7
-      - CA 🇨🇦 @AzadNet 8
-      - CA 🇨🇦 @AzadNet 9
-      - CA 🇨🇦 @AzadNet 10
+      - CH 🇨🇭 @AzadNet
+      - CH 🇨🇭 Zurich @AzadNet
+      - CH 🇨🇭 Zurich @AzadNet 2
+      - CH 🇨🇭 Zurich @AzadNet 3
+      - CH 🇨🇭 Zurich @AzadNet 4
+      - CH 🇨🇭 Zurich @AzadNet 5
+      - CH 🇨🇭 Zurich @AzadNet 6
+      - CH 🇨🇭 Zurich @AzadNet 7
+      - CH 🇨🇭 Zurich @AzadNet 8
+      - CN 🇨🇳 @AzadNet
+      - CN 🇨🇳 @AzadNet 2
+      - CN 🇨🇳 @AzadNet 3
+      - CN 🇨🇳 @AzadNet 4
+      - CN 🇨🇳 @AzadNet 5
+      - CN 🇨🇳 @AzadNet 6
       - CY 🇨🇾 @AzadNet
-      - DE 🇩🇪 Düsseldorf @AzadNet
-      - DE 🇩🇪 Düsseldorf @AzadNet 2
+      - CY 🇨🇾 @AzadNet 2
+      - DE 🇩🇪 @AzadNet
       - DE 🇩🇪 Frankfurt am Main @AzadNet
       - DE 🇩🇪 Frankfurt am Main @AzadNet 2
       - DE 🇩🇪 Frankfurt am Main @AzadNet 3
       - DE 🇩🇪 Frankfurt am Main @AzadNet 4
       - DE 🇩🇪 Frankfurt am Main @AzadNet 5
       - DE 🇩🇪 Frankfurt am Main @AzadNet 6
+      - DE 🇩🇪 Frankfurt am Main @AzadNet 7
+      - DE 🇩🇪 Frankfurt am Main @AzadNet 8
+      - DE 🇩🇪 Frankfurt am Main @AzadNet 9
+      - DE 🇩🇪 Frankfurt am Main @AzadNet 10
+      - DE 🇩🇪 Frankfurt am Main @AzadNet 11
+      - DE 🇩🇪 Frankfurt am Main @AzadNet 12
+      - DE 🇩🇪 Frankfurt am Main @AzadNet 13
+      - DE 🇩🇪 Frankfurt am Main @AzadNet 14
+      - DE 🇩🇪 Frankfurt am Main @AzadNet 15
+      - DE 🇩🇪 Frankfurt am Main @AzadNet 16
       - FR 🇫🇷 @AzadNet
       - FR 🇫🇷 @AzadNet 2
       - FR 🇫🇷 @AzadNet 3
       - FR 🇫🇷 @AzadNet 4
-      - FR 🇫🇷 @AzadNet 5
-      - FR 🇫🇷 @AzadNet 6
-      - FR 🇫🇷 @AzadNet 7
-      - FR 🇫🇷 @AzadNet 8
-      - FR 🇫🇷 @AzadNet 9
-      - FR 🇫🇷 @AzadNet 10
       - GB 🇬🇧 @AzadNet
       - GB 🇬🇧 @AzadNet 2
       - GB 🇬🇧 London @AzadNet
       - GB 🇬🇧 London @AzadNet 2
       - GB 🇬🇧 London @AzadNet 3
-      - GB 🇬🇧 London @AzadNet 4
-      - GB 🇬🇧 London @AzadNet 5
-      - GB 🇬🇧 London @AzadNet 6
-      - GB 🇬🇧 London @AzadNet 7
-      - GB 🇬🇧 London @AzadNet 8
-      - GB 🇬🇧 London @AzadNet 9
-      - GB 🇬🇧 London @AzadNet 10
-      - GB 🇬🇧 London @AzadNet 11
-      - GB 🇬🇧 London @AzadNet 12
-      - GB 🇬🇧 London @AzadNet 13
-      - GB 🇬🇧 London @AzadNet 14
-      - GB 🇬🇧 London @AzadNet 15
-      - GB 🇬🇧 London @AzadNet 16
-      - GB 🇬🇧 London @AzadNet 17
-      - GB 🇬🇧 London @AzadNet 18
-      - GB 🇬🇧 London @AzadNet 19
-      - GB 🇬🇧 London @AzadNet 20
-      - GB 🇬🇧 London @AzadNet 21
-      - GB 🇬🇧 London @AzadNet 22
-      - GB 🇬🇧 London @AzadNet 23
-      - GB 🇬🇧 London @AzadNet 24
       - GB 🇬🇧 Walthamstow @AzadNet
       - GR 🇬🇷 Thessaloniki @AzadNet
-      - IL 🇮🇱 Jerusalem @AzadNet
-      - IM 🇮🇲 Douglas @AzadNet
+      - HK 🇭🇰 Central @AzadNet
+      - HU 🇭🇺 Budapest @AzadNet
+      - IL 🇮🇱 Haifa @AzadNet
       - IN 🇮🇳 Mumbai @AzadNet
       - IN 🇮🇳 Mumbai @AzadNet 2
       - IN 🇮🇳 Mumbai @AzadNet 3
@@ -372,7 +379,10 @@ proxy-groups:
       - IN 🇮🇳 Mumbai @AzadNet 5
       - IN 🇮🇳 Mumbai @AzadNet 6
       - IN 🇮🇳 Mumbai @AzadNet 7
+      - IN 🇮🇳 Mumbai @AzadNet 8
       - IS 🇮🇸 @AzadNet
+      - IS 🇮🇸 @AzadNet 2
+      - IT 🇮🇹 Milan @AzadNet
       - JP 🇯🇵 Tokyo @AzadNet
       - JP 🇯🇵 Tokyo @AzadNet 2
       - JP 🇯🇵 Tokyo @AzadNet 3
@@ -380,7 +390,6 @@ proxy-groups:
       - JP 🇯🇵 Tokyo @AzadNet 5
       - JP 🇯🇵 Tokyo @AzadNet 6
       - JP 🇯🇵 Tokyo @AzadNet 7
-      - JP 🇯🇵 Tokyo @AzadNet 8
       - KR 🇰🇷 Seoul @AzadNet
       - KR 🇰🇷 Seoul @AzadNet 2
       - KR 🇰🇷 Seoul @AzadNet 3
@@ -390,33 +399,43 @@ proxy-groups:
       - KR 🇰🇷 Seoul @AzadNet 7
       - KR 🇰🇷 Seoul @AzadNet 8
       - KR 🇰🇷 Seoul @AzadNet 9
+      - KR 🇰🇷 Seoul @AzadNet 10
+      - KR 🇰🇷 Seoul @AzadNet 11
+      - KR 🇰🇷 Seoul @AzadNet 12
+      - KR 🇰🇷 Seoul @AzadNet 13
       - NL 🇳🇱 @AzadNet
+      - NL 🇳🇱 @AzadNet 2
       - NL 🇳🇱 Amsterdam @AzadNet
-      - PL 🇵🇱 @AzadNet
-      - PL 🇵🇱 @AzadNet 2
+      - NL 🇳🇱 Amsterdam @AzadNet 2
+      - NZ 🇳🇿 Auckland @AzadNet
+      - RS 🇷🇸 Belgrade @AzadNet
+      - RU 🇷🇺 @AzadNet
+      - RU 🇷🇺 @AzadNet 2
       - RU 🇷🇺 Moscow @AzadNet
       - RU 🇷🇺 Moscow @AzadNet 2
       - RU 🇷🇺 Moscow @AzadNet 3
+      - RU 🇷🇺 Moscow @AzadNet 4
+      - RU 🇷🇺 Moscow @AzadNet 5
+      - RU 🇷🇺 St Petersburg @AzadNet
       - SE 🇸🇪 Stockholm @AzadNet
+      - SE 🇸🇪 Stockholm @AzadNet 2
+      - SE 🇸🇪 Stockholm @AzadNet 3
+      - SE 🇸🇪 Stockholm @AzadNet 4
       - SG 🇸🇬 Singapore @AzadNet
       - SG 🇸🇬 Singapore @AzadNet 2
-      - SG 🇸🇬 Singapore @AzadNet 3
-      - SG 🇸🇬 Singapore @AzadNet 4
-      - SG 🇸🇬 Singapore @AzadNet 5
-      - SG 🇸🇬 Singapore @AzadNet 6
-      - SG 🇸🇬 Singapore @AzadNet 7
-      - SG 🇸🇬 Singapore @AzadNet 8
-      - SG 🇸🇬 Singapore @AzadNet 9
-      - SG 🇸🇬 Singapore @AzadNet 10
       - SI 🇸🇮 Ljubljana @AzadNet
+      - SI 🇸🇮 Ljubljana @AzadNet 2
       - TH 🇹🇭 @AzadNet
+      - TH 🇹🇭 @AzadNet 2
       - TR 🇹🇷 @AzadNet
-      - TR 🇹🇷 Istanbul @AzadNet
+      - TR 🇹🇷 @AzadNet 2
       - TW 🇹🇼 New Taipei @AzadNet
       - UA 🇺🇦 @AzadNet
       - UA 🇺🇦 @AzadNet 2
+      - UA 🇺🇦 @AzadNet 3
       - UA 🇺🇦 Dnipropetrovsk @AzadNet
       - UA 🇺🇦 Khmelnytskyy @AzadNet
+      - UA 🇺🇦 Khmelnytskyy @AzadNet 2
       - UA 🇺🇦 Kyiv @AzadNet
       - UA 🇺🇦 Kyiv @AzadNet 2
       - US 🇺🇸 @AzadNet
@@ -424,19 +443,10 @@ proxy-groups:
       - US 🇺🇸 Atlanta @AzadNet 2
       - US 🇺🇸 Atlanta @AzadNet 3
       - US 🇺🇸 Atlanta @AzadNet 4
-      - US 🇺🇸 Atlanta @AzadNet 5
-      - US 🇺🇸 Atlanta @AzadNet 6
-      - US 🇺🇸 Atlanta @AzadNet 7
-      - US 🇺🇸 Atlanta @AzadNet 8
-      - US 🇺🇸 Atlanta @AzadNet 9
       - US 🇺🇸 Chicago @AzadNet
       - US 🇺🇸 Chicago @AzadNet 2
       - US 🇺🇸 Chicago @AzadNet 3
       - US 🇺🇸 Chicago @AzadNet 4
-      - US 🇺🇸 Chicago @AzadNet 5
-      - US 🇺🇸 Chicago @AzadNet 6
-      - US 🇺🇸 Chicago @AzadNet 7
-      - US 🇺🇸 Chicago @AzadNet 8
       - US 🇺🇸 Dallas @AzadNet
       - US 🇺🇸 Dallas @AzadNet 2
       - US 🇺🇸 Dallas @AzadNet 3
@@ -451,13 +461,15 @@ proxy-groups:
       - US 🇺🇸 Los Angeles @AzadNet 5
       - US 🇺🇸 Los Angeles @AzadNet 6
       - US 🇺🇸 Los Angeles @AzadNet 7
+      - US 🇺🇸 Los Angeles @AzadNet 8
       - US 🇺🇸 Memphis @AzadNet
-      - US 🇺🇸 Memphis @AzadNet 2
       - US 🇺🇸 Miami @AzadNet
       - US 🇺🇸 Newark @AzadNet
       - US 🇺🇸 Newark @AzadNet 2
       - US 🇺🇸 Newark @AzadNet 3
       - US 🇺🇸 Newark @AzadNet 4
+      - US 🇺🇸 Newark @AzadNet 5
+      - US 🇺🇸 Newark @AzadNet 6
       - US 🇺🇸 Philadelphia @AzadNet
       - US 🇺🇸 Reston @AzadNet
       - US 🇺🇸 Reston @AzadNet 2
@@ -475,8 +487,6 @@ proxy-groups:
       - US 🇺🇸 Santa Clara @AzadNet 7
       - US 🇺🇸 Santa Clara @AzadNet 8
       - US 🇺🇸 Santa Clara @AzadNet 9
-      - US 🇺🇸 Santa Clara @AzadNet 10
-      - US 🇺🇸 Santa Clara @AzadNet 11
       - US 🇺🇸 Seattle @AzadNet
       - US 🇺🇸 Seattle @AzadNet 2
       - US 🇺🇸 Seattle @AzadNet 3
@@ -487,7 +497,7 @@ proxy-groups:
       - US 🇺🇸 Seattle @AzadNet 8
       - US 🇺🇸 Seattle @AzadNet 9
       - US 🇺🇸 Seattle @AzadNet 10
-      - US 🇺🇸 West New York @AzadNet
+      - US 🇺🇸 Seattle @AzadNet 11
       - VN 🇻🇳 @AzadNet
       - ZA 🇿🇦 @AzadNet
       - ZA 🇿🇦 @AzadNet 2
@@ -506,74 +516,79 @@ proxy-groups:
       - AU 🇦🇺 Sydney @AzadNet 6
       - AU 🇦🇺 Sydney @AzadNet 7
       - AU 🇦🇺 Sydney @AzadNet 8
+      - AU 🇦🇺 Sydney @AzadNet 9
+      - AZ 🇦🇿 @AzadNet
       - BE 🇧🇪 Brussels @AzadNet
+      - BG 🇧🇬 Sofia @AzadNet
+      - BG 🇧🇬 Sofia @AzadNet 2
+      - BG 🇧🇬 Sofia @AzadNet 3
+      - BG 🇧🇬 Sofia @AzadNet 4
+      - BG 🇧🇬 Sofia @AzadNet 5
+      - BG 🇧🇬 Sofia @AzadNet 6
+      - BG 🇧🇬 Sofia @AzadNet 7
+      - BG 🇧🇬 Sofia @AzadNet 8
       - CA 🇨🇦 @AzadNet
       - CA 🇨🇦 @AzadNet 2
       - CA 🇨🇦 @AzadNet 3
-      - CA 🇨🇦 @AzadNet 4
-      - CA 🇨🇦 @AzadNet 5
-      - CA 🇨🇦 @AzadNet 6
-      - CA 🇨🇦 @AzadNet 7
-      - CA 🇨🇦 @AzadNet 8
-      - CA 🇨🇦 @AzadNet 9
-      - CA 🇨🇦 @AzadNet 10
+      - CH 🇨🇭 @AzadNet
+      - CH 🇨🇭 Zurich @AzadNet
+      - CH 🇨🇭 Zurich @AzadNet 2
+      - CH 🇨🇭 Zurich @AzadNet 3
+      - CH 🇨🇭 Zurich @AzadNet 4
+      - CH 🇨🇭 Zurich @AzadNet 5
+      - CH 🇨🇭 Zurich @AzadNet 6
+      - CH 🇨🇭 Zurich @AzadNet 7
+      - CH 🇨🇭 Zurich @AzadNet 8
+      - CN 🇨🇳 @AzadNet
+      - CN 🇨🇳 @AzadNet 2
+      - CN 🇨🇳 @AzadNet 3
+      - CN 🇨🇳 @AzadNet 4
+      - CN 🇨🇳 @AzadNet 5
+      - CN 🇨🇳 @AzadNet 6
       - CY 🇨🇾 @AzadNet
-      - DE 🇩🇪 Düsseldorf @AzadNet
-      - DE 🇩🇪 Düsseldorf @AzadNet 2
+      - CY 🇨🇾 @AzadNet 2
+      - DE 🇩🇪 @AzadNet
       - DE 🇩🇪 Frankfurt am Main @AzadNet
       - DE 🇩🇪 Frankfurt am Main @AzadNet 2
       - DE 🇩🇪 Frankfurt am Main @AzadNet 3
       - DE 🇩🇪 Frankfurt am Main @AzadNet 4
       - DE 🇩🇪 Frankfurt am Main @AzadNet 5
       - DE 🇩🇪 Frankfurt am Main @AzadNet 6
+      - DE 🇩🇪 Frankfurt am Main @AzadNet 7
+      - DE 🇩🇪 Frankfurt am Main @AzadNet 8
+      - DE 🇩🇪 Frankfurt am Main @AzadNet 9
+      - DE 🇩🇪 Frankfurt am Main @AzadNet 10
+      - DE 🇩🇪 Frankfurt am Main @AzadNet 11
+      - DE 🇩🇪 Frankfurt am Main @AzadNet 12
+      - DE 🇩🇪 Frankfurt am Main @AzadNet 13
+      - DE 🇩🇪 Frankfurt am Main @AzadNet 14
+      - DE 🇩🇪 Frankfurt am Main @AzadNet 15
+      - DE 🇩🇪 Frankfurt am Main @AzadNet 16
       - FR 🇫🇷 @AzadNet
       - FR 🇫🇷 @AzadNet 2
       - FR 🇫🇷 @AzadNet 3
       - FR 🇫🇷 @AzadNet 4
-      - FR 🇫🇷 @AzadNet 5
-      - FR 🇫🇷 @AzadNet 6
-      - FR 🇫🇷 @AzadNet 7
-      - FR 🇫🇷 @AzadNet 8
-      - FR 🇫🇷 @AzadNet 9
-      - FR 🇫🇷 @AzadNet 10
       - GB 🇬🇧 @AzadNet
       - GB 🇬🇧 @AzadNet 2
       - GB 🇬🇧 London @AzadNet
       - GB 🇬🇧 London @AzadNet 2
       - GB 🇬🇧 London @AzadNet 3
-      - GB 🇬🇧 London @AzadNet 4
-      - GB 🇬🇧 London @AzadNet 5
-      - GB 🇬🇧 London @AzadNet 6
-      - GB 🇬🇧 London @AzadNet 7
-      - GB 🇬🇧 London @AzadNet 8
-      - GB 🇬🇧 London @AzadNet 9
-      - GB 🇬🇧 London @AzadNet 10
-      - GB 🇬🇧 London @AzadNet 11
-      - GB 🇬🇧 London @AzadNet 12
-      - GB 🇬🇧 London @AzadNet 13
-      - GB 🇬🇧 London @AzadNet 14
-      - GB 🇬🇧 London @AzadNet 15
-      - GB 🇬🇧 London @AzadNet 16
-      - GB 🇬🇧 London @AzadNet 17
-      - GB 🇬🇧 London @AzadNet 18
-      - GB 🇬🇧 London @AzadNet 19
-      - GB 🇬🇧 London @AzadNet 20
-      - GB 🇬🇧 London @AzadNet 21
-      - GB 🇬🇧 London @AzadNet 22
-      - GB 🇬🇧 London @AzadNet 23
-      - GB 🇬🇧 London @AzadNet 24
       - GB 🇬🇧 Walthamstow @AzadNet
       - GR 🇬🇷 Thessaloniki @AzadNet
-      - IL 🇮🇱 Jerusalem @AzadNet
-      - IM 🇮🇲 Douglas @AzadNet
+      - HK 🇭🇰 Central @AzadNet
+      - HU 🇭🇺 Budapest @AzadNet
+      - IL 🇮🇱 Haifa @AzadNet
       - IN 🇮🇳 Mumbai @AzadNet
       - IN 🇮🇳 Mumbai @AzadNet 2
       - IN 🇮🇳 Mumbai @AzadNet 3
       - IN 🇮🇳 Mumbai @AzadNet 4
-      - IN 🇮🇳 Mumbai @AzadNet 5
+      - IN 🇮?? Mumbai @AzadNet 5
       - IN 🇮🇳 Mumbai @AzadNet 6
       - IN 🇮🇳 Mumbai @AzadNet 7
+      - IN 🇮🇳 Mumbai @AzadNet 8
       - IS 🇮🇸 @AzadNet
+      - IS 🇮🇸 @AzadNet 2
+      - IT 🇮🇹 Milan @AzadNet
       - JP 🇯🇵 Tokyo @AzadNet
       - JP 🇯🇵 Tokyo @AzadNet 2
       - JP 🇯🇵 Tokyo @AzadNet 3
@@ -581,7 +596,6 @@ proxy-groups:
       - JP 🇯🇵 Tokyo @AzadNet 5
       - JP 🇯🇵 Tokyo @AzadNet 6
       - JP 🇯🇵 Tokyo @AzadNet 7
-      - JP 🇯🇵 Tokyo @AzadNet 8
       - KR 🇰🇷 Seoul @AzadNet
       - KR 🇰🇷 Seoul @AzadNet 2
       - KR 🇰🇷 Seoul @AzadNet 3
@@ -591,33 +605,43 @@ proxy-groups:
       - KR 🇰🇷 Seoul @AzadNet 7
       - KR 🇰🇷 Seoul @AzadNet 8
       - KR 🇰🇷 Seoul @AzadNet 9
+      - KR 🇰🇷 Seoul @AzadNet 10
+      - KR 🇰🇷 Seoul @AzadNet 11
+      - KR 🇰🇷 Seoul @AzadNet 12
+      - KR 🇰🇷 Seoul @AzadNet 13
       - NL 🇳🇱 @AzadNet
+      - NL 🇳🇱 @AzadNet 2
       - NL 🇳🇱 Amsterdam @AzadNet
-      - PL 🇵🇱 @AzadNet
-      - PL 🇵🇱 @AzadNet 2
+      - NL 🇳🇱 Amsterdam @AzadNet 2
+      - NZ 🇳🇿 Auckland @AzadNet
+      - RS 🇷🇸 Belgrade @AzadNet
+      - RU 🇷🇺 @AzadNet
+      - RU 🇷🇺 @AzadNet 2
       - RU 🇷🇺 Moscow @AzadNet
       - RU 🇷🇺 Moscow @AzadNet 2
       - RU 🇷🇺 Moscow @AzadNet 3
+      - RU 🇷🇺 Moscow @AzadNet 4
+      - RU 🇷🇺 Moscow @AzadNet 5
+      - RU 🇷🇺 St Petersburg @AzadNet
       - SE 🇸🇪 Stockholm @AzadNet
+      - SE 🇸🇪 Stockholm @AzadNet 2
+      - SE 🇸🇪 Stockholm @AzadNet 3
+      - SE 🇸🇪 Stockholm @AzadNet 4
       - SG 🇸🇬 Singapore @AzadNet
       - SG 🇸🇬 Singapore @AzadNet 2
-      - SG 🇸🇬 Singapore @AzadNet 3
-      - SG 🇸🇬 Singapore @AzadNet 4
-      - SG 🇸🇬 Singapore @AzadNet 5
-      - SG 🇸🇬 Singapore @AzadNet 6
-      - SG 🇸🇬 Singapore @AzadNet 7
-      - SG 🇸🇬 Singapore @AzadNet 8
-      - SG 🇸🇬 Singapore @AzadNet 9
-      - SG 🇸🇬 Singapore @AzadNet 10
       - SI 🇸🇮 Ljubljana @AzadNet
+      - SI 🇸🇮 Ljubljana @AzadNet 2
       - TH 🇹🇭 @AzadNet
+      - TH 🇹🇭 @AzadNet 2
       - TR 🇹🇷 @AzadNet
-      - TR 🇹🇷 Istanbul @AzadNet
+      - TR 🇹🇷 @AzadNet 2
       - TW 🇹🇼 New Taipei @AzadNet
       - UA 🇺🇦 @AzadNet
       - UA 🇺🇦 @AzadNet 2
+      - UA 🇺🇦 @AzadNet 3
       - UA 🇺🇦 Dnipropetrovsk @AzadNet
       - UA 🇺🇦 Khmelnytskyy @AzadNet
+      - UA 🇺🇦 Khmelnytskyy @AzadNet 2
       - UA 🇺🇦 Kyiv @AzadNet
       - UA 🇺🇦 Kyiv @AzadNet 2
       - US 🇺🇸 @AzadNet
@@ -625,19 +649,10 @@ proxy-groups:
       - US 🇺🇸 Atlanta @AzadNet 2
       - US 🇺🇸 Atlanta @AzadNet 3
       - US 🇺🇸 Atlanta @AzadNet 4
-      - US 🇺🇸 Atlanta @AzadNet 5
-      - US 🇺🇸 Atlanta @AzadNet 6
-      - US 🇺🇸 Atlanta @AzadNet 7
-      - US 🇺🇸 Atlanta @AzadNet 8
-      - US 🇺🇸 Atlanta @AzadNet 9
       - US 🇺🇸 Chicago @AzadNet
       - US 🇺🇸 Chicago @AzadNet 2
       - US 🇺🇸 Chicago @AzadNet 3
       - US 🇺🇸 Chicago @AzadNet 4
-      - US 🇺🇸 Chicago @AzadNet 5
-      - US 🇺🇸 Chicago @AzadNet 6
-      - US 🇺🇸 Chicago @AzadNet 7
-      - US 🇺🇸 Chicago @AzadNet 8
       - US 🇺🇸 Dallas @AzadNet
       - US 🇺🇸 Dallas @AzadNet 2
       - US 🇺🇸 Dallas @AzadNet 3
@@ -652,13 +667,15 @@ proxy-groups:
       - US 🇺🇸 Los Angeles @AzadNet 5
       - US 🇺🇸 Los Angeles @AzadNet 6
       - US 🇺🇸 Los Angeles @AzadNet 7
+      - US 🇺🇸 Los Angeles @AzadNet 8
       - US 🇺🇸 Memphis @AzadNet
-      - US 🇺🇸 Memphis @AzadNet 2
       - US 🇺🇸 Miami @AzadNet
       - US 🇺🇸 Newark @AzadNet
       - US 🇺🇸 Newark @AzadNet 2
       - US 🇺🇸 Newark @AzadNet 3
       - US 🇺🇸 Newark @AzadNet 4
+      - US 🇺🇸 Newark @AzadNet 5
+      - US 🇺🇸 Newark @AzadNet 6
       - US 🇺🇸 Philadelphia @AzadNet
       - US 🇺🇸 Reston @AzadNet
       - US 🇺🇸 Reston @AzadNet 2
@@ -676,8 +693,6 @@ proxy-groups:
       - US 🇺🇸 Santa Clara @AzadNet 7
       - US 🇺🇸 Santa Clara @AzadNet 8
       - US 🇺🇸 Santa Clara @AzadNet 9
-      - US 🇺🇸 Santa Clara @AzadNet 10
-      - US 🇺🇸 Santa Clara @AzadNet 11
       - US 🇺🇸 Seattle @AzadNet
       - US 🇺🇸 Seattle @AzadNet 2
       - US 🇺🇸 Seattle @AzadNet 3
@@ -688,7 +703,7 @@ proxy-groups:
       - US 🇺🇸 Seattle @AzadNet 8
       - US 🇺🇸 Seattle @AzadNet 9
       - US 🇺🇸 Seattle @AzadNet 10
-      - US 🇺🇸 West New York @AzadNet
+      - US 🇺🇸 Seattle @AzadNet 11
       - VN 🇻🇳 @AzadNet
       - ZA 🇿🇦 @AzadNet
       - ZA 🇿🇦 @AzadNet 2
