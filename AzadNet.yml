@@ -6,7 +6,7 @@ log-level: info
 external-controller: :9090
 dns:
   enable: true
-  ipv6: false
+  ipv6: true
   enhanced-mode: redir-host
   nameserver:
     - https://azure.cloudflare-dns.com/dns-query
