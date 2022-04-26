@@ -17,13 +17,11 @@ Name: File Name YML (AzadNet/UFO/AzadNet_IRAN-Direct1/AzadNet_IRAN-Direct2)
 
 URL1: https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet.yml
 
-URL2: https://raw.githubusercontent.com/AzadNetCH/Clash/main/UFO.yml
-
 Direct Connection for GeoIP=IRAN:
 
-URL3: https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_IRAN-Direct1.yml
+URL2: https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_IRAN-Direct1.yml
 
-URL4: https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_IRAN-Direct2.yml
+URL3: https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_IRAN-Direct2.yml
 
 Auto Update:
 1440 Minutes (for Android version)
@@ -36,7 +34,7 @@ Now Save and Select that.
 In the [V2RanNG application](https://play.google.com/store/apps/details?id=com.v2ray.ang) from:
 Subscription Setting > + > URL5
 
-URL5: https://raw.githubusercontent.com/AzadNetCH/Clash/main/V2Ray.txt
+URL4: https://raw.githubusercontent.com/AzadNetCH/Clash/main/V2Ray.txt
 
 Now Save and Select that.
 
@@ -46,7 +44,7 @@ Now Save and Select that.
 In the [Potatso Lite application](https://apps.apple.com/us/app/potatso-lite/id1239860606) from:
 Subscription > + > URL6
 
-URL6: https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_iOS.txt
+URL5: https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_iOS.txt
 
 Now Save and Select that.
 
