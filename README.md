@@ -1,7 +1,10 @@
 # Clash & SagerNet & AnXray (Android)
 YML file for Clash & SagerNet & AnXray
 
-In the [Clash application](https://github.com/Kr328) from:
+In the [Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg/releases) from:
+Profiles > New Profile > URL
+
+In the [Clash for Android](https://github.com/Kr328/ClashForAndroid/releases/latest) from:
 Profiles > New Profile > URL
 
 In the [SagerNet application](https://github.com/SagerNet/SagerNet) from:
