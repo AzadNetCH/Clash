@@ -1,16 +1,16 @@
 # Clash & SagerNet & AnXray (Android)
 YML file for Clash & SagerNet & AnXray
 
-In the [Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg/releases) from:
+In the [Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg/releases/latest) from:
 Profiles > New Profile > URL
 
 In the [Clash for Android](https://github.com/Kr328/ClashForAndroid/releases/latest) from:
 Profiles > New Profile > URL
 
-In the [SagerNet application](https://github.com/SagerNet/SagerNet) from:
+In the [SagerNet application](https://github.com/SagerNet/SagerNet/releases/latest) from:
 Group > Group URL
 
-In the [AnXray application](https://github.com/XTLS/AnXray) from:
+In the [AnXray application](https://github.com/XTLS/AnXray/releases/latest) from:
 Group > Group URL
 
 Name: File Name YML (AzadNet/UFO/AzadNet_IRAN-Direct1/AzadNet_IRAN-Direct2)
