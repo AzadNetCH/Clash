@@ -32,7 +32,7 @@ Now Save and Select that.
 
 # V2RayNG (Android)
 In the [V2RanNG application](https://play.google.com/store/apps/details?id=com.v2ray.ang) from:
-Subscription Setting > + > URL5
+Subscription Setting > + > URL4
 
 URL4: https://raw.githubusercontent.com/AzadNetCH/Clash/main/V2Ray.txt
 
@@ -42,7 +42,7 @@ Now Save and Select that.
 # Potatso Lite (iOS)
 
 In the [Potatso Lite application](https://apps.apple.com/us/app/potatso-lite/id1239860606) from:
-Subscription > + > URL6
+Subscription > + > URL5
 
 URL5: https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_iOS.txt
 
@@ -52,7 +52,7 @@ Now Save and Select that.
 # ShadowSocks (Android & Windows)
 
 In the [ShadowSocks Android](https://play.google.com/store/apps/details?id=com.github.shadowsocks) or [ShadowSocks Windows](https://github.com/shadowsocks/shadowsocks-windows/releases/latest) from:
-Subscriptions > + > URL7
+Subscriptions > + > URL6
 
 URL7: https://raw.githubusercontent.com/AzadNetCH/JSON/main/AzadNet.json
 
