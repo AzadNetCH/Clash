@@ -10,6 +10,7 @@ dns:
   enhanced-mode: redir-host
   nameserver:
     - https://azure.cloudflare-dns.com/dns-query
+    - https://puredns.org/dns-query
     - https://dns.dnshome.de/dns-query
     - https://dns.hostux.net/dns-query
     - https://NoTMIKE.dev/dns.php
@@ -30,6 +31,7 @@ dns:
     - https://doh-de.blahdns.com/dns-query
   fallback:
     - https://azure.cloudflare-dns.com/dns-query
+    - https://puredns.org/dns-query
     - https://dns.dnshome.de/dns-query
     - https://dns.hostux.net/dns-query
     - https://NoTMIKE.dev/dns.php
