@@ -39,13 +39,16 @@ URL4: https://raw.githubusercontent.com/AzadNetCH/Clash/main/V2Ray.txt
 Now Save and Select that.
 
 
-# Potatso Lite (iOS)
+# Potatso Lite & Spectre & OneClick (iOS)
 
 In the [Potatso Lite application](https://apps.apple.com/us/app/potatso-lite/id1239860606) from:
 Subscription > + > URL5
 
 In the [Spectre application](https://apps.apple.com/us/app/spectre-vpn/id1508712998) from:
 Subscription > + > URL5
+
+In the [OneClick application](https://apps.apple.com/us/app/oneclick-safe-easy-fast/id1545555197) from:
+ADD Subscription > + > URL5
 
 URL5: https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_iOS.txt
 
