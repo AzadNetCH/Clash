@@ -39,7 +39,7 @@ URL4: https://raw.githubusercontent.com/AzadNetCH/Clash/main/V2Ray.txt
 Now Save and Select that.
 
 
-# Potatso Lite & Spectre & OneClick (iOS)
+# Potatso Lite & Spectre & OneClick & Shadowrocket & Quantumult X & Surge & Loon & Choc & Stash
 
 In the [Potatso Lite application](https://apps.apple.com/us/app/potatso-lite/id1239860606) from:
 Subscription > + > URL5
@@ -49,6 +49,18 @@ Subscription > + > URL5
 
 In the [OneClick application](https://apps.apple.com/us/app/oneclick-safe-easy-fast/id1545555197) from:
 ADD Subscription > + > URL5
+
+In the [Spectre application](https://apps.apple.com/us/app/spectre-vpn/id1508712998) from:
+Subscription > + > URL5
+
+In the [Shadowrocket application](https://apps.apple.com/us/app/shadowrocket/id932747118) from:
+Subscription > + > URL5
+
+In the [Quantumult X application](https://apps.apple.com/us/app/quantumult-x/id1443988620) from:
+Subscription > + > URL5
+
+In the [Surge](https://apps.apple.com/us/app/id1442620678) & [Loon](https://apps.apple.com/us/app/loon/id1373567447) & [Choc](https://apps.apple.com/us/app/choc/id1582542227) & [Stash](https://apps.apple.com/us/app/stash-proxy-utility/id1596063349) from:
+Subscription > + > URL5
 
 URL5: https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_iOS.txt
 
