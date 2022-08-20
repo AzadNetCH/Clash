@@ -1,5 +1,4 @@
-# Clash & SagerNet & Matsuri (Android) & Potatso Lite & Spectre (iOS)
-YML file for Clash & SagerNet & Matsuri
+# Config File for Clash & SagerNet & Matsuri (Android) & Potatso Lite & Spectre the Shadowrocket & Quantumult X & Surge & Loon & Choc & Stash (iOS)
 
 In the [Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg/releases/latest) from:
 Profiles > New Profile > URL
