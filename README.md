@@ -1,5 +1,5 @@
-# Clash & SagerNet & AnXray (Android)
-YML file for Clash & SagerNet & AnXray
+# Clash & SagerNet & Matsuri (Android) & Potatso Lite & Spectre (iOS)
+YML file for Clash & SagerNet & Matsuri
 
 In the [Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg/releases/latest) from:
 Profiles > New Profile > URL
@@ -10,7 +10,7 @@ Profiles > New Profile > URL
 In the [SagerNet application](https://github.com/SagerNet/SagerNet/releases/latest) from:
 Group > Group URL
 
-In the [AnXray application](https://t.me/SagerNetApks) from:
+In the [Matsuri application](https://github.com/Matsuridayo/Matsuri/releases/latest) from:
 Group > Group URL
 
 Name: File Name YML (AzadNet/UFO/AzadNet_IRAN-Direct1/AzadNet_IRAN-Direct2)
@@ -42,6 +42,9 @@ Now Save and Select that.
 # Potatso Lite (iOS)
 
 In the [Potatso Lite application](https://apps.apple.com/us/app/potatso-lite/id1239860606) from:
+Subscription > + > URL5
+
+In the [Spectre application](https://apps.apple.com/us/app/spectre-vpn/id1508712998) from:
 Subscription > + > URL5
 
 URL5: https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_iOS.txt
