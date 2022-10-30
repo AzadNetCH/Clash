@@ -15,7 +15,6 @@ dns:
     - tls://dns.google:853
     - https://dns.google/dns-query
     - https://cloudflare-dns.com/dns-query
-    - https://mozilla.cloudflare-dns.com/dns-query
     - https://dns.adguard.com/dns-query
     - https://doh-de.blahdns.com/dns-query
   fallback:
