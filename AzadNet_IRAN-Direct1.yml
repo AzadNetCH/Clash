@@ -3,7 +3,7 @@ socks-port: 7891
 allow-lan: true
 mode: Rule
 log-level: info
-external-controller: :9090
+external-controller: :9091
 dns:
   enable: true
   ipv6: true
@@ -13,21 +13,8 @@ dns:
     - https://NoTMIKE.dev/dns.php
     - tls://one.one.one.one:853
     - tls://dns.google:853
-    - https://azure.cloudflare-dns.com/dns-query
-    - https://puredns.org/dns-query
-    - https://dns.dnshome.de/dns-query
-    - https://dns.hostux.net/dns-query
-    - https://doh.42l.fr/dns-query
-    - https://DNS.HeN.ee/dns-query
-    - https://doh.dnswarden.com/uncensored
     - https://dns.google/dns-query
     - https://cloudflare-dns.com/dns-query
-    - https://dns.quad9.net/dns-query
-    - https://mozilla.cloudflare-dns.com/dns-query
-    - https://EU2.DNS.LAVATE.CH/dns-query
-    - https://DANDELIONSPROUT.Asuscomm.com:2501/dns-query
-    - https://dns.switch.ch/dns-query
-    - https://dnsforge.de/dns-query
     - https://dns.adguard.com/dns-query
     - https://doh-de.blahdns.com/dns-query
   fallback:
@@ -3484,7 +3471,7 @@ proxy-groups:
       - 🇻🇳VN_AzadNet(1)
   - name: 🔥 Auto(Best ping)
     type: url-test
-    url: http://www.google.com
+    url: http://cp.cloudflare.com/
     interval: 200
     tolerance: 50
     proxies:
