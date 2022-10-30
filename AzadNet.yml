@@ -3473,7 +3473,7 @@ proxy-groups:
   - name: 🔥 Auto(Best ping)
     type: url-test
     url: http://cp.cloudflare.com/
-    interval: 150
+    interval: 200
     tolerance: 50
     proxies:
       - 🇦🇪AE_AzadNet
