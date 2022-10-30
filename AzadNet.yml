@@ -3,7 +3,7 @@ socks-port: 7891
 allow-lan: true
 mode: Rule
 log-level: info
-external-controller: :9090
+external-controller: :9091
 dns:
   enable: true
   ipv6: true
