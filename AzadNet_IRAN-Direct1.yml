@@ -96,161 +96,340 @@ dns:
     - "*.ipv6.microsoft.com"
     - speedtest.cros.wr.pvp.net
 proxies:
-  - {"type":"trojan","name":"_AzadNet","server":"103.176.78.153","port":443,"password":"idc117okt","udp":true,"skip-cert-verify":true}
-  - {"type":"trojan","name":"_AzadNet(1)","server":"103.173.155.72","port":28443,"password":"6f6ae34d-fe7f-4ca1-a912-ecc01386bdc4","udp":true,"skip-cert-verify":true}
-  - {"type":"ss","name":"🇨🇦CA_AzadNet","server":"196.247.59.156","port":803,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
-  - {"type":"ss","name":"🇨🇦CA_AzadNet(1)","server":"196.247.59.156","port":804,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
-  - {"type":"ss","name":"🇨🇦CA_AzadNet(2)","server":"196.247.59.156","port":806,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
-  - {"type":"ss","name":"🇨🇦CA_AzadNet(3)","server":"196.247.59.156","port":809,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
-  - {"type":"vmess","name":"🇩🇪DE_AzadNet","ws-opts":{"path":"/"},"server":"188.34.159.186","port":"35855","uuid":"97e8fba7-327a-4752-8aca-043858a7e518","alterId":"0","cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"🇩🇪DE_AzadNet(2)","ws-opts":{"path":"/"},"server":"5.161.133.65","port":"52317","uuid":"e8dcd51e-098d-4155-d232-1438c4f40dc6","alterId":"0","cipher":"auto","network":"ws"}
-  - {"type":"trojan","name":"🇫🇷FR_AzadNet","server":"51.195.219.173","port":443,"password":"0f5e6d9a-49af-4bc0-b04b-503102382144","udp":true,"skip-cert-verify":true,"sni":"ukt1.sshocean.net"}
-  - {"type":"trojan","name":"🇬🇧GB_AzadNet","server":"185.44.76.188","port":443,"password":"8697fe6b-1lWNFc1RmRBNk5NQU5KSnga3fa58ac5a3ef0-b4ab-11eb-b65e-1239d0255272","udp":true,"skip-cert-verify":true}
-  - {"type":"ss","name":"🇬🇧GB_AzadNet(1)","server":"172.99.190.7","port":7307,"cipher":"aes-256-gcm","password":"FoOiGlkAA9yPEGP"}
-  - {"type":"ss","name":"🇬🇧GB_AzadNet(2)","server":"172.99.190.61","port":8000,"cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm"}
-  - {"type":"ss","name":"🇬🇧GB_AzadNet(3)","server":"172.99.190.7","port":8090,"cipher":"aes-256-gcm","password":"PCnnH6SQSnfoS27"}
-  - {"type":"ss","name":"🇬🇧GB_AzadNet(4)","server":"172.99.190.7","port":8091,"cipher":"aes-256-gcm","password":"PCnnH6SQSnfoS27"}
-  - {"type":"ss","name":"🇬🇧GB_AzadNet(5)","server":"172.99.190.7","port":2376,"cipher":"aes-256-gcm","password":"faBAoD54k87UJG7"}
-  - {"type":"trojan","name":"🇬🇧GB_AzadNet(7)","server":"51.89.22.228","port":443,"password":"67e200f1-4ff5-42ca-8425-3f16f7986c29","udp":true,"skip-cert-verify":true,"sni":"t1.samsung.bforward2.uk"}
-  - {"type":"ss","name":"🇬🇧GB_AzadNet(8)","server":"172.99.190.149","port":7306,"cipher":"aes-256-gcm","password":"FoOiGlkAA9yPEGP"}
-  - {"type":"ss","name":"🇬🇧GB_AzadNet(9)","server":"172.99.190.149","port":7307,"cipher":"aes-256-gcm","password":"FoOiGlkAA9yPEGP"}
-  - {"type":"ss","name":"🇬🇧GB_AzadNet(10)","server":"172.99.190.61","port":7307,"cipher":"aes-256-gcm","password":"FoOiGlkAA9yPEGP"}
-  - {"type":"ss","name":"🇬🇧GB_AzadNet(11)","server":"172.99.190.7","port":7306,"cipher":"aes-256-gcm","password":"FoOiGlkAA9yPEGP"}
-  - {"type":"ss","name":"🇬🇧GB_AzadNet(13)","server":"172.99.190.87","port":7306,"cipher":"aes-256-gcm","password":"FoOiGlkAA9yPEGP"}
-  - {"type":"ss","name":"🇬🇧GB_AzadNet(14)","server":"172.99.190.87","port":7307,"cipher":"aes-256-gcm","password":"FoOiGlkAA9yPEGP"}
+  - {"type":"vmess","name":"🇦🇺AU_AzadNet(1)","ws-opts":{"path":"/vmess","headers":{"host":"139.99.135.182"}},"server":"139.99.135.182","port":"80","uuid":"8be7fd79-5920-4eae-9385-68a8d94bc1ae","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🇦🇺AU_AzadNet(2)","ws-opts":{"path":"/vmess","headers":{"host":"139.99.133.225"}},"server":"139.99.133.225","port":"80","uuid":"625b51df-fc17-47f3-aea4-3bc5f882ed56","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"trojan","name":"🇨🇦CA_AzadNet","server":"137.184.173.48","port":443,"password":"5612c06f-d0c1-4c86-aacf-10e1bfaa4254","udp":true,"skip-cert-verify":true,"sni":"vietnamobile.com.vn","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇦CA_AzadNet(1)","ws-opts":{"path":"/"},"server":"51.222.137.198","port":"80","uuid":"e3eba3ac-5bea-409f-ac5c-6c964e04d0c4","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🇨🇭CH_AzadNet","http-opts":{"path":["/watch"]},"server":"5.105.50.78","port":"443","uuid":"14616e83-4d39-9a97-33ca-040babea53c2","alterId":"0","cipher":"chacha20-poly1305","network":"http","tls":true}
+  - {"type":"vmess","name":"🇨🇳CN_AzadNet","server":"47.104.237.32","port":"50002","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇷CR_AzadNet","ws-opts":{"path":"/ccpp"},"server":"190.93.246.137","port":"80","uuid":"735ff430-9d1a-4f57-fb66-e43a26a76f70","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🇨🇷CR_AzadNet(1)","ws-opts":{"path":"/ccpp"},"server":"190.93.247.166","port":"80","uuid":"735ff430-9d1a-4f57-fb66-e43a26a76f70","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🇨🇾CY_AzadNet","ws-opts":{"path":"/"},"server":"45.128.53.169","port":"17800","uuid":"30297ab2-ceef-48ae-838f-9ca4bf625da8","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🇨🇿CZ_AzadNet","ws-opts":{"path":"/fastssh","headers":{"host":"zoom.us"}},"server":"109.123.237.41","port":"80","uuid":"03a77360-808d-11ed-b736-205c6d5f5d78","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🇩🇪DE_AzadNet","ws-opts":{"path":"/awmqvws","headers":{"host":"hardgum1.online"}},"server":"159.69.67.231","port":"443","uuid":"33be91f8-830e-79b0-4c32-29f564297bd5","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"🇩🇪DE_AzadNet(1)","ws-opts":{"path":"/"},"server":"95.179.241.154","port":"443","uuid":"b6ed2bcb-b0da-4fca-a74e-4360b25bbfbc","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"🇩🇪DE_AzadNet(2)","http-opts":{"path":["/"]},"server":"5.75.247.224","port":"443","uuid":"6b7cbc41-fb80-41a8-8eb6-b5bdb0e86147","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vmess","name":"🇩🇪DE_AzadNet(3)","http-opts":{"path":["/"]},"server":"159.69.55.132","port":"80","uuid":"0ee5ab10-764c-4a75-8299-6d8001e4f607","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vmess","name":"🇩🇪DE_AzadNet(4)","http-opts":{"path":["/"]},"server":"168.119.51.95","port":"80","uuid":"e9041441-4127-4538-b239-3fbedc06e664","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"trojan","name":"🇩🇪DE_AzadNet(5)","server":"51.75.77.146","port":443,"password":"4331812b-92ff-47b5-9f32-78b5150e625f","udp":true,"skip-cert-verify":true,"sni":"t2.teslacdn1.live","network":"tcp"}
+  - {"type":"vmess","name":"🇩🇪DE_AzadNet(6)","ws-opts":{"path":"/oakhvws","headers":{"host":"farmone2.online"}},"server":"195.201.245.225","port":"443","uuid":"0f1e40b5-4342-4a52-c378-7c34945f5878","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"🇩🇪DE_AzadNet(7)","http-opts":{"path":["/"]},"server":"5.75.177.251","port":"443","uuid":"6b7cbc41-fb80-41a8-8eb6-b5bdb0e86147","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vmess","name":"🇩🇪DE_AzadNet(8)","ws-opts":{"path":"/p3573l6m92h1ham3q23t","headers":{"host":"news.microsoft.com"}},"server":"188.40.132.112","port":"80","uuid":"4ddd24d6-d901-5e5f-9a7c-080015c2e246","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🇩🇪DE_AzadNet(9)","ws-opts":{"path":"/"},"server":"5.75.129.202","port":"55039","uuid":"151e56df-edd0-43ef-ddc8-f0108a05a792","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🇩🇪DE_AzadNet(10)","ws-opts":{"path":"/"},"server":"5.75.250.163","port":"2096","uuid":"e175ba8e-f3e8-4ec5-a350-f058537dca8e","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🇩🇪DE_AzadNet(11)","ws-opts":{"path":"/"},"server":"35.156.177.79","port":"47306","uuid":"d6a32f9a-9db1-43d6-f5f5-a8ca95b266fd","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🇩🇪DE_AzadNet(12)","ws-opts":{"path":"/amuuvws","headers":{"host":"goodfamily5.site"}},"server":"144.76.39.231","port":"443","uuid":"0cd74543-b2aa-1107-df8e-eef2fcd0a818","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"🇩🇪DE_AzadNet(13)","ws-opts":{"path":"/p3573l6m92h1ham3q23t"},"server":"188.40.132.107","port":"80","uuid":"4ddd24d6-d901-5e5f-9a7c-080015c2e246","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🇩🇪DE_AzadNet(14)","ws-opts":{"path":"/"},"server":"138.201.115.234","port":"62345","uuid":"7b525127-a5c2-4b63-a9e9-e833c2cc509a","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🇫🇮FI_AzadNet","ws-opts":{"path":"/"},"server":"135.181.235.21","port":"12951","uuid":"18827895-b647-4570-81e2-de3bd795fa04","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🇫🇮FI_AzadNet(1)","http-opts":{"path":["/"]},"server":"135.181.200.222","port":"19730","uuid":"e74af7d3-b7ba-462f-ea1e-9e033e5edd73","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vmess","name":"🇫🇮FI_AzadNet(2)","http-opts":{"path":["/"]},"server":"135.181.195.57","port":"443","uuid":"58066d0e-edd2-41a2-820e-e8278f77b591","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vmess","name":"🇫🇮FI_AzadNet(3)","ws-opts":{"path":"/2564"},"server":"95.217.186.213","port":"443","uuid":"d070c731-e587-4723-9b1f-526a81241362","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"🇫🇷FR_AzadNet","ws-opts":{"path":"/"},"server":"51.77.158.169","port":"2096","uuid":"c92fd902-b5d3-4208-bb48-630b1c7babea","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"trojan","name":"🇫🇷FR_AzadNet(1)","server":"5.135.235.160","port":443,"password":"a2c8194b-fcfd-4c39-a6bd-31ea9f4ea671","udp":true,"skip-cert-verify":true,"sni":"upload.soft98.download","network":"tcp"}
+  - {"type":"vmess","name":"🇫🇷FR_AzadNet(3)","ws-opts":{"path":"/8cda48b3"},"server":"173.245.49.5","port":"8443","uuid":"a6a37e04-5e81-44c9-be53-baa3ff46eb8b","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"🇫🇷FR_AzadNet(4)","ws-opts":{"path":"/8cda48b3"},"server":"173.245.49.113","port":"8443","uuid":"a6a37e04-5e81-44c9-be53-baa3ff46eb8b","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"🇫🇷FR_AzadNet(5)","ws-opts":{"path":"/8cda48b3"},"server":"173.245.49.23","port":"8443","uuid":"a6a37e04-5e81-44c9-be53-baa3ff46eb8b","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"🇫🇷FR_AzadNet(6)","ws-opts":{"path":"/8cda48b3"},"server":"173.245.49.10","port":"8443","uuid":"a6a37e04-5e81-44c9-be53-baa3ff46eb8b","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"🇫🇷FR_AzadNet(7)","ws-opts":{"path":"/vmess","headers":{"host":"152.228.217.34"}},"server":"152.228.217.34","port":"80","uuid":"636d6e5f-35cc-4bb0-9802-1d2403100c27","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🇫🇷FR_AzadNet(8)","ws-opts":{"path":"/vmess","headers":{"host":"147.135.208.210"}},"server":"147.135.208.210","port":"80","uuid":"7e194a05-a9d8-42fa-a8ad-f867057fba74","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🇫🇷FR_AzadNet(9)","ws-opts":{"path":"/vmess","headers":{"host":"54.36.162.144"}},"server":"54.36.162.144","port":"80","uuid":"6dc64bae-8821-4c94-a094-68bf5d1d28c8","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"trojan","name":"🇬🇧GB_AzadNet","server":"185.16.206.209","port":443,"password":"shefelnak","udp":true,"skip-cert-verify":true,"sni":"content-provider20.cdn-delivery.akamaicd.com","network":"tcp"}
+  - {"type":"trojan","name":"🇬🇧GB_AzadNet(1)","server":"51.38.71.175","port":80,"password":"b44579e1-f803-4981-86bc-aa8c783daa04","udp":true,"skip-cert-verify":true,"sni":"uk1.trojanvh.xyz","network":"tcp"}
+  - {"type":"trojan","name":"🇬🇧GB_AzadNet(2)","server":"51.89.22.228","port":443,"password":"dc21bdbf-04c0-4a7e-8cb4-3d5af39ddf13","udp":true,"skip-cert-verify":true,"sni":"t1.teslacdn1.live","network":"tcp"}
+  - {"type":"trojan","name":"🇬🇧GB_AzadNet(3)","server":"185.44.76.188","port":443,"password":"8697fe6b-1lWNFc1RmRBNk5NQU5KSnga3fa58ac5a3ef0-b4ab-11eb-b65e-1239d0255272","udp":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"type":"ss","name":"🇬🇧GB_AzadNet(5)","server":"172.99.190.7","port":7307,"cipher":"aes-256-gcm","password":"FoOiGlkAA9yPEGP"}
+  - {"type":"ss","name":"🇬🇧GB_AzadNet(6)","server":"172.99.190.61","port":8000,"cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm"}
+  - {"type":"ss","name":"🇬🇧GB_AzadNet(7)","server":"172.99.190.7","port":8090,"cipher":"aes-256-gcm","password":"PCnnH6SQSnfoS27"}
+  - {"type":"ss","name":"🇬🇧GB_AzadNet(8)","server":"172.99.190.7","port":8091,"cipher":"aes-256-gcm","password":"PCnnH6SQSnfoS27"}
+  - {"type":"ss","name":"🇬🇧GB_AzadNet(9)","server":"172.99.190.7","port":2376,"cipher":"aes-256-gcm","password":"faBAoD54k87UJG7"}
+  - {"type":"ss","name":"🇬🇧GB_AzadNet(10)","server":"172.99.190.149","port":7306,"cipher":"aes-256-gcm","password":"FoOiGlkAA9yPEGP"}
+  - {"type":"ss","name":"🇬🇧GB_AzadNet(11)","server":"172.99.190.149","port":7307,"cipher":"aes-256-gcm","password":"FoOiGlkAA9yPEGP"}
+  - {"type":"ss","name":"🇬🇧GB_AzadNet(12)","server":"172.99.190.61","port":7307,"cipher":"aes-256-gcm","password":"FoOiGlkAA9yPEGP"}
+  - {"type":"ss","name":"🇬🇧GB_AzadNet(13)","server":"172.99.190.7","port":7306,"cipher":"aes-256-gcm","password":"FoOiGlkAA9yPEGP"}
+  - {"type":"ss","name":"🇬🇧GB_AzadNet(14)","server":"172.99.190.87","port":7306,"cipher":"aes-256-gcm","password":"FoOiGlkAA9yPEGP"}
+  - {"type":"ss","name":"🇬🇧GB_AzadNet(15)","server":"172.99.190.87","port":7307,"cipher":"aes-256-gcm","password":"FoOiGlkAA9yPEGP"}
   - {"type":"ss","name":"🇬🇧GB_AzadNet(16)","server":"172.99.190.39","port":7306,"cipher":"aes-256-gcm","password":"FoOiGlkAA9yPEGP"}
   - {"type":"ss","name":"🇬🇧GB_AzadNet(17)","server":"172.99.190.39","port":7307,"cipher":"aes-256-gcm","password":"FoOiGlkAA9yPEGP"}
-  - {"type":"ss","name":"🇬🇧GB_AzadNet(21)","server":"172.99.190.149","port":5500,"cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm"}
-  - {"type":"ss","name":"🇬🇧GB_AzadNet(22)","server":"172.99.190.149","port":8000,"cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm"}
-  - {"type":"ss","name":"🇬🇧GB_AzadNet(23)","server":"172.99.190.149","port":8080,"cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm"}
-  - {"type":"ss","name":"🇬🇧GB_AzadNet(24)","server":"172.99.190.39","port":5500,"cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm"}
-  - {"type":"ss","name":"🇬🇧GB_AzadNet(25)","server":"172.99.190.39","port":8000,"cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm"}
-  - {"type":"ss","name":"🇬🇧GB_AzadNet(26)","server":"172.99.190.39","port":8080,"cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm"}
-  - {"type":"ss","name":"🇬🇧GB_AzadNet(27)","server":"172.99.190.61","port":5500,"cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm"}
-  - {"type":"ss","name":"🇬🇧GB_AzadNet(29)","server":"172.99.190.61","port":8080,"cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm"}
-  - {"type":"ss","name":"🇬🇧GB_AzadNet(30)","server":"172.99.190.87","port":5500,"cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm"}
-  - {"type":"ss","name":"🇬🇧GB_AzadNet(31)","server":"172.99.190.87","port":8000,"cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm"}
-  - {"type":"ss","name":"🇬🇧GB_AzadNet(32)","server":"172.99.190.87","port":8080,"cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm"}
-  - {"type":"trojan","name":"🇭🇰HK_AzadNet","server":"20.187.85.198","port":443,"password":"b26e31e5-eac1-45b0-9069-83830bd69521","udp":true,"skip-cert-verify":true,"sni":"hkt.iamnotagoodman.com"}
-  - {"type":"trojan","name":"🇭🇰HK_AzadNet(1)","server":"104.208.100.101","port":443,"password":"ceaea123-1b4b-469b-8358-bcd5f5529305","udp":true,"skip-cert-verify":true,"sni":"uk.liangyuandian.top"}
-  - {"type":"trojan","name":"🇯🇵JP_AzadNet","server":"45.66.134.219","port":443,"password":"28d98f761aca9d636f44db62544628eb","udp":true,"skip-cert-verify":true}
-  - {"type":"trojan","name":"🇯🇵JP_AzadNet(1)","server":"106.180.225.69","port":1443,"password":"7x42LetRa0","udp":true,"skip-cert-verify":true}
-  - {"type":"trojan","name":"🇯🇵JP_AzadNet(2)","server":"132.226.5.246","port":443,"password":"4f7dc540-d244-4e64-af21-4b5bb300add3","udp":true,"skip-cert-verify":true,"sni":"www.tokyo2023.ga"}
-  - {"type":"ss","name":"🇳🇱NL_AzadNet","server":"185.246.155.35","port":9059,"cipher":"aes-256-cfb","password":"9XwYyZsK8SNzQDtY"}
-  - {"type":"ss","name":"🇳🇱NL_AzadNet(1)","server":"185.246.155.23","port":9020,"cipher":"aes-256-cfb","password":"BNmAXXxAHYpTRdzu"}
-  - {"type":"ss","name":"🇳🇱NL_AzadNet(2)","server":"185.246.155.35","port":9020,"cipher":"aes-256-cfb","password":"BNmAXXxAHYpTRdzu"}
-  - {"type":"ss","name":"🇳🇱NL_AzadNet(3)","server":"185.246.155.23","port":9024,"cipher":"aes-256-cfb","password":"BejrQvtu9sqUeNuZ"}
-  - {"type":"ss","name":"🇳🇱NL_AzadNet(4)","server":"185.246.155.35","port":9024,"cipher":"aes-256-cfb","password":"BejrQvtu9sqUeNuZ"}
-  - {"type":"ss","name":"🇳🇱NL_AzadNet(5)","server":"213.183.59.218","port":9024,"cipher":"aes-256-cfb","password":"BejrQvtu9sqUeNuZ"}
-  - {"type":"ss","name":"🇳🇱NL_AzadNet(6)","server":"185.246.155.23","port":9031,"cipher":"aes-256-cfb","password":"BwcAUZk8hUFAkDGN"}
-  - {"type":"ss","name":"🇳🇱NL_AzadNet(7)","server":"185.246.155.35","port":9031,"cipher":"aes-256-cfb","password":"BwcAUZk8hUFAkDGN"}
-  - {"type":"ss","name":"🇳🇱NL_AzadNet(8)","server":"185.246.155.23","port":9019,"cipher":"aes-256-cfb","password":"GA9KzeEgvfxNrgmM"}
-  - {"type":"ss","name":"🇳🇱NL_AzadNet(9)","server":"185.246.155.23","port":9030,"cipher":"aes-256-cfb","password":"GeregetR8cvQHzYr"}
-  - {"type":"ss","name":"🇳🇱NL_AzadNet(10)","server":"185.246.155.35","port":9030,"cipher":"aes-256-cfb","password":"GeregetR8cvQHzYr"}
-  - {"type":"ss","name":"🇳🇱NL_AzadNet(11)","server":"185.246.155.35","port":9027,"cipher":"aes-256-cfb","password":"EXN3S3eQpjE7EJu8"}
-  - {"type":"ss","name":"🇳🇱NL_AzadNet(12)","server":"185.246.155.23","port":9006,"cipher":"aes-256-cfb","password":"FAdUvMJUq5vDgKEq"}
-  - {"type":"ss","name":"🇳🇱NL_AzadNet(13)","server":"185.246.155.35","port":9006,"cipher":"aes-256-cfb","password":"FAdUvMJUq5vDgKEq"}
-  - {"type":"ss","name":"🇳🇱NL_AzadNet(14)","server":"185.246.155.35","port":9050,"cipher":"aes-256-cfb","password":"FG5ddLsMPbV5CutE"}
-  - {"type":"ss","name":"🇳🇱NL_AzadNet(15)","server":"185.246.155.23","port":9014,"cipher":"aes-256-cfb","password":"KnJGad3FqTvjqbaX"}
-  - {"type":"ss","name":"🇳🇱NL_AzadNet(16)","server":"185.246.155.35","port":9014,"cipher":"aes-256-cfb","password":"KnJGad3FqTvjqbaX"}
-  - {"type":"ss","name":"🇳🇱NL_AzadNet(17)","server":"185.246.155.23","port":9097,"cipher":"aes-256-cfb","password":"Sn5B7jTqr76aCJT8"}
-  - {"type":"ss","name":"🇳🇱NL_AzadNet(18)","server":"185.246.155.35","port":9026,"cipher":"aes-256-cfb","password":"QWDDvVE9npNurQfA"}
-  - {"type":"ss","name":"🇳🇱NL_AzadNet(19)","server":"185.246.155.23","port":9079,"cipher":"aes-256-cfb","password":"TPqX8edgbAURcAMb"}
-  - {"type":"ss","name":"🇳🇱NL_AzadNet(20)","server":"185.246.155.23","port":9041,"cipher":"aes-256-cfb","password":"U6qnYRhfyDmn8sgn"}
-  - {"type":"ss","name":"🇳🇱NL_AzadNet(21)","server":"185.246.155.35","port":9041,"cipher":"aes-256-cfb","password":"U6qnYRhfyDmn8sgn"}
-  - {"type":"ss","name":"🇳🇱NL_AzadNet(22)","server":"185.246.155.23","port":9033,"cipher":"aes-256-cfb","password":"UTJA57ypk2XKQpnm"}
-  - {"type":"ss","name":"🇳🇱NL_AzadNet(23)","server":"185.246.155.35","port":9033,"cipher":"aes-256-cfb","password":"UTJA57ypk2XKQpnm"}
-  - {"type":"ss","name":"🇳🇱NL_AzadNet(24)","server":"185.246.155.23","port":9032,"cipher":"aes-256-cfb","password":"UWZQeLRWnkqgkseq"}
-  - {"type":"ss","name":"🇳🇱NL_AzadNet(25)","server":"185.246.155.35","port":9032,"cipher":"aes-256-cfb","password":"UWZQeLRWnkqgkseq"}
-  - {"type":"ss","name":"🇳🇱NL_AzadNet(26)","server":"185.246.155.35","port":9001,"cipher":"aes-256-cfb","password":"UkXRsXvR6buDMG2Y"}
-  - {"type":"ss","name":"🇳🇱NL_AzadNet(27)","server":"185.246.155.35","port":9080,"cipher":"aes-256-cfb","password":"VP8ZPxQpJtZRCjfZ"}
-  - {"type":"ss","name":"🇳🇱NL_AzadNet(28)","server":"185.246.155.35","port":9005,"cipher":"aes-256-cfb","password":"ZET59LF6DvCC8KVt"}
-  - {"type":"ss","name":"🇳🇱NL_AzadNet(29)","server":"185.246.155.35","port":9015,"cipher":"aes-256-cfb","password":"ZpNDDKRu9MagNvaf"}
-  - {"type":"ss","name":"🇳🇱NL_AzadNet(30)","server":"185.246.155.23","port":9064,"cipher":"aes-256-cfb","password":"cp8pRSUAyLhTfVWH"}
-  - {"type":"ss","name":"🇳🇱NL_AzadNet(31)","server":"185.246.155.35","port":9064,"cipher":"aes-256-cfb","password":"cp8pRSUAyLhTfVWH"}
-  - {"type":"ss","name":"🇳🇱NL_AzadNet(32)","server":"185.246.155.23","port":9000,"cipher":"aes-256-cfb","password":"a3GFYt36Sm82Vys9"}
-  - {"type":"ss","name":"🇳🇱NL_AzadNet(33)","server":"185.246.155.35","port":9000,"cipher":"aes-256-cfb","password":"a3GFYt36Sm82Vys9"}
-  - {"type":"ss","name":"🇳🇱NL_AzadNet(34)","server":"185.246.155.35","port":9098,"cipher":"aes-256-cfb","password":"aLpQtfEZe445QyHk"}
-  - {"type":"ss","name":"🇳🇱NL_AzadNet(35)","server":"185.246.155.23","port":9070,"cipher":"aes-256-cfb","password":"bf7v334KKDV3YDhH"}
-  - {"type":"ss","name":"🇳🇱NL_AzadNet(36)","server":"213.183.59.218","port":9084,"cipher":"aes-256-cfb","password":"c3NtHJ5ujV2tGDfj"}
-  - {"type":"ss","name":"🇳🇱NL_AzadNet(37)","server":"185.246.155.35","port":9058,"cipher":"aes-256-cfb","password":"dML2sfhbVwvtfNPe"}
-  - {"type":"ss","name":"🇳🇱NL_AzadNet(38)","server":"185.246.155.23","port":9073,"cipher":"aes-256-cfb","password":"daFYagqDdBdA6VTX"}
-  - {"type":"ss","name":"🇳🇱NL_AzadNet(39)","server":"185.246.155.35","port":9073,"cipher":"aes-256-cfb","password":"daFYagqDdBdA6VTX"}
-  - {"type":"ss","name":"🇳🇱NL_AzadNet(40)","server":"185.246.155.23","port":9010,"cipher":"aes-256-cfb","password":"f63gg8EruDnUrmz4"}
-  - {"type":"ss","name":"🇳🇱NL_AzadNet(41)","server":"185.246.155.23","port":9088,"cipher":"aes-256-cfb","password":"f8npKgNzdkss2ytn"}
-  - {"type":"ss","name":"🇳🇱NL_AzadNet(42)","server":"185.246.155.23","port":9018,"cipher":"aes-256-cfb","password":"fG2artUmHfNT2cX7"}
-  - {"type":"ss","name":"🇳🇱NL_AzadNet(43)","server":"185.246.155.35","port":9018,"cipher":"aes-256-cfb","password":"fG2artUmHfNT2cX7"}
-  - {"type":"ss","name":"🇳🇱NL_AzadNet(44)","server":"185.246.155.23","port":9040,"cipher":"aes-256-cfb","password":"p9z5BVADH2YFs3MN"}
-  - {"type":"ss","name":"🇳🇱NL_AzadNet(45)","server":"185.246.155.35","port":9040,"cipher":"aes-256-cfb","password":"p9z5BVADH2YFs3MN"}
-  - {"type":"ss","name":"🇳🇱NL_AzadNet(46)","server":"185.246.155.35","port":9056,"cipher":"aes-256-cfb","password":"rNBfNuuANFCAk7KB"}
-  - {"type":"ss","name":"🇳🇱NL_AzadNet(47)","server":"185.246.155.23","port":9094,"cipher":"aes-256-cfb","password":"rpgbNnU9rDDU4aWZ"}
-  - {"type":"ss","name":"🇳🇱NL_AzadNet(48)","server":"185.246.155.35","port":9094,"cipher":"aes-256-cfb","password":"rpgbNnU9rDDU4aWZ"}
-  - {"type":"ss","name":"🇳🇱NL_AzadNet(49)","server":"213.183.59.218","port":9094,"cipher":"aes-256-cfb","password":"rpgbNnU9rDDU4aWZ"}
-  - {"type":"ss","name":"🇳🇱NL_AzadNet(50)","server":"185.246.155.35","port":9093,"cipher":"aes-256-cfb","password":"wfLC2y7rzZyCmuyt"}
-  - {"type":"ss","name":"🇳🇱NL_AzadNet(51)","server":"185.246.155.35","port":9057,"cipher":"aes-256-cfb","password":"wjTugX3ZtHMB9c3Z"}
-  - {"type":"ss","name":"🇳🇱NL_AzadNet(52)","server":"185.246.155.23","port":9060,"cipher":"aes-256-cfb","password":"ueLXVkvh4hckhErQ"}
-  - {"type":"ss","name":"🇳🇱NL_AzadNet(53)","server":"185.246.155.35","port":9060,"cipher":"aes-256-cfb","password":"ueLXVkvh4hckhErQ"}
-  - {"type":"ss","name":"🇳🇱NL_AzadNet(54)","server":"185.246.155.23","port":9008,"cipher":"aes-256-cfb","password":"y9VURyNzJWNRYEGQ"}
-  - {"type":"ss","name":"🇳🇱NL_AzadNet(55)","server":"185.246.155.35","port":9008,"cipher":"aes-256-cfb","password":"y9VURyNzJWNRYEGQ"}
-  - {"type":"ss","name":"🇳🇱NL_AzadNet(56)","server":"213.183.59.218","port":9008,"cipher":"aes-256-cfb","password":"y9VURyNzJWNRYEGQ"}
-  - {"type":"vmess","name":"🇳🇱NL_AzadNet(57)","ws-opts":{"path":"/dfgd55dg5dG"},"server":"95.211.249.49","port":"41065","uuid":"a81cc101-bc8b-4124-acc6-4b1eba08fefa","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"ss","name":"🇬🇧GB_AzadNet(18)","server":"172.99.190.149","port":5500,"cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm"}
+  - {"type":"ss","name":"🇬🇧GB_AzadNet(19)","server":"172.99.190.149","port":8000,"cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm"}
+  - {"type":"ss","name":"🇬🇧GB_AzadNet(20)","server":"172.99.190.149","port":8080,"cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm"}
+  - {"type":"ss","name":"🇬🇧GB_AzadNet(21)","server":"172.99.190.39","port":5500,"cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm"}
+  - {"type":"ss","name":"🇬🇧GB_AzadNet(22)","server":"172.99.190.39","port":8000,"cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm"}
+  - {"type":"ss","name":"🇬🇧GB_AzadNet(23)","server":"172.99.190.39","port":8080,"cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm"}
+  - {"type":"ss","name":"🇬🇧GB_AzadNet(24)","server":"172.99.190.61","port":5500,"cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm"}
+  - {"type":"ss","name":"🇬🇧GB_AzadNet(25)","server":"172.99.190.87","port":5500,"cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm"}
+  - {"type":"ss","name":"🇬🇧GB_AzadNet(26)","server":"172.99.190.87","port":8000,"cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm"}
+  - {"type":"ss","name":"🇬🇧GB_AzadNet(27)","server":"172.99.190.87","port":8080,"cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm"}
+  - {"type":"vmess","name":"🇬🇧GB_AzadNet(28)","ws-opts":{"path":"/"},"server":"198.244.232.39","port":"2096","uuid":"df46384b-1ad5-40a6-812e-48d60fb80283","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🇬🇧GB_AzadNet(29)","ws-opts":{"path":"/vmess","headers":{"host":"51.75.160.126"}},"server":"51.75.160.126","port":"80","uuid":"72189368-6b37-4019-bfbb-b697ee386ea5","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"trojan","name":"🇭🇰HK_AzadNet","server":"20.205.35.26","port":443,"password":"500b1c7c-caf0-481c-8c7d-3eeb84e70ad4","udp":true,"skip-cert-verify":true,"sni":"hinet.mjt001.com","network":"tcp"}
+  - {"type":"trojan","name":"🇭🇰HK_AzadNet(1)","server":"20.187.91.165","port":443,"password":"1de78101-cc31-45eb-a8ac-41bd77578314","udp":true,"skip-cert-verify":true,"sni":"data-hk.efyunpan.com","network":"tcp"}
+  - {"type":"vmess","name":"🇭🇰HK_AzadNet(2)","ws-opts":{"path":"/petalvws","headers":{"host":"petal.ga"}},"server":"20.187.122.132","port":"443","uuid":"b744f5cc-eab2-d2cd-f477-76646d17987f","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"trojan","name":"🇭🇰HK_AzadNet(3)","server":"20.205.4.127","port":443,"password":"136b600c-6e5c-4f8b-b5f7-5b3170587640","udp":true,"skip-cert-verify":true,"sni":"glc.windowsupdate1.com","network":"tcp"}
+  - {"type":"vmess","name":"🇭🇰HK_AzadNet(5)","ws-opts":{"path":"/Falling42gcorehkknode"},"server":"185.14.47.210","port":"443","uuid":"12e08256-da5d-4b1c-aeca-8c973ccceef8","alterId":"4","cipher":"auto","network":"ws","tls":true}
+  - {"type":"trojan","name":"🇭🇰HK_AzadNet(6)","server":"37.123.196.250","port":28892,"password":"shenmegui","udp":true,"skip-cert-verify":true,"sni":"hk.swiftfalcon.app","network":"tcp"}
+  - {"type":"ss","name":"🇭🇰HK_AzadNet(7)","server":"148.66.56.99","port":807,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+  - {"type":"ss","name":"🇭🇰HK_AzadNet(8)","server":"148.66.56.99","port":808,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+  - {"type":"ss","name":"🇭🇰HK_AzadNet(9)","server":"148.66.56.99","port":809,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+  - {"type":"ss","name":"🇭🇰HK_AzadNet(10)","server":"148.66.56.99","port":811,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+  - {"type":"ss","name":"🇭🇰HK_AzadNet(11)","server":"148.66.56.99","port":812,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+  - {"type":"ss","name":"🇭🇰HK_AzadNet(12)","server":"148.66.56.99","port":803,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+  - {"type":"ss","name":"🇭🇰HK_AzadNet(13)","server":"148.66.56.99","port":805,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+  - {"type":"ss","name":"🇭🇰HK_AzadNet(14)","server":"148.66.56.99","port":804,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+  - {"type":"ss","name":"🇭🇰HK_AzadNet(15)","server":"148.66.56.99","port":801,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+  - {"type":"ss","name":"🇭🇰HK_AzadNet(16)","server":"148.66.56.99","port":802,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+  - {"type":"ss","name":"🇭🇰HK_AzadNet(17)","server":"148.66.56.99","port":806,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+  - {"type":"ss","name":"🇭🇰HK_AzadNet(18)","server":"148.66.56.99","port":810,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+  - {"type":"ss","name":"🇭🇰HK_AzadNet(19)","server":"148.66.56.99","port":800,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+  - {"type":"vmess","name":"🇭🇰HK_AzadNet(20)","http-opts":{"path":["/"]},"server":"47.242.146.123","port":"26237","uuid":"c8f5a5fd-0a69-4cf6-8fa6-2ea02171d6a3","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vmess","name":"🇭🇰HK_AzadNet(21)","http-opts":{"path":["/"]},"server":"8.218.59.157","port":"45981","uuid":"dae5ab3b-a026-42ea-b1a8-f5f4827b3341","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vmess","name":"🇭🇰HK_AzadNet(22)","http-opts":{"path":["/"]},"server":"8.218.94.182","port":"24520","uuid":"3ae2a476-6929-4544-8037-1c79f0dfa701","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vmess","name":"🇭🇰HK_AzadNet(23)","ws-opts":{"path":"/hk"},"server":"8.218.140.111","port":"34193","uuid":"544bf832-7df2-4ce1-aafc-9258a28b7cfb","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🇭🇰HK_AzadNet(24)","ws-opts":{"path":"/opt/video/images"},"server":"182.16.1.194","port":"80","uuid":"00a1da14-d55f-5f75-e346-79b985e1a723","alterId":"64","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🇭🇰HK_AzadNet(25)","ws-opts":{"path":"/vmess","headers":{"host":"v2.chigua.tk"}},"server":"167.179.32.53","port":"443","uuid":"ffffffff-ffff-ffff-ffff-ffffffffffff","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"🇭🇰HK_AzadNet(26)","ws-opts":{"path":"/vmess","headers":{"host":"188.116.22.171"}},"server":"188.116.22.171","port":"80","uuid":"3c6c608d-68c0-4782-86ac-98ea1ada3a25","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🇭🇰HK_AzadNet(28)","http-opts":{"path":["/"]},"server":"8.218.81.81","port":"37003","uuid":"61ef9730-05d4-435d-bdaf-a10c12c7e5c5","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vmess","name":"🇭🇰HK_AzadNet(29)","http-opts":{"path":["/"]},"server":"47.242.44.222","port":"63376","uuid":"5343352c-ccc5-43f9-b08a-7425e5cc73dd","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vmess","name":"🇭🇰HK_AzadNet(30)","http-opts":{"path":["/"]},"server":"8.218.86.59","port":"36536","uuid":"ae3c56f1-c243-4373-bd65-07fd0569c455","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vmess","name":"🇭🇰HK_AzadNet(31)","http-opts":{"path":["/"]},"server":"8.218.64.146","port":"61213","uuid":"22b0bc98-caf1-4519-9140-c26023df64d0","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vmess","name":"🇭🇰HK_AzadNet(32)","http-opts":{"path":["/"]},"server":"47.242.174.112","port":"49564","uuid":"61a57665-7db8-424e-8cbf-b95f9dc9d799","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vmess","name":"🇭🇰HK_AzadNet(33)","http-opts":{"path":["/"]},"server":"8.210.104.101","port":"61898","uuid":"d1b4c525-f298-4c8c-9f8f-dd87dc32df0b","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vmess","name":"🇭🇰HK_AzadNet(34)","http-opts":{"path":["/"]},"server":"47.243.36.34","port":"26953","uuid":"6a1f0373-d449-4305-8e46-e72a789076d5","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vmess","name":"🇭🇰HK_AzadNet(35)","http-opts":{"path":["/"]},"server":"47.242.17.241","port":"44207","uuid":"77c6c520-2d37-495a-a954-c8d056e89053","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vmess","name":"🇭🇰HK_AzadNet(36)","http-opts":{"path":["/"]},"server":"8.218.105.233","port":"46148","uuid":"5072f86c-2a3f-430e-861f-bfd965da9b79","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vmess","name":"🇭🇰HK_AzadNet(37)","http-opts":{"path":["/"]},"server":"8.218.72.12","port":"64862","uuid":"b9adc9e5-4821-4c9c-ac05-43b3a8fad445","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vmess","name":"🇭🇰HK_AzadNet(38)","ws-opts":{"path":"/shirker","headers":{"host":"sg-gcore-2.sharecentre.online"}},"server":"47.243.107.181","port":"443","uuid":"20e92881-5fb4-4b05-bc77-57929476dc69","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"🇭🇰HK_AzadNet(39)","ws-opts":{"path":"/dongtaiwang.com","headers":{"host":"clash6.ssr-free.xyz"}},"server":"219.76.13.180","port":"443","uuid":"5f64fa65-7b14-49c5-954d-aa15c6bfcacd","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"trojan","name":"🇮🇩ID_AzadNet","server":"103.169.7.11","port":443,"password":"788ab87c-224d-4e85-8575-470567934d47","udp":true,"skip-cert-verify":true,"sni":"www.digitalocean.com","network":"tcp"}
+  - {"type":"trojan","name":"🇮🇩ID_AzadNet(1)","server":"103.176.78.153","port":443,"password":"idc117okt","udp":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"type":"vmess","name":"🇮🇩ID_AzadNet(2)","ws-opts":{"path":"/vmess","headers":{"host":"103.187.106.98"}},"server":"103.187.106.98","port":"80","uuid":"8e645626-90f3-4c70-bae4-3f504a5989d3","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🇮🇪IE_AzadNet","ws-opts":{"path":"/"},"server":"52.214.4.7","port":"22700","uuid":"bb9d73be-e2a3-4010-d754-0d9e24dd5377","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🇮🇷IR_AzadNet","ws-opts":{"path":"/"},"server":"31.47.49.2","port":"80","uuid":"136bb5b9-6832-49f5-f295-ba1bbc9b06d2","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🇮🇷IR_AzadNet(1)","ws-opts":{"path":"/ws","headers":{"host":"x.sansorchi.net"}},"server":"185.24.255.24","port":"80","uuid":"80abb903-24e0-4dbd-9c2f-a57e9a267555","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"ss","name":"🇮🇷IR_AzadNet(3)","server":"37.32.28.228","port":443,"cipher":"chacha20-ietf-poly1305","password":"jinajina123"}
+  - {"type":"ss","name":"🇮🇷IR_AzadNet(4)","server":"37.32.30.122","port":443,"cipher":"chacha20-ietf-poly1305","password":"jinajina123"}
+  - {"type":"trojan","name":"🇯🇵JP_AzadNet","server":"150.230.201.192","port":443,"password":"f42e1a2e-e650-44f4-8d17-bcb68663da18","udp":true,"skip-cert-verify":true,"sni":"www.seetheworldjp.ga","network":"tcp"}
+  - {"type":"trojan","name":"🇯🇵JP_AzadNet(1)","server":"132.226.5.246","port":443,"password":"4f7dc540-d244-4e64-af21-4b5bb300add3","udp":true,"skip-cert-verify":true,"sni":"www.tokyo2023.ga","network":"tcp"}
+  - {"type":"trojan","name":"🇯🇵JP_AzadNet(2)","server":"45.66.134.219","port":443,"password":"28d98f761aca9d636f44db62544628eb","udp":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"type":"ss","name":"🇯🇵JP_AzadNet(3)","server":"85.208.108.60","port":2375,"cipher":"aes-256-gcm","password":"faBAoD54k87UJG7"}
+  - {"type":"ss","name":"🇯🇵JP_AzadNet(4)","server":"52.68.161.195","port":443,"cipher":"aes-256-cfb","password":"amazonskr05"}
+  - {"type":"ss","name":"🇯🇵JP_AzadNet(5)","server":"43.206.224.222","port":443,"cipher":"aes-256-cfb","password":"amazonskr05"}
+  - {"type":"trojan","name":"🇯🇵JP_AzadNet(6)","server":"43.206.112.26","port":443,"password":"3c266fd3-5f9f-4132-90ac-c33a2a316cb5","udp":true,"skip-cert-verify":true,"sni":"6.letitbe.ink","network":"tcp"}
+  - {"type":"trojan","name":"🇯🇵JP_AzadNet(7)","server":"49.212.203.7","port":443,"password":"18844%40zxcvbn","udp":true,"skip-cert-verify":true,"sni":"os-tr-2.cats22.net","network":"tcp"}
+  - {"type":"ss","name":"🇯🇵JP_AzadNet(8)","server":"54.168.247.37","port":443,"cipher":"aes-256-cfb","password":"amazonskr05"}
+  - {"type":"trojan","name":"🇯🇵JP_AzadNet(9)","server":"49.212.204.123","port":443,"password":"18844%40zxcvbn","udp":true,"skip-cert-verify":true,"sni":"os-tr-5.cats22.net","network":"tcp"}
+  - {"type":"trojan","name":"🇯🇵JP_AzadNet(10)","server":"172.104.66.199","port":443,"password":"tune7jerky7HAYRICK","udp":true,"skip-cert-verify":true,"sni":"ap-northeast-1.openssl3.com","network":"tcp"}
+  - {"type":"trojan","name":"🇯🇵JP_AzadNet(11)","server":"49.212.182.164","port":443,"password":"18844%40zxcvbn","udp":true,"skip-cert-verify":true,"sni":"os-tr-1.cats22.net","network":"tcp"}
+  - {"type":"trojan","name":"🇯🇵JP_AzadNet(12)","server":"54.65.172.148","port":443,"password":"3628ca8d-6371-45df-879c-2d3e5d110b51","udp":true,"skip-cert-verify":true,"sni":"university.lele233.com","network":"tcp"}
+  - {"type":"vmess","name":"🇯🇵JP_AzadNet(13)","ws-opts":{"path":"/lianpiwebsocket"},"server":"18.183.75.20","port":"45123","uuid":"e6fa8efb-9651-4be9-a694-e95b46ef8f4a","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"ss","name":"🇯🇵JP_AzadNet(14)","server":"43.207.1.14","port":443,"cipher":"aes-256-cfb","password":"amazonskr05"}
+  - {"type":"trojan","name":"🇯🇵JP_AzadNet(15)","server":"43.206.96.245","port":443,"password":"3c266fd3-5f9f-4132-90ac-c33a2a316cb5","udp":true,"skip-cert-verify":true,"sni":"23.letitbe.ink","network":"tcp"}
+  - {"type":"trojan","name":"🇯🇵JP_AzadNet(16)","server":"103.201.131.84","port":8460,"password":"shenmegui","udp":true,"skip-cert-verify":true,"sni":"jp.swiftfalcon.app","network":"tcp"}
+  - {"type":"ss","name":"🇯🇵JP_AzadNet(17)","server":"185.160.26.91","port":1663,"cipher":"chacha20-ietf-poly1305","password":"Xs9ORT4j65b8HreZrg0p"}
+  - {"type":"ss","name":"🇯🇵JP_AzadNet(18)","server":"185.160.26.91","port":1662,"cipher":"chacha20-ietf-poly1305","password":"Xs9ORT4j65b8HreZrg0p"}
+  - {"type":"ss","name":"🇯🇵JP_AzadNet(19)","server":"185.160.26.91","port":1661,"cipher":"chacha20-ietf-poly1305","password":"Xs9ORT4j65b8HreZrg0p"}
+  - {"type":"ss","name":"🇯🇵JP_AzadNet(20)","server":"185.160.26.91","port":1664,"cipher":"chacha20-ietf-poly1305","password":"Xs9ORT4j65b8HreZrg0p"}
+  - {"type":"vmess","name":"🇯🇵JP_AzadNet(21)","http-opts":{"path":["/"]},"server":"168.138.206.141","port":"80","uuid":"ad05e01f-c2c0-41da-e79c-ff68237317f7","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vmess","name":"🇯🇵JP_AzadNet(22)","ws-opts":{"path":"/m1"},"server":"52.197.3.109","port":"7771","uuid":"41fcac4f-948d-42da-bdf9-9f1bd77f5b1c","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🇯🇵JP_AzadNet(23)","ws-opts":{"path":"/hls/cctv5phd.m3u8","headers":{"host":"jp02-vm0.entry.srthdw.art"}},"server":"18.178.214.53","port":"448","uuid":"2cac25f2-8d71-39e3-af71-f8db0c83ff72","alterId":"1","cipher":"auto","network":"ws"}
+  - {"type":"trojan","name":"🇰🇷KR_AzadNet","server":"150.230.249.20","port":443,"password":"b5fc9fa9-796d-4185-a316-395ecac04a85","udp":true,"skip-cert-verify":true,"sni":"www.gomacau.gq","network":"tcp"}
+  - {"type":"ss","name":"🇰🇷KR_AzadNet(1)","server":"43.201.48.149","port":443,"cipher":"aes-256-cfb","password":"amazonskr05"}
+  - {"type":"ss","name":"🇰🇷KR_AzadNet(2)","server":"43.201.31.131","port":443,"cipher":"aes-256-cfb","password":"amazonskr05"}
+  - {"type":"ss","name":"🇰🇷KR_AzadNet(3)","server":"43.201.61.203","port":443,"cipher":"aes-256-cfb","password":"amazonskr05"}
+  - {"type":"ss","name":"🇰🇷KR_AzadNet(4)","server":"43.201.62.124","port":443,"cipher":"aes-256-cfb","password":"amazonskr05"}
+  - {"type":"ss","name":"🇰🇷KR_AzadNet(5)","server":"43.201.57.66","port":443,"cipher":"aes-256-cfb","password":"amazonskr05"}
+  - {"type":"trojan","name":"🇰🇷KR_AzadNet(6)","server":"138.2.115.240","port":3052,"password":"3a2c0c6c-9ee5-c05f-c951-fcd73831983e","udp":true,"skip-cert-verify":true,"sni":"kr05.wangxd.life","network":"tcp"}
+  - {"type":"vmess","name":"🇰🇷KR_AzadNet(7)","ws-opts":{"path":"/"},"server":"152.67.218.38","port":"443","uuid":"b5e9480a-b7aa-40a4-f9a7-5299b5e363b4","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🇰🇷KR_AzadNet(8)","ws-opts":{"path":"/nuzfvws?ed=2048","headers":{"host":"kr.vnklwwv.com"}},"server":"152.67.222.248","port":"443","uuid":"d9883c4d-2bc2-4737-be75-a65c2e63d61a","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"🇰🇷KR_AzadNet(9)","http-opts":{"path":["/"]},"server":"150.230.249.15","port":"46842","uuid":"4530b5ee-ced4-4e64-9285-1867fc5df7f8","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vmess","name":"🇰🇷KR_AzadNet(10)","ws-opts":{"path":"/","headers":{"host":"54.180.131.191"}},"server":"54.180.131.191","port":"42517","uuid":"b5b5209f-bcbd-4bac-b044-0d179698c62d","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🇰🇷KR_AzadNet(11)","ws-opts":{"path":"/m2"},"server":"43.201.116.151","port":"7772","uuid":"41fcac4f-948d-42da-bdf9-9f1bd77f5b1c","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🇰🇷KR_AzadNet(12)","ws-opts":{"path":"/m3","headers":{"host":"v-aws-sel-4.heima-bot.tech"}},"server":"13.209.11.98","port":"7772","uuid":"e3fa5050-67f5-4625-a778-5d9283f4334f","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🇰🇷KR_AzadNet(13)","ws-opts":{"path":"/","headers":{"host":"152.69.230.170"}},"server":"152.69.230.170","port":"80","uuid":"6aa24ded-5f15-48c7-8cba-3e2a159d6b77","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🇰🇷KR_AzadNet(14)","ws-opts":{"path":"/m3"},"server":"13.209.11.98","port":"7771","uuid":"e3fa5050-67f5-4625-a778-5d9283f4334f","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🇱🇺LU_AzadNet","ws-opts":{"path":"/shirker","headers":{"host":"sg-gcore-2.sharecentre.online"}},"server":"91.199.87.51","port":"443","uuid":"20e92881-5fb4-4b05-bc77-57929476dc69","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"🇱🇺LU_AzadNet(1)","ws-opts":{"path":"/Falling42gcssgnode","headers":{"host":"gcssg.sylu.cyou"}},"server":"91.199.87.132","port":"443","uuid":"12e08256-da5d-4b1c-aeca-8c973ccceef8","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"🇲🇴MO_AzadNet","ws-opts":{"path":"/vmess","headers":{"host":"v2.chigua.tk"}},"server":"45.64.22.6","port":"443","uuid":"ffffffff-ffff-ffff-ffff-ffffffffffff","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"🇲🇴MO_AzadNet(1)","ws-opts":{"path":"/OB7jTM5cTTrL","headers":{"host":"hkbn.pgypgykmoljklj.xyz"}},"server":"45.64.22.22","port":"443","uuid":"e55ed7b2-ed4f-480c-8b99-08482da1e4c7","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"trojan","name":"🇳🇱NL_AzadNet","server":"5.255.97.94","port":2086,"password":"8ce6f8a8-9aca-4029-994a-cedc1ba8292c","udp":true,"skip-cert-verify":true,"sni":"https://snappfood.ir/","network":"tcp"}
+  - {"type":"vmess","name":"🇳🇱NL_AzadNet(1)","ws-opts":{"path":"/"},"server":"5.45.78.209","port":"8080","uuid":"e3dba91f-b31c-473a-8f17-92e1dedda38f","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"ss","name":"🇳🇱NL_AzadNet(2)","server":"172.99.188.71","port":6697,"cipher":"aes-256-gcm","password":"TEzjfAYq2IjtuoS"}
+  - {"type":"ss","name":"🇳🇱NL_AzadNet(3)","server":"172.99.188.71","port":2376,"cipher":"aes-256-gcm","password":"faBAoD54k87UJG7"}
+  - {"type":"ss","name":"🇳🇱NL_AzadNet(4)","server":"172.99.188.71","port":7306,"cipher":"aes-256-gcm","password":"FoOiGlkAA9yPEGP"}
+  - {"type":"ss","name":"🇳🇱NL_AzadNet(5)","server":"172.99.188.71","port":7307,"cipher":"aes-256-gcm","password":"FoOiGlkAA9yPEGP"}
+  - {"type":"ss","name":"🇳🇱NL_AzadNet(6)","server":"172.99.188.71","port":5500,"cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm"}
+  - {"type":"ss","name":"🇳🇱NL_AzadNet(7)","server":"172.99.188.71","port":8000,"cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm"}
+  - {"type":"vmess","name":"🇳🇱NL_AzadNet(8)","ws-opts":{"path":"/in-vpn-majani-ast-vws","headers":{"host":"xvnp.de"}},"server":"188.114.96.3","port":"443","uuid":"1d7f97be-e0a9-4377-97eb-c05c45392509","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"🇳🇱NL_AzadNet(10)","ws-opts":{"path":"/"},"server":"5.255.112.158","port":"19182","uuid":"8f11ba8c-a72b-47df-a783-2490205ff10f","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"trojan","name":"🇵🇱PL_AzadNet","server":"51.83.186.142","port":80,"password":"555034c8-6420-45d0-893c-905c02342150","udp":true,"skip-cert-verify":true,"sni":"pl1.trojanvh.xyz","network":"tcp"}
+  - {"type":"vmess","name":"🇵🇱PL_AzadNet(1)","ws-opts":{"path":"/Falling42gcoreplnode"},"server":"94.156.45.134","port":"443","uuid":"12e08256-da5d-4b1c-aeca-8c973ccceef8","alterId":"4","cipher":"auto","network":"ws","tls":true}
   - {"type":"ss","name":"🇵🇹PT_AzadNet","server":"185.231.233.130","port":989,"cipher":"aes-256-cfb","password":"f8f7aCzcPKbsF8p3"}
-  - {"type":"ss","name":"🇷🇺RU_AzadNet","server":"213.183.53.198","port":9020,"cipher":"aes-256-cfb","password":"BNmAXXxAHYpTRdzu"}
-  - {"type":"ss","name":"🇷🇺RU_AzadNet(2)","server":"213.183.53.222","port":9024,"cipher":"aes-256-cfb","password":"BejrQvtu9sqUeNuZ"}
-  - {"type":"ss","name":"🇷🇺RU_AzadNet(3)","server":"213.183.53.198","port":9019,"cipher":"aes-256-cfb","password":"GA9KzeEgvfxNrgmM"}
-  - {"type":"ss","name":"🇷🇺RU_AzadNet(5)","server":"213.183.53.198","port":9030,"cipher":"aes-256-cfb","password":"GeregetR8cvQHzYr"}
-  - {"type":"ss","name":"🇷🇺RU_AzadNet(7)","server":"213.183.53.198","port":9027,"cipher":"aes-256-cfb","password":"EXN3S3eQpjE7EJu8"}
-  - {"type":"ss","name":"🇷🇺RU_AzadNet(9)","server":"213.183.53.198","port":9006,"cipher":"aes-256-cfb","password":"FAdUvMJUq5vDgKEq"}
-  - {"type":"ss","name":"🇷🇺RU_AzadNet(10)","server":"213.183.53.198","port":9050,"cipher":"aes-256-cfb","password":"FG5ddLsMPbV5CutE"}
-  - {"type":"ss","name":"🇷🇺RU_AzadNet(11)","server":"213.183.53.198","port":9053,"cipher":"aes-256-cfb","password":"SBM7R883jBmnqe6C"}
-  - {"type":"ss","name":"🇷🇺RU_AzadNet(12)","server":"213.183.53.198","port":9097,"cipher":"aes-256-cfb","password":"Sn5B7jTqr76aCJT8"}
-  - {"type":"ss","name":"🇷🇺RU_AzadNet(13)","server":"213.183.53.198","port":9026,"cipher":"aes-256-cfb","password":"QWDDvVE9npNurQfA"}
-  - {"type":"ss","name":"🇷🇺RU_AzadNet(14)","server":"213.183.53.198","port":9037,"cipher":"aes-256-cfb","password":"TN2YqghxeFDKZfLU"}
-  - {"type":"ss","name":"🇷🇺RU_AzadNet(15)","server":"213.183.53.198","port":9079,"cipher":"aes-256-cfb","password":"TPqX8edgbAURcAMb"}
-  - {"type":"ss","name":"🇷🇺RU_AzadNet(16)","server":"213.183.53.198","port":9041,"cipher":"aes-256-cfb","password":"U6qnYRhfyDmn8sgn"}
-  - {"type":"ss","name":"🇷🇺RU_AzadNet(17)","server":"213.183.53.222","port":9041,"cipher":"aes-256-cfb","password":"U6qnYRhfyDmn8sgn"}
-  - {"type":"ss","name":"🇷🇺RU_AzadNet(18)","server":"213.183.53.198","port":9033,"cipher":"aes-256-cfb","password":"UTJA57ypk2XKQpnm"}
-  - {"type":"ss","name":"🇷🇺RU_AzadNet(19)","server":"213.183.53.222","port":9033,"cipher":"aes-256-cfb","password":"UTJA57ypk2XKQpnm"}
-  - {"type":"ss","name":"🇷🇺RU_AzadNet(21)","server":"213.183.53.198","port":9032,"cipher":"aes-256-cfb","password":"UWZQeLRWnkqgkseq"}
-  - {"type":"ss","name":"🇷🇺RU_AzadNet(22)","server":"213.183.53.198","port":9001,"cipher":"aes-256-cfb","password":"UkXRsXvR6buDMG2Y"}
-  - {"type":"ss","name":"🇷🇺RU_AzadNet(23)","server":"213.183.53.222","port":9001,"cipher":"aes-256-cfb","password":"UkXRsXvR6buDMG2Y"}
-  - {"type":"ss","name":"🇷🇺RU_AzadNet(25)","server":"213.183.53.222","port":9080,"cipher":"aes-256-cfb","password":"VP8ZPxQpJtZRCjfZ"}
-  - {"type":"ss","name":"🇷🇺RU_AzadNet(27)","server":"213.183.53.198","port":9005,"cipher":"aes-256-cfb","password":"ZET59LF6DvCC8KVt"}
-  - {"type":"ss","name":"🇷🇺RU_AzadNet(28)","server":"213.183.53.198","port":9015,"cipher":"aes-256-cfb","password":"ZpNDDKRu9MagNvaf"}
-  - {"type":"ss","name":"🇷🇺RU_AzadNet(29)","server":"213.183.53.222","port":9015,"cipher":"aes-256-cfb","password":"ZpNDDKRu9MagNvaf"}
-  - {"type":"ss","name":"🇷🇺RU_AzadNet(30)","server":"213.183.53.198","port":9064,"cipher":"aes-256-cfb","password":"cp8pRSUAyLhTfVWH"}
-  - {"type":"ss","name":"🇷🇺RU_AzadNet(31)","server":"213.183.53.222","port":9064,"cipher":"aes-256-cfb","password":"cp8pRSUAyLhTfVWH"}
-  - {"type":"ss","name":"🇷🇺RU_AzadNet(33)","server":"213.183.53.222","port":9000,"cipher":"aes-256-cfb","password":"a3GFYt36Sm82Vys9"}
-  - {"type":"ss","name":"🇷🇺RU_AzadNet(34)","server":"213.183.53.222","port":9098,"cipher":"aes-256-cfb","password":"aLpQtfEZe445QyHk"}
-  - {"type":"ss","name":"🇷🇺RU_AzadNet(35)","server":"213.183.53.198","port":9070,"cipher":"aes-256-cfb","password":"bf7v334KKDV3YDhH"}
-  - {"type":"ss","name":"🇷🇺RU_AzadNet(36)","server":"213.183.53.222","port":9070,"cipher":"aes-256-cfb","password":"bf7v334KKDV3YDhH"}
-  - {"type":"ss","name":"🇷🇺RU_AzadNet(38)","server":"213.183.53.198","port":9084,"cipher":"aes-256-cfb","password":"c3NtHJ5ujV2tGDfj"}
-  - {"type":"ss","name":"🇷🇺RU_AzadNet(39)","server":"213.183.53.198","port":9038,"cipher":"aes-256-cfb","password":"gYCYXfkUQEs2TaJQ"}
-  - {"type":"ss","name":"🇷🇺RU_AzadNet(40)","server":"213.183.53.198","port":9088,"cipher":"aes-256-cfb","password":"f8npKgNzdkss2ytn"}
-  - {"type":"ss","name":"🇷🇺RU_AzadNet(41)","server":"213.183.53.198","port":9018,"cipher":"aes-256-cfb","password":"fG2artUmHfNT2cX7"}
-  - {"type":"ss","name":"🇷🇺RU_AzadNet(42)","server":"213.183.53.198","port":9007,"cipher":"aes-256-cfb","password":"kSPmvwdFzGMMW5pY"}
-  - {"type":"ss","name":"🇷🇺RU_AzadNet(43)","server":"213.183.53.198","port":9056,"cipher":"aes-256-cfb","password":"rNBfNuuANFCAk7KB"}
-  - {"type":"ss","name":"🇷🇺RU_AzadNet(44)","server":"213.183.53.198","port":9094,"cipher":"aes-256-cfb","password":"rpgbNnU9rDDU4aWZ"}
-  - {"type":"ss","name":"🇷🇺RU_AzadNet(45)","server":"213.183.53.198","port":9060,"cipher":"aes-256-cfb","password":"ueLXVkvh4hckhErQ"}
-  - {"type":"ss","name":"🇷🇺RU_AzadNet(46)","server":"213.183.53.198","port":9008,"cipher":"aes-256-cfb","password":"y9VURyNzJWNRYEGQ"}
-  - {"type":"trojan","name":"🇹🇼TW_AzadNet","server":"211.72.35.158","port":3389,"password":"d66013c645b93c5c","udp":true,"skip-cert-verify":true}
-  - {"type":"trojan","name":"🇹🇼TW_AzadNet(1)","server":"2.58.242.43","port":443,"password":"YWVzLTI1Ni1nY206eHBRd3lWNFc1RmRBNk5NQU5KSng3M1VT","udp":true,"skip-cert-verify":true}
-  - {"type":"trojan","name":"🇺🇸US_AzadNet","server":"43.206.67.76","port":36306,"password":"1b5eff5a-f36b-4149-8001-7c8c0c4ed2eb","udp":true,"skip-cert-verify":true,"sni":"sunmoon02.abzoones.xyz"}
-  - {"type":"ss","name":"🇺🇸US_AzadNet(1)","server":"172.99.188.71","port":6697,"cipher":"aes-256-gcm","password":"TEzjfAYq2IjtuoS"}
-  - {"type":"ss","name":"🇺🇸US_AzadNet(2)","server":"172.99.188.71","port":2376,"cipher":"aes-256-gcm","password":"faBAoD54k87UJG7"}
-  - {"type":"ss","name":"🇺🇸US_AzadNet(3)","server":"5.188.0.151","port":800,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
-  - {"type":"trojan","name":"🇺🇸US_AzadNet(4)","server":"150.230.201.192","port":443,"password":"f42e1a2e-e650-44f4-8d17-bcb68663da18","udp":true,"skip-cert-verify":true,"sni":"www.seetheworldjp.ga"}
-  - {"type":"trojan","name":"🇺🇸US_AzadNet(5)","server":"150.230.249.20","port":443,"password":"b5fc9fa9-796d-4185-a316-395ecac04a85","udp":true,"skip-cert-verify":true,"sni":"www.gomacau.gq"}
-  - {"type":"vmess","name":"🇺🇸US_AzadNet(6)","ws-opts":{"path":"/@Backdor_Filter"},"server":"107.189.31.41","port":"12378","uuid":"9e312ef5-6d40-4fcb-ceb3-4c7a69bbe0b3","alterId":"0","cipher":"auto","network":"ws"}
-  - {"type":"trojan","name":"🇺🇸US_AzadNet(7)","server":"150.230.215.92","port":443,"password":"111111","udp":true,"skip-cert-verify":true,"sni":"www.cjf0423.cf"}
-  - {"type":"trojan","name":"🇺🇸US_AzadNet(8)","server":"15.168.28.231","port":443,"password":"c51d3975-a40c-4a5b-929b-c8595ed87850","udp":true,"skip-cert-verify":true,"sni":"wel-usgt.optage.moe"}
-  - {"type":"trojan","name":"🇺🇸US_AzadNet(9)","server":"45.9.10.103","port":443,"password":"WpfQAbO2wg","udp":true,"skip-cert-verify":true}
-  - {"type":"ss","name":"🇺🇸US_AzadNet(10)","server":"172.99.188.71","port":7306,"cipher":"aes-256-gcm","password":"FoOiGlkAA9yPEGP"}
-  - {"type":"ss","name":"🇺🇸US_AzadNet(11)","server":"172.99.188.71","port":7307,"cipher":"aes-256-gcm","password":"FoOiGlkAA9yPEGP"}
-  - {"type":"ss","name":"🇺🇸US_AzadNet(13)","server":"172.99.188.71","port":5500,"cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm"}
-  - {"type":"ss","name":"🇺🇸US_AzadNet(14)","server":"172.99.188.71","port":8000,"cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm"}
-  - {"type":"ss","name":"🇺🇸US_AzadNet(15)","server":"38.68.134.196","port":812,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
-  - {"type":"trojan","name":"🇻🇳VN_AzadNet","server":"103.81.85.238","port":443,"password":"52171d41-9367-429f-baa6-43660a6c84e4","udp":true,"skip-cert-verify":true,"sni":"glc.hruqoaw.cn"}
+  - {"type":"trojan","name":"🇷🇺RU_AzadNet","server":"45.8.158.51","port":443,"password":"9KogHwaY7hVD","udp":true,"skip-cert-verify":true,"sni":"eu-east-ruo.openssl3.com","network":"tcp"}
+  - {"type":"vmess","name":"🇷🇺RU_AzadNet(1)","ws-opts":{"path":"/fr-unlimitxxx","headers":{"host":"v10a.toddns.tk"}},"server":"45.136.244.181","port":"80","uuid":"a25881f3-967f-3265-bc7f-9e66857b016b","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🇷🇺RU_AzadNet(2)","ws-opts":{"path":"/"},"server":"91.193.181.192","port":"8090","uuid":"08bc30e1-be39-4eb4-e887-e6579be15a45","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"trojan","name":"🇸🇬SG_AzadNet","server":"194.233.151.107","port":443,"password":"c8174260-818e-11ed-815e-1239d0255272","udp":true,"skip-cert-verify":true,"sni":"soft98.ir","network":"tcp"}
+  - {"type":"trojan","name":"🇸🇬SG_AzadNet(1)","server":"15.235.163.25","port":443,"password":"8eb63951-0286-4d33-98cd-f46007afa74e","udp":true,"skip-cert-verify":true,"sni":"www.microsoft.com","network":"tcp"}
+  - {"type":"trojan","name":"🇸🇬SG_AzadNet(2)","server":"13.212.9.13","port":443,"password":"41742_920c8caa","udp":true,"skip-cert-verify":true,"sni":"hk31.ssgnode.ga","network":"tcp"}
+  - {"type":"ss","name":"🇸🇬SG_AzadNet(3)","server":"13.215.178.204","port":443,"cipher":"aes-256-cfb","password":"amazonskr05"}
+  - {"type":"ss","name":"🇸🇬SG_AzadNet(4)","server":"13.250.8.208","port":443,"cipher":"aes-256-cfb","password":"amazonskr05"}
+  - {"type":"ss","name":"🇸🇬SG_AzadNet(5)","server":"13.215.154.132","port":443,"cipher":"aes-256-cfb","password":"amazonskr05"}
+  - {"type":"ss","name":"🇸🇬SG_AzadNet(6)","server":"13.251.156.128","port":443,"cipher":"aes-256-cfb","password":"amazonskr05"}
+  - {"type":"ss","name":"🇸🇬SG_AzadNet(7)","server":"18.141.158.155","port":443,"cipher":"aes-256-cfb","password":"amazonskr05"}
+  - {"type":"ss","name":"🇸🇬SG_AzadNet(8)","server":"13.250.46.178","port":443,"cipher":"aes-256-cfb","password":"amazonskr05"}
+  - {"type":"ss","name":"🇸🇬SG_AzadNet(9)","server":"3.1.211.223","port":443,"cipher":"aes-256-cfb","password":"amazonskr05"}
+  - {"type":"trojan","name":"🇸🇬SG_AzadNet(10)","server":"194.233.88.109","port":443,"password":"123456","udp":true,"skip-cert-verify":true,"sni":"trojan-ctb-sg01.globalssh.xyz","network":"tcp"}
+  - {"type":"trojan","name":"🇸🇬SG_AzadNet(11)","server":"129.226.209.62","port":10102,"password":"6a5cb4b7-8dad-3077-b21c-6f47e8dfb9af","udp":true,"skip-cert-verify":true,"sni":"supsig.xiaohouzi.club","network":"tcp"}
+  - {"type":"ss","name":"🇸🇬SG_AzadNet(12)","server":"217.197.161.136","port":805,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+  - {"type":"ss","name":"🇸🇬SG_AzadNet(13)","server":"217.197.161.136","port":808,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+  - {"type":"ss","name":"🇸🇬SG_AzadNet(14)","server":"217.197.161.136","port":812,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+  - {"type":"ss","name":"🇸🇬SG_AzadNet(15)","server":"217.197.161.136","port":803,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+  - {"type":"ss","name":"🇸🇬SG_AzadNet(16)","server":"217.197.161.136","port":801,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+  - {"type":"ss","name":"🇸🇬SG_AzadNet(17)","server":"217.197.161.136","port":807,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+  - {"type":"ss","name":"🇸🇬SG_AzadNet(18)","server":"217.197.161.136","port":806,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+  - {"type":"ss","name":"🇸🇬SG_AzadNet(19)","server":"217.197.161.136","port":811,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+  - {"type":"ss","name":"🇸🇬SG_AzadNet(20)","server":"217.197.161.136","port":810,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+  - {"type":"ss","name":"🇸🇬SG_AzadNet(21)","server":"217.197.161.136","port":809,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+  - {"type":"vmess","name":"🇸🇬SG_AzadNet(22)","ws-opts":{"path":"/das3218ssxc","headers":{"host":"xjp1.mvzaixian3.com"}},"server":"43.153.196.39","port":"443","uuid":"776352ac-0a91-3d71-8450-d3b3a2b43c73","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"🇸🇬SG_AzadNet(23)","ws-opts":{"path":"/book","headers":{"host":"do7.yyhm9.com"}},"server":"43.159.50.39","port":"443","uuid":"776352ac-0a91-3d71-8450-d3b3a2b43c73","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"🇸🇬SG_AzadNet(24)","ws-opts":{"path":"/path/243535322906","headers":{"host":"www.51160840.xyz"}},"server":"202.79.171.157","port":"443","uuid":"fb3583a3-7717-4fe5-9146-3301861f9f41","alterId":"64","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"🇸🇬SG_AzadNet(25)","ws-opts":{"path":"/"},"server":"18.143.123.35","port":"80","uuid":"68df4838-46d0-4b5b-c3f0-a40ec7063245","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🇸🇬SG_AzadNet(26)","http-opts":{"path":["/"]},"server":"152.69.211.235","port":"80","uuid":"d345916f-1673-4a98-f37d-49357c84ce03","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vmess","name":"🇸🇬SG_AzadNet(27)","ws-opts":{"path":"/hkaa0"},"server":"172.104.183.241","port":"8080","uuid":"bf1d8374-e6dc-4493-afeb-1bdc3799bb02","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🇸🇬SG_AzadNet(28)","ws-opts":{"path":"/hkaa0","headers":{"host":"sg1021.hkaa0.tk"}},"server":"174.138.25.187","port":"8880","uuid":"a5c804aa-8a4d-4fd2-97a1-4f0cc1384953","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🇸🇬SG_AzadNet(29)","ws-opts":{"path":"/jhndsmlanj11223","headers":{"host":"129.150.44.64"}},"server":"129.150.44.64","port":"46075","uuid":"da257e73-f02b-45ab-9916-7baf154c47a3","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🇸🇬SG_AzadNet(30)","ws-opts":{"path":"/vmess","headers":{"host":"sg1-v.sshmax.xyz"}},"server":"51.79.173.222","port":"80","uuid":"a72bd7a7-732d-46c1-8274-bf16bca30e78","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🇸🇬SG_AzadNet(31)","ws-opts":{"path":"/sshkit/Ertusg86/635014638c264/","headers":{"host":"15.235.147.186"}},"server":"15.235.147.186","port":"80","uuid":"6fea1649-425b-4092-bf53-29792152c925","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🇸🇬SG_AzadNet(32)","ws-opts":{"path":"/Falling42gcoresgnode","headers":{"host":"gcoresg.sylu.cyou"}},"server":"91.243.81.57","port":"443","uuid":"12e08256-da5d-4b1c-aeca-8c973ccceef8","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"trojan","name":"🇹🇼TW_AzadNet","server":"211.72.35.158","port":3389,"password":"d66013c645b93c5c","udp":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"type":"trojan","name":"🇹🇼TW_AzadNet(1)","server":"2.58.242.43","port":443,"password":"YWVzLTI1Ni1nY206eHBRd3lWNFc1RmRBNk5NQU5KSng3M1VT","udp":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"type":"vmess","name":"🇺🇦UA_AzadNet","server":"45.80.111.169","port":"8880","uuid":"e3dba91f-b31c-473a-8f17-92e1dedda38f","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"trojan","name":"🇺🇸US_AzadNet","server":"135.148.148.4","port":80,"password":"76fcac80-9943-4eab-8717-0ebebea94b70","udp":true,"skip-cert-verify":true,"sni":"us3.trojanvh.xyz","network":"tcp"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(1)","server":"38.91.102.72","port":8882,"cipher":"aes-256-gcm","password":"kDWvXYZoTBcGkC4"}
+  - {"type":"vmess","name":"🇺🇸US_AzadNet(2)","server":"5.161.115.53","port":"443","uuid":"9eea0984-036f-4b99-8955-f96b3f94780e","alterId":"0","cipher":"auto","network":"tcp","tls":true}
+  - {"type":"trojan","name":"🇺🇸US_AzadNet(3)","server":"24.199.70.112","port":443,"password":"3628ca8d-6371-45df-879c-2d3e5d110b51","udp":true,"skip-cert-verify":true,"sni":"sfo.iqmtp.live","network":"tcp"}
+  - {"type":"vmess","name":"🇺🇸US_AzadNet(4)","ws-opts":{"path":"/m1"},"server":"172.64.150.57","port":"8080","uuid":"e3fa5050-67f5-4625-a778-5d9283f4334f","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🇺🇸US_AzadNet(5)","ws-opts":{"path":"/ccpp"},"server":"173.245.58.240","port":"80","uuid":"735ff430-9d1a-4f57-fb66-e43a26a76f70","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🇺🇸US_AzadNet(6)","ws-opts":{"path":"/api/v3/download.getFile"},"server":"104.16.182.15","port":"8080","uuid":"59502b4c-6a17-4f65-a1cc-682f0179cec1","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🇺🇸US_AzadNet(7)","ws-opts":{"path":"/ccpp"},"server":"162.159.7.84","port":"80","uuid":"735ff430-9d1a-4f57-fb66-e43a26a76f70","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🇺🇸US_AzadNet(8)","ws-opts":{"path":"/ccpp"},"server":"104.17.192.106","port":"80","uuid":"735ff430-9d1a-4f57-fb66-e43a26a76f70","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🇺🇸US_AzadNet(9)","ws-opts":{"path":"/ccpp"},"server":"104.17.228.47","port":"80","uuid":"735ff430-9d1a-4f57-fb66-e43a26a76f70","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🇺🇸US_AzadNet(10)","ws-opts":{"path":"/ccpp"},"server":"172.67.178.203","port":"80","uuid":"735ff430-9d1a-4f57-fb66-e43a26a76f70","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🇺🇸US_AzadNet(11)","ws-opts":{"path":"/A2DJOPFT"},"server":"66.235.200.22","port":"443","uuid":"17b2a313-37a0-4945-a8e4-e63375506b4a","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"🇺🇸US_AzadNet(12)","ws-opts":{"path":"/8cda48b3"},"server":"172.67.217.89","port":"8443","uuid":"a6a37e04-5e81-44c9-be53-baa3ff46eb8b","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"🇺🇸US_AzadNet(13)","ws-opts":{"path":"/Falling42gcorehknode"},"server":"104.17.178.71","port":"443","uuid":"12e08256-da5d-4b1c-aeca-8c973ccceef8","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(14)","server":"5.188.0.151","port":800,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+  - {"type":"trojan","name":"🇺🇸US_AzadNet(15)","server":"3.93.147.53","port":54485,"password":"2a9ba60d-10ce-4f79-97e7-817334456195","udp":true,"skip-cert-verify":true,"sni":"tr8.tgcunzhang.xyz","network":"tcp"}
+  - {"type":"trojan","name":"🇺🇸US_AzadNet(16)","server":"64.64.225.251","port":8447,"password":"shenmegui","udp":true,"skip-cert-verify":true,"sni":"us.swiftfalcon.app","network":"tcp"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(17)","server":"38.68.134.196","port":806,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(18)","server":"38.68.134.196","port":809,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(19)","server":"38.68.134.196","port":801,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(20)","server":"38.68.134.196","port":803,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(21)","server":"38.68.134.196","port":807,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(22)","server":"38.68.134.196","port":804,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(23)","server":"38.68.134.196","port":811,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(24)","server":"38.91.106.75","port":3389,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(25)","server":"38.68.134.9","port":4444,"cipher":"aes-256-gcm","password":"pKEW8JPByTVTLtM"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(26)","server":"38.91.106.75","port":4444,"cipher":"aes-256-gcm","password":"pKEW8JPByTVTLtM"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(27)","server":"38.68.134.9","port":6379,"cipher":"aes-256-gcm","password":"zDNVedRFPQexG9v"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(28)","server":"38.91.101.242","port":1036,"cipher":"chacha20-ietf-poly1305","password":")1N1E6v0SU_rGTpg"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(29)","server":"38.68.135.18","port":7306,"cipher":"aes-256-gcm","password":"FoOiGlkAA9yPEGP"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(30)","server":"38.68.134.191","port":5500,"cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(31)","server":"38.68.134.191","port":7001,"cipher":"aes-256-gcm","password":"RexnBgU7EV5ADxG"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(32)","server":"38.68.134.191","port":7002,"cipher":"aes-256-gcm","password":"RexnBgU7EV5ADxG"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(33)","server":"38.68.134.9","port":7002,"cipher":"aes-256-gcm","password":"RexnBgU7EV5ADxG"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(34)","server":"38.68.134.191","port":6679,"cipher":"aes-256-gcm","password":"TEzjfAYq2IjtuoS"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(35)","server":"38.68.134.191","port":6697,"cipher":"aes-256-gcm","password":"TEzjfAYq2IjtuoS"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(36)","server":"38.68.134.9","port":6679,"cipher":"aes-256-gcm","password":"TEzjfAYq2IjtuoS"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(37)","server":"38.68.134.9","port":8008,"cipher":"aes-256-gcm","password":"XKFKl2rULjIp74"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(38)","server":"38.68.134.9","port":8009,"cipher":"aes-256-gcm","password":"XKFKl2rULjIp74"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(39)","server":"38.68.134.191","port":5000,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(40)","server":"38.68.134.191","port":5600,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(41)","server":"38.68.134.9","port":3306,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(42)","server":"38.68.134.9","port":3389,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(43)","server":"38.68.134.9","port":5001,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(44)","server":"38.68.134.9","port":5601,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(45)","server":"38.68.134.9","port":8888,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(46)","server":"38.68.135.18","port":8888,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(47)","server":"38.68.134.191","port":8118,"cipher":"aes-256-gcm","password":"cdBIDV42DCwnfIN"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(48)","server":"38.68.134.9","port":8118,"cipher":"aes-256-gcm","password":"cdBIDV42DCwnfIN"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(49)","server":"38.68.134.9","port":8119,"cipher":"aes-256-gcm","password":"cdBIDV42DCwnfIN"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(50)","server":"38.68.135.18","port":8118,"cipher":"aes-256-gcm","password":"cdBIDV42DCwnfIN"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(51)","server":"38.68.135.18","port":8119,"cipher":"aes-256-gcm","password":"cdBIDV42DCwnfIN"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(52)","server":"38.68.134.191","port":9102,"cipher":"aes-256-gcm","password":"e4FCWrgpkji3QY"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(53)","server":"38.68.134.9","port":9101,"cipher":"aes-256-gcm","password":"e4FCWrgpkji3QY"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(54)","server":"38.68.134.9","port":9102,"cipher":"aes-256-gcm","password":"e4FCWrgpkji3QY"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(55)","server":"38.68.135.18","port":9102,"cipher":"aes-256-gcm","password":"e4FCWrgpkji3QY"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(56)","server":"38.68.134.9","port":2375,"cipher":"aes-256-gcm","password":"faBAoD54k87UJG7"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(57)","server":"38.68.134.9","port":2376,"cipher":"aes-256-gcm","password":"faBAoD54k87UJG7"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(58)","server":"38.68.134.9","port":5003,"cipher":"aes-256-gcm","password":"g5MeD6Ft3CWlJId"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(59)","server":"38.68.134.196","port":802,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(60)","server":"38.68.134.196","port":805,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(61)","server":"38.68.134.196","port":808,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(62)","server":"38.68.134.196","port":812,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(63)","server":"38.91.102.124","port":5003,"cipher":"aes-256-gcm","password":"g5MeD6Ft3CWlJId"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(64)","server":"38.91.107.37","port":5003,"cipher":"aes-256-gcm","password":"g5MeD6Ft3CWlJId"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(65)","server":"38.68.134.191","port":3306,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(66)","server":"38.68.135.18","port":8090,"cipher":"aes-256-gcm","password":"PCnnH6SQSnfoS27"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(67)","server":"38.68.134.191","port":8009,"cipher":"aes-256-gcm","password":"XKFKl2rULjIp74"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(68)","server":"38.68.135.18","port":5601,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(69)","server":"38.68.135.18","port":5500,"cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(70)","server":"38.68.134.191","port":2375,"cipher":"aes-256-gcm","password":"faBAoD54k87UJG7"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(71)","server":"38.91.107.37","port":7001,"cipher":"aes-256-gcm","password":"RexnBgU7EV5ADxG"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(72)","server":"38.68.134.191","port":8091,"cipher":"aes-256-gcm","password":"PCnnH6SQSnfoS27"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(73)","server":"38.68.135.18","port":5003,"cipher":"aes-256-gcm","password":"g5MeD6Ft3CWlJId"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(74)","server":"38.68.134.191","port":8008,"cipher":"aes-256-gcm","password":"XKFKl2rULjIp74"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(75)","server":"38.68.135.18","port":6697,"cipher":"aes-256-gcm","password":"TEzjfAYq2IjtuoS"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(76)","server":"38.68.134.191","port":8080,"cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(77)","server":"38.68.134.191","port":2376,"cipher":"aes-256-gcm","password":"faBAoD54k87UJG7"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(78)","server":"38.68.134.191","port":5004,"cipher":"aes-256-gcm","password":"g5MeD6Ft3CWlJId"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(79)","server":"38.68.134.191","port":5003,"cipher":"aes-256-gcm","password":"g5MeD6Ft3CWlJId"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(80)","server":"38.68.135.18","port":9101,"cipher":"aes-256-gcm","password":"e4FCWrgpkji3QY"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(81)","server":"38.68.134.191","port":7306,"cipher":"aes-256-gcm","password":"FoOiGlkAA9yPEGP"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(82)","server":"38.68.135.18","port":8009,"cipher":"aes-256-gcm","password":"XKFKl2rULjIp74"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(83)","server":"38.68.134.191","port":7307,"cipher":"aes-256-gcm","password":"FoOiGlkAA9yPEGP"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(84)","server":"38.68.134.196","port":800,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(85)","server":"38.91.101.242","port":1034,"cipher":"chacha20-ietf-poly1305","password":")1N1E6v0SU_rGTpg"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(86)","server":"38.68.134.9","port":7001,"cipher":"aes-256-gcm","password":"RexnBgU7EV5ADxG"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(87)","server":"38.68.134.9","port":6697,"cipher":"aes-256-gcm","password":"TEzjfAYq2IjtuoS"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(88)","server":"38.68.134.191","port":8888,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(89)","server":"38.68.134.9","port":5600,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(90)","server":"38.68.134.191","port":8119,"cipher":"aes-256-gcm","password":"cdBIDV42DCwnfIN"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(91)","server":"38.68.134.191","port":9101,"cipher":"aes-256-gcm","password":"e4FCWrgpkji3QY"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(92)","server":"38.68.134.9","port":7307,"cipher":"aes-256-gcm","password":"FoOiGlkAA9yPEGP"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(93)","server":"38.68.134.9","port":5500,"cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(94)","server":"38.68.134.9","port":8000,"cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(95)","server":"38.68.134.191","port":8090,"cipher":"aes-256-gcm","password":"PCnnH6SQSnfoS27"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(96)","server":"38.68.134.9","port":8882,"cipher":"aes-256-gcm","password":"kDWvXYZoTBcGkC4"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(97)","server":"38.68.134.191","port":4444,"cipher":"aes-256-gcm","password":"pKEW8JPByTVTLtM"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(98)","server":"38.68.134.191","port":6379,"cipher":"aes-256-gcm","password":"zDNVedRFPQexG9v"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(99)","server":"38.91.107.216","port":5003,"cipher":"aes-256-gcm","password":"g5MeD6Ft3CWlJId"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(100)","server":"38.68.134.191","port":8881,"cipher":"aes-256-gcm","password":"kDWvXYZoTBcGkC4"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(101)","server":"38.68.134.191","port":8882,"cipher":"aes-256-gcm","password":"kDWvXYZoTBcGkC4"}
+  - {"type":"ss","name":"🇺🇸US_AzadNet(102)","server":"38.68.134.9","port":8881,"cipher":"aes-256-gcm","password":"kDWvXYZoTBcGkC4"}
+  - {"type":"vmess","name":"🇺🇸US_AzadNet(103)","ws-opts":{"path":"/abc"},"server":"152.67.254.16","port":"43815","uuid":"7a9f026f-f7a8-40ca-f2f9-3b380c287c0d","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🇺🇸US_AzadNet(104)","http-opts":{"path":["/"]},"server":"96.43.86.4","port":"80","uuid":"3fd6c07a-a946-4c3c-8565-3bb35d0096c5","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vmess","name":"🇺🇸US_AzadNet(105)","ws-opts":{"path":"/vmess"},"server":"15.204.31.63","port":"80","uuid":"54e5b550-9eb2-455b-9aa4-0123a68e0b21","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🇺🇸US_AzadNet(106)","ws-opts":{"path":"/hkaa0","headers":{"host":"sg1021.hkaa0.tk"}},"server":"104.24.64.240","port":"8880","uuid":"a5c804aa-8a4d-4fd2-97a1-4f0cc1384953","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🇺🇸US_AzadNet(107)","ws-opts":{"path":"/shirker","headers":{"host":"opc-jp.sharecentre.online"}},"server":"162.159.128.7","port":"443","uuid":"20e92881-5fb4-4b05-bc77-57929476dc69","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"🇺🇸US_AzadNet(108)","ws-opts":{"path":"/shirker","headers":{"host":"opc-jp.sharecentre.online"}},"server":"172.67.199.34","port":"443","uuid":"20e92881-5fb4-4b05-bc77-57929476dc69","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"🇺🇸US_AzadNet(109)","ws-opts":{"path":"/Falling42gcoresgnode","headers":{"host":"gcoresg.sylu.cyou"}},"server":"162.159.135.42","port":"443","uuid":"12e08256-da5d-4b1c-aeca-8c973ccceef8","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"🇺🇸US_AzadNet(110)","ws-opts":{"path":"/shirker","headers":{"host":"sg-gcore-2.sharecentre.online"}},"server":"104.17.58.87","port":"443","uuid":"20e92881-5fb4-4b05-bc77-57929476dc69","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"🇺🇸US_AzadNet(111)","ws-opts":{"path":"/shirker","headers":{"host":"sg-gcore-2.sharecentre.online"}},"server":"104.18.83.229","port":"443","uuid":"20e92881-5fb4-4b05-bc77-57929476dc69","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"🇺🇸US_AzadNet(112)","ws-opts":{"path":"/ws","headers":{"host":"gheychi.betterthanunix.ml"}},"server":"172.67.196.0","port":"80","uuid":"73d843a1-17b3-4a7e-a31f-eada9b175b36","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🇺🇸US_AzadNet(113)","ws-opts":{"path":"/sshkit/7ujejs/6372eac61d543/","headers":{"host":"Namava.ir"}},"server":"51.81.220.195","port":"80","uuid":"6fea1649-425b-4092-bf53-29792152c925","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🇺🇸US_AzadNet(114)","ws-opts":{"path":"/m3"},"server":"104.21.93.252","port":"2082","uuid":"41fcac4f-948d-42da-bdf9-9f1bd77f5b1c","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🇺🇸US_AzadNet(115)","ws-opts":{"path":"/m3","headers":{"host":"do-3.heima-bot.tech"}},"server":"104.21.93.252","port":"443","uuid":"e3fa5050-67f5-4625-a778-5d9283f4334f","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"🇺🇸US_AzadNet(116)","ws-opts":{"path":"/","headers":{"host":"fr.xn--94q352ahyl.xyz"}},"server":"162.159.153.2","port":"443","uuid":"b5f0ac18-e0fa-4437-a3a6-8a457eeaea0d","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"🇺🇸US_AzadNet(118)","ws-opts":{"path":"/vmess","headers":{"host":"us-v.sshmax.xyz"}},"server":"135.148.47.240","port":"80","uuid":"33fe2f6e-14e1-4349-988d-c0d7f4e12ad4","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🇺🇸US_AzadNet(119)","ws-opts":{"path":"/dongtaiwang.com","headers":{"host":"lg1.cfcdn3.xyz"}},"server":"141.193.213.21","port":"443","uuid":"33aa57df-1c93-4318-9fce-e850437ee781","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"🇺🇸US_AzadNet(120)","server":"206.119.112.6","port":"8189","uuid":"a90597c1-bab3-4217-ad6f-0838675c8638","alterId":"10","cipher":"auto","network":"tcp","tls":true}
+  - {"type":"vmess","name":"🇺🇸US_AzadNet(121)","ws-opts":{"path":"/sshtproject","headers":{"host":"oracle.v2ray-sshtproject.tk"}},"server":"104.16.51.111","port":"8080","uuid":"b1d4abfd-0453-4ff2-ca9d-30914748bbb7","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🇺🇸US_AzadNet(122)","ws-opts":{"path":"/shirker","headers":{"host":"sg-gcore-2.sharecentre.online"}},"server":"162.159.141.221","port":"443","uuid":"20e92881-5fb4-4b05-bc77-57929476dc69","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"🇺🇸US_AzadNet(123)","ws-opts":{"path":"/shirker","headers":{"host":"sg-gcore-2.sharecentre.online"}},"server":"198.41.208.172","port":"443","uuid":"20e92881-5fb4-4b05-bc77-57929476dc69","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"🇺🇿UZ_AzadNet","ws-opts":{"path":"/","headers":{"host":"146.59.92.219"}},"server":"146.59.92.219","port":"2096","uuid":"aca71b13-ec8a-466d-c28f-43516d3cf246","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🇻🇳VN_AzadNet","ws-opts":{"path":"/vpngiare.net"},"server":"103.166.183.71","port":"80","uuid":"fbddd023-34be-4f3f-ab9d-492942afa832","alterId":"4","cipher":"auto","network":"ws"}
+  - {"type":"trojan","name":"🇻🇳VN_AzadNet(1)","server":"103.195.236.24","port":443,"password":"52171d41-9367-429f-baa6-43660a6c84e4","udp":true,"skip-cert-verify":true,"sni":"glc.hruqoaw.cn","network":"tcp"}
 
 proxy-groups:
   - name: 🔰 All Proxies
@@ -258,30 +437,64 @@ proxy-groups:
     proxies:
       - 🔥 Auto(Best ping)
       - DIRECT
-      - _AzadNet
-      - _AzadNet(1)
+      - 🇦🇺AU_AzadNet(1)
+      - 🇦🇺AU_AzadNet(2)
       - 🇨🇦CA_AzadNet
       - 🇨🇦CA_AzadNet(1)
-      - 🇨🇦CA_AzadNet(2)
-      - 🇨🇦CA_AzadNet(3)
+      - 🇨🇭CH_AzadNet
+      - 🇨🇳CN_AzadNet
+      - 🇨🇷CR_AzadNet
+      - 🇨🇷CR_AzadNet(1)
+      - 🇨🇾CY_AzadNet
+      - 🇨🇿CZ_AzadNet
       - 🇩🇪DE_AzadNet
+      - 🇩🇪DE_AzadNet(1)
       - 🇩🇪DE_AzadNet(2)
+      - 🇩🇪DE_AzadNet(3)
+      - 🇩🇪DE_AzadNet(4)
+      - 🇩🇪DE_AzadNet(5)
+      - 🇩🇪DE_AzadNet(6)
+      - 🇩🇪DE_AzadNet(7)
+      - 🇩🇪DE_AzadNet(8)
+      - 🇩🇪DE_AzadNet(9)
+      - 🇩🇪DE_AzadNet(10)
+      - 🇩🇪DE_AzadNet(11)
+      - 🇩🇪DE_AzadNet(12)
+      - 🇩🇪DE_AzadNet(13)
+      - 🇩🇪DE_AzadNet(14)
+      - 🇫🇮FI_AzadNet
+      - 🇫🇮FI_AzadNet(1)
+      - 🇫🇮FI_AzadNet(2)
+      - 🇫🇮FI_AzadNet(3)
       - 🇫🇷FR_AzadNet
+      - 🇫🇷FR_AzadNet(1)
+      - 🇫🇷FR_AzadNet(3)
+      - 🇫🇷FR_AzadNet(4)
+      - 🇫🇷FR_AzadNet(5)
+      - 🇫🇷FR_AzadNet(6)
+      - 🇫🇷FR_AzadNet(7)
+      - 🇫🇷FR_AzadNet(8)
+      - 🇫🇷FR_AzadNet(9)
       - 🇬🇧GB_AzadNet
       - 🇬🇧GB_AzadNet(1)
       - 🇬🇧GB_AzadNet(2)
       - 🇬🇧GB_AzadNet(3)
-      - 🇬🇧GB_AzadNet(4)
       - 🇬🇧GB_AzadNet(5)
+      - 🇬🇧GB_AzadNet(6)
       - 🇬🇧GB_AzadNet(7)
       - 🇬🇧GB_AzadNet(8)
       - 🇬🇧GB_AzadNet(9)
       - 🇬🇧GB_AzadNet(10)
       - 🇬🇧GB_AzadNet(11)
+      - 🇬🇧GB_AzadNet(12)
       - 🇬🇧GB_AzadNet(13)
       - 🇬🇧GB_AzadNet(14)
+      - 🇬🇧GB_AzadNet(15)
       - 🇬🇧GB_AzadNet(16)
       - 🇬🇧GB_AzadNet(17)
+      - 🇬🇧GB_AzadNet(18)
+      - 🇬🇧GB_AzadNet(19)
+      - 🇬🇧GB_AzadNet(20)
       - 🇬🇧GB_AzadNet(21)
       - 🇬🇧GB_AzadNet(22)
       - 🇬🇧GB_AzadNet(23)
@@ -289,114 +502,149 @@ proxy-groups:
       - 🇬🇧GB_AzadNet(25)
       - 🇬🇧GB_AzadNet(26)
       - 🇬🇧GB_AzadNet(27)
+      - 🇬🇧GB_AzadNet(28)
       - 🇬🇧GB_AzadNet(29)
-      - 🇬🇧GB_AzadNet(30)
-      - 🇬🇧GB_AzadNet(31)
-      - 🇬🇧GB_AzadNet(32)
       - 🇭🇰HK_AzadNet
       - 🇭🇰HK_AzadNet(1)
+      - 🇭🇰HK_AzadNet(2)
+      - 🇭🇰HK_AzadNet(3)
+      - 🇭🇰HK_AzadNet(5)
+      - 🇭🇰HK_AzadNet(6)
+      - 🇭🇰HK_AzadNet(7)
+      - 🇭🇰HK_AzadNet(8)
+      - 🇭🇰HK_AzadNet(9)
+      - 🇭🇰HK_AzadNet(10)
+      - 🇭🇰HK_AzadNet(11)
+      - 🇭🇰HK_AzadNet(12)
+      - 🇭🇰HK_AzadNet(13)
+      - 🇭🇰HK_AzadNet(14)
+      - 🇭🇰HK_AzadNet(15)
+      - 🇭🇰HK_AzadNet(16)
+      - 🇭🇰HK_AzadNet(17)
+      - 🇭🇰HK_AzadNet(18)
+      - 🇭🇰HK_AzadNet(19)
+      - 🇭🇰HK_AzadNet(20)
+      - 🇭🇰HK_AzadNet(21)
+      - 🇭🇰HK_AzadNet(22)
+      - 🇭🇰HK_AzadNet(23)
+      - 🇭🇰HK_AzadNet(24)
+      - 🇭🇰HK_AzadNet(25)
+      - 🇭🇰HK_AzadNet(26)
+      - 🇭🇰HK_AzadNet(28)
+      - 🇭🇰HK_AzadNet(29)
+      - 🇭🇰HK_AzadNet(30)
+      - 🇭🇰HK_AzadNet(31)
+      - 🇭🇰HK_AzadNet(32)
+      - 🇭🇰HK_AzadNet(33)
+      - 🇭🇰HK_AzadNet(34)
+      - 🇭🇰HK_AzadNet(35)
+      - 🇭🇰HK_AzadNet(36)
+      - 🇭🇰HK_AzadNet(37)
+      - 🇭🇰HK_AzadNet(38)
+      - 🇭🇰HK_AzadNet(39)
+      - 🇮🇩ID_AzadNet
+      - 🇮🇩ID_AzadNet(1)
+      - 🇮🇩ID_AzadNet(2)
+      - 🇮🇪IE_AzadNet
+      - 🇮🇷IR_AzadNet
+      - 🇮🇷IR_AzadNet(1)
+      - 🇮🇷IR_AzadNet(3)
+      - 🇮🇷IR_AzadNet(4)
       - 🇯🇵JP_AzadNet
       - 🇯🇵JP_AzadNet(1)
       - 🇯🇵JP_AzadNet(2)
+      - 🇯🇵JP_AzadNet(3)
+      - 🇯🇵JP_AzadNet(4)
+      - 🇯🇵JP_AzadNet(5)
+      - 🇯🇵JP_AzadNet(6)
+      - 🇯🇵JP_AzadNet(7)
+      - 🇯🇵JP_AzadNet(8)
+      - 🇯🇵JP_AzadNet(9)
+      - 🇯🇵JP_AzadNet(10)
+      - 🇯🇵JP_AzadNet(11)
+      - 🇯🇵JP_AzadNet(12)
+      - 🇯🇵JP_AzadNet(13)
+      - 🇯🇵JP_AzadNet(14)
+      - 🇯🇵JP_AzadNet(15)
+      - 🇯🇵JP_AzadNet(16)
+      - 🇯🇵JP_AzadNet(17)
+      - 🇯🇵JP_AzadNet(18)
+      - 🇯🇵JP_AzadNet(19)
+      - 🇯🇵JP_AzadNet(20)
+      - 🇯🇵JP_AzadNet(21)
+      - 🇯🇵JP_AzadNet(22)
+      - 🇯🇵JP_AzadNet(23)
+      - 🇰🇷KR_AzadNet
+      - 🇰🇷KR_AzadNet(1)
+      - 🇰🇷KR_AzadNet(2)
+      - 🇰🇷KR_AzadNet(3)
+      - 🇰🇷KR_AzadNet(4)
+      - 🇰🇷KR_AzadNet(5)
+      - 🇰🇷KR_AzadNet(6)
+      - 🇰🇷KR_AzadNet(7)
+      - 🇰🇷KR_AzadNet(8)
+      - 🇰🇷KR_AzadNet(9)
+      - 🇰🇷KR_AzadNet(10)
+      - 🇰🇷KR_AzadNet(11)
+      - 🇰🇷KR_AzadNet(12)
+      - 🇰🇷KR_AzadNet(13)
+      - 🇰🇷KR_AzadNet(14)
+      - 🇱🇺LU_AzadNet
+      - 🇱🇺LU_AzadNet(1)
+      - 🇲🇴MO_AzadNet
+      - 🇲🇴MO_AzadNet(1)
       - 🇳🇱NL_AzadNet
       - 🇳🇱NL_AzadNet(1)
-      - 🇳🇱NL_AzadNet(10)
-      - 🇳🇱NL_AzadNet(11)
-      - 🇳🇱NL_AzadNet(12)
-      - 🇳🇱NL_AzadNet(13)
-      - 🇳🇱NL_AzadNet(14)
-      - 🇳🇱NL_AzadNet(15)
-      - 🇳🇱NL_AzadNet(16)
-      - 🇳🇱NL_AzadNet(17)
-      - 🇳🇱NL_AzadNet(18)
-      - 🇳🇱NL_AzadNet(19)
       - 🇳🇱NL_AzadNet(2)
-      - 🇳🇱NL_AzadNet(20)
-      - 🇳🇱NL_AzadNet(21)
-      - 🇳🇱NL_AzadNet(22)
-      - 🇳🇱NL_AzadNet(23)
-      - 🇳🇱NL_AzadNet(24)
-      - 🇳🇱NL_AzadNet(25)
-      - 🇳🇱NL_AzadNet(26)
-      - 🇳🇱NL_AzadNet(27)
-      - 🇳🇱NL_AzadNet(28)
-      - 🇳🇱NL_AzadNet(29)
       - 🇳🇱NL_AzadNet(3)
-      - 🇳🇱NL_AzadNet(30)
-      - 🇳🇱NL_AzadNet(31)
-      - 🇳🇱NL_AzadNet(32)
-      - 🇳🇱NL_AzadNet(33)
-      - 🇳🇱NL_AzadNet(34)
-      - 🇳🇱NL_AzadNet(35)
-      - 🇳🇱NL_AzadNet(36)
-      - 🇳🇱NL_AzadNet(37)
-      - 🇳🇱NL_AzadNet(38)
-      - 🇳🇱NL_AzadNet(39)
       - 🇳🇱NL_AzadNet(4)
-      - 🇳🇱NL_AzadNet(40)
-      - 🇳🇱NL_AzadNet(41)
-      - 🇳🇱NL_AzadNet(42)
-      - 🇳🇱NL_AzadNet(43)
-      - 🇳🇱NL_AzadNet(44)
-      - 🇳🇱NL_AzadNet(45)
-      - 🇳🇱NL_AzadNet(46)
-      - 🇳🇱NL_AzadNet(47)
-      - 🇳🇱NL_AzadNet(48)
-      - 🇳🇱NL_AzadNet(49)
       - 🇳🇱NL_AzadNet(5)
-      - 🇳🇱NL_AzadNet(50)
-      - 🇳🇱NL_AzadNet(51)
-      - 🇳🇱NL_AzadNet(52)
-      - 🇳🇱NL_AzadNet(53)
-      - 🇳🇱NL_AzadNet(54)
-      - 🇳🇱NL_AzadNet(55)
-      - 🇳🇱NL_AzadNet(56)
-      - 🇳🇱NL_AzadNet(57)
       - 🇳🇱NL_AzadNet(6)
       - 🇳🇱NL_AzadNet(7)
       - 🇳🇱NL_AzadNet(8)
-      - 🇳🇱NL_AzadNet(9)
+      - 🇳🇱NL_AzadNet(10)
+      - 🇵🇱PL_AzadNet
+      - 🇵🇱PL_AzadNet(1)
       - 🇵🇹PT_AzadNet
       - 🇷🇺RU_AzadNet
-      - 🇷🇺RU_AzadNet(10)
-      - 🇷🇺RU_AzadNet(11)
-      - 🇷🇺RU_AzadNet(12)
-      - 🇷🇺RU_AzadNet(13)
-      - 🇷🇺RU_AzadNet(14)
-      - 🇷🇺RU_AzadNet(15)
-      - 🇷🇺RU_AzadNet(16)
-      - 🇷🇺RU_AzadNet(17)
-      - 🇷🇺RU_AzadNet(18)
-      - 🇷🇺RU_AzadNet(19)
+      - 🇷🇺RU_AzadNet(1)
       - 🇷🇺RU_AzadNet(2)
-      - 🇷🇺RU_AzadNet(21)
-      - 🇷🇺RU_AzadNet(22)
-      - 🇷🇺RU_AzadNet(23)
-      - 🇷🇺RU_AzadNet(25)
-      - 🇷🇺RU_AzadNet(27)
-      - 🇷🇺RU_AzadNet(28)
-      - 🇷🇺RU_AzadNet(29)
-      - 🇷🇺RU_AzadNet(3)
-      - 🇷🇺RU_AzadNet(30)
-      - 🇷🇺RU_AzadNet(31)
-      - 🇷🇺RU_AzadNet(33)
-      - 🇷🇺RU_AzadNet(34)
-      - 🇷🇺RU_AzadNet(35)
-      - 🇷🇺RU_AzadNet(36)
-      - 🇷🇺RU_AzadNet(38)
-      - 🇷🇺RU_AzadNet(39)
-      - 🇷🇺RU_AzadNet(40)
-      - 🇷🇺RU_AzadNet(41)
-      - 🇷🇺RU_AzadNet(42)
-      - 🇷🇺RU_AzadNet(43)
-      - 🇷🇺RU_AzadNet(44)
-      - 🇷🇺RU_AzadNet(45)
-      - 🇷🇺RU_AzadNet(46)
-      - 🇷🇺RU_AzadNet(5)
-      - 🇷🇺RU_AzadNet(7)
-      - 🇷🇺RU_AzadNet(9)
+      - 🇸🇬SG_AzadNet
+      - 🇸🇬SG_AzadNet(1)
+      - 🇸🇬SG_AzadNet(2)
+      - 🇸🇬SG_AzadNet(3)
+      - 🇸🇬SG_AzadNet(4)
+      - 🇸🇬SG_AzadNet(5)
+      - 🇸🇬SG_AzadNet(6)
+      - 🇸🇬SG_AzadNet(7)
+      - 🇸🇬SG_AzadNet(8)
+      - 🇸🇬SG_AzadNet(9)
+      - 🇸🇬SG_AzadNet(10)
+      - 🇸🇬SG_AzadNet(11)
+      - 🇸🇬SG_AzadNet(12)
+      - 🇸🇬SG_AzadNet(13)
+      - 🇸🇬SG_AzadNet(14)
+      - 🇸🇬SG_AzadNet(15)
+      - 🇸🇬SG_AzadNet(16)
+      - 🇸🇬SG_AzadNet(17)
+      - 🇸🇬SG_AzadNet(18)
+      - 🇸🇬SG_AzadNet(19)
+      - 🇸🇬SG_AzadNet(20)
+      - 🇸🇬SG_AzadNet(21)
+      - 🇸🇬SG_AzadNet(22)
+      - 🇸🇬SG_AzadNet(23)
+      - 🇸🇬SG_AzadNet(24)
+      - 🇸🇬SG_AzadNet(25)
+      - 🇸🇬SG_AzadNet(26)
+      - 🇸🇬SG_AzadNet(27)
+      - 🇸🇬SG_AzadNet(28)
+      - 🇸🇬SG_AzadNet(29)
+      - 🇸🇬SG_AzadNet(30)
+      - 🇸🇬SG_AzadNet(31)
+      - 🇸🇬SG_AzadNet(32)
       - 🇹🇼TW_AzadNet
       - 🇹🇼TW_AzadNet(1)
+      - 🇺🇦UA_AzadNet
       - 🇺🇸US_AzadNet
       - 🇺🇸US_AzadNet(1)
       - 🇺🇸US_AzadNet(2)
@@ -409,10 +657,120 @@ proxy-groups:
       - 🇺🇸US_AzadNet(9)
       - 🇺🇸US_AzadNet(10)
       - 🇺🇸US_AzadNet(11)
+      - 🇺🇸US_AzadNet(12)
       - 🇺🇸US_AzadNet(13)
       - 🇺🇸US_AzadNet(14)
       - 🇺🇸US_AzadNet(15)
+      - 🇺🇸US_AzadNet(16)
+      - 🇺🇸US_AzadNet(17)
+      - 🇺🇸US_AzadNet(18)
+      - 🇺🇸US_AzadNet(19)
+      - 🇺🇸US_AzadNet(20)
+      - 🇺🇸US_AzadNet(21)
+      - 🇺🇸US_AzadNet(22)
+      - 🇺🇸US_AzadNet(23)
+      - 🇺🇸US_AzadNet(24)
+      - 🇺🇸US_AzadNet(25)
+      - 🇺🇸US_AzadNet(26)
+      - 🇺🇸US_AzadNet(27)
+      - 🇺🇸US_AzadNet(28)
+      - 🇺🇸US_AzadNet(29)
+      - 🇺🇸US_AzadNet(30)
+      - 🇺🇸US_AzadNet(31)
+      - 🇺🇸US_AzadNet(32)
+      - 🇺🇸US_AzadNet(33)
+      - 🇺🇸US_AzadNet(34)
+      - 🇺🇸US_AzadNet(35)
+      - 🇺🇸US_AzadNet(36)
+      - 🇺🇸US_AzadNet(37)
+      - 🇺🇸US_AzadNet(38)
+      - 🇺🇸US_AzadNet(39)
+      - 🇺🇸US_AzadNet(40)
+      - 🇺🇸US_AzadNet(41)
+      - 🇺🇸US_AzadNet(42)
+      - 🇺🇸US_AzadNet(43)
+      - 🇺🇸US_AzadNet(44)
+      - 🇺🇸US_AzadNet(45)
+      - 🇺🇸US_AzadNet(46)
+      - 🇺🇸US_AzadNet(47)
+      - 🇺🇸US_AzadNet(48)
+      - 🇺🇸US_AzadNet(49)
+      - 🇺🇸US_AzadNet(50)
+      - 🇺🇸US_AzadNet(51)
+      - 🇺🇸US_AzadNet(52)
+      - 🇺🇸US_AzadNet(53)
+      - 🇺🇸US_AzadNet(54)
+      - 🇺🇸US_AzadNet(55)
+      - 🇺🇸US_AzadNet(56)
+      - 🇺🇸US_AzadNet(57)
+      - 🇺🇸US_AzadNet(58)
+      - 🇺🇸US_AzadNet(59)
+      - 🇺🇸US_AzadNet(60)
+      - 🇺🇸US_AzadNet(61)
+      - 🇺🇸US_AzadNet(62)
+      - 🇺🇸US_AzadNet(63)
+      - 🇺🇸US_AzadNet(64)
+      - 🇺🇸US_AzadNet(65)
+      - 🇺🇸US_AzadNet(66)
+      - 🇺🇸US_AzadNet(67)
+      - 🇺🇸US_AzadNet(68)
+      - 🇺🇸US_AzadNet(69)
+      - 🇺🇸US_AzadNet(70)
+      - 🇺🇸US_AzadNet(71)
+      - 🇺🇸US_AzadNet(72)
+      - 🇺🇸US_AzadNet(73)
+      - 🇺🇸US_AzadNet(74)
+      - 🇺🇸US_AzadNet(75)
+      - 🇺🇸US_AzadNet(76)
+      - 🇺🇸US_AzadNet(77)
+      - 🇺🇸US_AzadNet(78)
+      - 🇺🇸US_AzadNet(79)
+      - 🇺🇸US_AzadNet(80)
+      - 🇺🇸US_AzadNet(81)
+      - 🇺🇸US_AzadNet(82)
+      - 🇺🇸US_AzadNet(83)
+      - 🇺🇸US_AzadNet(84)
+      - 🇺🇸US_AzadNet(85)
+      - 🇺🇸US_AzadNet(86)
+      - 🇺🇸US_AzadNet(87)
+      - 🇺🇸US_AzadNet(88)
+      - 🇺🇸US_AzadNet(89)
+      - 🇺🇸US_AzadNet(90)
+      - 🇺🇸US_AzadNet(91)
+      - 🇺🇸US_AzadNet(92)
+      - 🇺🇸US_AzadNet(93)
+      - 🇺🇸US_AzadNet(94)
+      - 🇺🇸US_AzadNet(95)
+      - 🇺🇸US_AzadNet(96)
+      - 🇺🇸US_AzadNet(97)
+      - 🇺🇸US_AzadNet(98)
+      - 🇺🇸US_AzadNet(99)
+      - 🇺🇸US_AzadNet(100)
+      - 🇺🇸US_AzadNet(101)
+      - 🇺🇸US_AzadNet(102)
+      - 🇺🇸US_AzadNet(103)
+      - 🇺🇸US_AzadNet(104)
+      - 🇺🇸US_AzadNet(105)
+      - 🇺🇸US_AzadNet(106)
+      - 🇺🇸US_AzadNet(107)
+      - 🇺🇸US_AzadNet(108)
+      - 🇺🇸US_AzadNet(109)
+      - 🇺🇸US_AzadNet(110)
+      - 🇺🇸US_AzadNet(111)
+      - 🇺🇸US_AzadNet(112)
+      - 🇺🇸US_AzadNet(113)
+      - 🇺🇸US_AzadNet(114)
+      - 🇺🇸US_AzadNet(115)
+      - 🇺🇸US_AzadNet(116)
+      - 🇺🇸US_AzadNet(118)
+      - 🇺🇸US_AzadNet(119)
+      - 🇺🇸US_AzadNet(120)
+      - 🇺🇸US_AzadNet(121)
+      - 🇺🇸US_AzadNet(122)
+      - 🇺🇸US_AzadNet(123)
+      - 🇺🇿UZ_AzadNet
       - 🇻🇳VN_AzadNet
+      - 🇻🇳VN_AzadNet(1)
 
   - name: 🔥 Auto(Best ping)
     type: url-test
@@ -420,30 +778,64 @@ proxy-groups:
     interval: 200
     tolerance: 50
     proxies:
-      - _AzadNet
-      - _AzadNet(1)
+      - 🇦🇺AU_AzadNet(1)
+      - 🇦🇺AU_AzadNet(2)
       - 🇨🇦CA_AzadNet
       - 🇨🇦CA_AzadNet(1)
-      - 🇨🇦CA_AzadNet(2)
-      - 🇨🇦CA_AzadNet(3)
+      - 🇨🇭CH_AzadNet
+      - 🇨🇳CN_AzadNet
+      - 🇨🇷CR_AzadNet
+      - 🇨🇷CR_AzadNet(1)
+      - 🇨🇾CY_AzadNet
+      - 🇨🇿CZ_AzadNet
       - 🇩🇪DE_AzadNet
+      - 🇩🇪DE_AzadNet(1)
       - 🇩🇪DE_AzadNet(2)
+      - 🇩🇪DE_AzadNet(3)
+      - 🇩🇪DE_AzadNet(4)
+      - 🇩🇪DE_AzadNet(5)
+      - 🇩🇪DE_AzadNet(6)
+      - 🇩🇪DE_AzadNet(7)
+      - 🇩🇪DE_AzadNet(8)
+      - 🇩🇪DE_AzadNet(9)
+      - 🇩🇪DE_AzadNet(10)
+      - 🇩🇪DE_AzadNet(11)
+      - 🇩🇪DE_AzadNet(12)
+      - 🇩🇪DE_AzadNet(13)
+      - 🇩🇪DE_AzadNet(14)
+      - 🇫🇮FI_AzadNet
+      - 🇫🇮FI_AzadNet(1)
+      - 🇫🇮FI_AzadNet(2)
+      - 🇫🇮FI_AzadNet(3)
       - 🇫🇷FR_AzadNet
+      - 🇫🇷FR_AzadNet(1)
+      - 🇫🇷FR_AzadNet(3)
+      - 🇫🇷FR_AzadNet(4)
+      - 🇫🇷FR_AzadNet(5)
+      - 🇫🇷FR_AzadNet(6)
+      - 🇫🇷FR_AzadNet(7)
+      - 🇫🇷FR_AzadNet(8)
+      - 🇫🇷FR_AzadNet(9)
       - 🇬🇧GB_AzadNet
       - 🇬🇧GB_AzadNet(1)
       - 🇬🇧GB_AzadNet(2)
       - 🇬🇧GB_AzadNet(3)
-      - 🇬🇧GB_AzadNet(4)
       - 🇬🇧GB_AzadNet(5)
+      - 🇬🇧GB_AzadNet(6)
       - 🇬🇧GB_AzadNet(7)
       - 🇬🇧GB_AzadNet(8)
       - 🇬🇧GB_AzadNet(9)
       - 🇬🇧GB_AzadNet(10)
       - 🇬🇧GB_AzadNet(11)
+      - 🇬🇧GB_AzadNet(12)
       - 🇬🇧GB_AzadNet(13)
       - 🇬🇧GB_AzadNet(14)
+      - 🇬🇧GB_AzadNet(15)
       - 🇬🇧GB_AzadNet(16)
       - 🇬🇧GB_AzadNet(17)
+      - 🇬🇧GB_AzadNet(18)
+      - 🇬🇧GB_AzadNet(19)
+      - 🇬🇧GB_AzadNet(20)
       - 🇬🇧GB_AzadNet(21)
       - 🇬🇧GB_AzadNet(22)
       - 🇬🇧GB_AzadNet(23)
@@ -451,114 +843,149 @@ proxy-groups:
       - 🇬🇧GB_AzadNet(25)
       - 🇬🇧GB_AzadNet(26)
       - 🇬🇧GB_AzadNet(27)
+      - 🇬🇧GB_AzadNet(28)
       - 🇬🇧GB_AzadNet(29)
-      - 🇬🇧GB_AzadNet(30)
-      - 🇬🇧GB_AzadNet(31)
-      - 🇬🇧GB_AzadNet(32)
       - 🇭🇰HK_AzadNet
       - 🇭🇰HK_AzadNet(1)
+      - 🇭🇰HK_AzadNet(2)
+      - 🇭🇰HK_AzadNet(3)
+      - 🇭🇰HK_AzadNet(5)
+      - 🇭🇰HK_AzadNet(6)
+      - 🇭🇰HK_AzadNet(7)
+      - 🇭🇰HK_AzadNet(8)
+      - 🇭🇰HK_AzadNet(9)
+      - 🇭🇰HK_AzadNet(10)
+      - 🇭🇰HK_AzadNet(11)
+      - 🇭🇰HK_AzadNet(12)
+      - 🇭🇰HK_AzadNet(13)
+      - 🇭🇰HK_AzadNet(14)
+      - 🇭🇰HK_AzadNet(15)
+      - 🇭🇰HK_AzadNet(16)
+      - 🇭🇰HK_AzadNet(17)
+      - 🇭🇰HK_AzadNet(18)
+      - 🇭🇰HK_AzadNet(19)
+      - 🇭🇰HK_AzadNet(20)
+      - 🇭🇰HK_AzadNet(21)
+      - 🇭🇰HK_AzadNet(22)
+      - 🇭🇰HK_AzadNet(23)
+      - 🇭🇰HK_AzadNet(24)
+      - 🇭🇰HK_AzadNet(25)
+      - 🇭🇰HK_AzadNet(26)
+      - 🇭🇰HK_AzadNet(28)
+      - 🇭🇰HK_AzadNet(29)
+      - 🇭🇰HK_AzadNet(30)
+      - 🇭🇰HK_AzadNet(31)
+      - 🇭🇰HK_AzadNet(32)
+      - 🇭🇰HK_AzadNet(33)
+      - 🇭🇰HK_AzadNet(34)
+      - 🇭🇰HK_AzadNet(35)
+      - 🇭🇰HK_AzadNet(36)
+      - 🇭🇰HK_AzadNet(37)
+      - 🇭🇰HK_AzadNet(38)
+      - 🇭🇰HK_AzadNet(39)
+      - 🇮🇩ID_AzadNet
+      - 🇮🇩ID_AzadNet(1)
+      - 🇮🇩ID_AzadNet(2)
+      - 🇮🇪IE_AzadNet
+      - 🇮🇷IR_AzadNet
+      - 🇮🇷IR_AzadNet(1)
+      - 🇮🇷IR_AzadNet(3)
+      - 🇮🇷IR_AzadNet(4)
       - 🇯🇵JP_AzadNet
       - 🇯🇵JP_AzadNet(1)
       - 🇯🇵JP_AzadNet(2)
+      - 🇯🇵JP_AzadNet(3)
+      - 🇯🇵JP_AzadNet(4)
+      - 🇯🇵JP_AzadNet(5)
+      - 🇯🇵JP_AzadNet(6)
+      - 🇯🇵JP_AzadNet(7)
+      - 🇯🇵JP_AzadNet(8)
+      - 🇯🇵JP_AzadNet(9)
+      - 🇯🇵JP_AzadNet(10)
+      - 🇯🇵JP_AzadNet(11)
+      - 🇯🇵JP_AzadNet(12)
+      - 🇯🇵JP_AzadNet(13)
+      - 🇯🇵JP_AzadNet(14)
+      - 🇯🇵JP_AzadNet(15)
+      - 🇯🇵JP_AzadNet(16)
+      - 🇯🇵JP_AzadNet(17)
+      - 🇯🇵JP_AzadNet(18)
+      - 🇯🇵JP_AzadNet(19)
+      - 🇯🇵JP_AzadNet(20)
+      - 🇯🇵JP_AzadNet(21)
+      - 🇯🇵JP_AzadNet(22)
+      - 🇯🇵JP_AzadNet(23)
+      - 🇰🇷KR_AzadNet
+      - 🇰🇷KR_AzadNet(1)
+      - 🇰🇷KR_AzadNet(2)
+      - 🇰🇷KR_AzadNet(3)
+      - 🇰🇷KR_AzadNet(4)
+      - 🇰🇷KR_AzadNet(5)
+      - 🇰🇷KR_AzadNet(6)
+      - 🇰🇷KR_AzadNet(7)
+      - 🇰🇷KR_AzadNet(8)
+      - 🇰🇷KR_AzadNet(9)
+      - 🇰🇷KR_AzadNet(10)
+      - 🇰🇷KR_AzadNet(11)
+      - 🇰🇷KR_AzadNet(12)
+      - 🇰🇷KR_AzadNet(13)
+      - 🇰🇷KR_AzadNet(14)
+      - 🇱🇺LU_AzadNet
+      - 🇱🇺LU_AzadNet(1)
+      - 🇲🇴MO_AzadNet
+      - 🇲🇴MO_AzadNet(1)
       - 🇳🇱NL_AzadNet
       - 🇳🇱NL_AzadNet(1)
-      - 🇳🇱NL_AzadNet(10)
-      - 🇳🇱NL_AzadNet(11)
-      - 🇳🇱NL_AzadNet(12)
-      - 🇳🇱NL_AzadNet(13)
-      - 🇳🇱NL_AzadNet(14)
-      - 🇳🇱NL_AzadNet(15)
-      - 🇳🇱NL_AzadNet(16)
-      - 🇳🇱NL_AzadNet(17)
-      - 🇳🇱NL_AzadNet(18)
-      - 🇳🇱NL_AzadNet(19)
       - 🇳🇱NL_AzadNet(2)
-      - 🇳🇱NL_AzadNet(20)
-      - 🇳🇱NL_AzadNet(21)
-      - 🇳🇱NL_AzadNet(22)
-      - 🇳🇱NL_AzadNet(23)
-      - 🇳🇱NL_AzadNet(24)
-      - 🇳🇱NL_AzadNet(25)
-      - 🇳🇱NL_AzadNet(26)
-      - 🇳🇱NL_AzadNet(27)
-      - 🇳🇱NL_AzadNet(28)
-      - 🇳🇱NL_AzadNet(29)
       - 🇳🇱NL_AzadNet(3)
-      - 🇳🇱NL_AzadNet(30)
-      - 🇳🇱NL_AzadNet(31)
-      - 🇳🇱NL_AzadNet(32)
-      - 🇳🇱NL_AzadNet(33)
-      - 🇳🇱NL_AzadNet(34)
-      - 🇳🇱NL_AzadNet(35)
-      - 🇳🇱NL_AzadNet(36)
-      - 🇳🇱NL_AzadNet(37)
-      - 🇳🇱NL_AzadNet(38)
-      - 🇳🇱NL_AzadNet(39)
       - 🇳🇱NL_AzadNet(4)
-      - 🇳🇱NL_AzadNet(40)
-      - 🇳🇱NL_AzadNet(41)
-      - 🇳🇱NL_AzadNet(42)
-      - 🇳🇱NL_AzadNet(43)
-      - 🇳🇱NL_AzadNet(44)
-      - 🇳🇱NL_AzadNet(45)
-      - 🇳🇱NL_AzadNet(46)
-      - 🇳🇱NL_AzadNet(47)
-      - 🇳🇱NL_AzadNet(48)
-      - 🇳🇱NL_AzadNet(49)
       - 🇳🇱NL_AzadNet(5)
-      - 🇳🇱NL_AzadNet(50)
-      - 🇳🇱NL_AzadNet(51)
-      - 🇳🇱NL_AzadNet(52)
-      - 🇳🇱NL_AzadNet(53)
-      - 🇳🇱NL_AzadNet(54)
-      - 🇳🇱NL_AzadNet(55)
-      - 🇳🇱NL_AzadNet(56)
-      - 🇳🇱NL_AzadNet(57)
       - 🇳🇱NL_AzadNet(6)
       - 🇳🇱NL_AzadNet(7)
       - 🇳🇱NL_AzadNet(8)
-      - 🇳🇱NL_AzadNet(9)
+      - 🇳🇱NL_AzadNet(10)
+      - 🇵🇱PL_AzadNet
+      - 🇵🇱PL_AzadNet(1)
       - 🇵🇹PT_AzadNet
       - 🇷🇺RU_AzadNet
-      - 🇷🇺RU_AzadNet(10)
-      - 🇷🇺RU_AzadNet(11)
-      - 🇷🇺RU_AzadNet(12)
-      - 🇷🇺RU_AzadNet(13)
-      - 🇷🇺RU_AzadNet(14)
-      - 🇷🇺RU_AzadNet(15)
-      - 🇷🇺RU_AzadNet(16)
-      - 🇷🇺RU_AzadNet(17)
-      - 🇷🇺RU_AzadNet(18)
-      - 🇷🇺RU_AzadNet(19)
+      - 🇷🇺RU_AzadNet(1)
       - 🇷🇺RU_AzadNet(2)
-      - 🇷🇺RU_AzadNet(21)
-      - 🇷🇺RU_AzadNet(22)
-      - 🇷🇺RU_AzadNet(23)
-      - 🇷🇺RU_AzadNet(25)
-      - 🇷🇺RU_AzadNet(27)
-      - 🇷🇺RU_AzadNet(28)
-      - 🇷🇺RU_AzadNet(29)
-      - 🇷🇺RU_AzadNet(3)
-      - 🇷🇺RU_AzadNet(30)
-      - 🇷🇺RU_AzadNet(31)
-      - 🇷🇺RU_AzadNet(33)
-      - 🇷🇺RU_AzadNet(34)
-      - 🇷🇺RU_AzadNet(35)
-      - 🇷🇺RU_AzadNet(36)
-      - 🇷🇺RU_AzadNet(38)
-      - 🇷🇺RU_AzadNet(39)
-      - 🇷🇺RU_AzadNet(40)
-      - 🇷🇺RU_AzadNet(41)
-      - 🇷🇺RU_AzadNet(42)
-      - 🇷🇺RU_AzadNet(43)
-      - 🇷🇺RU_AzadNet(44)
-      - 🇷🇺RU_AzadNet(45)
-      - 🇷🇺RU_AzadNet(46)
-      - 🇷🇺RU_AzadNet(5)
-      - 🇷🇺RU_AzadNet(7)
-      - 🇷🇺RU_AzadNet(9)
+      - 🇸🇬SG_AzadNet
+      - 🇸🇬SG_AzadNet(1)
+      - 🇸🇬SG_AzadNet(2)
+      - 🇸🇬SG_AzadNet(3)
+      - 🇸🇬SG_AzadNet(4)
+      - 🇸🇬SG_AzadNet(5)
+      - 🇸🇬SG_AzadNet(6)
+      - 🇸🇬SG_AzadNet(7)
+      - 🇸🇬SG_AzadNet(8)
+      - 🇸🇬SG_AzadNet(9)
+      - 🇸🇬SG_AzadNet(10)
+      - 🇸🇬SG_AzadNet(11)
+      - 🇸🇬SG_AzadNet(12)
+      - 🇸🇬SG_AzadNet(13)
+      - 🇸🇬SG_AzadNet(14)
+      - 🇸🇬SG_AzadNet(15)
+      - 🇸🇬SG_AzadNet(16)
+      - 🇸🇬SG_AzadNet(17)
+      - 🇸🇬SG_AzadNet(18)
+      - 🇸🇬SG_AzadNet(19)
+      - 🇸🇬SG_AzadNet(20)
+      - 🇸🇬SG_AzadNet(21)
+      - 🇸🇬SG_AzadNet(22)
+      - 🇸🇬SG_AzadNet(23)
+      - 🇸🇬SG_AzadNet(24)
+      - 🇸🇬SG_AzadNet(25)
+      - 🇸🇬SG_AzadNet(26)
+      - 🇸🇬SG_AzadNet(27)
+      - 🇸🇬SG_AzadNet(28)
+      - 🇸🇬SG_AzadNet(29)
+      - 🇸🇬SG_AzadNet(30)
+      - 🇸🇬SG_AzadNet(31)
+      - 🇸🇬SG_AzadNet(32)
       - 🇹🇼TW_AzadNet
       - 🇹🇼TW_AzadNet(1)
+      - 🇺🇦UA_AzadNet
       - 🇺🇸US_AzadNet
       - 🇺🇸US_AzadNet(1)
       - 🇺🇸US_AzadNet(2)
@@ -571,10 +998,120 @@ proxy-groups:
       - 🇺🇸US_AzadNet(9)
       - 🇺🇸US_AzadNet(10)
       - 🇺🇸US_AzadNet(11)
+      - 🇺🇸US_AzadNet(12)
       - 🇺🇸US_AzadNet(13)
       - 🇺🇸US_AzadNet(14)
       - 🇺🇸US_AzadNet(15)
+      - 🇺🇸US_AzadNet(16)
+      - 🇺🇸US_AzadNet(17)
+      - 🇺🇸US_AzadNet(18)
+      - 🇺🇸US_AzadNet(19)
+      - 🇺🇸US_AzadNet(20)
+      - 🇺🇸US_AzadNet(21)
+      - 🇺🇸US_AzadNet(22)
+      - 🇺🇸US_AzadNet(23)
+      - 🇺🇸US_AzadNet(24)
+      - 🇺🇸US_AzadNet(25)
+      - 🇺🇸US_AzadNet(26)
+      - 🇺🇸US_AzadNet(27)
+      - 🇺🇸US_AzadNet(28)
+      - 🇺🇸US_AzadNet(29)
+      - 🇺🇸US_AzadNet(30)
+      - 🇺🇸US_AzadNet(31)
+      - 🇺🇸US_AzadNet(32)
+      - 🇺🇸US_AzadNet(33)
+      - 🇺🇸US_AzadNet(34)
+      - 🇺🇸US_AzadNet(35)
+      - 🇺🇸US_AzadNet(36)
+      - 🇺🇸US_AzadNet(37)
+      - 🇺🇸US_AzadNet(38)
+      - 🇺🇸US_AzadNet(39)
+      - 🇺🇸US_AzadNet(40)
+      - 🇺🇸US_AzadNet(41)
+      - 🇺🇸US_AzadNet(42)
+      - 🇺🇸US_AzadNet(43)
+      - 🇺🇸US_AzadNet(44)
+      - 🇺🇸US_AzadNet(45)
+      - 🇺🇸US_AzadNet(46)
+      - 🇺🇸US_AzadNet(47)
+      - 🇺🇸US_AzadNet(48)
+      - 🇺🇸US_AzadNet(49)
+      - 🇺🇸US_AzadNet(50)
+      - 🇺🇸US_AzadNet(51)
+      - 🇺🇸US_AzadNet(52)
+      - 🇺🇸US_AzadNet(53)
+      - 🇺🇸US_AzadNet(54)
+      - 🇺🇸US_AzadNet(55)
+      - 🇺🇸US_AzadNet(56)
+      - 🇺🇸US_AzadNet(57)
+      - 🇺🇸US_AzadNet(58)
+      - 🇺🇸US_AzadNet(59)
+      - 🇺🇸US_AzadNet(60)
+      - 🇺🇸US_AzadNet(61)
+      - 🇺🇸US_AzadNet(62)
+      - 🇺🇸US_AzadNet(63)
+      - 🇺🇸US_AzadNet(64)
+      - 🇺🇸US_AzadNet(65)
+      - 🇺🇸US_AzadNet(66)
+      - 🇺🇸US_AzadNet(67)
+      - 🇺🇸US_AzadNet(68)
+      - 🇺🇸US_AzadNet(69)
+      - 🇺🇸US_AzadNet(70)
+      - 🇺🇸US_AzadNet(71)
+      - 🇺🇸US_AzadNet(72)
+      - 🇺🇸US_AzadNet(73)
+      - 🇺🇸US_AzadNet(74)
+      - 🇺🇸US_AzadNet(75)
+      - 🇺🇸US_AzadNet(76)
+      - 🇺🇸US_AzadNet(77)
+      - 🇺🇸US_AzadNet(78)
+      - 🇺🇸US_AzadNet(79)
+      - 🇺🇸US_AzadNet(80)
+      - 🇺🇸US_AzadNet(81)
+      - 🇺🇸US_AzadNet(82)
+      - 🇺🇸US_AzadNet(83)
+      - 🇺🇸US_AzadNet(84)
+      - 🇺🇸US_AzadNet(85)
+      - 🇺🇸US_AzadNet(86)
+      - 🇺🇸US_AzadNet(87)
+      - 🇺🇸US_AzadNet(88)
+      - 🇺🇸US_AzadNet(89)
+      - 🇺🇸US_AzadNet(90)
+      - 🇺🇸US_AzadNet(91)
+      - 🇺🇸US_AzadNet(92)
+      - 🇺🇸US_AzadNet(93)
+      - 🇺🇸US_AzadNet(94)
+      - 🇺🇸US_AzadNet(95)
+      - 🇺🇸US_AzadNet(96)
+      - 🇺🇸US_AzadNet(97)
+      - 🇺🇸US_AzadNet(98)
+      - 🇺🇸US_AzadNet(99)
+      - 🇺🇸US_AzadNet(100)
+      - 🇺🇸US_AzadNet(101)
+      - 🇺🇸US_AzadNet(102)
+      - 🇺🇸US_AzadNet(103)
+      - 🇺🇸US_AzadNet(104)
+      - 🇺🇸US_AzadNet(105)
+      - 🇺🇸US_AzadNet(106)
+      - 🇺🇸US_AzadNet(107)
+      - 🇺🇸US_AzadNet(108)
+      - 🇺🇸US_AzadNet(109)
+      - 🇺🇸US_AzadNet(110)
+      - 🇺🇸US_AzadNet(111)
+      - 🇺🇸US_AzadNet(112)
+      - 🇺🇸US_AzadNet(113)
+      - 🇺🇸US_AzadNet(114)
+      - 🇺🇸US_AzadNet(115)
+      - 🇺🇸US_AzadNet(116)
+      - 🇺🇸US_AzadNet(118)
+      - 🇺🇸US_AzadNet(119)
+      - 🇺🇸US_AzadNet(120)
+      - 🇺🇸US_AzadNet(121)
+      - 🇺🇸US_AzadNet(122)
+      - 🇺🇸US_AzadNet(123)
+      - 🇺🇿UZ_AzadNet
       - 🇻🇳VN_AzadNet
+      - 🇻🇳VN_AzadNet(1)
       
   - name: ⛔Direct
     type: select
