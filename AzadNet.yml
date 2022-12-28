@@ -775,7 +775,7 @@ proxy-groups:
 
   - name: 🔥 Auto(Best ping)
     type: url-test
-    url: http://cp.cloudflare.com/
+    url: http://t.me/
     interval: 200
     tolerance: 50
     proxies:
