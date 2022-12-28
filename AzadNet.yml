@@ -9,6 +9,7 @@ dns:
   ipv6: true
   enhanced-mode: redir-host
   nameserver:
+    - https://at.pzhg.me/dns-query
     - https://basic.rethinkdns.com/dns-query
     - https://NoTMIKE.dev/dns.php
     - tls://one.one.one.one:853
