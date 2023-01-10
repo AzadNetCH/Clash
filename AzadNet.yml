@@ -1218,7 +1218,7 @@ proxy-groups:
 
   - name: 🔥 Auto(Best ping)
     type: url-test
-    url: https://t.me/
+    url: http://t.me/
     interval: 300
     tolerance: 50
     proxies:

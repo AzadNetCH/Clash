@@ -1218,8 +1218,8 @@ proxy-groups:
 
   - name: 🔥 Auto(Best ping)
     type: url-test
-    url: http://cp.cloudflare.com/
-    interval: 200
+    url: http://t.me/
+    interval: 300
     tolerance: 50
     proxies:
       - 🇦🇪AE_AzadNet
