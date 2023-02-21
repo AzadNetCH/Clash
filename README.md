@@ -49,8 +49,8 @@ Subscription > + > URL5
 In the [OneClick application](https://apps.apple.com/us/app/oneclick-safe-easy-fast/id1545555197) from:
 ADD Subscription > + > URL5
 
-In the [Spectre application](https://apps.apple.com/us/app/spectre-vpn/id1508712998) from:
-Subscription > + > URL5
+
+
 
 In the [Shadowrocket application](https://apps.apple.com/us/app/shadowrocket/id932747118) from:
 Subscription > + > URL5
