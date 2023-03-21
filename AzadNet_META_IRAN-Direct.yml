@@ -1,20 +1,12 @@
 port: 7890
 socks-port: 7891
-allow-lan: true
-mode: Rule
+redir-port: 7892
+mixed-port: 7893
+allow-lan: false
+mode: rule
+log-level: info
+ipv6: false
 external-controller: 0.0.0.0:9090
-log-level: debug
-dns:
-  enabled: true
-  nameserver:
-    - 119.29.29.29
-    - 223.5.5.5
-  fallback:
-    - 8.8.8.8
-    - 8.8.4.4
-    - tls://1.0.0.1:853
-    - tls://dns.google:853
-
 proxies:
   - {"name":"🇦🇲AM(AzadNet.t.me)","type":"vmess","server":"185.162.228.2","port":443,"cipher":"auto","uuid":"17b2a313-37a0-4945-a8e4-e63375506b4a","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/A2DJOPFT","headers":{"host":"77.v2ray1.xyz"}}}
   - {"name":"🇧🇿BZ(AzadNet.t.me)_1","type":"vmess","server":"203.30.190.2","port":443,"cipher":"auto","uuid":"17b2a313-37a0-4945-a8e4-e63375506b4a","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/A2DJOPFT","headers":{"host":"77.v2ray1.xyz"}}}
@@ -510,7 +502,7 @@ proxy-groups:
       - 🇺🇸US(AzadNet.t.me)_31
       - 🇺🇸US(AzadNet.t.me)_33
       - 🇺🇸US(AzadNet.t.me)_34
-
+      
   - name: ⛔Direct
     type: select
     proxies:
@@ -520,6 +512,41 @@ proxy-groups:
     type: select
     proxies:
       - REJECT
+
+rule-providers:
+  reject:
+    type: http
+    behavior: domain
+    url: https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/reject.txt
+    path: ./ruleset/reject.yaml
+    interval: 432000
+  applications:
+    type: http
+    behavior: classical
+    url: https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/applications.txt
+    path: ./ruleset/applications.yaml
+    interval: 432000
+  iran:
+    type: http
+    behavior: classical
+    url: https://github.com/SamadiPour/iran-hosted-domains/releases/latest/download/clash_rules.yaml
+    path: ./ruleset/iran.yaml
+    interval: 432000
 rules:
- - GEOIP,IR,⛔Direct
- - MATCH,🔰 All Proxies
+  - IP-CIDR,192.168.0.0/16,DIRECT,no-resolve
+  - IP-CIDR,10.0.0.0/8,DIRECT,no-resolve
+  - IP-CIDR,172.16.0.0/12,DIRECT,no-resolve
+  - IP-CIDR,127.0.0.0/8,DIRECT,no-resolve
+  - IP-CIDR,100.64.0.0/10,DIRECT,no-resolve
+  - IP-CIDR6,::1/128,DIRECT,no-resolve
+  - IP-CIDR6,fc00::/7,DIRECT,no-resolve
+  - IP-CIDR6,fe80::/10,DIRECT,no-resolve
+  - IP-CIDR6,fd00::/8,DIRECT,no-resolve
+  - DOMAIN-SUFFIX,local,DIRECT
+  - DOMAIN-SUFFIX,ir,DIRECT
+  - DOMAIN,clash.razord.top,DIRECT
+  - DOMAIN,yacd.haishan.me,DIRECT
+  - RULE-SET,reject,REJECT
+  - RULE-SET,iran,DIRECT
+  - GEOIP,IR,DIRECT
+  - MATCH ,🔰 All Proxies,🔥 Auto(Best ping)
