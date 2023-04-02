@@ -6,13 +6,16 @@ Profiles > New Profile > URL
 In the [Clash for Android](https://github.com/Kr328/ClashForAndroid/releases/latest) from:
 Profiles > New Profile > URL
 
+In the [Clash Meta for Android](https://github.com/MetaCubeX/ClashMetaForAndroid/releases) from:
+Profiles > New Profile > URL4
+
 In the [SagerNet application](https://github.com/SagerNet/SagerNet/releases/latest) from:
 Group > Group URL
 
 In the [Matsuri application](https://github.com/Matsuridayo/Matsuri/releases/latest) from:
 Group > Group URL
 
-Name: File Name YML (AzadNet/UFO/AzadNet_IRAN-Direct1/AzadNet_IRAN-Direct2)
+Name: File Name YML (AzadNet/AzadNet_IRAN-Direct1/AzadNet_IRAN-Direct2/AzadNet_META_IRAN-Direct)
 
 URL1: https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet.yml
 
@@ -21,6 +24,8 @@ Direct Connection for GeoIP=IRAN:
 URL2: https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_IRAN-Direct1.yml
 
 URL3: https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_IRAN-Direct2.yml
+
+URL4: https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_META_IRAN-Direct.yml
 
 Auto Update:
 1440 Minutes (for Android version)
@@ -31,9 +36,9 @@ Now Save and Select that.
 
 # V2RayNG (Android)
 In the [V2RayNG application](https://play.google.com/store/apps/details?id=com.v2ray.ang) from:
-Subscription Setting > + > URL4
+Subscription Setting > + > URL5
 
-URL4: https://raw.githubusercontent.com/AzadNetCH/Clash/main/V2Ray.txt
+URL5: https://raw.githubusercontent.com/AzadNetCH/Clash/main/V2Ray.txt
 
 Now Save and Select that.
 
@@ -48,9 +53,6 @@ Subscription > + > URL5
 
 In the [OneClick application](https://apps.apple.com/us/app/oneclick-safe-easy-fast/id1545555197) from:
 ADD Subscription > + > URL5
-
-
-
 
 In the [Shadowrocket application](https://apps.apple.com/us/app/shadowrocket/id932747118) from:
 Subscription > + > URL5
