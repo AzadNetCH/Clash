@@ -1,12 +1,65 @@
-port: 7890
-socks-port: 7891
-redir-port: 7892
-mixed-port: 7893
-allow-lan: false
+mixed-port: 7890
+allow-lan: true
+tcp-concurrent: true
+enable-process: true
+find-process-mode: always
+global-client-fingerprint: chrome
+geodata-mode: true
+geox-url:
+  geoip: "https://cdn.jsdelivr.net/gh/Loyalsoldier/v2ray-rules-dat@release/geoip.dat"
+  geosite: "https://cdn.jsdelivr.net/gh/Loyalsoldier/v2ray-rules-dat@release/geosite.dat"
+  mmdb: "https://cdn.jsdelivr.net/gh/Loyalsoldier/geoip@release/Country.mmdb"
 mode: rule
-log-level: info
-ipv6: false
-external-controller: 0.0.0.0:9090
+log-level: error ## silent/error/warning/info/debug
+ipv6: true
+external-controller: 127.0.0.1:9090
+profile:
+  store-selected: false ## It's better to default to "auto" every time it restarts.
+  store-fake-ip: true
+
+dns:
+  enable: true
+  #listen: 127.0.0.1:53 ## Or 0.0.0.0:53 for LAN.
+  ipv6: true
+  prefer-h3: true
+  default-nameserver: 
+    - '127.0.0.1'
+    - '1.1.1.1'
+    - '8.8.8.8'
+    - '217.218.155.155'
+  enhanced-mode: fake-ip
+  use-hosts: true
+  nameserver:
+    - '127.0.0.1'
+    - '217.218.155.155'
+    - '8.8.8.8'
+    - '1.1.1.1'
+  fallback:
+    - "https://1.1.1.1/dns-query"
+    - "https://8.8.8.8/dns-query"
+  fallback-filter:
+    geoip: false
+    ipcidr:
+      - '0.0.0.0/8'
+      - '10.0.0.0/8'
+      - '100.64.0.0/10'
+      - '127.0.0.0/8'
+      - '169.254.0.0/16'
+      - '172.16.0.0/12'
+      - '192.0.0.0/24'
+      - '192.0.2.0/24'
+      - '192.88.99.0/24'
+      - '192.168.0.0/16'
+      - '198.18.0.0/15'
+      - '198.51.100.0/24'
+      - '203.0.113.0/24'
+      - '224.0.0.0/3'
+      - '240.0.0.0/4'
+      - '::1/128'
+      - '64:ff9b:1::/48'
+      - 'fc00::/7'
+      - 'fe80::/10'
+      
 proxies:
   - {"name":"🇦🇲AM(AzadNet.t.me)_1","type":"vmess","server":"185.162.228.2","port":443,"cipher":"auto","uuid":"17b2a313-37a0-4945-a8e4-e63375506b4a","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/A2DJOPFT","headers":{"host":"77.v2ray1.xyz"}}}
   - {"name":"🇦🇲AM(AzadNet.t.me)_2","type":"vmess","server":"185.162.228.1","port":443,"cipher":"auto","uuid":"2b214122-1906-428a-bbb7-a039cbb7cd5c","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/9JZFDTKE","headers":{"host":"fr1.v2ray5.xyz"}}}
@@ -926,7 +979,7 @@ proxy-groups:
 
   - name: 🔥 Auto(Best ping)
     type: url-test
-    url: http://www.gstatic.com/generate_204
+    url: http://cp.cloudflare.com
     interval: 300
     tolerance: 50
     proxies:
@@ -1432,6 +1485,7 @@ rule-providers:
     url: https://github.com/farrokhi/adblock-iran/raw/master/additional-trackers.txt
     path: ./ruleset/additional-trackers.txt
     interval: 432000
+
 rules:
   - IP-CIDR,192.168.0.0/16,DIRECT,no-resolve
   - IP-CIDR,10.0.0.0/8,DIRECT,no-resolve
@@ -1443,13 +1497,16 @@ rules:
   - IP-CIDR6,fe80::/10,DIRECT,no-resolve
   - IP-CIDR6,fd00::/8,DIRECT,no-resolve
   - DOMAIN-SUFFIX,local,DIRECT
-  - DOMAIN-SUFFIX,ir,DIRECT
+  - DOMAIN-SUFFIX,.ir,DIRECT
   - DOMAIN,clash.razord.top,DIRECT
   - DOMAIN,yacd.haishan.me,DIRECT
+  - DOMAIN,yacd.metacubex.one,DIRECT ## Yet Another Clash Dashbord for Clash.Meta
+  - DOMAIN,clash.metacubex.one,DIRECT ## Razord
+  - GEOSITE,category-ads-all,REJECT ## Rejects advertisements.
+  - GEOIP,private,DIRECT,no-resolve ## Loopback and LAN IPs
+  - GEOIP,IR,DIRECT
+  - GEOSITE,category-ir,DIRECT
+  - RULE-SET,applications,DIRECT
   - RULE-SET,reject,REJECT
   - RULE-SET,ADs,REJECT
-  - RULE-SET,ADs2,REJECT
-  - RULE-SET,Trackers,REJECT
-  - RULE-SET,iran,DIRECT
-  - GEOIP,IR,DIRECT
   - MATCH ,🔰 All Proxies,🔥 Auto(Best ping)
