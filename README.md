@@ -43,7 +43,7 @@ URL5: https://raw.githubusercontent.com/AzadNetCH/Clash/main/V2Ray.txt
 Now Save and Select that.
 
 
-# Potatso Lite & Spectre & OneClick & Shadowrocket & Quantumult X & Surge & Loon & Choc & Stash (iOS)
+# FoXray & FairVPN & Potatso Lite & Spectre & OneClick & Shadowrocket & Quantumult X & Surge & Loon & Choc & Stash (iOS)
 
 In the [Potatso Lite application](https://apps.apple.com/us/app/potatso-lite/id1239860606) from:
 Subscription > + > URL6
