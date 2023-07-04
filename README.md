@@ -1,4 +1,4 @@
-# Config File for Clash & SagerNet & Matsuri (Android) & Potatso Lite & Spectre & Shadowrocket & Quantumult X & Surge & Loon & Choc & Stash (iOS)
+# Config File for Clash & SagerNet & Matsuri (Android) & FoXray & FairVPN & Potatso Lite & Spectre & Shadowrocket & Quantumult X & Surge & Loon & Choc & Stash (iOS)
 
 In the [Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg/releases/latest) from:
 Profiles > New Profile > URL
