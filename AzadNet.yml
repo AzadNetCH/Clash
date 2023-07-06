@@ -4243,7 +4243,7 @@ proxy-groups:
   - name: 🔥 Auto(Best ping)
     type: url-test
     url: http://clients3.google.com/generate_204
-    interval: 600
+    interval: 300
     tolerance: 50
     proxies:
       - 🇦🇪AE(AzadNet.t.me)
