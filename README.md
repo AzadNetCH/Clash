@@ -21,7 +21,10 @@ URL2: **(This link will no longer be updated)**
 URL3: **(This link will no longer be updated)**
 ```https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_IRAN-Direct2.yml```
 
-URL4: https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_META_IRAN-Direct.yml
+URL4: 
+```bash
+pip install foobar
+https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_META_IRAN-Direct.yml
 
 Auto Update:
 1440 Minutes (for Android version)
