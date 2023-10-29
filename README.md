@@ -1,10 +1,6 @@
 # Config File for ClashMeta & SagerNet & NekoBoxForAndroid & FoXray & FairVPN & Potatso Lite & Shadowrocket & Quantumult X & Surge & Loon & Choc & Stash (iOS)
 
-In the [Nekoray for Windows](https://github.com/MatsuriDayo/nekoray/releases/latest) & [Clash Meta for Android](https://github.com/MetaCubeX/ClashMetaForAndroid/releases) 
-from:
-Profiles > New Profile > URL1
-
-In the [SagerNet application](https://github.com/SagerNet/SagerNet/releases/latest) & [NekoBoxForAndroid application](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/latest) 
+# [Nekoray for Windows](https://github.com/MatsuriDayo/nekoray/releases/latest) & [V2rayN for Windows](https://github.com/2dust/v2rayN/releases/latest) & [ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid/releases) & [SagerNet for Android](https://github.com/SagerNet/SagerNet/releases/latest) & [NekoBox For Android](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/latest) 
 from:
 Group > Group URL > URL1
 
