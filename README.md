@@ -37,24 +37,9 @@ https://raw.githubusercontent.com/AzadNetCH/Clash/main/V2Ray.txt
 Now Save and Select that.
 
 
-# [FoXray](https://apps.apple.com/us/app/foxray/id6448898396) & [FairVPN](https://apps.apple.com/us/app/fair-vpn/id1533873488) & [V2Box](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690) & [Potatso Lite](https://apps.apple.com/us/app/potatso-lite/id1239860606) & [OneClick](https://apps.apple.com/us/app/oneclick-safe-easy-fast/id1545555197) & [Shadowrocket](https://apps.apple.com/fr/app/shadowrocket/id932747118) & [Quantumult X](https://apps.apple.com/us/app/quantumult-x/id1443988620?ls=1) & [Loon](https://apps.apple.com/us/app/loon/id1373567447) (iOS)
+# [FoXray](https://apps.apple.com/us/app/foxray/id6448898396) & [FairVPN](https://apps.apple.com/us/app/fair-vpn/id1533873488) & [V2Box](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690) & [Potatso Lite](https://apps.apple.com/us/app/potatso-lite/id1239860606) & [OneClick](https://apps.apple.com/us/app/oneclick-safe-easy-fast/id1545555197) & [Spectre VPN](https://apps.apple.com/us/app/spectre-vpn/id1508712998) & [Shadowrocket](https://apps.apple.com/fr/app/shadowrocket/id932747118) & [Quantumult X](https://apps.apple.com/us/app/quantumult-x/id1443988620?ls=1) & [Loon](https://apps.apple.com/us/app/loon/id1373567447) & [Choc](https://apps.apple.com/us/app/choc/id1582542227) & [Stash](https://apps.apple.com/us/app/stash-proxy-utility/id1596063349) (iOS)
 
-In the [Potatso Lite application](https://apps.apple.com/us/app/potatso-lite/id1239860606) from:
-Subscription > + > URL3
-
-In the [Spectre application](https://apps.apple.com/us/app/spectre-vpn/id1508712998) from:
-Subscription > + > URL3
-
-In the [OneClick application](https://apps.apple.com/us/app/oneclick-safe-easy-fast/id1545555197) from:
-ADD Subscription > + > URL3
-
-In the [Shadowrocket application](https://apps.apple.com/us/app/shadowrocket/id932747118) from:
-Subscription > + > URL3
-
-In the [Quantumult X application](https://apps.apple.com/us/app/quantumult-x/id1443988620) from:
-Subscription > + > URL3
-
-In the [Surge](https://apps.apple.com/us/app/id1442620678) & [Loon](https://apps.apple.com/us/app/loon/id1373567447) & [Choc](https://apps.apple.com/us/app/choc/id1582542227) & [Stash](https://apps.apple.com/us/app/stash-proxy-utility/id1596063349) from:
+In all the above softwares, from:
 Subscription > + > URL3
 
 **URL3:**
