@@ -1,4 +1,4 @@
-# Config File for ClashMeta & SagerNet & NekoBoxForAndroid & FoXray & FairVPN & Potatso Lite & Spectre & Shadowrocket & Quantumult X & Surge & Loon & Choc & Stash (iOS)
+# Config File for ClashMeta & SagerNet & NekoBoxForAndroid & FoXray & FairVPN & Potatso Lite & Shadowrocket & Quantumult X & Surge & Loon & Choc & Stash (iOS)
 
 In the [Nekoray for Windows](https://github.com/MatsuriDayo/nekoray/releases/latest) from:
 Profiles > New Profile > URL1
@@ -37,7 +37,7 @@ https://raw.githubusercontent.com/AzadNetCH/Clash/main/V2Ray.txt
 Now Save and Select that.
 
 
-# [FoXray](https://apps.apple.com/us/app/foxray/id6448898396) & [FairVPN](https://apps.apple.com/us/app/fair-vpn/id1533873488) & [V2Box](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690) & Potatso Lite & Spectre & OneClick & Shadowrocket & Quantumult X & Surge & Loon & Choc & Stash (iOS)
+# [FoXray](https://apps.apple.com/us/app/foxray/id6448898396) & [FairVPN](https://apps.apple.com/us/app/fair-vpn/id1533873488) & [V2Box](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690) & [Potatso Lite](https://apps.apple.com/us/app/potatso-lite/id1239860606) & [OneClick](https://apps.apple.com/us/app/oneclick-safe-easy-fast/id1545555197) & [Shadowrocket](https://apps.apple.com/fr/app/shadowrocket/id932747118) & [Quantumult X](https://apps.apple.com/us/app/quantumult-x/id1443988620?ls=1) & [Loon](https://apps.apple.com/us/app/loon/id1373567447) (iOS)
 
 In the [Potatso Lite application](https://apps.apple.com/us/app/potatso-lite/id1239860606) from:
 Subscription > + > URL3
