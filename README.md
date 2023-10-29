@@ -36,8 +36,10 @@ https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_META_IRAN-Direct.
 Now Save and Select that.
 
 
-# [V2RayNG](https://github.com/2dust/v2rayNG/releases) (Android)
-In the [V2RayNG application](https://play.google.com/store/apps/details?id=com.v2ray.ang) from:
+# In the [V2RayNG](https://github.com/2dust/v2rayNG/releases) (Android)
+[V2RayNG on Google Play](https://play.google.com/store/apps/details?id=com.v2ray.ang) 
+
+from:
 Subscription Setting > + > URL2
 
 **URL2:**
