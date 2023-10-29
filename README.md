@@ -1,6 +1,6 @@
 # Config File for ClashMeta & SagerNet & NekoBoxForAndroid & FoXray & FairVPN & Potatso Lite & Spectre & Shadowrocket & Quantumult X & Surge & Loon & Choc & Stash (iOS)
 
-In the [V2rayN for Windows](https://github.com/2dust/v2rayN/releases) from:
+In the [Nekoray for Windows](https://github.com/MatsuriDayo/nekoray/releases/latest) from:
 Profiles > New Profile > URL
 
 In the [Clash Meta for Android](https://github.com/MetaCubeX/ClashMetaForAndroid/releases) from:
