@@ -1,7 +1,7 @@
 # Config File for ClashMeta & SagerNet & NekoBoxForAndroid & FoXray & FairVPN & Potatso Lite & Spectre & Shadowrocket & Quantumult X & Surge & Loon & Choc & Stash (iOS)
 
 In the [Nekoray for Windows](https://github.com/MatsuriDayo/nekoray/releases/latest) from:
-Profiles > New Profile > URL
+Profiles > New Profile > URL4
 
 In the [Clash Meta for Android](https://github.com/MetaCubeX/ClashMetaForAndroid/releases) from:
 Profiles > New Profile > URL4
@@ -21,15 +21,15 @@ URL2: **(This link will no longer be updated)**
 URL3: **(This link will no longer be updated)**
 ```https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_IRAN-Direct2.yml```
 
-URL4: 
+**URL4:**
 ```bash
 https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_META_IRAN-Direct.yml
 ```
 
-Auto Update:
-1440 Minutes (for Android version)
+**Auto Update:**
+**1440** *Minutes* (for Android version)
 &
-24 Hours (for Windows version)
+**24** *Hours* (for Windows version)
 
 Now Save and Select that.
 
@@ -37,7 +37,10 @@ Now Save and Select that.
 In the [V2RayNG application](https://play.google.com/store/apps/details?id=com.v2ray.ang) from:
 Subscription Setting > + > URL5
 
-URL5: https://raw.githubusercontent.com/AzadNetCH/Clash/main/V2Ray.txt
+**URL5:**
+```
+https://raw.githubusercontent.com/AzadNetCH/Clash/main/V2Ray.txt
+```
 
 Now Save and Select that.
 
