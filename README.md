@@ -12,9 +12,9 @@ https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_META_IRAN-Direct.
 
 **Auto Update:**
 
-[ ] **1440** *Minutes* (for Android version)
+_ **1440** *Minutes* (for Android version)
 
-[x] **24** *Hours* (for Windows version)
+_ **24** *Hours* (for Windows version)
 
 Now Save and Select that.
 
