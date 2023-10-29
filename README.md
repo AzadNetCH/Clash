@@ -1,6 +1,6 @@
 # Config File *(included ss,vmess, vless, trojan)* for
-- ClashMeta
-- SagerNet
+- **ClashMeta**
+- **SagerNet**
 - NekoBoxForAndroid
 - FoXray & FairVPN
 - Potatso Lite
