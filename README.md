@@ -63,7 +63,7 @@ Now Save and Select that.
 - [Choc](https://apps.apple.com/us/app/choc/id1582542227)
 - [Stash](https://apps.apple.com/us/app/stash-proxy-utility/id1596063349)
 
-In all the above softwares, from:
+from:
 Subscription > + > URL3
 
 **URL3:**
