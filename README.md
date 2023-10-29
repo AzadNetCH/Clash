@@ -12,8 +12,7 @@ Group > Group URL > URL1
 In the [NekoBoxForAndroid application](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/latest) from:
 Group > Group URL > URL1
 
-**URL1:**
-```
+**URL1:** ```
 https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_META_IRAN-Direct.yml
 ```
 
