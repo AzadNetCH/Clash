@@ -37,7 +37,7 @@ https://raw.githubusercontent.com/AzadNetCH/Clash/main/V2Ray.txt
 Now Save and Select that.
 
 
-# [FoXray](https://apps.apple.com/us/app/foxray/id6448898396) & FairVPN & Potatso Lite & Spectre & OneClick & Shadowrocket & Quantumult X & Surge & Loon & Choc & Stash (iOS)
+# [FoXray](https://apps.apple.com/us/app/foxray/id6448898396) & [FairVPN](https://apps.apple.com/us/app/fair-vpn/id1533873488) & [V2Box](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690) & Potatso Lite & Spectre & OneClick & Shadowrocket & Quantumult X & Surge & Loon & Choc & Stash (iOS)
 
 In the [Potatso Lite application](https://apps.apple.com/us/app/potatso-lite/id1239860606) from:
 Subscription > + > URL3
