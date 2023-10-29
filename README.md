@@ -34,7 +34,7 @@ https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_META_IRAN-Direct.
 
 - **24** *Hours* (for Windows version)
 
-Now Save and Select that.
+Now, Save and Select that.
 
 
 # In the [V2RayNG](https://github.com/2dust/v2rayNG/releases) (Android)
@@ -48,7 +48,7 @@ Subscription Setting > + > URL2
 https://raw.githubusercontent.com/AzadNetCH/Clash/main/V2Ray.txt
 ```
 
-Now Save and Select that.
+Now, Save and Select that.
 
 
 # In this softwares (iOS): 
