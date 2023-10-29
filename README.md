@@ -64,20 +64,20 @@ Now, Save and Select that.
 - [Choc](https://apps.apple.com/us/app/choc/id1582542227)
 - [Stash](https://apps.apple.com/us/app/stash-proxy-utility/id1596063349)
 
-from:
+**From:**
 Subscription > + > URL3
 
 **URL3:**
 ```
 https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_iOS.txt
 ```
-
 Now, Save and Select that.
 
 
-# ShadowSocks (Android & Windows)
+# ShadowSocks (Android & Windows) 
+In the [ShadowSocks Android](https://play.google.com/store/apps/details?id=com.github.shadowsocks) or [ShadowSocks Windows](https://github.com/shadowsocks/shadowsocks-windows/releases/latest) 
 
-In the [ShadowSocks Android](https://play.google.com/store/apps/details?id=com.github.shadowsocks) or [ShadowSocks Windows](https://github.com/shadowsocks/shadowsocks-windows/releases/latest) from:
+**From:**
 Subscriptions > + > URL4
 
 **URL4:**
