@@ -21,7 +21,7 @@
 - [SagerNet for Android](https://github.com/SagerNet/SagerNet/releases/latest)
 - [NekoBox for Android](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/latest) 
 
-from:
+**From:**
 Group > Group URL > URL1
 
 **URL1:** 
@@ -41,14 +41,13 @@ Now, Save and Select that.
 # In the [V2RayNG](https://github.com/2dust/v2rayNG/releases) (Android)
 [V2RayNG on Google Play](https://play.google.com/store/apps/details?id=com.v2ray.ang) 
 
-from:
+**From:**
 Subscription Setting > + > URL2
 
 **URL2:**
 ```
 https://raw.githubusercontent.com/AzadNetCH/Clash/main/V2Ray.txt
 ```
-
 Now, Save and Select that.
 
 
