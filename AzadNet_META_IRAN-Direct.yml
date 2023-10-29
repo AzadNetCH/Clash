@@ -3280,8 +3280,8 @@ rule-providers:
     type: http
     format: text
     behavior: domain
-    url: https://github.com/farrokhi/adblock-iran/raw/master/pihole.txt
-    path: ./ruleset/pihole.txt
+    url: https://cdn.statically.io/gh/farrokhi/adblock-iran/master/filter.txt
+    path: ./ruleset/filter.txt
     interval: 432000
   blocked-sites:
     behavior: classical
