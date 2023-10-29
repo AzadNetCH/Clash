@@ -13,10 +13,10 @@ In the [NekoBoxForAndroid application](https://github.com/MatsuriDayo/NekoBoxFor
 Group > Group URL
 
 URL1: **(This link will no longer be updated)**
-*https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet.yml*
+```https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet.yml```
 
 URL2: **(This link will no longer be updated)**
-*https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_IRAN-Direct1.yml*
+```https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_IRAN-Direct1.yml```
 
 URL3: **(This link will no longer be updated)**
 ```https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_IRAN-Direct2.yml```
