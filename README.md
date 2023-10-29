@@ -48,7 +48,7 @@ https://raw.githubusercontent.com/AzadNetCH/Clash/main/V2Ray.txt
 Now Save and Select that.
 
 
-# In all the following software: 
+# In all the following software (iOS): 
 - [FoXray](https://apps.apple.com/us/app/foxray/id6448898396)
 - [FairVPN](https://apps.apple.com/us/app/fair-vpn/id1533873488)
 - [V2Box](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690)
