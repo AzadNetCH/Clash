@@ -17,13 +17,16 @@ Group > Group URL
 
 Name: File Name YML (AzadNet/AzadNet_IRAN-Direct1/AzadNet_IRAN-Direct2/AzadNet_META_IRAN-Direct)
 
-URL1: https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet.yml
+URL1: This link will no longer be updated
+#https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet.yml
 
 Direct Connection for GeoIP=IRAN:
 
-URL2: https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_IRAN-Direct1.yml
+URL2: This link will no longer be updated
+#https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_IRAN-Direct1.yml
 
-URL3: https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_IRAN-Direct2.yml
+URL3: This link will no longer be updated
+#https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_IRAN-Direct2.yml
 
 URL4: https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_META_IRAN-Direct.yml
 
