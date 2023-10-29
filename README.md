@@ -13,7 +13,7 @@ In the [NekoBoxForAndroid application](https://github.com/MatsuriDayo/NekoBoxFor
 Group > Group URL > URL1
 
 **URL1:**
-```bash
+```
 https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_META_IRAN-Direct.yml
 ```
 
