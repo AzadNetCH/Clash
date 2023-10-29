@@ -1,15 +1,16 @@
 # Config File *(included ss,vmess, vless, trojan)* for
 - **ClashMeta**
 - **SagerNet**
-- NekoBoxForAndroid
-- FoXray & FairVPN
-- Potatso Lite
-- Shadowrocket
-- Quantumult X
-- Surge
-- Loon
-- Choc
-- Stash
+- **NekoBoxForAndroid**
+- **FoXray**
+- **FairVPN**
+- **Potatso Lite**
+- **Shadowrocket**
+- **Quantumult X**
+- **Surge**
+- **Loon**
+- **Choc**
+- **Stash**
 - and etc...
 
 
