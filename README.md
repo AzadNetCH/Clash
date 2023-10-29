@@ -85,11 +85,12 @@ https://raw.githubusercontent.com/AzadNetCH/JSON/main/AzadNet.json
 ```
 Now, Save and Select that.
  
- 
- 
-🔴 **Note:**
 
-**(This URLs will no longer be updated)**
+# **Note:**
+
+🔴 *This URLs will no longer be updated:*
+
+
 ```https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet.yml```
 
 ```https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_IRAN-Direct1.yml```
