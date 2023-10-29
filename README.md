@@ -10,7 +10,7 @@
 - Loon
 - Choc
 - Stash
-- and etc.
+- and etc...
 
 
 # In the 
