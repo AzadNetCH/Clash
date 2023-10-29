@@ -1,4 +1,4 @@
-# Config File for ClashMeta & SagerNet & Matsuri (Android) & FoXray & FairVPN & Potatso Lite & Spectre & Shadowrocket & Quantumult X & Surge & Loon & Choc & Stash (iOS)
+# Config File for ClashMeta & SagerNet & NekoBoxForAndroid & FoXray & FairVPN & Potatso Lite & Spectre & Shadowrocket & Quantumult X & Surge & Loon & Choc & Stash (iOS)
 
 In the [V2rayN for Windows](https://github.com/2dust/v2rayN/releases) from:
 Profiles > New Profile > URL
@@ -9,7 +9,7 @@ Profiles > New Profile > URL4
 In the [SagerNet application](https://github.com/SagerNet/SagerNet/releases/latest) from:
 Group > Group URL
 
-In the [Matsuri application](https://github.com/Matsuridayo/Matsuri/releases/latest) from:
+In the [NekoBoxForAndroid application](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/latest) from:
 Group > Group URL
 
 Name: File Name YML (AzadNet/AzadNet_IRAN-Direct1/AzadNet_IRAN-Direct2/AzadNet_META_IRAN-Direct)
