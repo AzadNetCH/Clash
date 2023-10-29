@@ -17,9 +17,9 @@
 # In the 
 - [Nekoray for Windows](https://github.com/MatsuriDayo/nekoray/releases/latest)
 - [V2rayN for Windows](https://github.com/2dust/v2rayN/releases/latest)
-- [ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
+- [ClashMeta for Android](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
 - [SagerNet for Android](https://github.com/SagerNet/SagerNet/releases/latest)
-- [NekoBox For Android](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/latest) 
+- [NekoBox for Android](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/latest) 
 
 from:
 Group > Group URL > URL1
