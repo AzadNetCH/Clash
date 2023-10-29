@@ -12,13 +12,6 @@ Group > Group URL > URL1
 In the [NekoBoxForAndroid application](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/latest) from:
 Group > Group URL > URL1
 
-**(This URLs will no longer be updated)**
-```https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet.yml```
-
-```https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_IRAN-Direct1.yml```
-
-```https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_IRAN-Direct2.yml```
-
 **URL1:**
 ```bash
 https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_META_IRAN-Direct.yml
@@ -30,6 +23,7 @@ https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_META_IRAN-Direct.
 **24** *Hours* (for Windows version)
 
 Now Save and Select that.
+
 
 # V2RayNG (Android)
 In the [V2RayNG application](https://play.google.com/store/apps/details?id=com.v2ray.ang) from:
@@ -80,5 +74,13 @@ Subscriptions > + > URL4
 ```
 https://raw.githubusercontent.com/AzadNetCH/JSON/main/AzadNet.json
 ```
-
 Now, Save and Select that.
+
+
+#**Note**
+**(This URLs will no longer be updated)**
+```https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet.yml```
+
+```https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_IRAN-Direct1.yml```
+
+```https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_IRAN-Direct2.yml```
