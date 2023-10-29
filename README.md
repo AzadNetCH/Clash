@@ -77,7 +77,7 @@ https://raw.githubusercontent.com/AzadNetCH/JSON/main/AzadNet.json
 Now, Save and Select that.
 
 
-#**Note**
+#Note:
 **(This URLs will no longer be updated)**
 ```https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet.yml```
 
