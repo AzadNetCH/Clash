@@ -78,6 +78,7 @@ Now, Save and Select that.
 
 
 
+
 # Note: 
 **(This URLs will no longer be updated)**
 ```https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet.yml```
@@ -85,3 +86,5 @@ Now, Save and Select that.
 ```https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_IRAN-Direct1.yml```
 
 ```https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_IRAN-Direct2.yml```
+
+**Instead of these three URLs, use URL1**
