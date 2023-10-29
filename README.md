@@ -1,15 +1,9 @@
 # Config File for ClashMeta & SagerNet & NekoBoxForAndroid & FoXray & FairVPN & Potatso Lite & Shadowrocket & Quantumult X & Surge & Loon & Choc & Stash (iOS)
 
-In the [Nekoray for Windows](https://github.com/MatsuriDayo/nekoray/releases/latest) from:
+In the [Nekoray for Windows](https://github.com/MatsuriDayo/nekoray/releases/latest) & [Clash Meta for Android](https://github.com/MetaCubeX/ClashMetaForAndroid/releases) from:
 Profiles > New Profile > URL1
 
-In the [Clash Meta for Android](https://github.com/MetaCubeX/ClashMetaForAndroid/releases) from:
-Profiles > New Profile > URL1
-
-In the [SagerNet application](https://github.com/SagerNet/SagerNet/releases/latest) from:
-Group > Group URL > URL1
-
-In the [NekoBoxForAndroid application](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/latest) from:
+In the [SagerNet application](https://github.com/SagerNet/SagerNet/releases/latest) & [NekoBoxForAndroid application](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/latest) from:
 Group > Group URL > URL1
 
 **URL1:** 
@@ -25,7 +19,7 @@ https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_META_IRAN-Direct.
 Now Save and Select that.
 
 
-# V2RayNG (Android)
+# [V2RayNG](https://github.com/2dust/v2rayNG/releases) (Android)
 In the [V2RayNG application](https://play.google.com/store/apps/details?id=com.v2ray.ang) from:
 Subscription Setting > + > URL2
 
