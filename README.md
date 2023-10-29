@@ -1,4 +1,15 @@
-# Config File for ClashMeta & SagerNet & NekoBoxForAndroid & FoXray & FairVPN & Potatso Lite & Shadowrocket & Quantumult X & Surge & Loon & Choc & Stash (iOS)
+# Config File for
+- ClashMeta
+- SagerNet
+- NekoBoxForAndroid
+- FoXray & FairVPN
+- Potatso Lite
+- Shadowrocket
+- Quantumult X
+- Surge
+- Loon
+- Choc
+- Stash
 
 
 # In the [Nekoray for Windows](https://github.com/MatsuriDayo/nekoray/releases/latest) & [V2rayN for Windows](https://github.com/2dust/v2rayN/releases/latest) & [ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid/releases) & [SagerNet for Android](https://github.com/SagerNet/SagerNet/releases/latest) & [NekoBox For Android](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/latest) 
