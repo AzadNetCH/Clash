@@ -106,12 +106,9 @@ Now, Save and Select that.
 
 🟢 **Instead of this URL, use URL2**
 
+**================**
 
-✅ #**Our suggestion for the following OS:**
-Android
-Windows
-MacOS
-Linux
+✅ #**Our suggestion for the Android, Windows, MacOS, Linux OS is**
 
 **[Hiddify Next](https://github.com/hiddify/hiddify-next/releases/latest) software** and **This Profile**:
 ```
