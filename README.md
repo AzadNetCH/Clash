@@ -99,14 +99,14 @@ Now, Save and Select that.
 
 🟢 **Instead of these three URLs, use URL1**
 
-**================**
+**========================**
 
 🔴 **And This URL will no longer be updated:**
 ```https://raw.githubusercontent.com/AzadNetCH/Clash/main/V2Ray.txt```
 
 🟢 **Instead of this URL, use URL2**
 
-**================**
+**========================**
 
 # IMPORTANT
 **Our suggestion for the (Android, Windows, MacOS, Linux) OS**,
@@ -115,8 +115,8 @@ is **[Hiddify Next](https://github.com/hiddify/hiddify-next/releases/latest) sof
 ```
 https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_iOS.txt
 ```
+**========================**
 
-
-# Follow us on Telegram
+👑*Follow us on Telegram*
 # *❤️ @AzadNet ❤️*
 
