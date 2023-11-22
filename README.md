@@ -109,11 +109,11 @@ Now, Save and Select that.
 **================**
 
 # IMPORTANT
-**Our suggestion for the (Android, Windows, MacOS, Linux) OS**
+**Our suggestion for the (Android, Windows, MacOS, Linux) OS**,
 
-is **[Hiddify Next](https://github.com/hiddify/hiddify-next/releases/latest) software** and **This Profile**:
+is **[Hiddify Next](https://github.com/hiddify/hiddify-next/releases/latest) software** and **This Profile** link:
 ```
 https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_iOS.txt
 ```
 
-❤️❤️❤️ *For more information, you can follow us on @AzadNet Telegram Channel.*
+❤️❤️❤️ *For more information, you can follow us on @AzadNet Telegram Channel.* ❤️❤️❤️
