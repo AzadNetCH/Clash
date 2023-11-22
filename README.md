@@ -105,3 +105,15 @@ Now, Save and Select that.
 ```https://raw.githubusercontent.com/AzadNetCH/Clash/main/V2Ray.txt```
 
 🟢 **Instead of this URL, use URL2**
+
+
+✅ #**Our suggestion for the following OS:**
+Android
+Windows
+MacOS
+Linux
+
+**[Hiddify Next](https://github.com/hiddify/hiddify-next/releases/latest) software** and **This Profile**:
+```
+https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_iOS.txt
+```
