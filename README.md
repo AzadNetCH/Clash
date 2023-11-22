@@ -110,11 +110,8 @@ Now, Save and Select that.
 
 # IMPORTANT
 🚨 **Our suggestion**
-
-for the *(Android, Windows, MacOS, Linux)* is **[Hiddify Next](https://github.com/hiddify/hiddify-next/releases/latest)** software
-
-and for *(iPhone, iPad, iPod touch, Mac)* is **[Streisand](https://apps.apple.com/us/app/streisand/id6450534064)** software
-
+for the *(Android, Windows, MacOS, Linux)* is **[Hiddify Next](https://github.com/hiddify/hiddify-next/releases/latest)**
+and for *(iPhone, iPad, iPod touch, Mac)* is **[Streisand](https://apps.apple.com/us/app/streisand/id6450534064)**
 with this **PROFILE** link:
 ```
 https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_iOS.txt
