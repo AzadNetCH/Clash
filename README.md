@@ -111,7 +111,7 @@ Now, Save and Select that.
 # IMPORTANT
 🚨 **Our suggestion**
 
-for *(Android, Windows, MacOS, Linux)* install the **[Hiddify Next](http//github.com/hiddify/hiddify-next/releases/latest)**
+for *(Android, Windows, MacOS, Linux)* install the **[Hiddify Next](https://github.com/hiddify/hiddify-next/releases/latest)**
 
 for *(iPhone, iPad, iPod touch, Mac)* install the **[Streisand](https://apps.apple.com/us/app/streisand/id6450534064)**
 
