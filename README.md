@@ -117,6 +117,6 @@ https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_iOS.txt
 ```
 
 
-
-# ❤️ @AzadNet Telegram Channel ❤️
+# Follow us on Telegram
+# *❤️ @AzadNet ❤️*
 
