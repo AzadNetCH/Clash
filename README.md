@@ -46,7 +46,7 @@ Subscription Setting > + > URL2
 
 **URL2:**
 ```
-https://raw.githubusercontent.com/AzadNetCH/Clash/main/V2Ray.txt
+https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_iOS.txt
 ```
 Now, Save and Select that.
 
