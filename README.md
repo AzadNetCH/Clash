@@ -82,7 +82,7 @@ Subscriptions > + > URL4
 
 **URL4:**
 ```
-https://raw.githubusercontent.com/AzadNetCH/JSON/main/AzadNet.json
+https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet.json
 ```
 Now, Save and Select that.
  
