@@ -116,4 +116,4 @@ is **[Hiddify Next](https://github.com/hiddify/hiddify-next/releases/latest) sof
 https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_iOS.txt
 ```
 
-❤️❤️❤️ *For more information, you can follow us on @AzadNet Telegram Channel.* ❤️❤️❤️
+❤️❤️❤️ *Follow us on @AzadNet Telegram Channel.* ❤️❤️❤️
