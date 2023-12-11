@@ -91,18 +91,18 @@ Now, Save and Select that.
 
 🔴 **This URLs will no longer be updated:**
 
-```https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet.yml```
+~~https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet.yml~~
 
-```https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_IRAN-Direct1.yml```
+~~https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_IRAN-Direct1.yml~~
 
-```https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_IRAN-Direct2.yml```
+~~https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_IRAN-Direct2.yml~~
 
 🟢 **Instead of these three URLs, use URL1**
 
 **========================**
 
 🔴 **And This URL will no longer be updated:**
-```https://raw.githubusercontent.com/AzadNetCH/Clash/main/V2Ray.txt```
+~~https://raw.githubusercontent.com/AzadNetCH/Clash/main/V2Ray.txt~~
 
 🟢 **Instead of this URL, use URL2**
 
