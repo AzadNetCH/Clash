@@ -97,14 +97,14 @@ Now, Save and Select that.
 
 ***~~https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_IRAN-Direct2.yml~~***
 
-🟢 **Instead of these three URLs, use URL1**
+🟢 **Instead of these three URLs, use [URL1](https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_META_IRAN-Direct.yml)**
 
 **========================**
 
 🔴 **And This URL will no longer be updated:**
 ***~~https://raw.githubusercontent.com/AzadNetCH/Clash/main/V2Ray.txt~~***
 
-🟢 **Instead of this URL, use URL2**
+🟢 **Instead of this URL, use [URL2](https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_iOS.txt)**
 
 **========================**
 
