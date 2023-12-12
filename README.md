@@ -104,7 +104,7 @@ Now, Save and Select that.
 🔴 **And This URL will no longer be updated:**
 ***~~https://raw.githubusercontent.com/AzadNetCH/Clash/main/V2Ray.txt~~***
 
-🟢 **Instead of this URL, use URL2**
+🟢 **Instead of this URL, use [URL2](,"https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_iOS.txt")**
 
 **========================**
 
