@@ -3739,3 +3739,4 @@ rules:
   - RULE-SET,ads-sites,⛔BLOCK
   - RULE-SET,blocked-sites,🔰 All Proxies
   - MATCH ,🔰 All Proxies,🔥 Auto(Best ping),IR,DIRECT
+  
