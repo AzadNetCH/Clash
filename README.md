@@ -117,7 +117,7 @@ for *(iPhone, iPad, iPod touch, Mac)* install the **[Streisand](https://apps.app
 
 with this **PROFILE** link:
 ```
-[https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_iOS.txt](https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_iOS.txt#AzadNet.t.me)
+[https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_iOS.txt#AzadNet.t.me](https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_iOS.txt#AzadNet.t.me
 ```
 
 **========================**
