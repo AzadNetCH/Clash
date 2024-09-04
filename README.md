@@ -46,7 +46,7 @@ Subscription Setting > + > URL2
 
 **URL2:**
 ```
-https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_iOS.txt
+https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_iOS.txt#(AzadNet.t.me)
 ```
 Now, Save and Select that.
 
@@ -69,7 +69,7 @@ Subscription > + > URL3
 
 **URL3:**
 ```
-https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_iOS.txt
+https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_iOS.txt#(AzadNet.t.me)
 ```
 Now, Save and Select that.
 
