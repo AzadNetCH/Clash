@@ -21,7 +21,7 @@
  - [V2rayN برای ویندوز](https://github.com/2dust/v2rayN/releases/latest)
  - [ClashMeta برای اندروید](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
  - [SagerNet برای اندروید](https://github.com/SagerNet/SagerNet/releases/latest)
- - [NekoBox برای Android](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/latest) 
+ - [NekoBox برای اندروید](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/latest) 
 
  **از:**
  گروه > URL گروه > URL1
