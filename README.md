@@ -1,3 +1,5 @@
+# **[فارسی](google.com)
+
 # **Config File** *(included ss,vmess, vless, trojan)* **for**
 - **ClashMeta**
 - **SagerNet**
