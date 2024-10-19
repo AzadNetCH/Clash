@@ -1,16 +1,16 @@
 # **فایل پیکربندی** *(شامل ss،vmess، vless، trojan)* **برای**
- - **کلش متا**
+ - **ClashMeta**
  - **SagerNet**
  - **NekoBox**
- - **فاکسری**
- - ** FairVPN **
+ - **FoXray**
+ - **FairVPN**
  - **Potatso Lite**
  - **Shadowrocket**
- - ** کوانتومولت X**
- - ** افزایش شدید **
- - **لون**
- - **چوک**
- - **ذخیره**
+ - **Quantumult X**
+ - **Surge**
+ - **Loon**
+ - **Choc**
+ - **Stash**
  - و غیره ...
 
 
