@@ -110,7 +110,7 @@
 
  **========================**
 
- #مهم
+ # مهم
  🚨 **پیشنهاد ما**
 
  برای *(Android، Windows، MacOS، Linux)* **[Hiddify](https://github.com/hiddify/hiddify-next/releases/latest)** را نصب کنید
