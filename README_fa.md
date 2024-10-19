@@ -1,3 +1,5 @@
+# [ENGLISH](https://github.com/AzadNetCH/Clash/blob/main/README.md)
+
 # **فایل پیکربندی** *(شامل ss،vmess، vless، trojan)* **برای**
  - **ClashMeta**
  - **SagerNet**
