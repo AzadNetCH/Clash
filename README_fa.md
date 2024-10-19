@@ -17,11 +17,11 @@
 
 
  # در 
- - [Nekoray برای ویندوز] (https://github.com/MatsuriDayo/nekoray/releases/latest)
- - [V2rayN برای ویندوز] (https://github.com/2dust/v2rayN/releases/latest)
+ - [Nekoray برای ویندوز](https://github.com/MatsuriDayo/nekoray/releases/latest)
+ - [V2rayN برای ویندوز](https://github.com/2dust/v2rayN/releases/latest)
  - [ClashMeta برای اندروید](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
- - [SagerNet برای اندروید] (https://github.com/SagerNet/SagerNet/releases/latest)
- - [NekoBox برای Android] (https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/latest) 
+ - [SagerNet برای اندروید](https://github.com/SagerNet/SagerNet/releases/latest)
+ - [NekoBox برای Android](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/latest) 
 
  **از:**
  گروه > URL گروه > URL1
