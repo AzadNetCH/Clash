@@ -111,7 +111,7 @@ Now, Save and Select that.
 **========================**
 
 # IMPORTANT
-🚨 **Our suggestion**
+🚨 **Our offer for all operating systems**
 
 for *(Android, Windows, MacOS, Linux)* install the **[Hiddify](https://github.com/hiddify/hiddify-next/releases/latest)**
 
