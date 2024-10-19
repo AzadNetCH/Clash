@@ -62,7 +62,7 @@
  - [Spectre VPN](https://apps.apple.com/us/app/spectre-vpn/id1508712998)
  - [Shadowrocket](https://apps.apple.com/fr/app/shadowrocket/id932747118)
  - [Quantumult X](https://apps.apple.com/us/app/quantumult-x/id1443988620?ls=1)
- - [لون](https://apps.apple.com/us/app/loon/id1373567447)
+ - [Loon](https://apps.apple.com/us/app/loon/id1373567447)
  - [Choc](https://apps.apple.com/us/app/choc/id1582542227)
  - [Stash](https://apps.apple.com/us/app/stash-proxy-utility/id1596063349)
 
