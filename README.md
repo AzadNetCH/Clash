@@ -1,4 +1,4 @@
-# [فارسی]([google.com](https://github.com/AzadNetCH/Clash/blob/main/README_fa.md))
+# [فارسی](https://github.com/AzadNetCH/Clash/blob/main/README_fa.md)
 
 # **Config File** *(included ss,vmess, vless, trojan)* **for**
 - **ClashMeta**
