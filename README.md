@@ -115,7 +115,7 @@ Now, Save and Select that.
 
 for *(Android, Windows, MacOS, Linux)* install the **[Hiddify](https://github.com/hiddify/hiddify-next/releases/latest)**
 
-for *(iPhone, iPad, iPod touch, Mac)* install the **[Streisand](https://apps.apple.com/us/app/streisand/id6450534064)**
+for *(iPhone, iPad, iPod touch, Mac)* install the **[Hiddify](https://apps.apple.com/us/app/hiddify-proxy-vpn/id6596777532)**
 
 with this **PROFILE** link:
 ```
