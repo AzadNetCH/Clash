@@ -115,7 +115,7 @@
 
  برای *(Android، Windows، MacOS، Linux)* **[Hiddify](https://github.com/hiddify/hiddify-next/releases/latest)** را نصب کنید
 
- برای *(iPhone، iPad، iPod touch، Mac)* **[Streisand](https://apps.apple.com/us/app/streisand/id6450534064)** را نصب کنید
+ برای *(iPhone، iPad، iPod touch، Mac)* **[Streisand](https://apps.apple.com/us/app/hiddify-proxy-vpn/id6596777532)** را نصب کنید
 
  با این لینک **پروفایل**:
  ```
