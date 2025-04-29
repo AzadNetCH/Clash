@@ -28,7 +28,7 @@
 
  **URL1:** 
  ```
- https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_META_IRAN-Direct.yml
+ https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_iOS.txt#(AzadNet.t.me)
  ```
 
  **به روز رسانی خودکار:**
