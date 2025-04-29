@@ -99,7 +99,7 @@ Now, Save and Select that.
 
 ***~~https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_IRAN-Direct2.yml~~***
 
-🟢 **Instead of these three URLs, use [URL1](https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_META_IRAN-Direct.yml "https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_META_IRAN-Direct.yml")**
+***~~https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_META_IRAN-Direct.yml~~***
 
 **========================**
 
