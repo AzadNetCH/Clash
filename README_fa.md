@@ -99,7 +99,7 @@
 
  ***~~https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_IRAN-Direct2.yml~~***
 
- **به جای این سه آدرس، از [URL1](https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_META_IRAN-Direct.yml "https://raw.githubusercontent.com/AzadNetCH/Clash/ استفاده کنید.  main/AzadNet_META_IRAN-Direct.yml")**
+ ***~~https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_META_IRAN-Direct.yml~~***
 
  **========================**
 
