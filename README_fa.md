@@ -48,7 +48,7 @@
 
  **URL2:**
  ```
- https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_iOS.txt#(AzadNet.t.me)
+ https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet.txt#(AzadNet.t.me)
  ```
  اکنون ذخیره کنید و آن را انتخاب کنید.
 
@@ -71,7 +71,7 @@
 
  **URL3:**
  ```
- https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_iOS.txt#(AzadNet.t.me)
+ https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet.txt#(AzadNet.t.me)
  ```
  اکنون ذخیره کنید و آن را انتخاب کنید.
 
@@ -119,7 +119,7 @@
 
  با این لینک **پروفایل**:
  ```
- https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_iOS.txt#(AzadNet.t.me)
+ https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet.txt#(AzadNet.t.me)
  ```
 
  **========================**
