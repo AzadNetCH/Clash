@@ -94,7 +94,7 @@
  **از:**
  اشتراک ها > + > URL4
 
- **URL4:**
+ **Alternative URL4:**
  ```
  https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet.json#(AzadNet.t.me)
  ```
