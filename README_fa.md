@@ -28,7 +28,11 @@
 
  **URL1:** 
  ```
- https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_iOS.txt#(AzadNet.t.me)
+ https://raw.githubusercontent.com/AzadNetCH/Clash/refs/heads/main/AzadNet.txt#(AzadNet.t.me)
+ ```
+**Alternative URL1:** 
+ ```
+ https://sub.azadnetch.workers.dev/AzadNetCH/Clash/main/AzadNet.txt#(AzadNet.t.me)
  ```
 
  **به روز رسانی خودکار:**
@@ -49,6 +53,10 @@
  **URL2:**
  ```
  https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet.txt#(AzadNet.t.me)
+ ```
+ **Alternative URL2:**
+ ```
+ https://sub.azadnetch.workers.dev/AzadNetCH/Clash/main/AzadNet.txt#(AzadNet.t.me)
  ```
  اکنون ذخیره کنید و آن را انتخاب کنید.
 
@@ -73,6 +81,10 @@
  ```
  https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet.txt#(AzadNet.t.me)
  ```
+**Alternative URL3:**
+ ```
+ https://sub.azadnetch.workers.dev/AzadNetCH/Clash/main/AzadNet.txt#(AzadNet.t.me)
+ ```
  اکنون ذخیره کنید و آن را انتخاب کنید.
 
 
@@ -84,7 +96,11 @@
 
  **URL4:**
  ```
- https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet.json
+ https://raw.githubusercontent.com/AzadNetCH/Clash/refs/heads/main/AzadNet.json#(AzadNet.t.me)
+ ```
+ **URL4:**
+ ```
+ https://sub.azadnetch.workers.dev/AzadNetCH/Clash/main/AzadNet.json#(AzadNet.t.me)
  ```
  اکنون ذخیره کنید و آن را انتخاب کنید.
  
@@ -120,6 +136,10 @@
  با این لینک **پروفایل**:
  ```
  https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet.txt#(AzadNet.t.me)
+ ```
+یا با این لینک **پروفایل** جایگزین:
+ ```
+ https://sub.azadnetch.workers.dev/AzadNetCH/Clash/main/AzadNet.txt#(AzadNet.t.me)
  ```
 
  **========================**
