@@ -28,7 +28,7 @@
 
  **URL1:** 
  ```
- https://raw.githubusercontent.com/AzadNetCH/Clash/refs/heads/main/AzadNet.txt#(AzadNet.t.me)
+ https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet.txt#(AzadNet.t.me)
  ```
 **Alternative URL1:** 
  ```
@@ -96,7 +96,7 @@
 
  **URL4:**
  ```
- https://raw.githubusercontent.com/AzadNetCH/Clash/refs/heads/main/AzadNet.json#(AzadNet.t.me)
+ https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet.json#(AzadNet.t.me)
  ```
  **URL4:**
  ```
