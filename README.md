@@ -30,6 +30,10 @@ Group > Group URL > URL1
 ```
 https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet.txt#(AzadNet.t.me)
 ```
+**Alternative URL1:** 
+```
+https://sub.azadnetch.workers.dev/AzadNetCH/Clash/main/AzadNet.txt#(AzadNet.t.me)
+```
 
 **Auto Update:**
 
@@ -49,6 +53,10 @@ Subscription Setting > + > URL2
 **URL2:**
 ```
 https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet.txt#(AzadNet.t.me)
+```
+**Alternative URL2:** 
+```
+https://sub.azadnetch.workers.dev/AzadNetCH/Clash/main/AzadNet.txt#(AzadNet.t.me)
 ```
 Now, Save and Select that.
 
@@ -73,6 +81,10 @@ Subscription > + > URL3
 ```
 https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet.txt#(AzadNet.t.me)
 ```
+**Alternative URL3:** 
+```
+https://sub.azadnetch.workers.dev/AzadNetCH/Clash/main/AzadNet.txt#(AzadNet.t.me)
+```
 Now, Save and Select that.
 
 
@@ -84,7 +96,11 @@ Subscriptions > + > URL4
 
 **URL4:**
 ```
-https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet.json
+https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet.json#(AzadNet.t.me)
+```
+**Alternative URL4:** 
+```
+https://sub.azadnetch.workers.dev/AzadNetCH/Clash/main/AzadNet.json#(AzadNet.t.me)
 ```
 Now, Save and Select that.
  
@@ -120,6 +136,10 @@ for *(iPhone, iPad, iPod touch, Mac)* install the **[Hiddify](https://apps.apple
 with this **PROFILE** link:
 ```
 https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet.txt#(AzadNet.t.me)
+```
+or with this alternative **PROFILE** link:
+```
+https://sub.azadnetch.workers.dev/AzadNetCH/Clash/main/AzadNet.txt#(AzadNet.t.me)
 ```
 
 **========================**
