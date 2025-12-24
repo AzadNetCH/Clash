@@ -45,7 +45,6 @@ Now, Save and Select that.
 
 
 # In the [V2RayNG](https://github.com/2dust/v2rayNG/releases) (Android)
-[V2RayNG on Google Play](https://play.google.com/store/apps/details?id=com.v2ray.ang) 
 
 **From:**
 Subscription Setting > + > URL2
