@@ -1,4 +1,4 @@
-# [In English](https://github.com/AzadNetCH/Clash/blob/main/README.md)
+httpsttps [In English](https://github.com/AzadNetCH/Clash/blob/main/README.md)
 
 # **فایل پیکربندی** *(شامل ss،vmess، vless، trojan)* **برای**
  - **ClashMeta**
@@ -88,7 +88,7 @@
 
 
  # ShadowSocks (اندروید و ویندوز) 
- در [ShadowSocks Android](https://play.google.com/store/apps/details?id=com.github.shadowsocks) یا [ShadowSocks Windows]https://github.com/shadowsocks/shadowsocks-windows/releases/latest) 
+ در [ShadowSocks Android](https://play.google.com/store/apps/details?id=com.github.shadowsocks) یا [ShadowSocks Windows](https://github.com/shadowsocks/shadowsocks-windows/releases/latest) 
 
  **از:**
  اشتراک ها > + > URL4
