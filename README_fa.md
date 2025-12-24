@@ -121,7 +121,7 @@
  🔴 **و این آدرس دیگر به روز نمی شود:**
  ***~~https://raw.githubusercontent.com/AzadNetCH/Clash/main/V2Ray.txt~~***
 
- **به جای این URL، از [URL2](https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_iOS.txt "https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_iOS استفاده کنید  txt")**
+ **به جای این URL، از [URL2](https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet.txt "https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet استفاده کنید  txt")**
 
  **========================**
 
