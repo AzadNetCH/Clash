@@ -88,7 +88,7 @@
 
 
  # ShadowSocks (اندروید و ویندوز) 
- در [ShadowSocks Android](https://play.google.com/store/apps/details?id=com.github.shadowsocks) یا [ShadowSocks Windows](https://github.com/shadowsocks/shadowsocks-windows  /انتشار/جدیدترین) 
+ در [ShadowSocks Android](https://play.google.com/store/apps/details?id=com.github.shadowsocks) یا [ShadowSocks Windows]https://github.com/shadowsocks/shadowsocks-windows/releases/latest) 
 
  **از:**
  اشتراک ها > + > URL4
