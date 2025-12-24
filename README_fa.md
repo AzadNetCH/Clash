@@ -44,8 +44,7 @@
  اکنون ذخیره کنید و آن را انتخاب کنید.
 
 
- # در [V2RayNG](https://github.com/2dust/v2rayNG/releases) (Android)
- [V2RayNG در Google Play](https://play.google.com/store/apps/details?id=com.v2ray.ang) 
+ # در [V2RayNG](https://github.com/2dust/v2rayNG/releases/latest) (Android)
 
  **از:**
  تنظیمات اشتراک > + > URL2
