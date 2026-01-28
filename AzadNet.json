@@ -1,160 +1,10 @@
 [
   {
-    "server": "103.57.251.240",
-    "server_port": 990,
-    "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW\/j+AdU+Z8Bt44=",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇦🇪AE(AzadNet.t.me)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "213.159.76.21",
-    "server_port": 443,
-    "password": "pNqnYf3kHesOpCchRvUZxfwTafRsOj7g",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇦🇲AM(AzadNet.t.me)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "190.103.176.32",
-    "server_port": 990,
-    "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW\/j+AdU+Z8Bt44=",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇦🇷AR(AzadNet.t.me)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "5.181.21.246",
-    "server_port": 443,
-    "password": "gKYygTcRYhc3skc2x6tZ073lYz0DnieX",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇦🇹AT(AzadNet.t.me)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "185.93.173.60",
-    "server_port": 990,
-    "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW\/j+AdU+Z8Bt44=",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇧🇴BO(AzadNet.t.me)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "38.54.57.90",
-    "server_port": 989,
-    "password": "f8f7aCzcPKbsF8p3",
-    "method": "aes-256-cfb",
-    "remarks": "🇧🇷BR(AzadNet.t.me)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "38.54.57.90",
-    "server_port": 990,
-    "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW\/j+AdU+Z8Bt44=",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇧🇷BR(AzadNet.t.me) (2)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "185.192.124.188",
-    "server_port": 990,
-    "password": "f8f7aCzcPKbsF8p3",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇧🇷BR(AzadNet.t.me) (3)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "142.4.216.225",
-    "server_port": 80,
-    "password": "JIhN6rBKkaEboLNXVSv5rq",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇨🇦CA(AzadNet.t.me) (3)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "193.203.203.66",
-    "server_port": 443,
-    "password": "S6jUK9Fw5fMHgNqlqXObHZWv8Tf4nEkm",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇨🇦CA(AzadNet.t.me) (4)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
     "server": "45.154.204.7",
     "server_port": 990,
     "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW\/j+AdU+Z8Bt44=",
     "method": "chacha20-ietf-poly1305",
-    "remarks": "🇨🇦CA(AzadNet.t.me) (5)",
+    "remarks": "🇨🇦CA(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -165,221 +15,11 @@
     "udpdns": false
   },
   {
-    "server": "79.127.200.169",
-    "server_port": 990,
-    "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW\/j+AdU+Z8Bt44=",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇨🇦CA(AzadNet.t.me) (7)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "154.223.16.212",
-    "server_port": 989,
-    "password": "f8f7aCzcPKbsF8p3",
-    "method": "aes-256-cfb",
-    "remarks": "🇨🇴CO(AzadNet.t.me)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "134.255.210.49",
-    "server_port": 990,
-    "password": "f8f7aCzcPKbsF8p3",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇨🇾CY(AzadNet.t.me)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "45.83.131.43",
-    "server_port": 443,
-    "password": "HfAiyrdFbKJuKIQkGjvJrDFefmH8YDSC",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇨🇾CY(AzadNet.t.me) (1)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "185.156.110.92",
-    "server_port": 443,
-    "password": "gXOXk2FJwsz9P6nXIICuDNOqF9gWX1dn",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇨🇾CY(AzadNet.t.me) (2)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "195.181.160.6",
-    "server_port": 990,
-    "password": "f8f7aCzcPKbsF8p3",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇨🇿CZ(AzadNet.t.me) (1)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "38.165.231.25",
-    "server_port": 990,
-    "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW\/j+AdU+Z8Bt44=",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇪🇨EC(AzadNet.t.me)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "45.154.206.192",
-    "server_port": 990,
-    "password": "f8f7aCzcPKbsF8p3",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇪🇸ES(AzadNet.t.me)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "37.143.130.203",
-    "server_port": 990,
-    "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW\/j+AdU+Z8Bt44=",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇪🇸ES(AzadNet.t.me) (1)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "45.158.171.70",
+    "server": "146.70.61.37",
     "server_port": 8080,
-    "password": "oZIoA69Q8yhcQV8ka3Pa3A",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇫🇷FR(AzadNet.t.me)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "82.38.31.205",
-    "server_port": 8080,
-    "password": "k1dBOmOB4oqi7Ump37a1bQ",
-    "method": "chacha20-ietf-poly1305",
+    "password": "14fFPrbezE3HDZzsMOr6",
+    "method": "rc4-md5",
     "remarks": "🇬🇧GB(AzadNet.t.me)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "82.38.31.194",
-    "server_port": 8080,
-    "password": "k1dBOmOB4oqi7Ump37a1bQ",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇬🇧GB(AzadNet.t.me) (1)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "82.38.31.184",
-    "server_port": 8080,
-    "password": "k1dBOmOB4oqi7Ump37a1bQ",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇬🇧GB(AzadNet.t.me) (2)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "82.38.31.217",
-    "server_port": 8080,
-    "password": "k1dBOmOB4oqi7Ump37a1bQ",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇬🇧GB(AzadNet.t.me) (3)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "141.98.101.182",
-    "server_port": 443,
-    "password": "shadowsocks",
-    "method": "aes-128-gcm",
-    "remarks": "🇬🇧GB(AzadNet.t.me) (4)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -394,7 +34,7 @@
     "server_port": 8080,
     "password": "k1dBOmOB4oqi7Ump37a1bQ",
     "method": "chacha20-ietf-poly1305",
-    "remarks": "🇬🇧GB(AzadNet.t.me) (5)",
+    "remarks": "🇬🇧GB(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -405,11 +45,11 @@
     "udpdns": false
   },
   {
-    "server": "82.38.31.187",
+    "server": "82.38.31.176",
     "server_port": 8080,
     "password": "k1dBOmOB4oqi7Ump37a1bQ",
     "method": "chacha20-ietf-poly1305",
-    "remarks": "🇬🇧GB(AzadNet.t.me) (6)",
+    "remarks": "🇬🇧GB(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -420,161 +60,11 @@
     "udpdns": false
   },
   {
-    "server": "62.100.205.100",
-    "server_port": 990,
-    "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW\/j+AdU+Z8Bt44=",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇬🇧GB(AzadNet.t.me) (7)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "82.38.31.210",
+    "server": "82.38.31.184",
     "server_port": 8080,
     "password": "k1dBOmOB4oqi7Ump37a1bQ",
     "method": "chacha20-ietf-poly1305",
-    "remarks": "🇬🇧GB(AzadNet.t.me) (11)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "82.38.31.179",
-    "server_port": 8080,
-    "password": "k1dBOmOB4oqi7Ump37a1bQ",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇬🇧GB(AzadNet.t.me) (12)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "82.38.31.190",
-    "server_port": 8080,
-    "password": "k1dBOmOB4oqi7Ump37a1bQ",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇬🇧GB(AzadNet.t.me) (13)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "141.98.101.178",
-    "server_port": 443,
-    "password": "shadowsocks",
-    "method": "aes-128-gcm",
-    "remarks": "🇬🇧GB(AzadNet.t.me) (16)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "82.38.31.214",
-    "server_port": 8080,
-    "password": "k1dBOmOB4oqi7Ump37a1bQ",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇬🇧GB(AzadNet.t.me) (17)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "82.38.31.202",
-    "server_port": 8080,
-    "password": "k1dBOmOB4oqi7Ump37a1bQ",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇬🇧GB(AzadNet.t.me) (18)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "82.38.31.208",
-    "server_port": 8080,
-    "password": "k1dBOmOB4oqi7Ump37a1bQ",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇬🇧GB(AzadNet.t.me) (21)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "185.47.254.87",
-    "server_port": 990,
-    "password": "f8f7aCzcPKbsF8p3",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇬🇹GT(AzadNet.t.me)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "203.23.128.33",
-    "server_port": 990,
-    "password": "f8f7aCzcPKbsF8p3",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇭🇰HK(AzadNet.t.me) (4)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "103.141.221.88",
-    "server_port": 8388,
-    "password": "asd123456",
-    "method": "chacha20-ietf",
-    "remarks": "🇭🇰HK(AzadNet.t.me) (8)",
+    "remarks": "🇬🇧GB(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -589,7 +79,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇭🇰HK(AzadNet.t.me) (9)",
+    "remarks": "🇭🇰HK(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -600,11 +90,11 @@
     "udpdns": false
   },
   {
-    "server": "103.141.221.200",
+    "server": "103.149.183.200",
     "server_port": 8388,
     "password": "asd123456",
     "method": "chacha20-ietf",
-    "remarks": "🇭🇰HK(AzadNet.t.me) (10)",
+    "remarks": "🇭🇰HK(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -615,56 +105,11 @@
     "udpdns": false
   },
   {
-    "server": "103.149.183.10",
-    "server_port": 8388,
-    "password": "asd123456",
-    "method": "chacha20-ietf",
-    "remarks": "🇭🇰HK(AzadNet.t.me) (11)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "46.183.184.60",
-    "server_port": 989,
-    "password": "f8f7aCzcPKbsF8p3",
-    "method": "aes-256-cfb",
-    "remarks": "🇭🇷HR(AzadNet.t.me)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "154.205.159.100",
-    "server_port": 990,
-    "password": "f8f7aCzcPKbsF8p3",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇮🇩ID(AzadNet.t.me) (1)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "89.46.239.231",
+    "server": "203.23.128.92",
     "server_port": 990,
     "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW\/j+AdU+Z8Bt44=",
     "method": "chacha20-ietf-poly1305",
-    "remarks": "🇮🇱IL(AzadNet.t.me)",
+    "remarks": "🇭🇰HK(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -675,55 +120,10 @@
     "udpdns": false
   },
   {
-    "server": "134.209.147.198",
-    "server_port": 990,
-    "password": "f8f7aCzcPKbsF8p3",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇮🇳IN(AzadNet.t.me)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "134.209.147.198",
-    "server_port": 989,
-    "password": "f8f7aCzcPKbsF8p3",
-    "method": "aes-256-cfb",
-    "remarks": "🇮🇳IN(AzadNet.t.me) (1)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "212.102.54.45",
-    "server_port": 990,
-    "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW\/j+AdU+Z8Bt44=",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇮🇹IT(AzadNet.t.me)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "5.253.41.46",
-    "server_port": 443,
-    "password": "xgoOsyyBv2Yn4w0hSqjsNqf5IGbIETZ6",
-    "method": "chacha20-ietf-poly1305",
+    "server": "172.105.199.111",
+    "server_port": 8080,
+    "password": "14fFPrbezE3HDZzsMOr6",
+    "method": "rc4-md5",
     "remarks": "🇯🇵JP(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
@@ -735,41 +135,11 @@
     "udpdns": false
   },
   {
-    "server": "103.75.118.125",
-    "server_port": 443,
-    "password": "XLOrvLWkCBBBxLqSEe9S8lnC5PLsNfRh",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇯🇵JP(AzadNet.t.me) (1)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "149.22.87.204",
-    "server_port": 443,
-    "password": "shadowsocks",
-    "method": "aes-128-gcm",
-    "remarks": "🇯🇵JP(AzadNet.t.me) (9)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "154.90.62.168",
-    "server_port": 989,
-    "password": "f8f7aCzcPKbsF8p3",
+    "server": "218.237.185.230",
+    "server_port": 4652,
+    "password": "qwerREWQ@@",
     "method": "aes-256-cfb",
-    "remarks": "🇰🇷KR(AzadNet.t.me) (3)",
+    "remarks": "🇰🇷KR(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -780,776 +150,11 @@
     "udpdns": false
   },
   {
-    "server": "103.106.3.82",
-    "server_port": 443,
-    "password": "4SaCIazlgumYkM8FkPzlmwjpyWBDZFBk",
-    "method": "chacha20-ietf-poly1305",
+    "server": "176.120.72.63",
+    "server_port": 38339,
+    "password": "��|��8w��sg�wǟ�Gz���",
+    "method": "��\\�",
     "remarks": "🇰🇿KZ(AzadNet.t.me)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "45.159.250.190",
-    "server_port": 990,
-    "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW\/j+AdU+Z8Bt44=",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇰🇿KZ(AzadNet.t.me) (1)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "45.87.175.181",
-    "server_port": 8080,
-    "password": "1RWwXhwfAB5gAEozU4G2Pg",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇱🇹LT(AzadNet.t.me)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "45.87.175.183",
-    "server_port": 8080,
-    "password": "cvII85TrW6n0OGyfpHVS1u",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇱🇹LT(AzadNet.t.me) (1)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "45.87.175.199",
-    "server_port": 8080,
-    "password": "1RWwXhwfAB5gAEozU4G2Pg",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇱🇹LT(AzadNet.t.me) (2)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "45.87.175.174",
-    "server_port": 8080,
-    "password": "k1dBOmOB4oqi7Ump37a1bQ",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇱🇹LT(AzadNet.t.me) (3)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "45.87.175.188",
-    "server_port": 8080,
-    "password": "4a2rfixophdjffa8KVA4Aa",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇱🇹LT(AzadNet.t.me) (4)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "45.87.175.92",
-    "server_port": 8080,
-    "password": "oZIoA69Q8yhcQV8ka3Pa3A",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇱🇹LT(AzadNet.t.me) (5)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "45.87.175.166",
-    "server_port": 8080,
-    "password": "4a2rfixophdjffa8KVA4Aa",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇱🇹LT(AzadNet.t.me) (6)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "45.87.175.58",
-    "server_port": 8080,
-    "password": "oZIoA69Q8yhcQV8ka3Pa3A",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇱🇹LT(AzadNet.t.me) (7)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "45.87.175.166",
-    "server_port": 443,
-    "password": "1RWwXhwfAB5gAEozU4G2Pg",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇱🇹LT(AzadNet.t.me) (8)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "45.87.175.154",
-    "server_port": 8080,
-    "password": "cvII85TrW6n0OGyfpHVS1u",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇱🇹LT(AzadNet.t.me) (9)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "45.87.175.65",
-    "server_port": 8080,
-    "password": "oZIoA69Q8yhcQV8ka3Pa3A",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇱🇹LT(AzadNet.t.me) (10)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "45.87.175.190",
-    "server_port": 8080,
-    "password": "cvII85TrW6n0OGyfpHVS1u",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇱🇹LT(AzadNet.t.me) (11)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "45.87.175.185",
-    "server_port": 8080,
-    "password": "cvII85TrW6n0OGyfpHVS1u",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇱🇹LT(AzadNet.t.me) (12)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "45.87.175.22",
-    "server_port": 8080,
-    "password": "oZIoA69Q8yhcQV8ka3Pa3A",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇱🇹LT(AzadNet.t.me) (13)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "45.87.175.28",
-    "server_port": 8080,
-    "password": "oZIoA69Q8yhcQV8ka3Pa3A",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇱🇹LT(AzadNet.t.me) (14)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "45.87.175.187",
-    "server_port": 8080,
-    "password": "cvII85TrW6n0OGyfpHVS1u",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇱🇹LT(AzadNet.t.me) (15)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "45.87.175.197",
-    "server_port": 8080,
-    "password": "k1dBOmOB4oqi7Ump37a1bQ",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇱🇹LT(AzadNet.t.me) (16)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "45.87.175.164",
-    "server_port": 8080,
-    "password": "1RWwXhwfAB5gAEozU4G2Pg",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇱🇹LT(AzadNet.t.me) (18)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "45.87.175.171",
-    "server_port": 8080,
-    "password": "4a2rfixophdjffa8KVA4Aa",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇱🇹LT(AzadNet.t.me) (21)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "45.87.175.155",
-    "server_port": 8080,
-    "password": "k1dBOmOB4oqi7Ump37a1bQ",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇱🇹LT(AzadNet.t.me) (23)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "45.87.175.168",
-    "server_port": 8080,
-    "password": "k1dBOmOB4oqi7Ump37a1bQ",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇱🇹LT(AzadNet.t.me) (26)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "185.237.185.89",
-    "server_port": 990,
-    "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW\/j+AdU+Z8Bt44=",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇱🇹LT(AzadNet.t.me) (30)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "109.61.39.28",
-    "server_port": 990,
-    "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW\/j+AdU+Z8Bt44=",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇱🇺LU(AzadNet.t.me)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "46.183.217.204",
-    "server_port": 990,
-    "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW\/j+AdU+Z8Bt44=",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇱🇻LV(AzadNet.t.me)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "154.70.207.97",
-    "server_port": 990,
-    "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW\/j+AdU+Z8Bt44=",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇲🇦MA(AzadNet.t.me)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "188.214.157.30",
-    "server_port": 990,
-    "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW\/j+AdU+Z8Bt44=",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇲🇦MA(AzadNet.t.me) (1)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "188.214.157.58",
-    "server_port": 990,
-    "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW\/j+AdU+Z8Bt44=",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇲🇦MA(AzadNet.t.me) (2)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "176.123.1.175",
-    "server_port": 990,
-    "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW\/j+AdU+Z8Bt44=",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇲🇩MD(AzadNet.t.me)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "194.246.114.101",
-    "server_port": 443,
-    "password": "HaNqw9pIE4jcx98sg7UQgHeGNTM4R2pk",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇲🇩MD(AzadNet.t.me) (1)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "213.159.67.124",
-    "server_port": 443,
-    "password": "mbhqsStnFQT1cTZYCdsmkugGUC6GT6rp",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇲🇩MD(AzadNet.t.me) (2)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "176.123.5.253",
-    "server_port": 990,
-    "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW\/j+AdU+Z8Bt44=",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇲🇩MD(AzadNet.t.me) (4)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "171.22.254.129",
-    "server_port": 990,
-    "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW\/j+AdU+Z8Bt44=",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇲🇹MT(AzadNet.t.me)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "171.22.254.17",
-    "server_port": 990,
-    "password": "f8f7aCzcPKbsF8p3",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇲🇹MT(AzadNet.t.me) (1)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "147.78.1.230",
-    "server_port": 990,
-    "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW\/j+AdU+Z8Bt44=",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇲🇽MX(AzadNet.t.me)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "147.78.1.230",
-    "server_port": 989,
-    "password": "f8f7aCzcPKbsF8p3",
-    "method": "aes-256-cfb",
-    "remarks": "🇲🇽MX(AzadNet.t.me) (1)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "185.255.123.110",
-    "server_port": 990,
-    "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW\/j+AdU+Z8Bt44=",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇳🇬NG(AzadNet.t.me)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "185.255.123.166",
-    "server_port": 990,
-    "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW\/j+AdU+Z8Bt44=",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇳🇬NG(AzadNet.t.me) (1)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "178.23.190.238",
-    "server_port": 443,
-    "password": "uo7EbtqIwgZXXHmMv5LbLcOxptyPlNkh",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇳🇱NL(AzadNet.t.me)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "45.14.245.2",
-    "server_port": 443,
-    "password": "17ZDORWIliQHuO6WRGHChXYMzdRtAYVP",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇳🇱NL(AzadNet.t.me) (1)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "193.29.139.240",
-    "server_port": 8080,
-    "password": "oZIoA69Q8yhcQV8ka3Pa3A",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇳🇱NL(AzadNet.t.me) (2)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "193.29.139.157",
-    "server_port": 8080,
-    "password": "4a2rfixophdjffa8KVA4Aa",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇳🇱NL(AzadNet.t.me) (3)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "193.29.139.191",
-    "server_port": 8080,
-    "password": "oZIoA69Q8yhcQV8ka3Pa3A",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇳🇱NL(AzadNet.t.me) (4)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "193.29.139.150",
-    "server_port": 8080,
-    "password": "oZIoA69Q8yhcQV8ka3Pa3A",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇳🇱NL(AzadNet.t.me) (5)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "193.29.139.251",
-    "server_port": 8080,
-    "password": "oZIoA69Q8yhcQV8ka3Pa3A",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇳🇱NL(AzadNet.t.me) (6)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "193.29.139.189",
-    "server_port": 8080,
-    "password": "cvII85TrW6n0OGyfpHVS1u",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇳🇱NL(AzadNet.t.me) (7)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "193.29.139.177",
-    "server_port": 8080,
-    "password": "oZIoA69Q8yhcQV8ka3Pa3A",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇳🇱NL(AzadNet.t.me) (8)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "193.29.139.227",
-    "server_port": 8080,
-    "password": "QCXDxuDlTTMD7jtgHUjIoj",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇳🇱NL(AzadNet.t.me) (9)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "193.29.139.179",
-    "server_port": 8080,
-    "password": "cvII85TrW6n0OGyfpHVS1u",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇳🇱NL(AzadNet.t.me) (10)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "193.29.139.206",
-    "server_port": 8080,
-    "password": "4a2rfixophdjffa8KVA4Aa",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇳🇱NL(AzadNet.t.me) (11)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "193.29.139.190",
-    "server_port": 8080,
-    "password": "oZIoA69Q8yhcQV8ka3Pa3A",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇳🇱NL(AzadNet.t.me) (12)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -1564,7 +169,7 @@
     "server_port": 443,
     "password": "shadowsocks",
     "method": "aes-128-cfb",
-    "remarks": "🇳🇱NL(AzadNet.t.me) (14)",
+    "remarks": "🇳🇱NL(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -1579,97 +184,7 @@
     "server_port": 443,
     "password": "yODLXVLz2FWNTFeSSng3Fm",
     "method": "chacha20-ietf-poly1305",
-    "remarks": "🇳🇱NL(AzadNet.t.me) (16)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "109.71.246.210",
-    "server_port": 56689,
-    "password": "YQCSKoCF3QazW8YlvDBWA4",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇳🇱NL(AzadNet.t.me) (17)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "213.109.147.242",
-    "server_port": 62685,
-    "password": "VpKABcOpNNA0l5G2AVOmw8",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇳🇱NL(AzadNet.t.me) (19)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "193.29.139.151",
-    "server_port": 8080,
-    "password": "oZIoA69Q8yhcQV8ka3Pa3A",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇳🇱NL(AzadNet.t.me) (23)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "138.186.142.80",
-    "server_port": 990,
-    "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW\/j+AdU+Z8Bt44=",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇵🇦PA(AzadNet.t.me)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "138.186.142.81",
-    "server_port": 990,
-    "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW\/j+AdU+Z8Bt44=",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇵🇦PA(AzadNet.t.me) (1)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "138.186.143.32",
-    "server_port": 990,
-    "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW\/j+AdU+Z8Bt44=",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇵🇪PE(AzadNet.t.me)",
+    "remarks": "🇳🇱NL(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -1681,8 +196,8 @@
   },
   {
     "server": "217.30.10.18",
-    "server_port": 9059,
-    "password": "9XwYyZsK8SNzQDtY",
+    "server_port": 9024,
+    "password": "BejrQvtu9sqUeNuZ",
     "method": "aes-256-cfb",
     "remarks": "🇵🇱PL(AzadNet.t.me)",
     "route": "all",
@@ -1696,10 +211,10 @@
   },
   {
     "server": "217.30.10.18",
-    "server_port": 9020,
-    "password": "BNmAXXxAHYpTRdzu",
+    "server_port": 9050,
+    "password": "FG5ddLsMPbV5CutE",
     "method": "aes-256-cfb",
-    "remarks": "🇵🇱PL(AzadNet.t.me) (1)",
+    "remarks": "🇵🇱PL(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -1711,10 +226,10 @@
   },
   {
     "server": "217.30.10.18",
-    "server_port": 9045,
-    "password": "Lp27rqyJq72bZsqX",
+    "server_port": 9014,
+    "password": "KnJGad3FqTvjqbaX",
     "method": "aes-256-cfb",
-    "remarks": "🇵🇱PL(AzadNet.t.me) (2)",
+    "remarks": "🇵🇱PL(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -1726,10 +241,10 @@
   },
   {
     "server": "217.30.10.18",
-    "server_port": 9084,
-    "password": "c3NtHJ5ujV2tGDfj",
+    "server_port": 9041,
+    "password": "U6qnYRhfyDmn8sgn",
     "method": "aes-256-cfb",
-    "remarks": "🇵🇱PL(AzadNet.t.me) (3)",
+    "remarks": "🇵🇱PL(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -1740,11 +255,11 @@
     "udpdns": false
   },
   {
-    "server": "185.47.255.22",
-    "server_port": 990,
-    "password": "f8f7aCzcPKbsF8p3",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇵🇷PR(AzadNet.t.me)",
+    "server": "217.30.10.18",
+    "server_port": 9018,
+    "password": "fG2artUmHfNT2cX7",
+    "method": "aes-256-cfb",
+    "remarks": "🇵🇱PL(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -1755,11 +270,41 @@
     "udpdns": false
   },
   {
-    "server": "185.113.143.186",
-    "server_port": 990,
-    "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW\/j+AdU+Z8Bt44=",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇵🇹PT(AzadNet.t.me)",
+    "server": "217.30.10.18",
+    "server_port": 9037,
+    "password": "TN2YqghxeFDKZfLU",
+    "method": "aes-256-cfb",
+    "remarks": "🇵🇱PL(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "217.30.10.18",
+    "server_port": 9038,
+    "password": "gYCYXfkUQEs2TaJQ",
+    "method": "aes-256-cfb",
+    "remarks": "🇵🇱PL(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "217.30.10.18",
+    "server_port": 9056,
+    "password": "rNBfNuuANFCAk7KB",
+    "method": "aes-256-cfb",
+    "remarks": "🇵🇱PL(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -1774,97 +319,7 @@
     "server_port": 989,
     "password": "f8f7aCzcPKbsF8p3",
     "method": "aes-256-cfb",
-    "remarks": "🇵🇹PT(AzadNet.t.me) (1)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "145.249.109.144",
-    "server_port": 15544,
-    "password": "wk6lA4XRnEWfEnDrdm0NY6",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇷🇴RO(AzadNet.t.me)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "185.126.237.38",
-    "server_port": 990,
-    "password": "f8f7aCzcPKbsF8p3",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇷🇴RO(AzadNet.t.me) (1)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "45.89.55.173",
-    "server_port": 443,
-    "password": "ixPymFma6P7U41wk9MNP7znPnvax3mjd",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇷🇸RS(AzadNet.t.me)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "90.156.203.62",
-    "server_port": 5112,
-    "password": "VVlAff77CnAU43Aoc5j15Y",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇷🇺RU(AzadNet.t.me)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "45.138.157.162",
-    "server_port": 443,
-    "password": "qFAJdBEqsI71jaSML67nHoPBCGhX94uk",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇷🇺RU(AzadNet.t.me) (1)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "95.173.218.203",
-    "server_port": 990,
-    "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW\/j+AdU+Z8Bt44=",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇸🇬SG(AzadNet.t.me)",
+    "remarks": "🇵🇹PT(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -1879,7 +334,7 @@
     "server_port": 8080,
     "password": "14fFPrbezE3HDZzsMOr6",
     "method": "rc4-md5",
-    "remarks": "🇸🇬SG(AzadNet.t.me) (2)",
+    "remarks": "🇸🇬SG(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -1890,206 +345,11 @@
     "udpdns": false
   },
   {
-    "server": "68.183.227.4",
-    "server_port": 8080,
-    "password": "14fFPrbezE3HDZzsMOr6",
-    "method": "rc4-md5",
-    "remarks": "🇸🇬SG(AzadNet.t.me) (3)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "192.71.244.150",
-    "server_port": 990,
-    "password": "f8f7aCzcPKbsF8p3",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇸🇮SI(AzadNet.t.me)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "192.71.244.150",
-    "server_port": 989,
-    "password": "f8f7aCzcPKbsF8p3",
-    "method": "aes-256-cfb",
-    "remarks": "🇸🇮SI(AzadNet.t.me) (1)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "119.59.98.58",
-    "server_port": 990,
-    "password": "f8f7aCzcPKbsF8p3",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇹🇭TH(AzadNet.t.me)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "95.164.116.33",
-    "server_port": 443,
-    "password": "pQmnC03JObbPhdh5FBJHgD6jnTLchsRA",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇹🇷TR(AzadNet.t.me)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "185.123.101.64",
-    "server_port": 2376,
-    "password": "faBAoD54k87UJG7",
-    "method": "aes-256-gcm",
-    "remarks": "🇹🇷TR(AzadNet.t.me) (2)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "45.12.144.18",
-    "server_port": 443,
-    "password": "LQyAUItafUmmO3EZZx9UbiX6IGydSBgL",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇺🇸US(AzadNet.t.me) (2)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "173.234.29.2",
-    "server_port": 990,
-    "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW\/j+AdU+Z8Bt44=",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇺🇸US(AzadNet.t.me) (3)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "23.95.76.59",
-    "server_port": 990,
-    "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW\/j+AdU+Z8Bt44=",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇺🇸US(AzadNet.t.me) (4)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "104.192.226.106",
-    "server_port": 990,
-    "password": "f8f7aCzcPKbsF8p3",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇺🇸US(AzadNet.t.me) (5)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "156.146.38.169",
-    "server_port": 443,
-    "password": "shadowsocks",
-    "method": "aes-128-gcm",
-    "remarks": "🇺🇸US(AzadNet.t.me) (6)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "103.35.189.136",
-    "server_port": 443,
-    "password": "SS2QvbC9nqLp2sXXZo0BVy4slcErRuCt",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇺🇸US(AzadNet.t.me) (7)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "23.95.75.146",
-    "server_port": 443,
-    "password": "NDRySIABARbErNIVsCNVkyYAHiBzhveT",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇺🇸US(AzadNet.t.me) (8)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "23.95.76.147",
-    "server_port": 990,
-    "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW\/j+AdU+Z8Bt44=",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇺🇸US(AzadNet.t.me) (12)",
+    "server": "103.36.91.32",
+    "server_port": 8388,
+    "password": "asd123456",
+    "method": "chacha20-ietf",
+    "remarks": "🇸🇬SG(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -2104,7 +364,7 @@
     "server_port": 8080,
     "password": "14fFPrbezE3HDZzsMOr6",
     "method": "rc4-md5",
-    "remarks": "🇺🇸US(AzadNet.t.me) (14)",
+    "remarks": "🇺🇸US(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -2115,40 +375,10 @@
     "udpdns": false
   },
   {
-    "server": "173.244.56.6",
-    "server_port": 443,
-    "password": "shadowsocks",
-    "method": "aes-128-gcm",
-    "remarks": "🇺🇸US(AzadNet.t.me) (18)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "38.89.142.56",
-    "server_port": 990,
-    "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW\/j+AdU+Z8Bt44=",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇺🇸US(AzadNet.t.me) (21)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "103.163.218.2",
-    "server_port": 990,
-    "password": "f8f7aCzcPKbsF8p3",
-    "method": "chacha20-ietf-poly1305",
+    "server": "103.186.154.230",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
     "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
@@ -2164,7 +394,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (1)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -2179,7 +409,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (2)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -2194,7 +424,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (3)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -2209,7 +439,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (4)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -2224,7 +454,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (5)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -2239,7 +469,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (6)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -2254,7 +484,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (7)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -2269,7 +499,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (8)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -2284,7 +514,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (9)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -2299,7 +529,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (10)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -2314,7 +544,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (11)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -2329,7 +559,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (12)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -2344,7 +574,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (13)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -2359,7 +589,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (14)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -2374,7 +604,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (15)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -2389,7 +619,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (16)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -2404,7 +634,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (17)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -2419,7 +649,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (18)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -2434,7 +664,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (19)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -2449,7 +679,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (20)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -2464,7 +694,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (21)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -2479,7 +709,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (22)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -2494,7 +724,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (23)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -2509,7 +739,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (24)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -2524,7 +754,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (25)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -2539,7 +769,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (26)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -2554,7 +784,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (27)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -2569,7 +799,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (28)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -2584,7 +814,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (29)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -2599,7 +829,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (30)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -2614,7 +844,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (31)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -2629,7 +859,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (32)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -2644,7 +874,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (33)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -2659,7 +889,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (34)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -2674,7 +904,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (35)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -2689,7 +919,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (36)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -2704,7 +934,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (37)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -2719,7 +949,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (38)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -2734,7 +964,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (39)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -2749,7 +979,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (40)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -2764,7 +994,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (41)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -2779,7 +1009,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (42)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -2794,7 +1024,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (43)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -2809,7 +1039,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (44)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -2824,7 +1054,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (45)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -2839,7 +1069,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (46)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -2854,7 +1084,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (47)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -2869,7 +1099,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (48)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -2884,7 +1114,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (49)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -2899,7 +1129,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (50)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -2914,7 +1144,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (51)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -2929,7 +1159,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (52)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -2944,7 +1174,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (53)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -2959,7 +1189,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (54)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -2974,7 +1204,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (55)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -2989,7 +1219,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (56)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -3004,7 +1234,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (57)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -3019,7 +1249,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (58)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -3034,7 +1264,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (59)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -3049,7 +1279,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (60)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -3064,7 +1294,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (61)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -3079,7 +1309,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (62)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -3094,7 +1324,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (63)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -3109,7 +1339,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (64)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -3124,7 +1354,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (65)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -3139,7 +1369,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (66)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -3154,7 +1384,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (67)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -3169,7 +1399,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (68)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -3184,7 +1414,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (69)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -3199,7 +1429,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (70)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -3214,7 +1444,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (71)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -3229,7 +1459,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (72)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -3244,7 +1474,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (73)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -3259,7 +1489,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (74)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -3274,7 +1504,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (75)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -3289,7 +1519,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (76)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -3304,7 +1534,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (77)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -3319,7 +1549,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (78)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -3334,7 +1564,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (79)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -3349,7 +1579,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (80)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -3364,7 +1594,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (81)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -3379,7 +1609,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (82)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -3394,7 +1624,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (83)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -3409,7 +1639,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (84)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -3424,7 +1654,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (85)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -3439,7 +1669,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (86)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -3454,22 +1684,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (87)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "103.186.154.150",
-    "server_port": 38388,
-    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
-    "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (88)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -3484,7 +1699,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (89)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -3499,7 +1714,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (90)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -3514,7 +1729,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (91)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -3529,7 +1744,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (92)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -3544,7 +1759,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (93)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -3559,22 +1774,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (94)",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "103.186.154.230",
-    "server_port": 38388,
-    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
-    "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (95)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -3589,7 +1789,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (96)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -3604,7 +1804,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (97)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -3619,7 +1819,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (98)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -3634,7 +1834,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (99)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -3649,7 +1849,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (100)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -3664,7 +1864,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (101)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -3679,7 +1879,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (102)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -3694,7 +1894,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (103)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -3709,7 +1909,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (104)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -3724,7 +1924,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (105)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -3739,7 +1939,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (106)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -3754,7 +1954,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (107)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -3769,7 +1969,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (108)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -3784,7 +1984,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (109)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -3799,7 +1999,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (110)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -3814,7 +2014,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (111)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -3829,7 +2029,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (112)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -3844,7 +2044,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (113)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -3859,7 +2059,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (114)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -3874,7 +2074,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (115)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -3889,7 +2089,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (116)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -3904,7 +2104,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (117)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -3919,7 +2119,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (118)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -3934,7 +2134,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (119)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -3949,7 +2149,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (120)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -3964,7 +2164,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (121)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -3979,7 +2179,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (122)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -3994,7 +2194,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (123)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -4009,7 +2209,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (124)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -4024,7 +2224,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (125)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -4039,7 +2239,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (126)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -4054,7 +2254,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (127)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -4069,7 +2269,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (128)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -4084,7 +2284,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (129)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -4099,7 +2299,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (130)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -4114,7 +2314,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (131)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -4129,7 +2329,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (132)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -4144,7 +2344,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (133)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -4159,7 +2359,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (134)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -4174,7 +2374,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (135)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -4189,7 +2389,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (136)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -4204,7 +2404,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (137)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -4219,7 +2419,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (138)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -4234,7 +2434,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (139)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -4249,7 +2449,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (140)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -4264,7 +2464,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (141)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -4279,7 +2479,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (142)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -4294,7 +2494,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (143)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -4309,7 +2509,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (144)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -4324,7 +2524,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (145)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -4339,7 +2539,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (146)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -4354,7 +2554,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (147)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -4369,7 +2569,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (148)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -4384,7 +2584,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (149)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -4399,7 +2599,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (150)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -4414,7 +2614,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (151)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -4429,7 +2629,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (152)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -4444,7 +2644,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (153)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -4459,7 +2659,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (154)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -4474,7 +2674,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (155)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -4489,7 +2689,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (156)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -4504,7 +2704,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (157)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -4519,7 +2719,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (158)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -4534,7 +2734,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (159)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -4549,7 +2749,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (160)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -4564,7 +2764,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (161)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -4579,7 +2779,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (162)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -4594,7 +2794,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (163)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -4609,7 +2809,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (164)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -4624,7 +2824,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (165)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -4639,7 +2839,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (166)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -4654,7 +2854,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (167)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -4669,7 +2869,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (168)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -4684,7 +2884,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (169)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -4699,7 +2899,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (170)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -4714,7 +2914,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (171)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -4729,7 +2929,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (172)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -4744,7 +2944,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (173)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -4759,7 +2959,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (174)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -4774,7 +2974,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (175)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -4789,7 +2989,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (176)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -4804,7 +3004,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (177)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -4819,7 +3019,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (178)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -4834,7 +3034,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (179)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -4849,7 +3049,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (180)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -4864,7 +3064,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (181)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -4879,7 +3079,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (182)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -4894,7 +3094,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (183)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -4909,7 +3109,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (184)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -4924,7 +3124,7 @@
     "server_port": 38388,
     "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
     "method": "aes-256-cfb",
-    "remarks": "🇻🇳VN(AzadNet.t.me) (185)",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -4935,11 +3135,11 @@
     "udpdns": false
   },
   {
-    "server": "switcher-nick-croquet.freesocks.work",
-    "server_port": 443,
-    "password": "wwzVn2ZnHfqYa6l8EWh3eY",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇽🇽XX(AzadNet.t.me) (4)",
+    "server": "103.186.154.148",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -4950,11 +3150,11 @@
     "udpdns": false
   },
   {
-    "server": "beesyar.org",
-    "server_port": 8080,
-    "password": "QCXDxuDlTTMD7jtgHUjIoj",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇽🇽XX(AzadNet.t.me) (5)",
+    "server": "103.186.154.149",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -4965,11 +3165,11 @@
     "udpdns": false
   },
   {
-    "server": "exchange.gameaurela.click",
-    "server_port": 52952,
-    "password": "LMSNh21TrXjR2ok25Q2nE8ENT2zoBmPvka3RCCUAHZELCnWoekVjvaf89qwcRkdbxEfep2bc2aUtmnxqvF1ayQRez1JHjULj",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇽🇽XX(AzadNet.t.me) (6)",
+    "server": "103.186.154.14",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -4980,11 +3180,11 @@
     "udpdns": false
   },
   {
-    "server": "tawaguard.xyz",
-    "server_port": 8080,
-    "password": "k1dBOmOB4oqi7Ump37a1bQ",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇽🇽XX(AzadNet.t.me) (7)",
+    "server": "103.186.154.150",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -4995,11 +3195,2471 @@
     "udpdns": false
   },
   {
-    "server": "154.205.150.157",
-    "server_port": 990,
-    "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW\/j+AdU+Z8Bt44=",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇿🇦ZA(AzadNet.t.me)",
+    "server": "103.186.154.154",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.155",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.156",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.157",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.158",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.159",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.15",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.160",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.161",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.162",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.164",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.165",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.167",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.168",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.169",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.16",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.172",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.175",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.176",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.178",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.179",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.181",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.183",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.184",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.187",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.188",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.189",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.18",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.191",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.193",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.194",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.196",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.199",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.201",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.202",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.204",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.205",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.206",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.207",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.208",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.209",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.20",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.210",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.211",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.212",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.213",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.215",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.216",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.217",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.218",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.222",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.223",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.225",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.228",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.231",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.232",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.234",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.235",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.23",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.240",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.241",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.242",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.246",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.247",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.248",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.249",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.251",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.252",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.27",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.29",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.32",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.33",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.34",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.37",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.38",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.41",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.47",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.50",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.51",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.59",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.60",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.62",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.65",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.66",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.68",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.69",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.70",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.71",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.73",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.75",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.76",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.77",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.79",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.155.104",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.155.105",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.155.106",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.155.108",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.155.109",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.155.10",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.155.111",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.155.112",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.155.114",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.155.115",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.155.117",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.155.118",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.155.120",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.155.121",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.155.122",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.155.124",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.155.126",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.155.127",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.155.128",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.155.129",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.155.133",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.155.134",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.155.136",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.155.137",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.155.140",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.155.141",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.155.142",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.155.143",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.155.144",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.155.145",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.155.146",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.155.147",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.155.17",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.155.207",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.155.230",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.155.234",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.155.238",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.155.239",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.155.23",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.155.240",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.155.26",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.155.2",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.155.33",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.155.34",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.155.35",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.155.39",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.155.40",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.155.42",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.155.43",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.155.44",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.155.45",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.155.46",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.155.49",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.155.55",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.155.57",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.155.60",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.155.62",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.155.68",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.155.70",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.155.75",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.155.77",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.155.79",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.67",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.155.25",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.9",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.238",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.155.227",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.155.37",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.186.154.190",
+    "server_port": 38388,
+    "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH\/YWYtYqDFnT0SV",
+    "method": "aes-256-cfb",
+    "remarks": "🇻🇳VN(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "ss.037.node-for-bigairport.win",
+    "server_port": 11688,
+    "password": "c69374da-2208-4cbd-b81e-cdf88b5e7f53",
+    "method": "aes-256-gcm",
+    "remarks": "🇽🇽XX(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "104.17.162.123",
+    "server_port": 8443,
+    "password": "�����8qϽwg>��w�4�o9",
+    "method": "�w�߮",
+    "remarks": "🇽🇽XX(AzadNet.t.me)",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "shop.pvvpnsh.top",
+    "server_port": 7722,
+    "password": "sw6�f��\u001fq߼n~����ZwG�",
+    "method": "m�",
+    "remarks": "🇽🇽XX(AzadNet.t.me)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
